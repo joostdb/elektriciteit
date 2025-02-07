@@ -1,0 +1,54 @@
+<table border="1" cellspacing="0" cellpadding="8">
+    <thead>
+        <tr>
+            <th>Stroomsterkte (A)</th>
+            <th>Kabelsectie (mm²) Cu</th>
+            <th>Automaat (A, type B/C/D)</th>
+            <th>Opmerkingen</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>10 A</td>
+            <td>1,5 mm²</td>
+            <td>10 A (B)</td>
+            <td>Standaard voor verlichting</td>
+        </tr>
+        <tr>
+            <td>16 A</td>
+            <td>2,5 mm²</td>
+            <td>16 A (B)</td>
+            <td>Stopcontacten, kleine toestellen</td>
+        </tr>
+        <tr>
+            <td>20 A</td>
+            <td>4 mm²</td>
+            <td>20 A (B/C)</td>
+            <td>Zwaardere toestellen (bv. wasmachine)</td>
+        </tr>
+        <tr>
+            <td>25 A</td>
+            <td>6 mm²</td>
+            <td>25 A (C)</td>
+            <td>Kookplaat, warmtepomp</td>
+        </tr>
+        <tr>
+            <td>32 A</td>
+            <td>6 mm²</td>
+            <td>32 A (C)</td>
+            <td>Ovens, zware huishoudelijke apparaten</td>
+        </tr>
+        <tr>
+            <td>40 A</td>
+            <td>10 mm²</td>
+            <td>40 A (C)</td>
+            <td>Hoofdvoeding subverdeelkast</td>
+        </tr>
+        <tr>
+            <td>63 A</td>
+            <td>16 mm²</td>
+            <td>63 A (C/D)</td>
+            <td>Grote vermogens (zware machines)</td>
+        </tr>
+    </tbody>
+</table>
