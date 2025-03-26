@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veiligheidszones - AREI 2025 Controle-Tool</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="site-header">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <h1 class="site-title">AREI 2025 Controle-Tool</h1>
+                    <p class="lead">Voor elektrotechnische monteurs</p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <p class="mb-0">Belgische wetgeving voor elektrische installaties</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigatie -->
+    <nav class="navbar navbar-expand-lg navbar-custom">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarMain">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown5" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Specifieke Ruimten
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown5">
+                            <li><a class="dropdown-item" href="badkamers.html">Badkamers en Douches</a></li>
+                            <li><a class="dropdown-item" href="zwembaden.html">Zwembaden</a></li>
+                            <li><a class="dropdown-item" href="buiteninstallaties.html">Buiteninstallaties</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="veiligheidszones.html">Veiligheidszones</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="tools.html">Controle-Tools</a>
+                    </li>
+                </ul>
+                <form class="d-flex">
+                    <input class="form-control me-2" type="search" placeholder="Zoeken in AREI" aria-label="Zoeken">
+                    <button class="btn btn-outline-light" type="submit">Zoeken</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hoofdinhoud -->
+    <main class="container py-4">
+        <div class="row">
+            <!-- Zijbalk -->
+            <div class="col-lg-3 mb-4">
+                <div class="sidebar">
+                    <h4 class="sidebar-heading">Veiligheidszones</h4>
+                    <ul class="sidebar-nav">
+                        <li><a href="#voorschriften">AREI Voorschriften</a></li>
+                        <li><a href="#visualisatie">Zones Visualisatie</a></li>
+                        <li><a href="#badkamer">Badkamers en Douches</a></li>
+                        <li><a href="#zwembad">Zwembaden</a></li>
+                        <li><a href="#materialen">Toegestane Materialen</a></li>
+                    </ul>
+                    
+                    <h4 class="sidebar-heading mt-4">Gerelateerde Onderwerpen</h4>
+                    <ul class="sidebar-nav">
+                        <li><a href="ip-codes.html">IP-beschermingsgraden</a></li>
+                        <li><a href="bescherming.html">Elektrische Bescherming</a></li>
+                        <li><a href="aardingen.html">Aardingen en Equipotentiaal</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- Hoofdinhoud -->
+            <div class="col-lg-9">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Veiligheidszones</li>
+                    </ol>
+                </nav>
+                
+                <h2 class="section-title">Veiligheidszones</h2>
+                
+                <div class="card mb-4" id="voorschriften">
+                    <div class="card-header">
+                        <h3>AREI Voorschriften voor Veiligheidszones</h3>
+                    </div>
+                    <div class="card-body">
+                        <p>Het AREI 2025 definieert specifieke veiligheidszones in ruimten met verhoogd risico, zoals badkamers, douches en zwembaden. Deze zonering is essentieel om de veiligheid te waarborgen in ruimten waar water en elektriciteit samen aanwezig zijn.</p>
+                        
+                        <h4>Algemene Principes</h4>
+                        <p>De veiligheidszones worden gedefinieerd op basis van de afstand tot waterbronnen en het risico op direct of indirect contact met water. Voor elke zone gelden specifieke voorschriften met betrekking tot:</p>
+                        <ul>
+                            <li>Toegestane elektrische apparatuur</li>
+                            <li>Minimale IP-beschermingsgraad</li>
+                            <li>Toegestane spanningsniveaus</li>
+                            <li>Bijkomende beschermingsmaatregelen</li>
+                        </ul>
+                        
+                        <h4>Definitie van Zones</h4>
+                        <p>Het AREI definieert de volgende standaard zones:</p>
+                        <ul>
+                            <li><strong>Zone 0:</strong> Ruimte in het bad, de douche of het zwembad zelf</li>
+                            <li><strong>Zone 1:</strong> Ruimte direct rond het bad, de douche of het zwembad</li>
+                            <li><strong>Zone 2:</strong> Ruimte aangrenzend aan zone 1</li>
+                            <li><strong>Zone 3:</strong> Ruimte aangrenzend aan zone 2 (alleen bij zwembaden)</li>
+                        </ul>
+                        
+                        <p>De exacte afmetingen van deze zones verschillen per type ruimte en worden in detail beschreven in de volgende secties.</p>
+                    </div>
+                </div>
+                
+                <div class="card mb-4" id="visualisatie">
+                    <div class="card-header">
+                        <h3>Veiligheidszones Visualisatie</h3>
+                    </div>
+                    <div class="card-body">
+                        <p>Gebruik deze interactieve visualisatie om de veiligheidszones in verschillende ruimten te bekijken.</p>
+                        
+                        <div class="form-group mb-3">
+                            <label for="ruimteType" class="form-label">Selecteer ruimte:</label>
+                            <select class="form-select" id="ruimteType" onchange="updateZoneVisualisatie()">
+                                <option value="badkamer">Badkamer</option>
+                                <option value="douche">Douche</option>
+                                <option value="zwembad">Zwembad</option>
+                            </select>
+                        </div>
+                        
+                        <div id="zoneVisualisatie" class="mt-4">
+                            <!-- Hier wordt de visualisatie dynamisch geladen via JavaScript -->
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="card mb-4" id="badkamer">
+                    <div class="card-header">
+                        <h3>Badkamers en Douches</h3>
+                    </div>
+                    <div class="card-body">
+                        <h4>Zonering in Badkamers</h4>
+                        <p>Volgens het AREI 2025 worden de volgende zones gedefinieerd in badkamers:</p>
+                        
+                        <div class="table-responsive">
+                            <table class="table table-striped table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Zone</th>
+                                        <th>Definitie</th>
+                                        <th>Toegestane Apparatuur</th>
+                                        <th>IP-bescherming</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Zone 0</td>
+                                        <td>Binnenvolume van bad of douche</td>
+                                        <td>
+                                            <ul>
+                                                <li>Alleen ZLVS (max. 12V AC of 30V DC)</li>
+                                                <li>Voeding buiten zones 0, 1 en 2</li>
+                                                <li>Geen schakelaars</li>
+                                            </ul>
+                                        </td>
+                                        <td>IPX7 (bescherming tegen onderdompeling)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Zone 1</td>
+                                        <td>
+                                            <ul>
+                                                <li>Verticaal oppervlak rond bad/douche tot 2,25m hoogte</li>
+                                                <li>Horizontaal oppervlak boven bad/douche tot 2,25m hoogte</li>
+                                                <li>Ruimte onder bad indien toegankelijk zonder gereedschap</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul>
+                                                <li>Waterverwarmers</li>
+                                                <li>Douchepompen</li>
+                                                <li>Andere vast opgestelde toestellen geschikt voor deze zone</li>
+                                                <li>ZLVS-contactdozen (max. 12V AC of 30V DC)</li>
+                                            </ul>
+                                        </td>
+                                        <td>IPX4 (bescherming tegen spatwater)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Zone 2</td>
+                                        <td>
+                                            <ul>
+                                                <li>Horizontaal oppervlak tot 0,6m buiten zone 1</li>
+                                                <li>Verticaal oppervlak tot 2,25m hoogte</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul>
+                                                <li>Verlichtingstoestellen</li>
+                                                <li>Ventilatoren</li>
+                                                <li>Verwarmingstoestellen</li>
+                                                <li>Hydromassage-eenheden</li>
+                                                <li>ZLVS-contactdozen</li>
+                                                <li>Contactdozen beschermd door 30mA differentieel</li>
+                                            </ul>
+                                        </td>
+                                        <td>IPX4 (bescherming tegen spatwater)</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <h4>Bijkomende Voorschriften</h4>
+                        <ul>
+                            <li>Alle elektrische circuits in de badkamer moeten beschermd zijn door een differentieelschakelaar van maximaal 30mA.</li>
+                            <li>Alle metalen delen (leidingen, badkuip, douchebak, etc.) moeten verbonden zijn met de bijkomende equipotentiale verbinding.</li>
+                            <li>Verwarmingstoestellen in zone 1 en 2 moeten vast opgesteld zijn en op minimaal 0,6m van de douche of het bad geplaatst worden.</li>
+                            <li>Schakelaars zijn verboden in zone 0 en 1, behalve ZLVS-schakelaars in zone 1.</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="card mb-4" id="zwembad">
+                    <div class="card-header">
+                        <h3>Zwembaden</h3>
+                    </div>
+                    <div class="card-body">
+                        <h4>Zonering bij Zwembaden</h4>
+                        <p>Voor zwembaden definieert het AREI 2025 de volgende zones:</p>
+                        
+                        <div class="table-responsive">
+                            <table class="table table-striped table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Zone</th>
+                                        <th>Definitie</th>
+                                        <th>Toegestane Apparatuur</th>
+                                        <th>IP-bescherming</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Zone 0</td>
+                                        <td>Binnenvolume van het zwembad</td>
+                                        <td>
+                                            <ul>
+                                                <li>Alleen ZLVS (max. 12V AC of 30V DC)</li>
+                                                <li>Voeding buiten zones 0, 1 en 2</li>
+                                                <li>Speciaal voor deze toepassing ontworpen apparatuur</li>
+                                            </ul>
+                                        </td>
+                                        <td>IPX8 (bescherming tegen langdurige onderdompeling)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Zone 1</td>
+                                        <td>
+                                            <ul>
+                                                <li>Verticaal oppervlak tot 2m rondom het zwembad</li>
+                                                <li>Horizontaal oppervlak tot 2m rondom het zwembad en 2,5m boven het loopvlak</li>
+                                                <li>Ruimte onder het zwembad indien toegankelijk zonder gereedschap</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul>
+                                                <li>ZLVS-apparatuur (max. 12V AC of 30V DC)</li>
+                                                <li>Speciaal voor zwembaden ontworpen apparatuur</li>
+                                                <li>Geen contactdozen</li>
+                                            </ul>
+                                        </td>
+                                        <td>IPX5 (bescherming tegen waterstralen)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Zone 2</td>
+                                        <td>
+                                            <ul>
+                                                <li>Horizontaal oppervlak van 1,5m buiten zone 1</li>
+                                                <li>Verticaal oppervlak tot 2,5m boven het loopvlak</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul>
+                                                <li>Verlichtingstoestellen</li>
+                                                <li>Contactdozen en schakelaars beschermd door ZLVS of 30mA differentieel</li>
+                                                <li>Andere elektrische apparatuur beschermd door 30mA differentieel</li>
+                                            </ul>
+                                        </td>
+                                        <td>IPX4 (bescherming tegen spatwater)</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <h4>Bijkomende Voorschriften voor Zwembaden</h4>
+                        <ul>
+                            <li>Alle elektrische circuits in en rond het zwembad moeten beschermd zijn door een differentieelschakelaar van maximaal 30mA.</li>
+                            <li>Bijkomende equipotentiale verbindingen moeten worden aangebracht tussen alle geleidende delen in zones 0, 1 en 2.</li>
+                            <li>Verwarmingstoestellen moeten op minimaal 2m van de rand van het zwembad geplaatst worden.</li>
+                            <li>Onderwater verlichtingstoestellen moeten achter een scherm van onbreekbaar glas geïnstalleerd worden en toegankelijk zijn langs de achterzijde.</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="card mb-4" id="materialen">
+                    <div class="card-header">
+                        <h3>Toegestane Materialen per Zone</h3>
+                    </div>
+                    <div class="card-body">
+                        <p>Hieronder vindt u een overzicht van de toegestane materialen en apparatuur per veiligheidszone:</p>
+                        
+                        <h4>Elektrische Apparatuur</h4>
+                        <div class="table-responsive">
+                            <table class="table table-striped table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Apparatuur</th>
+                                        <th>Zone 0</th>
+                                        <th>Zone 1</th>
+                                        <th>Zone 2</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Verlichtingstoestellen</td>
+                                        <td>Alleen ZLVS (12V AC/30V DC)</td>
+                                        <td>Alleen vast opgesteld, klasse II</td>
+                                        <td>Toegestaan, klasse I of II</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Contactdozen</td>
+                                        <td>Verboden</td>
+                                        <td>Alleen ZLVS</td>
+                                        <td>Toegestaan met 30mA differentieel</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Schakelaars</td>
+                                        <td>Verboden</td>
+                                        <td>Alleen ZLVS</td>
+                                        <td>Toegestaan</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Verwarmingstoestellen</td>
+                                        <td>Verboden</td>
+                                        <td>Alleen vast opgesteld, klasse II</td>
+                                        <td>Toegestaan, klasse I of II</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ventilatoren</td>
+                                        <td>Verboden</td>
+                                        <td>Alleen vast opgesteld, klasse II</td>
+                                        <td>Toegestaan, klasse I of II</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Waterverwarmers</td>
+                                        <td>Verboden</td>
+                                        <td>Toegestaan indien specifiek ontworpen</td>
+                                        <td>Toegestaan</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <h4>IP-beschermingsgraden</h4>
+                        <p>De IP-code (International Protection) geeft de beschermingsgraad aan tegen het binnendringen van vaste voorwerpen en vloeistoffen. In vochtige ruimten zijn de volgende minimale IP-graden vereist:</p>
+                        
+                        <div class="table-responsive">
+                            <table class="table table-striped table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Zone</th>
+                                        <th>Minimale IP-graad</th>
+                                        <th>Betekenis</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Zone 0</td>
+                                        <td>IPX7</td>
+                                        <td>Bescherming tegen tijdelijke onderdompeling</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Zone 0 (zwembaden)</td>
+                                        <td>IPX8</td>
+                                        <td>Bescherming tegen langdurige onderdompeling</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Zone 1</td>
+                                        <td>IPX4</td>
+                                        <td>Bescherming tegen spatwater</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Zone 1 (zwembaden)</td>
+                                        <td>IPX5</td>
+                                        <td>Bescherming tegen waterstralen</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Zone 2</td>
+                                        <td>IPX4</td>
+                                        <td>Bescherming tegen spatwater</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h5>AREI 2025 Controle-Tool</h5>
+                    <p>Een praktische gids voor elektrotechnische monteurs om huishoudelijke elektrische installaties conform de Belgische wetgeving uit te voeren.</p>
+                </div>
+                <div class="col-md-4">
+                    <h5>Nuttige Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="https://economie.fgov.be/nl/themas/energie/bronnen-en-dragers-van-energie/elektriciteit/veiligheid-en-controle-van/controle-van-huishoudelijke" target="_blank">FOD Economie - Controle van huishoudelijke elektrische installaties</a></li>
+                        <li><a href="https://www.volta-org.be/" target="_blank">Volta - Kenniscentrum elektrotechniek</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h5>Disclaimer</h5>
+                    <p>Deze website is bedoeld als hulpmiddel en vervangt niet de officiële AREI-reglementering. Raadpleeg altijd de meest recente officiële publicatie.</p>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-12 text-center">
+                    <p class="mb-0">&copy; 2025 AREI Controle-Tool | Alle rechten voorbehouden</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/custom.js"></script>
+    <script>
+        // Initialiseer de zone visualisatie bij het laden van de pagina
+        document.addEventListener('DOMContentLoaded', function() {
+            updateZoneVisualisatie();
+        });
+    </script>
+</body>
+</html>

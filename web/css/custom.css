@@ -1,0 +1,197 @@
+/* AREI 2025 Controle-Tool Stijlen */
+
+/* Algemene stijlen */
+:root {
+  --primary-color: #0056b3;
+  --secondary-color: #6c757d;
+  --success-color: #28a745;
+  --warning-color: #ffc107;
+  --danger-color: #dc3545;
+  --light-color: #f8f9fa;
+  --dark-color: #343a40;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  background-color: #f5f5f5;
+}
+
+/* Header stijlen */
+.site-header {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 1rem 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.site-title {
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+/* Navigatie stijlen */
+.navbar-custom {
+  background-color: var(--primary-color);
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+  color: white;
+}
+
+.navbar-custom .nav-link:hover {
+  color: var(--warning-color);
+}
+
+.sidebar {
+  background-color: var(--light-color);
+  padding: 1.5rem;
+  border-radius: 0.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar-heading {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--primary-color);
+}
+
+.sidebar-nav {
+  list-style: none;
+  padding-left: 0;
+}
+
+.sidebar-nav li {
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-nav a {
+  color: var(--dark-color);
+  text-decoration: none;
+}
+
+.sidebar-nav a:hover {
+  color: var(--primary-color);
+}
+
+/* Breadcrumbs */
+.breadcrumb {
+  background-color: transparent;
+  padding: 0.5rem 0;
+}
+
+/* Kaarten en secties */
+.card {
+  margin-bottom: 1.5rem;
+  border: none;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  background-color: var(--primary-color);
+  color: white;
+  font-weight: 600;
+}
+
+.section-title {
+  color: var(--primary-color);
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--primary-color);
+}
+
+/* Formulieren en interactieve elementen */
+.form-control:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 0.2rem rgba(0, 86, 179, 0.25);
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+  background-color: #004494;
+  border-color: #004494;
+}
+
+/* Tabellen */
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 86, 179, 0.05);
+}
+
+.table-hover tbody tr:hover {
+  background-color: rgba(0, 86, 179, 0.1);
+}
+
+/* Zones visualisatie */
+.zone {
+  border: 2px solid var(--primary-color);
+  border-radius: 0.25rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  position: relative;
+}
+
+.zone-0 {
+  background-color: rgba(220, 53, 69, 0.2);
+}
+
+.zone-1 {
+  background-color: rgba(255, 193, 7, 0.2);
+}
+
+.zone-2 {
+  background-color: rgba(40, 167, 69, 0.2);
+}
+
+.zone-3 {
+  background-color: rgba(0, 123, 255, 0.2);
+}
+
+/* Responsieve aanpassingen */
+@media (max-width: 768px) {
+  .sidebar {
+    margin-bottom: 1.5rem;
+  }
+}
+
+/* Footer stijlen */
+.footer {
+  background-color: var(--dark-color);
+  color: white;
+  padding: 2rem 0;
+  margin-top: 3rem;
+}
+
+.footer a {
+  color: var(--light-color);
+}
+
+.footer a:hover {
+  color: var(--warning-color);
+  text-decoration: none;
+}
+
+/* Print stijlen */
+@media print {
+  .no-print {
+    display: none;
+  }
+  
+  .container {
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  body {
+    font-size: 12pt;
+  }
+  
+  .card {
+    break-inside: avoid;
+  }
+}

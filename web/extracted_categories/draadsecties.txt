@@ -1,0 +1,1146 @@
+# Informatie over draadsecties
+
+## Zoekresultaten voor 'draadsectie'
+
+Geen specifieke informatie gevonden voor 'draadsectie'
+
+## Zoekresultaten voor 'kabel'
+
+- Figuur 2.12. Plaatsingswijze «kabelkanaal»  ................................ ................................ .................  36
+- Figuur 2.13. Plaatsingswijze «kabelrek»  ................................ ................................ .....................  36
+- Figuur 2.15. Plaatsingswijze «kabelbaan»  ................................ ................................ ...................  36
+- Figuur 5.9. Plaatsingswijzen van elektrische leidingen − Kabelrekken  ................................ ................  129
+- Figuur 5.11. Plaatsingswijzen van elektrische leidingen − Kabelbaan  ................................ .................  129
+- Figuur 5.14. Plaatsingswijzen van elektrische leidingen − Buizen in open of verluchte kabelkanalen  ...........  130
+- Figuur 5.15. Plaatsingswijzen van elektrische leidingen − Buizen in gesloten kabelkanalen  ......................  130
+- kabelkanalen  ................................ ................................ ................................ ............  130
+- Figuur 5.17. Plaatsingswijzen van elektrische leidingen − Rechtstreekse plaatsing in gesloten kabelkanalen  . 130
+- kabelkanalen  ................................ ................................ ................................ ............  130
+- Tabel 4.6. Klassen van de geïsoleerde geleiders en kabels met betrekking tot hun brandreactie  ................  106
+- Tabel 4.7. Kenmerken van de geïsoleerde geleiders en kabels met betrekking tot hun brandreactie  ...........  107
+- Tabel 4.8. Kenmerken van de geïsoleerde geleiders en kabels met betrekking tot hun brandweerstand  .......  108
+- − voor kabels ten behoeve van communicatie - en informatietechnologie,  van signalisatie of bediening (met
+- mingsklem (of massaklem), maar uitgerust met een voedingskabel zonder beschermingsgelei der;
+- Elektrische  leiding:  samenstel van één of meerdere elektrische geïsoleerde geleiders, kabels, drad en of rails-
+- – hetzij een elektrische kabel van de klasse II die geen enkele geleidende bekleding omvat, ongeacht het
+- Kabel: samenstel van een of meer geïsoleerde geleiders, hun eventuele individuele mantel, de bescherming
+- Eenaderige  kabel:  kabel met één enkele geïsoleerde geleider.
+- Mantel (van een kabel): doorlopende en eenvormige externe bekleding uit metalen of niet -metalen materiaal,
+- Wapening  van een kabel:  een gedeelte van de bekleding, bestaande uit metalen banden of draden, bedoeld
+- om de kabel te beschermen tegen uitwendige mechanische inwerking.
+- Kabelsleuf:  in een terrein gemaakte uitgraving om kabels in te leggen waarna de uitgraving gedempt wordt.
+- Telecommunicatielijn of -kabel: onder telecommunicatielijnen of -kabels wordt verstaan lijnen of kabels die
+- Ankersteun:  steun die in staat is de kabels in een spanwijdte vast te houden, ook bij toevallige breuk van alle
+- kabels in de naastliggende spanwijdte.
+- Tuikabel: mechanisch element dat door zijn samenstelling enkel op tractie kan belast worden en dat de steun
+- Kabel of geïsoleerde geleider afzonderlijk geïnstalleerd:  een kabel of een geïsoleerde geleider die op een
+- afstand groter dan of gelijk aan 20 mm van elke andere kabel of geïsoleerde geleider is geïnstalleerd.
+- Kabel of geïsoleerde geleider in bundel of in laag geïnstalleerd : een kabel of een geïsoleerde geleider die
+- blijven voor de doorgang van kabels.
+- Kabelkanaal:  gracht of kanaal gelegen onder het peil van de grond of de vloer en waarvan de afmetingen niet
+- toelaten erin te bewegen. Wanneer hij gesloten kan worden moeten de kabels bereikbaar zijn over hun totale
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 36 Figuur 2.12. Plaatsingswijze «kabelkanaal»
+- Kabelrek:  plaatsingsmateriaal in volle of geperforeerde profielelementen, om de kabels op hun weg te onder-
+- Figuur 2.13. Plaatsingswijze «kabelrek»
+- uitgevoerd dat de kabels bereikbaar zijn over heel hun lengte. Een koker kan al dan niet deel uitmaken van het
+- Kabelbaan: plaatsingsmateriaal met volle of geperforeerde geprofileerde wanden, voorzien om geleiders  of
+- kabels  te bevatten, en gesloten met behulp van een afneembaar deksel.
+- Figuur 2.15. Plaatsingswijze «kabelbaan»
+- Haak: in een wand aan één van zijn uiteinden vastgezet stuk, dat op onderbroken wijze de kabel draagt.
+- de kabels over horizontale trajecten te dragen.
+- Gegroefde plinten of lijsten: plint (of lijst) met gleuven  waarin geleiders of eventueel kabels kunnen geplaatst
+- steun, waarop de kabels gelegd worden.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 48 Plan van de ondergrondse leidingen (kabelplan):  plan dat de plaats aangeeft van de ondergrondse elektrische
+- XVB-kabel Cca met 5 geleiders van 4 mm² geplaatst in
+- XVB-kabel Cca met 3 geleiders van 2,5 mm² op een wand
+- − een voldoende scheiding tussen de telecommunicatie kabels  en andere leidingen;
+- Onderafdeling 4.3.3.4. Indeling van de geïsoleerde geleiders en kabels .......................  106
+- ge kabels zonder enige metalen mantel of van geïsoleerde geleiders geplaatst in buizen uit isolerend mate-
+- riaal. Deze geleiders en kabels  moeten voldoen aan de regels van goed vakmanschap met naleving van de
+- metalen constructies, metalen buizen, metalen kabelmantels. Aan deze laatste voorwaarde wordt voldaan
+- − een meeraderige kabel of een groepering van geleiders mogen stroombanen op verschillende spanningen
+- Onderafdeling 4.3.3.4. Indeling van  de geïsoleerde geleiders en kabels
+- De indeling is van toepassing op de geïsoleerde geleiders en de energiekabels.
+- De indeling is ook van toepassing op de kabels ten behoeve van communicatie en informatietechnologie, van
+- b. Brandreactie van de geïsoleerde geleiders en kabels.
+- De geïsoleerde geleiders en kabels hebben een brandreactie die wordt aangeduid en beoordeeld overeenkomstig
+- elektrische kabels (klassen C en E);
+- Tabel 4.6. Klassen van de geïsoleerde geleiders en kabels met betrekking tot hun brandreactie
+- geleider en kabel  Klasse  Bijdrage tot de brand  Supplementaire classificatie
+- en kabels met hoge
+- en kabels met verbe-
+- daardkabels
+- en kabels zonder
+- De geïsoleerde geleiders en kabels met de kenmerken aangegeven in tabel 4.7.  mogen enkel geplaatst worden
+- 4. geïsoleerde geleiders of kabels, die in een gebouw of een civieltechnisch werk binnenkomen, mits
+- Tabel 4.7. Kenmerken van de geïsoleerde geleiders en kabels met betrekking tot hun brandreactie
+- F Primaire brandreactie: kwalificeert de geschiktheid van de geïsoleerde geleider of kabel om de vuurhaard te versprei-
+- F1 betreft de geïsoleerde geleiders of kabels die, enkelvoudig gelegd en in de proefvoorwaarden, de vlam niet
+- F2 betreft de geïsoleerde geleiders of kabels F1 in bundel en in verticale positie die in de proefvoorwaarden de
+- geïsoleerde geleiders of kabels met betrekking tot de lichtondoorlatendheid van de rookgassen (subcategorie SD) en de
+- SD Geïsoleerde geleider of kabel waarvan de verbrandingsgassen doorschijnend zijn
+- SA Geïsoleerde geleider of kabel waarvan de verbrandingsgassen niet corrosief zijn
+- c. Brandweerstand van de geïsoleerde geleiders en kabels
+- De geïsoleerde geleiders en kabels hebben een brandweerstand die wordt aangeduid en beoordeeld overeenkom-
+- − de samenstellende geïsoleerde geleiders van een kabel;
+- − de interne bekabeling van de schakel - en verdeelborden.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 108 Tabel 4.8. Kenmerken van de geïsoleerde geleiders en kabels met betrekking tot hun brandweerstand
+- FR Brandweerstand: kenmerkt de geschiktheid van een geïsoleerde geleider of kabel om in dienst te blijven in weerwil van
+- omstandigheden (geïsoleerde geleider of kabel individueel getest)
+- elektrische functie verzekerd is (geïsoleerde geleider of kabel getest met draagstel en bevestiging)
+- Indien alle samenstellende delen van het geheel (draagstel, geïsoleerde geleider, kabel en bevestiging) de
+- Elke geïsoleerde geleider of kabel die aan het draagstel van een geheel met het kenmerk FR2 of met een ken-
+- b. Geïsoleerde geleiders en kabels
+- De geïsoleerde geleiders en energiekabels beantwoorden ten minste aan de bepalingen van afdeling 5.2.7.
+- De kabels van de stekerbare installaties (systemen van toestelverbindingsstopcontacten voor vaste aansluitin-
+- gen) en de kabels ten behoeve van communicatie en informatietechnologie, van signalisatie of bediening  moe-
+- De geïsoleerde geleiders en kabels bedoeld in de 1ste en de 2de alinea beantwoorden aan het kenmerk of de
+- In ruimten gekenmerkt door BE2 mogen ook de geïsoleerde geleiders en kabels bedoeld in de 1ste alinea van
+- c. De geleiders en kabels in de ruimten BE2
+- De geïsoleerde geleiders en kabels die door heen dergelijke ruimten lopen, maar die niet bestemd zijn voor de
+- geleiders en kabels  moeten worden beschermd tegen overbelastingen en kortsluitingen door beschermingsin-
+- Het gebruik van geïsoleerde geleiders en energiekabels met de kenmerken SA en SD of met de aanvullende
+- De kabels van de stekerbare installaties (systemen van toestelverbindingsstopcontacten voor vaste aansluitin-
+- gen) en de kabels ten behoeve van communicatie en informatietechnologie, van signalisatie of bediening  moe-
+- 1. voor de geïsoleerde geleiders en kabels die zijn geïnstalleerd met de volgende plaatsingswijzen:
+- - de kabels , al dan niet in buis,  die in een onbrandbare bekleding met een minimale diepte van 3 cm zijn
+- - de ondergrondse kabels;
+- - de kabels geplaatst in met zand gevulde kanalen;
+- - ondergrondse kabels, of
+- - kabels geplaatst in met zand gevulde kanalen, of
+- - kabels, al dan niet in buis, die in een onbrandbare bekleding met een minimale inbouwdiepte van
+- - voor de geïsoleerde geleiders en de kabels in openlucht of in opbouw voor een
+- - voor de aftakkingskabels, al dan niet in buis, in openlucht of in opbouw;
+- 3. voor de kabels die zijn geïnstalleerd gebruik makend van een materiaal (bv. omhuld, bedekt, …) dat
+- voor het geheel (kabels en materiaal) een equivalent kenmerk (SA en SD) of klasse (a1 en s1)
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 111 4. de interne bekabeling van de schakel - en verdeelborden;
+- 5. de samenstellende geïsoleerde geleiders van een kabel;
+- 6. de geïsoleerde geleiders en de kabels van de stroombanen van een elektrische machine of toestel  waarvan
+- De geïsoleerde geleiders en kabels die niet bestaan met de kenmerken SA en SD of met de aanvullende  verkla-
+- De buizen, de open en gesloten goten, de kabelrekken en de aftakdozen geïnstalleerd in de ruimten bedoeld in
+- scherm tussen te plaatsen, behalve wanneer het allebei kabels zijn. Deze vereiste is niet van toepassing voor
+- Onderafdeling 5.2.7.2. Afzonderlijk geïnstalleerde geïsoleerde geleiders en kabels  ........  137
+- Onderafdeling 5.2.7.3. In bundel of in laag geïnstalleerde geïsoleerde geleiders en kabels  137
+- Onderafdeling 5.2.7.4. Buizen, kabelbanen, kabelgoten, kabelrekken en gelijksoortig
+- Onderafdeling 5.2.9.8. Open, gesloten of met zand gevulde kabelkanalen en kokers in de
+- Met uitzondering van halfvlakke VTLBp -kabels moet de met vaste isolatiematerialen geïsoleerde geleider, ge-
+- Wanneer de stroombaan geen nulgeleider bevat, mag de blauwe geleider van meerpolige kabels voor een ander
+- Een meeraderige kabel of een groepering van geleiders mogen stroombanen op verschillende spanningen bevat-
+- De éénaderige kabels en de geïsoleerde geleiders behorend tot eenzelfde stroombaan moeten in de onmiddel-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 129 g. in de vrije lucht, hetzij met klemmen, beugels of andere bevestigingsmiddelen, hetzij op kabelrekken,
+- kabelladders, kraagstukken, haken of gelijkaardige steunen; de elektrische leiding is van alle wanden
+- g.1. kabelrekken
+- Figuur 5.9. Plaatsingswijzen van elektrische leidingen − Kabelrekken
+- h. in kabelbanen of goten;
+- h.1. kabelbaan
+- Figuur 5.11. Plaatsingswijzen van elektrische leidingen − Kabelbaan
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 130 j. in open, gesloten of met zand gevuld kabelkanaal;
+- j.1. buizen in open of verluchte kabelkanalen
+- Figuur 5.14. Plaatsingswijzen van elektrische leidingen − Buizen in open of verluchte kabelkanalen
+- j.2. buizen in gesloten kabelkanalen
+- Figuur 5.15. Plaatsingswijzen van elektrische leidingen − Buizen in gesloten kabelkanalen
+- j.3. rechtstreekse plaatsing in open of verluchte kabelkanalen
+- Figuur 5.16. Plaatsingswijzen van elektrische leidingen − Rechtstreekse plaatsing in open of verluchte kabelkanalen
+- j.4. rechtstreekse plaatsing in gesloten kabelkanalen
+- Figuur 5.17. Plaatsingswijzen van elektrische leidingen − Rechtstreekse plaatsing in gesloten kabelkanalen
+- j.5. rechtstreekse plaatsing in met zand gevulde kabelkanalen
+- Figuur 5.18. Plaatsingswijzen van elektrische leidingen − Rechtstreekse plaatsing in met zand gevulde kabelkanalen
+- Bovendien mogen de geleiders en kabels rechtstreeks in de vloer geplaatst worden. Er moet echter rekening
+- De elementen van de elektrische leidingen, met inbegrip van kabels en toebehoren, moeten worden geïnstal-
+- Voor wat de ondergrondse kabels betreft moeten de isolatieweerstand en de luchtdichtheid van verbindingen
+- tussen verschillende stukken van een kabel of tussen een kabel en een elektrische lijn ten minste gelijk zijn
+- aan deze van de kabel zelf, en dit overeenkomstig de regels van goed vakmanschap.
+- 1. de samenstellende geïsoleerde geleiders van een kabel;
+- 2. de geïsoleerde geleiders en de kabels van de stroombanen van een elektrische machine of toestel  waarvan
+- 3. voor de geïsoleerde geleiders en kabels die zijn geïnstalleerd (afzonderlijk of in bundel/laag) met de
+- - de kabels , al dan niet in buis,  die in een onbrandbare bekleding met een minimale diepte van 3 cm zijn
+- - de ondergrondse kabels;
+- - de kabels geplaatst in met zand gevulde kanalen;
+- - ondergrondse kabels, of
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 137         - kabels geplaatst in met zand gevulde kanalen, of
+- - kabels, al dan niet in buis, die in een onbrandbare bekleding met een minimale inbouwdiepte van
+- - voor de geïsoleerde geleiders en de kabels in openlucht of in opbouw voor een aansluiting op een
+- - voor de aftakkingskabels, al dan niet in buis, in openlucht of in opbouw;
+- Onderafdeling 5.2.7.2. Afzonderlijk geïnstalleerde geïsoleerde geleiders en kabels
+- De afzonderlijk geïnstalleerde geïsoleerde geleiders en kabels hebben ten minste het kenmerk F1 of ten minste
+- Dit voorschrift is niet van toepassing op de geïsoleerde geleiders en kabels die zijn geïnstalleerd gebruik ma-
+- kend van een materiaal (bv. omhuld, bedekt, …) dat aan deze geïsoleerde geleiders en kabels ten minste een
+- De geïsoleerde geleiders en kabels die niet bestaan met het kenmerk F1 of ten minste de klasse E ca moeten
+- De geïsoleerde geleiders en kabels, die op een bestaand draagstel worden toegevoegd, worden gekozen en
+- geleiders en kabels zijn geplaatst en hebben de geschikte kenmerken of klassen van onderafdeling 5.2.7.2.  of
+- Onderafdeling 5.2.7.3. In bundel of in laag geïnstalleerde geïsoleerde geleiders en kabels
+- De in bundel of in laag geïnstalleerde geïsoleerde geleiders en kabels hebben ten minste het kenmerk F2 of ten
+- van de afstand waarover de geïsoleerde geleiders en kabels effectief in bundel of in laag geïnstalleerd zijn.
+- 1. de geïsoleerde geleiders en kabels die zijn geïnstalleerd gebruik makend van een materiaal (bv.
+- omhuld, bedekt, …) dat aan deze geïsoleerde geleiders en kabels ten minste een kenmerk equivalent
+- 2. de interne bekabeling in een schakel - en verdeelbord, voor zover deze ten minste het kenmerk F1 of
+- 3. de kabels tussen de laagspanningsklemmen van een transformator hoogspanning/laagspanning en de
+- algemene beschermingsinrichting voor zover deze kabels, waarvan de lengte niet langer dan 10 meter
+- De geïsoleerde geleiders en kabels die niet bestaan met het kenmerk F2 of ten minste de klasse C ca moeten
+- Onderafdeling 5.2.7.4. Buizen, kabelbanen, kabelgoten, kabelrekken en gelijksoortig materieel
+- De buizen, de kabelbanen, de kabelgoten, de kabelrekken en gelijksoortig materieel zijn van het niet -
+- (kabelkanaal, koker, goot...) indien de volgende voorwaarden gelijktijdig worden vervuld:
+- mende isolatie en ontworpen om hun eigenschappen te behouden in de kokers of kabelkanalen, dienen geen
+- Voor de ondergrondse kabels in de nabijheid van gasleidingen moeten de nodige voorzorgsmaatregelen geno-
+- buizen voor het beschermen van ondergrondse gewapende kabels vermeden worden. De nodige voorzorgsmaat-
+- Enkel kabels , conform hetzij de desbetreffende door de Koning gehomologeerde  of door het NBN geregistreer-
+- Behalve indien het technisch onmogelijk is, moet de kabel ten minste 0,60 m diep onder het grondvlak (maai-
+- De ondergrondse aanleg van kabels is alleen  toegelaten als ze aan één van de volgende voorwaarden beant-
+- werktuigen bij opgravingen; deze bedekking steekt aan beide zijden van de kabel uit en is verwezenlijkt
+- zonder doorlopende langsvoegen boven de kabel;
+- Wanneer voor plaatsing van ondergrondse kabels de doorgang van muren of wanden noodzakelijk is, moet de
+- c. Nabijheid van en kruising met ondergrondse telecommunicatiekabels
+- In de nabijheid van en bij de kruising met ondergrondse telecommunicatiekabels moet elke energiekabel
+- catiekabels bevindt.
+- trische leiding plaatst, na overleg met de eigenaar van de telecommunicatiekabel, de geschikte maatrege-
+- len om latere vergissingen bij de identificatie van de kabels uit te sluiten, om alle schade te voorkomen
+- c.2. Verplaatsing van energie - en telecommunicatiekabels
+- Indien telecommunicatiekabels en energiekabels op aanvraag van derden worden geplaatst zijn de hierbo-
+- De aanwezigheid van een kabel moet op zichtbare en duurzame wijze aangeduid worden. Daartoe moet
+- d.2. Kabelbundels
+- In het geval van een bundel kabels mag gebruik gemaakt worden van gemeenschappelijke merktekens voor
+- alle kabels samen.
+- Indien het onmogelijk is een merkteken aan te brengen boven één of meer kabels, moet het geplaatst wor-
+- den op een zo klein mogelijke afstand van de ligging van deze kabel of kabels.
+- − de kabels door de Belgische S poorweg en op eigen terrein geplaatst;
+- − de kabels die de verschillende palen van een openbare verlichtingsinstallatie of van een lichtsignali-
+- satie onderling verbinden alsook de kabels die deze palen verbinden met hun voedingsposten.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 140 Evenmin moet de aanwezigheid van kabels, geplaatst in een openbare weg, aangeduid worden, wanneer de
+- − één bliksemschicht voor de aanduiding van één enkele kabel;
+- − twee bliksemschichten voor de aanduiding van een bundel boven of naast elkaar liggende kabels.
+- In buizen mogen geïsoleerde geleiders of kabels geplaatst worden.
+- de geleiders of kabels gemakkelijk te trekken of te verwijderen na plaatsing van de buizen en hun onderdelen.
+- − het moet steeds mogelijk zijn er de geleiders  of kabels  in te trekken of er uit te verwijderen;
+- − ze mogen de isolatie der geleiders en de kabels niet kunnen beschadigen en dit vooral aan de uiteinden;
+- − verbindingen, aansluitingen of draadlassen tussen geleiders  of kabels  te verwezenlijken in de buizen;
+- In de verbindings -, aftak - en trekdozen moeten de geleiders of kabels toegankelijk blijven en knie - en T-
+- Geïsoleerde geleiders of eenaderige kabels mogen geplaatst worden onder sierlijsten, holle plinten en lijsten.
+- ge kabels beantwoorden aan de bepalingen van onderafdeling 5.2.7.3.
+- eenaderige kabels  er gemakkelijk kunnen in ondergebracht worden.
+- In de houten sierlijsten mag slechts één geleider of eenaderige kabel per gleuf geplaatst worden, tenzij deze
+- geleiders of eenaderige kabels tot één en dezelfde stroombaan behoren.
+- doorgang van geleiders  of eenaderige kabels .
+- In de vrije lucht en in opbouw mogen enkel kabels geplaatst worden , met uitzondering van de onafhankelijke
+- De bevestigingsmiddelen, kabelrekken, kraagstukken ... moeten zodanig gekozen en geplaatst worden dat geen
+- Onderafdeling 5.2.9.8. Open, gesloten of met zand gevulde kabelkanalen en kokers in de grond
+- De keuze van de elektrische leidingen in de kabelkanalen moet gebeuren in functie van de risico’s verbonden
+- met de plaats waarin het kabelkanaal zich bevindt.
+- De kabelkanalen moeten zodanig opgevat zijn dat ze gemakkelijk kunnen gereinigd worden, vooral in stoffige
+- De geleiders, kabels en buizen, te plaatsen in holle constructieruimten, beantwoorden aan de bepalingen van
+- − hetzij als rails in kokers, afgesloten ruimten of gesloten kabelkanalen;
+- De geleiders in de vorm van draden of kabels moeten voldoende aangespannen worden zonder dat hun
+- De afstand tussen de draden of kabels en de wanden of voorwerpen moet 10 cm bedragen. Indien een klei-
+- Een installatie voor verwarming door in de wand en verzonken kabel s, hierna «  verwarmingsinstallatie  »
+- kabels die door hun eigen elektrische weerstand warmte dissiperen en die zich bevinden in een van de
+- verwarmingselementen, met name een verwarmende geleider of kabel uitgerust met zijn elektrische -
+- 1.4.2.1. , 1.4.2.2.,  5.1.1.1.  en 5.1.3.1. beantwoorden . De verwarmende laagspannings kabels  moeten
+- van de steuntjes en houders voor de bevestiging van kabels en neonbuizen. Deze equipotentiale
+- stroombaan (breuk van een buis, loskomen van een kabel), moet het beveiligingssysteem in
+- Bij afwijking van de bepalingen van het eerste lid van 5.2.1.4 .a. en 5.2.9.14 . is het toegestaan prikkabels op
+- diameter hebben van ten minste 12,5 maal de diameter van de kabel.
+- De haspeltrommels waarop de andere elektrische kabels dan deze bedoeld onder  punt a. gewonden worden,
+- moeten een diameter hebben van ten minste 30 maal de diameter van de kabel; de breedte in de groef van de
+- leischijf is in verhouding tot de diameter van de kabel om zodoende klemming ervan te voorkomen.
+- k-waarden voor ge ïsoleerde beschermingsgeleiders die geen deel uitmaken van de kabels of voor blanke
+- beschermingsgeleiders in contact met de bekleding van kabels
+- geleider  Aard van de isolatie van de beschermingsgeleiders of van de bekleding van kabels
+- k-waarden voor beschermingsgeleiders die deel uitmaken van een meerdradige kabel
+- Wanneer de beschermingsgeleider, die al of niet deel uitmaakt van de kabel, voorzien is van een isolatie moet
+- De kabels  ten behoeve van communicatie en informatietechnologie, van signalisatie of bediening van de veilig-
+- De onafhankelijke beschermingsgeleiders en de kabels  ten behoeve van communicatie en informatietechnolo-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 182 De brandweerstand van de interne bekabeling van het veiligheidsbord is niet vereist.
+- zijn de geïsoleerde geleiders, de kabels en hun toebehoren:
+- Indien alle samenstellende delen van het geheel (draagstel, geïsoleerde geleider, kabel en bevestiging) de
+- Elke geïsoleerde geleider of kabel die aan het draagstel van een geheel met het kenmerk FR2 of met een ken-
+- worden geplaatst. Voorbeeld van een situatie die moet vermeden worden: een kabelgoot zonder het kenmerk FR2
+- die boven een kabelgoot met het kenmerk FR2 geplaatst wordt en die op deze laatste kan vallen bij een brand.
+- b) de doorsnede van de voedingskabel van het hoofdbord;
+- warmingskabels en verwarmingssystemen.
+- Indien het elektrisch materieel geplaatst is in een kabelkanaal of technische ruimte in het volume 1 of 2:
+- Indien het elektrisch materieel geplaatst is in een kabelkanaal of technische ruimte in het volume 1:
+- beeld door het gebruik van een ingang van isolerend materiaal rond de kabel geklemd of door het gebruik van
+- − kabel met een versterkte polychloropreenmantel;
+- − kabel met een versterkte mantel uit synthetisch elastomeer;
+- − kabel met een versterkte rubbermantel;
+- − kabel met een gelijkwaardige mechanische bescherming.
+- In de explosieve stofzones, zijn de leidingaanlegsystemen (kabelbanen, kabelkanalen...) zodanig  opgesteld of
+- de uitbreiding van explosiegevaarlijke gebieden via doorgaande leidingen (installatiebuizen, kokers, kabelgoten
+- kabel is geïntegreerd, mag dit niet de enige beschermingsgeleider zijn.
+- De geïsoleerde geleiders en kabels moeten aan de eisen van onderafdeling  5.2.7.3.  beantwoorden, met uit-
+- zondering van de geïsoleerde geleiders en kabels bedoeld in onderafdelingen 5.2.7.1.
+- De toegepaste aansluittechnieken alsmede de aansluittoebehoren van elektrische leidingen (kabels en installa-
+- Om de maximale oppervlaktetemperatuur van de weerstandsverwarmingskabels te beperken, moeten deze en
+- Nadat de geleiders of kabels in de installatiebuizen zijn aangebracht, moeten de afdichtingen worden gevuld
+- maar moet worden aangesloten op kabels, mag een drukvast verloopstuk met een buislengte van niet meer dan
+- pelijk ondergebracht worden in eenzelfde kabel.
+- De wapening  van de kabels moet met de aarde galvanisch verbonden worden. Aandacht dient hierbij geboden
+- Wanneer door de aanwezigheid van andere blauwe geleiders of kabels het risico voor verwarring bestaat tussen
+- − de doorsnede van de voedingskabel van het hoofdschakel - en verdeelbord;
+- 10. Kleurcode van de geleiders van kabels en van geïsoleerde geleiders
+- • geïsoleerde geleiders en kabels ten minste van het type met versterkte isolatie voor de plaatsing
+- • geïsoleerde geleiders en kabels van het niet -vlamverspreidend type in holle constructieruimten;
+- • kabels die niet de kenmerken SA en SD of de aanvullende verklaringen a1 en s1 hebben en hun
+- − onderafdeling 7.1.5.2. , kabels met een metalen wapening  zoals van het type VFVB geplaatst in ruimten die
+- Teneinde de identificatie van de kabels van een zichtbaar aangebrachte bundel toe te laten moet, indien
+- − de doorsnede van de voedingskabel van het hoofdbord;
+- Onderafdeling 9.3.6.1. Werken in de nabijheid van luchtlijnen en ondergrondse kabels  ... 301
+- te voeren in de nabijheid van de kabel.
+- (aardingsscheider, kabels, klemmen...) aangepast zijn aan de voorziene kortsluitstroom.
+- Onderafdeling 9.3.6.1. Werken in de nabijheid van luchtlijnen en ondergrondse kabels
+- b. Te nemen voorzorgsmaatregelen bij werken in de nabijheid van ondergrondse elektrische kabels
+- Geen enkel grondwerk, bestrating of ander werk mag in de omgeving van een ondergrondse elektrische kabel
+- openbare weg beheert en de beheerder van de kabel te raadplegen.  Het al dan niet aanwezig  zijn van
+- van de kabels.
+- niet aanvatten  alvorens  de ligging  van de kabels  bepaald  is.
+- Zonder dat de aannemer en de beheerder van de kabel voorafgaand overeengekomen  zijn over de in acht te
+- tussen twee verticale vlakken op een afstand van 50 cm aan weerszijden  van de kabel.
+
+## Zoekresultaten voor 'geleider'
+
+- - onderafdeling 4.4.4.2.: van de geleiders (van de
+- actieve geleiders)
+- geleiders (aardverbinding in huishoudelijke
+- geleiders (aardverbinding in huishoudelijke
+- Hoofdstuk 5.4. Aardingen, beschermingsgeleiders en equipotentiale verbindingen  ............  170
+- Tabel 4.6. Klassen van de geïsoleerde geleiders en kabels met betrekking tot hun brandreactie  ................  106
+- Tabel 4.7. Kenmerken van de geïsoleerde geleiders en kabels met betrekking tot hun brandreactie  ...........  107
+- Tabel 4.8. Kenmerken van de geïsoleerde geleiders en kabels met betrekking tot hun brandweerstand  .......  108
+- Tabel 4.11. Kaliber van de beschermingsinrichting in functie van de doorsnede der geleiders  ...................  113
+- Tabel 5.1. Elektrische leidingen waarvan de geleiders een doorsnede kleiner dan 2,5 mm² mogen hebben  ... 125
+- Tabel 5.9. k -waarden voor beschermingsgeleiders  ................................ ................................ .......  175
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − INHOUD  | ix Tabel 5.10. Minimumdoorsnede van de beschermingsgeleider waarbij het berekenen van de waarde van S p niet
+- (maat 12 of 10 A) – Grootte van de houder en doorsnede van de geleiders  ................................ .. 275
+- N:  massa’s verbonden met de geaarde geleider van het verdeelnet (bij wisselstroom, is het de nulgeleider
+- elkaar, geven de uitvoering aan van de nulgeleider en van de beschermingsgeleider:
+- S: de functies van nulgeleider en beschermingsgeleider worden verzekerd door afzonderlijke geleiders;
+- C: één geleider vervult zowel de functie van nulgeleider als van beschermingsgeleider (PEN -geleider).
+- zijn met dit punt verbonden door middel van beschermingsgeleiders. Naargelang de uitvoering van de nul-
+- geleider en de beschermingsgeleider worden drie types van TN -systemen voorzien.
+- − TN-S-systeem: de nulgeleider en de beschermingsgeleider zijn afzonderlijke geleiders in het volledige
+- − TN-C-systeem: de functies van nulgeleider en beschermingsgeleider worden vervuld door dezelfde ge-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 20 − TN-C-S-systeem: de functies van nulgeleider en beschermingsgeleider worden vervuld door dezelfde
+- geleider in een deel van het net.
+- nale spanning U tussen actieve geleiders volgens tabel  2.1.
+- Bovendien  wordt , wanneer de spanning tussen een van de actieve geleiders en een vreemd geleidend deel de in
+- nale spanning U tussen actieve geleiders volgens tabel  2.2.
+- Bovendien  wordt , wanneer de spanning tussen een van de actieve geleiders en een vreemd geleidend deel de in
+- Actieve geleider: een geleider bestemd voor het overbrengen van elektrische energie. De nulgeleider bij wis-
+- selstroom en de compensator geleider  bij gelijkstroom, zelfs indien deze geleiders gebruikt worden als be-
+- schermingsgeleider beantwoorden eveneens aan deze bepaling.
+- Nulgeleider: een actieve geleider verbonden met het nulpunt (N). In sommige gevallen en onder bepaalde
+- voorwaarden mag de nulgeleider de functie van beschermingsgeleider vervullen.
+- PEN-geleider:  een geleider die gelijktijdig de functie van nulgeleider en beschermingsgeleider vervult.
+- − de geleiders en geleidende delen van elektrisch materieel dat bij normaal gebruik onder spanning kan
+- staan, met inbegrip van de geleidende delen, rechtstreeks verbonden met de nulgeleider bij wisselstroom
+- of met de compensator geleider  bij gelijkstroom. De PEN -geleider wordt bij conventie niet als actief deel
+- Gelijktijdig genaakbare delen of stukken: geleiders of geleidende blanke delen die gelijktijdig door een per-
+- − beschermingsgeleiders, equipotentiale geleiders;
+- breuk van geleider...).
+- mingsgeleider;
+- een beschermingsgeleider.
+- len bevat om inwendige delen te verbinden met een beschermingsgeleider moet het beschouwd worden a ls
+- schermingsgeleider zodat deze delen niet gevaarlijk kunnen worden door het in gebreke blijven van de ba-
+- sisisolatie. Bij elektrisch materieel gevoed via een snoer, moet dit snoer een be schermingsgeleider omvat-
+- horende aardgeleiders en de beschermingsgeleiders.
+- (1) hoofdequipotentiale geleider
+- (2) bijkomende equipotentiale geleider
+- (3) beschermingsgeleiders
+- (5) hoofdbeschermingsgeleider
+- (8) aardgeleider
+- Geometrische doorsnede van een geleider: fysische doorsnede van een geleider die meetbaar is met behulp
+- Equivalente elektrische doorsnede: doorsnede toegekend aan een geleider die aan de stroomdoorgang een
+- weerstand biedt die gelijk is aan deze die geboden wordt door een koperen geleider met voor melde  doorsnede
+- Verlood koper: geleider die samengesteld is uit een vertind e koperen kern met een equivalente elektrische  door-
+- Beschermingsgeleider: geleider gebruikt bij het nemen van bepaalde beschermingsmaatregelen tegen on-
+- − een met de aarde verbonden geleider;
+- Hoofdbeschermingsgeleider: geleider die enerzijds verbonden is met de aardgeleider(s) en anderzijds met de
+- beschermingsgeleiders van de massa’s en zo nodig met deze van de vreemde geleidende delen en eventueel
+- met de nulgeleider.
+- Aardgeleider: beschermingsgeleider die de hoofdaardingsklem met de aardverbinding verbindt, waarbij de
+- eventuele aarding sscheider geacht wordt deel uit te maken van deze aardgeleider.
+- Aardgeleider van het nulpunt en/of van de nulgeleider: geleider die het nulpunt en/of een punt van de nul-
+- geleider verbindt met een aardverbinding.
+- Hoofdaardingsklem: verbindingsklem van de aardgeleider(s), van de hoofdbeschermingsgeleider(s) en van de
+- hoofdequipotentiale geleider(s).
+- Aardingsklem of beschermingsklem: verbindingsklem van de beschermingsgeleider van elektrisch materieel.
+- Equipotentiaalgeleider  of potentiaalvereffeningsgeleider: geleider bestemd om de equipotent iaalverbinding
+- Toelaatbare stroom in een geleider: de constante stroom die onder de gegeven omstandigheden door een
+- geleider kan vloeien zonder dat de permanente regimetemperatuur van de geleider hoger wordt dan de opge-
+- stroom; bij een geleider, iedere stroomsterkte die groter is dan de toelaatbare stroom IZ.
+- alle actieve geleiders van een stroombaan in een punt van de elektrische installatie ( In).
+- Elektrische  geleider  (in dit Boek geleider  genoemd): een blank of geïsoleerd lichaam bestemd om een elektri-
+- Elektrische  leiding:  samenstel van één of meerdere elektrische geïsoleerde geleiders, kabels, drad en of rails-
+- Geïsoleerde  geleider:  het geheel van de kern , zijn isolerende bekleding en zijn eventuele schermen.
+- Joule -integraal eigen aan een geïsoleerde geleider bij kortsluiting: waarde van de Joule -integraal overeen-
+- stemmend met de hoeveelheid energie die nodig is om de temperatuur van de geleider vanaf zijn regimetem-
+- Kabel: samenstel van een of meer geïsoleerde geleiders, hun eventuele individuele mantel, de bescherming
+- van de samenstelling  en de beschermende laag of lagen. Additionele ongeïsoleerde geleiders kunnen in de ka-
+- Eenaderige  kabel:  kabel met één enkele geïsoleerde geleider.
+- nuïteit te verzekeren tussen twee of meerdere geleidende systemen (geleiders, geleidende delen, toestellen,
+- Koppeling:  verbinding van twee uiteinden van geleiders.
+- Scherm:  geleidende mantel die een of meer geïsoleerde geleiders omhult. Deze geleidende mantel moet een
+- steunen, energiegeleiders die eventueel aan isolatoren zijn bevestigd en eventueel aardgeleiders  of waakdra-
+- Driestel:  geheel van de drie fasegeleiders van een driefasige luchtlijn; een luchtlijn kan een of meerdere drie-
+- draagijzers en verder elk element dat de geleiders draagt, eventueel door middel van isolatoren.
+- Isolator:  onderdeel dat dient om de geleiders te dragen en om ze onderling en ten opzichte van de aarde elek-
+- Voorgebundelde leiding: een geheel van geleiders dat een verhoogde isolatie met grote weerstand tegen
+- weersinvloeden bezit. De voorgebundelde leiding voor netten is samengesteld uit fasegeleiders, een dragend
+- deel dat als nulgeleider kan dienen en eventueel geleiders voor de openbare verlichting. De fasegeleiders en de
+- geleiders voor openbare verlichting zijn getwijnd rond de drager die zich in het centrum van de bundel be-
+- − meerdere getwijnde geleiders waarvan één kan dienen als nulgeleider;
+- Kabel of geïsoleerde geleider afzonderlijk geïnstalleerd:  een kabel of een geïsoleerde geleider die op een
+- afstand groter dan of gelijk aan 20 mm van elke andere kabel of geïsoleerde geleider is geïnstalleerd.
+- Kabel of geïsoleerde geleider in bundel of in laag geïnstalleerd : een kabel of een geïsoleerde geleider die
+- Buis: plaatsingsmateriaal dat een doorlopende bescherming voor de geleiders toelaat in niet -opengaande buis-
+- Kabelbaan: plaatsingsmateriaal met volle of geperforeerde geprofileerde wanden, voorzien om geleiders  of
+- Lijst: plaatsingsmateriaal bestaande uit een basis, voetstuk genoemd, dat gleuven bevat waarin geleiders kun-
+- Gegroefde plinten of lijsten: plint (of lijst) met gleuven  waarin geleiders of eventueel kabels kunnen geplaatst
+- Omnipolaire onderbreking: onderbreking van alle actieve geleiders van een stroombaan, de nulgeleider inbe-
+- Elektrische leiding met 3 geleiders
+- Elektrische leiding met n geleiders
+- Opm.: n geeft altijd het totaal aantal geleiders van de
+- XVB-kabel Cca met 5 geleiders van 4 mm² geplaatst in
+- XVB-kabel Cca met 3 geleiders van 2,5 mm² op een wand
+- 4 H07V -U-geleiders Eca waarvan de geleiders een door-
+- Contactdoos met contact voor beschermingsgeleider
+- Contactdoos met contact voor beschermingsgeleider en
+- − de kenmerken van de elektrische leidingen: type, doorsnede, aantal geleiders;
+- − de kenmerken van de elektrische leidingen met inbegrip van de beschermingsgeleiders, onder meer:
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 3 BEPALING VAN DE KARAKTERISTIEKEN  | 63       - de aard, het aantal en de doorsnede van de geleiders;
+- beschermingsgeleider moet met dit nulpunt verbonden worden en over het hele verdeelnet geïnstalleerd wor-
+- den. Indien het nulpunt niet bestaat of niet bereikbaar is, moet een fasegeleider van elke generator of trans-
+- formator geaard worden. In dit geval moeten de fasegeleider en de beschermingsgeleider gescheiden zijn.
+- De beschermingsgeleider moet geaard worden in de nabijheid van elke generator  of transformator . Hij moet
+- beschermingsgeleider, in geval van defect, zo dicht mogelijk bij dit van de aarde te houden.
+- De massa’s van het elektrische materieel moeten verbonden worden met voor melde  beschermingsgeleider.
+- dien het nulpunt niet bestaat of indien het niet bereikbaar is, moet een fase geleider  van elke generator of
+- transformator geaard worden. Bovendien mag dit eveneens gebeuren met de overeenkomstige geleider van het
+- Het nulpunt wordt niet of enkel via een voldoende grote impedantie geaard. Geen enkele actieve geleider mag
+- De eventuele nulgeleider moet op dezelfde wijze geïsoleerd zijn en geplaatst worden als een fasegeleider.
+- menlijk. Nochtans moeten gelijktijdig genaakbare massa’s met dezelfde beschermingsgeleider verbonden wor-
+- materieel, gevoed tussen fasen en nulgeleider, zodanig gekozen worden dat zijn isolatie ten minste overeen-
+- elektrische scheiding, zoals autotransformatoren, potentiometers, halfgeleiderinrichtingen..., dient de aldus
+- Onderafdeling 4.3.3.4. Indeling van de geïsoleerde geleiders en kabels .......................  106
+- Afdeling 4.4.4. Bescherming tegen overstroom van de fasegeleiders en van de nulgeleider bij
+- Onderafdeling 4.4.4.1. Onderbreking van de getroffen geleider  ................................  115
+- nulgeleider  ................................ ................................ ......................  116
+- nulgeleider  ................................ ................................ ......................  116
+- Onderafdeling 4.4.4.5. IT -net met verdeelde nulgeleider  ................................ .......  116
+- Onderafdeling 4.4.4.6. PEN -geleider  ................................ ................................  116
+- Onderafdeling 4.4.4.7. Onderbrekingsvolgorde van de fasegeleiders en de nulgeleider  .... 116
+- Afdeling 4.5.4. Gemeenschappelijke buizen voor energiegeleiders en
+- telecommunicatiegeleiders  ................................ ................................ ..........  117
+- g. Bescherming tegen rechtstreekse aanraking van de nulgeleider gebruikt als beschermingsgeleider
+- streekse aanraking is voldaan, wordt aangenomen dat zowel de nulgeleider, gebruikt als beschermingsgeleider
+- − Aangepaste maatregelen zijn getroffen opdat de  beschermingsgeleider of de PEN -geleider van een
+- elektrische installatie niet zou dienen als terugvoer geleider voor de stroom.
+- den overeenkomstig de regels van goed vakmanschap, de doorsnede van de geleiders moet ten minste
+- fende inrichtingen tegen trek - en wringbelasting op de geleiders;
+- − door andere beschermingsmaatregelen zonder onderbrekingsinrichting die geen beschermingsgeleider
+- tiale verbinding ( 4.2.3.3.d.2 .), door het verwijderen van de massa’s en van de vreemde geleiders
+- van de massa’s met een gewoonlijk geaarde beschermingsgeleider. Deze inrichting moet een werkings-
+- − de aardgeleiders;
+- − de beschermingsgeleiders;
+- Wanneer een hoofdequipotentiale verbinding is opgelegd, moeten één of meer hoofdequipotentiale geleiders
+- Men verstaat onder één of meer hoofdequipotentiale geleiders:
+- − hetzij één enkele geleider die de hierboven vermelde  delen aan de hoofdaardingsklem verbindt, zonder de
+- continuïteit  van deze geleider te onderbreken;
+- − hetzij de hierboven vermelde delen worden elk met een afzonderlijke geleider aan de hoofdaardingsklem
+- verbonden, zonder de continuïteit  van elke geleider te onderbreken.
+- Wanneer een bijkomende equipotentiale geleider wordt opgelegd verbindt hij  plaatselijk :
+- − de beschermingsgeleiders van alle elektrische machines en toestellen met inbegrip van deze gevoed via
+- gebinten, hetzij met bijkomende geleiders, hetzij met een combinatie van beide.
+- Het installeren van het elektrisch materieel (bevestiging, verbinding van de geleiders...) moet zo geschieden
+- gen niet verbonden zijn met de beschermingsgeleider.
+- De beschermingsgeleiders die de bescherming van elektrisch materieel verzorgen dat zich buiten het omhulsel
+- sel geleid worden. De klemmen voor dergelijke beschermingsgeleiders moeten op een gepaste wijze aangeduid
+- zijn. In het omhulsel moeten de beschermingsgeleiders en de overeenkomstige klemmen geïsoleerd worden op
+- mingsgeleider, uitgezonderd indien dit voorzien wordt door constructieregels van het desbetreffend materieel.
+- generatorgroepen mag niet groter zijn dan een wisselspanning van 500 V tussen actie ve geleiders .
+- hun massa’s onderling verbonden worden door een niet -geaarde beschermingsgeleider.
+- Bij snoeren moet de mantel zowel de beschermingsgeleider – hier gebruikt als equipotentiale geleider – als
+- de actieve geleiders bevatten.
+- Indien niet kan vermeden worden dat de geleiders van de bedoelde stroombanen en van andere stroomba-
+- ge kabels zonder enige metalen mantel of van geïsoleerde geleiders geplaatst in buizen uit isolerend mate-
+- riaal. Deze geleiders en kabels  moeten voldoen aan de regels van goed vakmanschap met naleving van de
+- ten overstaan van twee verschillende massa’s en gevoed door twee geleiders op verschillend potentiaal.
+- waarde dat zijn massaklem verbonden wordt met de plaatselijke equipotentiale geleider.
+- In dergelijke ruimten  mag geen enkele beschermingsgeleider voorzien worden.
+- Hun toepassing vereist de verbinding van de massa’s met een beschermingsgeleider evenals een onderbre-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 90 a.4. Verplichting van een beschermingsgeleider
+- middel tegen onrechtstreekse aanraking zonder gebruik te maken van een beschermingsgeleider, zelfs in-
+- moet enerzijds verbonden worden met de beschermingsgeleider, die de massa’s onderling verbindt, en an-
+- derzijds met een geïsoleerde geleider, aangesloten op een hulpaardelektrode.  De beschermingsgeleider
+- a.5. Verplichting van een hoofdequipotentiale geleider
+- Elke rechtstreekse fout tussen een fasegeleider en de massa van het elektrisch materieel veroorzaakt een
+- kortsluiting tussen deze fasegeleider en de beschermingsgeleider.
+- Wanneer één geleider zowel de functie van nulgeleider als deze van beschermingsgeleider vervult (TN -C-
+- De beschermingsinrichtingen en de doorsneden van de geleiders moet zodanig gekozen worden dat de uit-
+- fout voordoet tussen een fasegeleider en de beschermingsgeleider of een, met deze laatste verbonden,
+- bonden zijn met de beschermingsgeleider en door dewelke een fout kan ontstaan tussen een fase
+- Bij vaste installaties, tweefasige  stroombanen uitgezonderd, heeft de PEN -geleider een doorsnede die ten
+- Indien de PEN -geleider vanaf een bepaald punt van het net ontdubbeld wordt volgens zijn twee functies
+- van nulgeleider en beschermingsgeleider, is het verboden deze beschermingsgeleider en deze nulgeleider
+- voor de beschermingsgeleider en voor de nulgeleider. Deze schikking moet een rechtstreekse en blijvende
+- verbinding verzekeren van de gemeenschappelijke geleider met de beschermingsgeleider.
+- mingsgeleider van het verdeelnet als zij verbonden zijn met een aardverbinding waarvan de weerstand
+- schermingsgeleider stroomopwaarts van de differentieelstroom beschermings inrichting tot stand gebracht
+- De nulgeleider mag stroomafwaarts van de differentieelstroom beschermings inrichting niet geaard worden.
+- c.4. Bescherming van de nulgeleider
+- De nulgeleider moet geïsoleerd zijn en op dezelfde wijze geplaatst worden als een fasegeleider.
+- bestaat moet een overstroomdetectie voorzien worden in de nulgeleiders behalve in de bijzondere gevallen
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 94 Zij moet de onderbreking veroorzaken van de voeding, de nulgeleider inbegrepen, wanneer:
+- − hetzij de nulgeleider, bij een rechtstreekse fout tussen een fasegeleider en de aarde, een spanning ten
+- gen van de fasegeleiders niet veroorzaakt.
+- Id: foutstroom bij een eerste rechtstreekse fout tussen een fasegeleider en een massa. De waarde Id
+- lijktijdige isolatiefouten in twee verschillende fasen of in een fase en de nulgeleider moeten de bescher-
+- naargelang alle massa’s al dan niet met elkaar verbonden zijn door middel van een beschermingsgeleider.
+- 2. voor zichtbare metalen buizen, voor zover de er in getrokken geleiders een bijkomende isolatie hebben en
+- laagspanningsmaterieel van de klasse I worde n verbonden met de beschermingsgeleider van de elektrische
+- door deze massa’s te verbinden met de beschermingsgeleider van de primaire stroombaan en door,
+- − een fysische scheiding van minimum 10 mm tussen de geleiders van stroombanen op ZLVS en op ZLBS en
+- de geleiders van andere stroombanen;
+- − de geleiders van de stroombanen op ZLVS en op ZLBS moeten, naast hun basisisolatie, voorzien zijn van
+- − een meeraderige kabel of een groepering van geleiders mogen stroombanen op verschillende spanningen
+- bevatten op voorwaarde dat de geleiders van de stroombanen op ZLVS en op ZLBS geïsoleerd zijn, hetzij
+- − beschermingsgeleiders behorende tot andere stroombanen.
+- − de beschermingsgeleiders of massa’s van andere installaties;
+- Onderafdeling 4.3.3.4. Indeling van  de geïsoleerde geleiders en kabels
+- De indeling is van toepassing op de geïsoleerde geleiders en de energiekabels.
+- b. Brandreactie van de geïsoleerde geleiders en kabels.
+- De geïsoleerde geleiders en kabels hebben een brandreactie die wordt aangeduid en beoordeeld overeenkomstig
+- Tabel 4.6. Klassen van de geïsoleerde geleiders en kabels met betrekking tot hun brandreactie
+- geleider en kabel  Klasse  Bijdrage tot de brand  Supplementaire classificatie
+- Geïsoleerde geleiders
+- Geïsoleerde geleiders
+- de geleiders en stan-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 107 Geïsoleerde geleiders
+- De geïsoleerde geleiders en kabels met de kenmerken aangegeven in tabel 4.7.  mogen enkel geplaatst worden
+- 4. geïsoleerde geleiders of kabels, die in een gebouw of een civieltechnisch werk binnenkomen, mits
+- Tabel 4.7. Kenmerken van de geïsoleerde geleiders en kabels met betrekking tot hun brandreactie
+- F Primaire brandreactie: kwalificeert de geschiktheid van de geïsoleerde geleider of kabel om de vuurhaard te versprei-
+- F1 betreft de geïsoleerde geleiders of kabels die, enkelvoudig gelegd en in de proefvoorwaarden, de vlam niet
+- F2 betreft de geïsoleerde geleiders of kabels F1 in bundel en in verticale positie die in de proefvoorwaarden de
+- geïsoleerde geleiders of kabels met betrekking tot de lichtondoorlatendheid van de rookgassen (subcategorie SD) en de
+- SD Geïsoleerde geleider of kabel waarvan de verbrandingsgassen doorschijnend zijn
+- SA Geïsoleerde geleider of kabel waarvan de verbrandingsgassen niet corrosief zijn
+- c. Brandweerstand van de geïsoleerde geleiders en kabels
+- De geïsoleerde geleiders en kabels hebben een brandweerstand die wordt aangeduid en beoordeeld overeenkom-
+- − de samenstellende geïsoleerde geleiders van een kabel;
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 108 Tabel 4.8. Kenmerken van de geïsoleerde geleiders en kabels met betrekking tot hun brandweerstand
+- FR Brandweerstand: kenmerkt de geschiktheid van een geïsoleerde geleider of kabel om in dienst te blijven in weerwil van
+- omstandigheden (geïsoleerde geleider of kabel individueel getest)
+- elektrische functie verzekerd is (geïsoleerde geleider of kabel getest met draagstel en bevestiging)
+- Indien alle samenstellende delen van het geheel (draagstel, geïsoleerde geleider, kabel en bevestiging) de
+- Elke geïsoleerde geleider of kabel die aan het draagstel van een geheel met het kenmerk FR2 of met een ken-
+- b. Geïsoleerde geleiders en kabels
+- De geïsoleerde geleiders en energiekabels beantwoorden ten minste aan de bepalingen van afdeling 5.2.7.
+- De geïsoleerde geleiders en kabels bedoeld in de 1ste en de 2de alinea beantwoorden aan het kenmerk of de
+- In ruimten gekenmerkt door BE2 mogen ook de geïsoleerde geleiders en kabels bedoeld in de 1ste alinea van
+- c. De geleiders en kabels in de ruimten BE2
+- De geïsoleerde geleiders en kabels die door heen dergelijke ruimten lopen, maar die niet bestemd zijn voor de
+- geleiders en kabels  moeten worden beschermd tegen overbelastingen en kortsluitingen door beschermingsin-
+- De blanke geleiders mogen enkel geïnstalleerd worden in schakel - en verdeelborden.
+- Het gebruik van geïsoleerde geleiders en energiekabels met de kenmerken SA en SD of met de aanvullende
+- 1. voor de geïsoleerde geleiders en kabels die zijn geïnstalleerd met de volgende plaatsingswijzen:
+- - de geïsoleerde geleiders in buizen die in een onbrandbare bekleding met een  minimale diepte van 3 cm
+- - de luchtlijnen met geïsoleerde geleiders;
+- - geïsoleerde geleiders in een buis die in een onbrandbare bekleding met een minimale
+- - voor de geïsoleerde geleiders en de kabels in openlucht of in opbouw voor een
+- - voor de geïsoleerde aftakkingsgeleiders in een buis in openlucht of in opbouw.
+- 2. voor de geïsoleerde geleiders die zijn geïnstalleerd gebruik makend van een materiaal (bv. omhuld,
+- bedekt, …) dat voor het geheel (geïsoleerde geleiders en materiaal) een equivalent kenmerk (SA en
+- 5. de samenstellende geïsoleerde geleiders van een kabel;
+- 6. de geïsoleerde geleiders en de kabels van de stroombanen van een elektrische machine of toestel  waarvan
+- De geïsoleerde geleiders en kabels die niet bestaan met de kenmerken SA en SD of met de aanvullende  verkla-
+- opwarming kan ontstaan die gevaarlijk is voor de isolatie, de verbindingen, de geleiders en hun omgeving.
+- Overstromen in geleiders kunnen van drieërlei aard zijn, te weten:
+- − als gevolg van het aansluiten van bijkomende gebruikstoestellen zonder de doorsnede der geleiders te
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 113 − de doorsnede van de geleiders;
+- − de isolatie van de geleiders;
+- De toelaatbare stromen hebben een zodanige waarde dat, door de opwarming van de geleiders ten gevolge van
+- in functie van de doorsnede der geleiders:
+- Tabel 4. 11. Kaliber van de beschermingsinrichting in functie van de doorsnede der geleiders
+- Doorsnede van de geleider
+- ter zijn dan de tijd die nodig is om de temperatuur van de geleiders op hun toelaatbare waarde te brengen.
+- stroom om de temperatuur van de geleiders op de toelaatbare grens te brengen, afgeleid worden uit de
+- S: doorsnede van de geleiders in mm²;
+- k: constante met een waarde die afhangt van de aard van het metaal van de geleiders en van hun isola-
+- ten stroom in de geleiders voor gevolg heeft.
+- Afdeling 4. 4.4. Bescherming tegen overstroom van de fasegeleiders en van de nul-
+- geleider bij installaties op lage en zeer lage spanning
+- Onder afdeling 4. 4.4.1. Onderbreking van de getroffen geleider
+- Alle fasegeleiders moeten beschermd zijn tegen overstroom. Deze bescherming moet de onderbreking veroor-
+- zaken van de geleider waarin de overstroom wordt waargenomen maar moet niet noodzakelijk de onderbreking
+- veroorzaken van de andere actieve geleiders.
+- actieve geleiders behalve indien op dit niveau een differentieelstroom beschermings inrichting bestaat die tege-
+- lijkertijd de bescherming bevat tegen overstroom in één van de  actieve  geleiders en de onderbreking verzekert
+- van de twee actieve geleiders. Deze schakelaar moet voor iedere pool het vereiste onderbrekingsvermogen
+- In installaties, gevoed door een net met TT - of TN -systeem waarin de nulgeleider niet verdeeld is, hoeft de
+- bescherming tegen overstroom niet voorzien te zijn op één van de fasegeleiders onder voorbehoud dat volgen-
+- de onderbreking veroorzaakt van alle fasegeleiders;
+- − nulgeleiders mogen niet verdeeld worden vanaf een kunstmatig nulpunt in de stroomafwaarts gelegen
+- Onder afdeling 4. 4.4.4. Driefasige stroombanen in TT - en TN -netten met verdeelde nulgeleider
+- De bescherming van de nulgeleider geschiedt volgens de volgende voorwaarden:
+- de nulgeleider indien de doorsnede van deze nulgeleider ten minste gelijk of evenwaardig is aan deze der
+- fasegeleiders;
+- − wanneer de doorsnede van de nulgeleider kleiner is dan of niet ten minste evenwaardig is aan deze der
+- fasegeleiders, moet een bescherming tegen overstroom o p de nulgeleider voorzien worden die aangepast is
+- aan de doorsnede van deze geleider. Deze bescherming veroorzaakt de onderbreking van de fasegeleiders,
+- maar niet noodzakelijk van de nulgeleider. In dat geval echter is het toegelaten de bescherming tegen
+- overstroom niet te voorzien op de nulgeleider als aan volgende voorwaarden gelijktijdig voldaan wordt:
+- • de nulgeleider moet beschermd zijn tegen kortsluiting door de beschermingsinrichting op de fasegelei-
+- • de maximumstroom die door de nulgeleider kan vloeien bij normaal gebruik moet kleiner zijn dan de
+- waarde van de toelaatbare stroom in deze geleider.
+- Onder afdeling 4. 4.4.5. IT -net met verdeelde nulgeleider
+- In installaties gevoed door een IT -net is de nulgeleider in principe niet verdeeld. Indien het echter om functio-
+- nele redenen noodzakelijk is de nulgeleider te verdelen, moet een bescherming tegen overstroom voorzien
+- worden op de nulgeleider van elke stroombaan. Deze bescherming moet de onderbreking van al de actieve
+- geleiders van de overeenstemmende stroombaan, de nulgeleider inbegrepen, tot gevolg hebben.
+- stemmende nulgeleider en die alle actieve geleiders van de overeenkomende stroombaan, de nulgeleider
+- − hetzij als de nulgeleider stroomopwaarts beschermd is door een beschermingsinrichting tegen kortsluiting.
+- Onder afdeling 4. 4.4.6. PEN -geleider
+- Indien de nulgeleider tegelijkertijd de functie van beschermingsgeleider vervult is het verboden deze te onder-
+- Onder afdeling 4. 4.4.7. Onderbrekingsvolgorde van de fasegeleiders en de nulgeleider
+- Wanneer de onderbreking van de nulgeleider voorgeschreven is, moet de onderbreking en sluiting van de gelei-
+- ders zo zijn dat de nulgeleider nooit vroeger onderbroken wordt dan de fasegeleiders en dat hij gesloten wordt
+- gelijktijdig of eerder dan de fasegeleiders.
+- installatie tussen de aardverbinding van de installaties en hetzij de nulgeleider, hetzij een fasegeleider.
+- Afdeling 4. 5.4. Gemeenschappelijke buizen voor energiegeleiders en telecommuni-
+- catiegeleiders
+- Het is verboden energiegeleiders en telecommunicatiegeleiders naast elkaar aan te brengen zonder er een
+- telecommunicatiegeleiders als zij elektrische machines, toestellen of leidingen verbinden gelegen in ruimten
+- Onderafdeling 5.1.6.2. Kleurcode van geïsoleerde geleiders  ................................ .... 124
+- Onderafdeling 5.2.1.3. Plaatsing van de geleiders  ................................ ................  126
+- Onderafdeling 5.2.1.4. Isolatie van de geleiders  ................................ ..................  126
+- geleiders  ................................ ................................ ................................  134
+- Onderafdeling 5.2.4.3. Bescherming van blanke geleiders verschillend van deze van
+- Onderafdeling 5.2.7.2. Afzonderlijk geïnstalleerde geïsoleerde geleiders en kabels  ........  137
+- Onderafdeling 5.2.7.3. In bundel of in laag geïnstalleerde geïsoleerde geleiders en kabels  137
+- HOOFDSTUK 5.4. AARDINGEN, BESCHERMINGSGELEIDERS EN EQUIPOTENTIALE VERBINDINGEN  .......  170
+- Onderafdeling 5.4.2.2. Aardgeleider  ................................ ................................  174
+- Afdeling 5.4.3. Beschermingsgeleiders  ................................ ................................ ... 174
+- Onderafdeling 5.4.3.1. Aard van de geleiders  ................................ .....................  174
+- Onderafdeling 5.4.3.2. Minimumdoorsnede van de geleiders  ................................ .... 175
+- Onderafdeling 5.4.3.3. Merken van de geleiders  ................................ ..................  176
+- Onderafdeling 5.4.3.4. Installeren van de geleiders  ................................ ..............  176
+- Onderafdeling 5.4.3.6. Verbinding van de beschermingsgeleiders met het elektrisch materieel
+- Onderafdeling 5.1.6.2. Kleurcode van geïsoleerde geleiders
+- In de buizen en de elektrische leidingen moeten de met vaste isolatiematerialen geïsoleerde geleiders, ge-
+- − als beschermingsgeleider (PE al dan niet geaard);
+- − als nulgeleider, indien deze eveneens als beschermingsgeleider dient (PEN -geleider).
+- De voormelde kleurcombinatie is aanwezig over de gehele lengte van de geïsoleerde geleiders.
+- combinatie is verboden in de isolatiematerialen van actieve geleiders met uitzondering van de nulgeleider die
+- de functie van beschermingsgeleider (PEN) vervult.
+- zover hun geleiderdoorsnede kleiner is dan 1,5 mm².
+- Met uitzondering van halfvlakke VTLBp -kabels moet de met vaste isolatiematerialen geïsoleerde geleider, ge-
+- merkt door de blauwe kleur, voorbehouden worden aan de nul - of compensatorgeleider (N) in de stroombanen
+- die zulk een geleider bezitten.
+- Wanneer de stroombaan geen nulgeleider bevat, mag de blauwe geleider van meerpolige kabels voor een ander
+- doel gebruikt worden, behalve als beschermingsgeleider.
+- Het is verboden voor de normale transmissie  van elektrische energie als geleider te gebruiken:
+- − de metalen omhulsels van geïsoleerde elektrische geleiders;
+- wordt het gebruik van geïsoleerde geleiders met een doorsnede kleiner dan 2,5 mm² verboden.
+- Nochtans worden uitzonderingen toegestaan voor de geleiders van de elektrische leidingen, opgenomen in ta-
+- Tabel 5.1. Elektrische leidingen waarvan de geleiders een doorsnede kleiner dan 2,5 mm² mogen hebben
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 126 Onderafdeling 5.2.1.3. Plaatsing van de geleiders
+- Een meeraderige kabel of een groepering van geleiders mogen stroombanen op verschillende spanningen bevat-
+- ten op voorwaarde dat de geleiders geïsoleerd zijn , hetzij individueel , hetzij collectief , voor de hoogst voor-
+- vermijden dat bij een eventueel galvanisch contact tussen geleiders van verschillende stroombanen de veilig-
+- De éénaderige kabels en de geïsoleerde geleiders behorend tot eenzelfde stroombaan moeten in de onmiddel-
+- mingsgeleider.
+- Onderafdeling 5.2.1.4. Isolatie van de geleiders
+- In gewone ruimten moeten alle actieve geleiders van elektrische leidingen in principe samengesteld zijn uit
+- geleiders die op een zekere en duurzame wijze met behulp van een continue bekleding geïsoleerd zijn.
+- Het is evenwel toegelaten blanke actieve geleiders te gebruiken:
+- In de binneninstallaties moeten alle actieve geleiders samengesteld zijn uit geleiders die op een zekere en
+- duurzame wijze geïsoleerd zijn. Het is evenwel toegelaten blanke geleiders te gebruiken:
+- deze afhellen naar het vochtigste lokaal en worden ze derwijze geplaatst dat de geleiders vrij geventileerd
+- ten worden. Indien de doorvoer wordt uitgevoerd als in buizen geplaatste geleiders zijn deze waterdicht en hun
+- Bovendien mogen de geleiders en kabels rechtstreeks in de vloer geplaatst worden. Er moet echter rekening
+- leiden. Als blanke geleiders rechtstreeks in de vloer aangebracht worden, moeten ze op zeer lage spanning
+- gen op zeer lage veiligheidsspanning met uitzondering van de rechtstreekse plaatsing van de blanke geleiders in
+- Andere plaatsingswijzen voor elektrische geleiders en leidingen moeten beantwoorden aan de desbetreffende
+- van de geleiders
+- Actieve geleiders van elektrische leidingen moeten beschermd worden tegen overstroom tenzij ze aangesloten
+- 1. voor een nominale stroom kleiner dan of gelijk aan 2,5 A, de minimumdoorsnede van de geleiders ten min-
+- geleiders ten minste 1,5 mm² is;
+- 3. voor een nominale stroom groter dan 16 A, de minimumdoorsnede van de geleiders overeenstemt met de-
+- elektromagneten voor laad - en hijstoestellen , ... De doorsnede van de geleiders van deze stroombanen moet
+- Onderafdeling 5.2.4.3. Bescherming van blanke geleiders verschillend van deze van luchtlijnen
+- - de aard en de kenmerken van het metaal van de geleider (volumetrische massa, massawarmte  en
+- - de maximale bedrijfstemperatuur van de geleider;
+- - de maximale opwarming van de geleider die wordt vastgesteld  op 250°C.
+- met betrekking tot de berekening van de doorsnede van de blanke geleiders verschillend van deze van
+- dan moet de wartelinvoer aangedrukt worden op deze mantel en niet op de isolatie der geleiders. Wanneer de
+- In de buizen en de elektrische leidingen moeten de met vaste isolatiematerialen geïsoleerde geleiders, ge-
+- − als beschermingsgeleider (PE al dan niet geaard);
+- − als nulgeleider, indien deze eveneens als beschermingsgeleider dient (PEN -geleider).
+- De voormelde kleurcombinatie is aanwezig over de gehele lengte van de geïsoleerde geleiders.
+- combinatie is verboden in de isolatiematerialen van actieve geleiders met uitzondering van de nulgeleider die
+- de functie van beschermingsgeleider (PEN) vervult.
+- zover hun geleiderdoorsnede kleiner is dan 1,5 mm².
+- steld. Bovendien mogen de aansluitingen van geleiders met de toestellen niet onderworpen worden aan trek - of
+- De aansluiting van de geleiders met de toestellen moet verwezenlijkt worden volgens de regels van goed vak-
+- De snoeren moeten een voldoende aantal geleiders bevatten die elektrisch gescheiden zijn en mechanisch een
+- geheel vormen met inbegrip van de beschermingsgeleider wanneer deze noodzakelijk is.
+- beschermingsgeleiders.
+- 1. de samenstellende geïsoleerde geleiders van een kabel;
+- 2. de geïsoleerde geleiders en de kabels van de stroombanen van een elektrische machine of toestel  waarvan
+- 3. voor de geïsoleerde geleiders en kabels die zijn geïnstalleerd (afzonderlijk of in bundel/laag) met de
+- - de geïsoleerde geleiders in buizen die in een onbrandbare bekleding met een minimale diepte van 3
+- - de luchtlijnen met geïsoleerde geleiders;
+- - geïsoleerde geleiders in een buis die in een onbrandbare bekleding met een minimale
+- - voor de geïsoleerde geleiders en de kabels in openlucht of in opbouw voor een aansluiting op een
+- - voor de geïsoleerde aftakkingsgeleiders in een buis in openlucht of in opbouw.
+- Onderafdeling 5.2.7.2. Afzonderlijk geïnstalleerde geïsoleerde geleiders en kabels
+- De afzonderlijk geïnstalleerde geïsoleerde geleiders en kabels hebben ten minste het kenmerk F1 of ten minste
+- Dit voorschrift is niet van toepassing op de geïsoleerde geleiders en kabels die zijn geïnstalleerd gebruik ma-
+- kend van een materiaal (bv. omhuld, bedekt, …) dat aan deze geïsoleerde geleiders en kabels ten minste een
+- De geïsoleerde geleiders en kabels die niet bestaan met het kenmerk F1 of ten minste de klasse E ca moeten
+- De geïsoleerde geleiders en kabels, die op een bestaand draagstel worden toegevoegd, worden gekozen en
+- geleiders en kabels zijn geplaatst en hebben de geschikte kenmerken of klassen van onderafdeling 5.2.7.2.  of
+- Onderafdeling 5.2.7.3. In bundel of in laag geïnstalleerde geïsoleerde geleiders en kabels
+- De in bundel of in laag geïnstalleerde geïsoleerde geleiders en kabels hebben ten minste het kenmerk F2 of ten
+- van de afstand waarover de geïsoleerde geleiders en kabels effectief in bundel of in laag geïnstalleerd zijn.
+- 1. de geïsoleerde geleiders en kabels die zijn geïnstalleerd gebruik makend van een materiaal (bv.
+- omhuld, bedekt, …) dat aan deze geïsoleerde geleiders en kabels ten minste een kenmerk equivalent
+- De geïsoleerde geleiders en kabels die niet bestaan met het kenmerk F2 of ten minste de klasse C ca moeten
+- ring van de onafhankelijke beschermingsgeleiders  (PE).
+- In buizen mogen geïsoleerde geleiders of kabels geplaatst worden.
+- de geleiders of kabels gemakkelijk te trekken of te verwijderen na plaatsing van de buizen en hun onderdelen.
+- − het moet steeds mogelijk zijn er de geleiders  of kabels  in te trekken of er uit te verwijderen;
+- − ze mogen de isolatie der geleiders en de kabels niet kunnen beschadigen en dit vooral aan de uiteinden;
+- − verbindingen, aansluitingen of draadlassen tussen geleiders  of kabels  te verwezenlijken in de buizen;
+- In de verbindings -, aftak - en trekdozen moeten de geleiders of kabels toegankelijk blijven en knie - en T-
+- Geïsoleerde geleiders of eenaderige kabels mogen geplaatst worden onder sierlijsten, holle plinten en lijsten.
+- Indien de sierlijsten, plinten of lijsten gemaakt zijn uit brandbaar materiaal, moeten de geleiders of eenaderi-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 142 De gleuven van sierlijsten, holle plinten en lijsten moeten dusdanige afmetingen hebben dat de geleiders  of
+- In de houten sierlijsten mag slechts één geleider of eenaderige kabel per gleuf geplaatst worden, tenzij deze
+- geleiders of eenaderige kabels tot één en dezelfde stroombaan behoren.
+- doorgang van geleiders  of eenaderige kabels .
+- beschermingsgeleiders (PE) en de onafhankelijke PEN-geleiders.
+- de elektrische leidingen, niet kunnen leiden tot breuk of vervorming van de geleiders . Deze trekkrachten mo-
+- De plaatsing van geleiders  die alleen van basisisolatie zijn voorzien is verboden in open goten , met uitzondering
+- van de onafhankelijke beschermingsgeleiders (PE) en de onafhankelijke PEN-geleiders.
+- De geïsoleerde geleiders mogen geplaatst worden in gesloten goten .
+- Indien geïsoleerde geleiders geplaatst zijn in gesloten goten die zich buiten de lokalen van de elektrische
+- De geleiders, kabels en buizen, te plaatsen in holle constructieruimten, beantwoorden aan de bepalingen van
+- Het is verboden geleiders die alleen  van basis isolatie voorzien zijn te plaatsen in holle constructieruimten (van
+- Het is verboden geleiders die alleen  van basis isolatie voorzien zijn verzonken te plaatsen in wanden , vloeren en
+- Het is verboden geleiders die alleen van basisolatie voorzien zijn verzonken te plaatsen in de muren van loka-
+- − hetzij als al dan niet geïsoleerde geleiders.
+- b.1. Blanke geleiders
+- De geleiders in de vorm van draden of kabels moeten voldoende aangespannen worden zonder dat hun
+- De afstand tussen geleiders van verschillende polariteit moet 10 cm zijn voor een spanwijdte kleiner dan
+- plaatsen van de steunen of door tussenplaatsing van een isolatiestof. De afstand tussen de geleiders en de
+- b.2. Rail - of buisgeleiders
+- De afstand tussen rail - en buisgeleiders en de aangrenzende elektrische leidingen of buizen moet ten min-
+- Indien ze verbonden zijn met geïsoleerde geleiders is het toegelaten dat, in normaal bedrijf, de tempera-
+- tuur van deze geleiders over een bepaalde lengte de waarde overtreft die door de isolatie kan verdragen
+- b.3. Geïsoleerde geleiders
+- − de geleiders van verschillende polariteit ten minste 1,5 cm van elkaar liggen;
+- − de geleider, eens geplaatst, zich bevindt op ten minste 1 cm van wanden en voorwerpen bij de uit-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 145 − kleiner zijn dan 1,20 m voor koperen geleiders met een doorsnee kleiner dan of gelijk aan 10 mm ²;
+- − kleiner zijn dan 1,50 m voor koperen geleiders met een doorsnede groter dan 10 mm ²;
+- geleiders met twee afmetingen of op een steun geplaatste lineaire geleiders, die dunne bladen op panelen
+- mogen d e actieve geleiders blank blijven op voorwaarde dat de voedingsbron op zeer lage
+- geplaatst zijn, zoals de geleiders van andere elektrische stroombanen. Ze mogen in het verwarmend
+- verwarmingselementen, met name een verwarmende geleider of kabel uitgerust met zijn elektrische -
+- Voor deze bescherming mogen de actieve geleiders blank blijven op voorwaarde dat de voedingsbron op
+- Andere plaatsingswijzen voor elektrische geleiders en leidingen moeten beantwoorden aan de desbetreffende
+- − bijkomende equipotentiaalgeleiders;
+- herstellingen. Deze inrichtingen moeten alle actieve geleiders onderbreken met inbegrip van de nulgelei-
+- − in het TN -C-systeem waar het onderbreken van de PEN geleider verboden is;
+- − in het TN -S-systeem waar het toegelaten is de nulgeleider niet te onderbreken;
+- − in het TT -systeem, waar het onderbreken van de nulgeleider wordt verwezenlijkt onder de voorwaar-
+- Wanneer transformatoren voorzien worden om parallel geschakeld te werken en waarbij de nulgeleiders
+- leider en de fasegeleiders onderbreken.
+- Inrichtingen met halfgeleiders mogen niet aangewend worden voor scheidingsdoeleinden.
+- − speciaal ontworpen contactklemmen waarbij het verplaatsen van een geleider niet vereist is;
+- hoofdvoedingsstroombaan. Zij dienen niet noodzakelijk alle actieve voedingsgeleiders te onderbreken. De
+- c. Onderbreking van geleiders
+- Wanneer er geen gevaren uit voortspruiten is het toegelaten niet al de actieve geleiders te onderbreken.
+- nulgeleider.
+- De stuurinrichtingen die de omschakeling van voedingsbronnen verzekeren moeten op alle actieve geleiders
+- In de TN -installaties is het  echter  toegelaten de nulgeleider niet te onderbreken wanneer de nulgeleiders van
+- De delen waarlangs de geleiders binnengaan in de buitenverlichtingstoestellen moeten zo geplaatst zijn dat ze
+- de isolerende mantel van de geleiders niet beschadigen en dat het indringen van vocht in de lamphouder ver-
+- beeld bij het onderhoud ervan) noch de val van de toestellen kan veroorzaken noch de isolatie van de geleiders
+- − de ophanging wordt niet verzekerd door bevestiging aan de voedingsgeleiders;
+- Toch mag men de geleiders ook als ophangdraden gebruiken wanneer de verbindingen met de lampen, de ver-
+- neer het gewicht van het opgehangen toestel 5 kg niet overschrijdt. Bovendien mag in de kern van de geleider
+- De opgehangen verlichtingstoestellen moeten zo opgesteld worden dat hun geleiders niet kunnen beschadigd
+- Het is verboden de aarde of een metalen structuur als stroomgeleider te gebruiken.
+- ling of tussen de tussenliggende lamphouders, wordt er gebruik gemaakt van een geleidertype voorzien
+- verbinding zal geaard worden via een beschermingsgeleider.
+- tijdige onderbreking mogelijk maakt van alle fasen, en eventueel van de nulgeleider. Zijn nominale stroom-
+- is met de beschermingsgeleider van de elektrische leiding behalve wanneer de contactdoos gevoed wordt via
+- c. Onderbreking van de geleiders
+- De differentieelstroom beschermings inrichting moet de onderbreking verzekeren van alle actieve geleiders van
+- De magnetische kring van de transformator in het beschermingstoestel moet alle actieve geleiders van de
+- stroombaan omsluiten, de nulgeleider inbegrepen. De overeenkomstige beschermingsgeleider moet daarente-
+- Om de bescherming te verzekeren van een toestel op een stroombaan met vier geleiders is het dus verboden
+- nulgeleider geaard is.
+- sloten zijn: een drie - of vierpolig toestel mag een stroombaan met twee of drie geleiders beschermen.
+- ve geleiders van het net als de toestellen niet in bedrijf zijn.
+- geval voor bepaald elektrisch materieel dat halfgeleiderschakelingen bevat (dioden, thyristoren...).
+- g. Massa’s en beschermingsgeleider
+- De nulgeleider is stroomafwaarts van de differentieelstroom beschermings inrichting niet meer geaard.
+- − om het gevaar, dat ontstaat door de breuk van de beschermingsgeleider die de massa’s van het elektrisch
+- mingsgeleider zonder dat deze breuk kan opgemerkt worden;
+- De schakelaar s met scheidingsfunctie verzekeren de gelijktijdige onderbreking  van alle fasegeleiders.
+- den door middel van stugge geleiders .
+- Deze verbinding verwezenlijkt met soepele geleiders wordt eveneens toegelaten voor zover de draadjes aan
+- thermische  belasting in de beschermde geleiders
+- C’: toegelaten I²t-diagram van de geleiders
+- − de spanning tussen fase - en nulgeleider indien de stroombaan een verdeelde nulgeleider bevat;
+- − de spanning tussen fasen, indien de stroombaan geen verdeelde nulgeleider bevat.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 169 L: de ontwik kelde lengte, in meter, van de geleiders van de elektrische leiding.
+- : de soortelijke weerstand van het metaal van de geleider.
+- De weerstand van de  geleiders van de stroombaan moet in rekening gebracht worden voor de gemid-
+- Men kan rekening houden met de reactantie -invloeden van geleiders met grote doorsneden door de
+- S:  de doorsnede, in mm², van de  geleiders.
+- i. Bescherming van parallelle geleiders
+- Wanneer eenzelfde  beschermingsinrichting meerdere parallel geschakelde geleiders beschermt tegen de kort-
+- − de maximale thermische belasting waaraan de geleiders mogen blootgesteld worden.
+- Hoofdstuk 5.4. Aardingen, beschermingsgeleiders en equipotentiale
+- Dit hoofdstuk behandelt de bepalingen voor aardingen, beschermingsgeleiders en equipotentiale verbindingen
+- De aardingslus is vervaardigd  hetzij uit een volle geleider met cirkelvormige doorsnede en zonder
+- de mate van het mogelijke omvat de lus slechts één geleider. Nochtans, het gebruik van meerdere
+- aan elkaar verbonden geleiders wordt toegelaten onder voorbehoud van het in  acht nemen van de
+- b.1.3. Geleider doorsnede van de aardingslus
+- De geleider doorsnede van de aardingslus is een geometrische doorsnede die ten minste 35 mm²
+- De volle geleider is vervaardigd uit  blank gehard elektrolytisch koper of uit verlood koper.
+- Dit laatste wordt  aangewend wanneer het terrein waarin de geleider geplaatst wordt vermoedelijk
+- niet de nodige waarborgen biedt tegen schadelijke corrosieve inwerking op het  koper. De geleider
+- metaal van de geleider die de aardingslus vormt.
+- b.1.6. Uiteinden van de geleider(s) van de aardingslus
+- samengesteld uit meerdere in serie geplaatste geleiders moeten de uiteinden van elke geleider en
+- a) de horizontaal in de grond ingegraven metalen geleider;
+- b) de verticaal of schuin in de grond gedreven staven , pennen of geleiders.
+- b.3. Horizontaal in de grond ingegraven metalen geleiders
+- De horizontaal in de grond ingegraven metalen geleider is een volle geleider met cirkelvormige door -
+- snede uit koper of verlood koper. Dit laatste wordt gebruikt wanneer het terrein waarin de  geleider
+- het koper. Zijn doorsnede is een geometrische doorsnede die ten minste 35 mm² bedraagt.  De geleider
+- b.4. Verticaal of schuin in de grond gedreven metalen staven , pennen of geleiders
+- c) in de grond gedreven metalen geleiders.
+- b.7. Verticaal i n de grond gedreven geleiders
+- De in de grond gedreven geleiders zijn vervaardigd  uit blank gehard elektrolytisch koper met een
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 172         geometrische doorsnede van ten minste 50 mm². De geleider wordt  in de grond gedreven door
+- mechanische trillingen. Op het uiteinde van de geleider wordt een stalen kop geplaatst teneinde elke
+- beschadiging bij het indrijven te vermijden.  De geleider heeft een minimumlengte van 6 meter.
+- b.8.4. In de grond gedreven koperen geleiders
+- De in de grond gedreven koperen geleider is vervaardigd uit één stuk .
+- en als deze uit meerdere met elkaar verbonden geleiders bestaat, moeten de uiteinden van elke
+- geleider en hun verbindingen bereikbaar blijven onder dezelfde voorwaarden dan deze van de
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 173          van de aardgeleider tussen de gemeenschappelijke aardingsonderbreker en de
+- Onderafdeling 5.4.2.2. Aardgeleider
+- De minimumdoorsnede van een aardgeleider, met inbegrip van de aardgeleider van het nulpunt, moet bere-
+- kend worden zoals deze van een beschermingsgeleider.
+- Blanke of geïsoleerde aluminiumgeleiders mogen niet ingegraven worden.
+- Afdeling 5.4.3. Beschermingsgeleiders
+- Onderafdeling 5.4.3.1. Aard van de geleiders
+- Als beschermingsgeleiders mogen gebruikt worden:
+- − onafhankelijke geleiders;
+- − geleiders die zich in dezelfde elektrische leiding bevinden als de actieve geleiders van de installatie, voor
+- zover zij op dezelfde wijze geïsoleerd zijn als de andere geleiders;
+- dat de desbetreffende regels het voorzien. Zij mogen slechts gebruikt worden als beschermingsgeleider van
+- • andere beschermingsgeleiders moeten erop aangesloten kunnen worden;
+- nulgeleider en de beschermingsgeleider dezelfde zijn (TN -C net) en wanneer zij tezelfdertijd voldoen aan
+- In huishoudelijke elektrische installaties mogen uitsluitend koperen beschermingsgeleiders gebruikt worden. Zij
+- Onderafdeling 5.4.3.2. Minimumdoorsnede van de geleiders
+- De minimum doorsnede Sp van de beschermingsgeleider, in mm², moet ten minste gelijk zijn aan de waarde
+- − k: een constante, waarvan de waarde afhangt van de aard van het metaal van de beschermingsgeleider
+- Tabel 5.9. k -waarden voor beschermingsgeleiders
+- k-waarden voor ge ïsoleerde beschermingsgeleiders die geen deel uitmaken van de kabels of voor blanke
+- beschermingsgeleiders in contact met de bekleding van kabels
+- geleider  Aard van de isolatie van de beschermingsgeleiders of van de bekleding van kabels
+- k-waarden voor beschermingsgeleiders die deel uitmaken van een meerdradige kabel
+- geleider  Aard van de isolatie van de beschermingsgeleiders
+- k-waarden voor blanke geleiders die geen enkel materiaal raken dat beschadigd kan worden door de maximum
+- geleider  Plaatsingsomstandigheden
+- doorsnede van de geleiders beantwoordt aan de voorschriften van tabel 5.10 .
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 176 Tabel 5.10. Minimumdoorsnede van de beschermingsgeleider
+- Doorsnede van de geleiders
+- mingsgeleider (Sp in mm²)
+- Wanneer de toepassing van deze regel tot een niet -genormaliseerde waarde leidt, moet een geleider gebruikt
+- De aldus vastgestelde waarden gelden slechts indien de beschermingsgeleiders uit hetzelfde metaal zijn ver-
+- vaardigd als de actieve geleiders. Indien dit niet het geval is moet de doorsnede van de beschermingsgeleiders
+- nimumdoorsnede van de beschermingsgeleider zoals deze bekomen wordt door toepassing van de tabel.
+- Wanneer de beschermingsgeleider geen deel uitmaakt van de elektrische voedingsleiding moet zijn doorsnede
+- De minimale doorsnede van de hoofdbeschermingsgeleider wordt als deze van een beschermingsgeleider bere-
+- Onderafdeling 5.4.3.3. Merken van de geleiders
+- Wanneer de beschermingsgeleider, die al of niet deel uitmaakt van de kabel, voorzien is van een isolatie moet
+- Het merken met deze kleur van een geleider van de vlakke snoeren, met 3 geleiders en zonder bijkomende
+- mantel, is niet noodzakelijk. In dit geval vervult de middelste geleider de functie van beschermingsgeleider,
+- indien de beschouwde stroombaan een beschermingsgeleider bevat.
+- met geel -groene kleur, dan mag de aanduiding van de beschermingsgeleider gebeuren met een andere kleur
+- dan de geel -groene, op voorwaarde dat ze niet blauw is en verschilt van de enige kleur van de fasegeleiders.
+- Onderafdeling 5.4.3.4. Installeren van de geleiders
+- De beschermingsgeleiders moeten voldoende beschermd worden tegen mechanische en chemische beschadiging
+- scheidingsschakelaar worden aangebracht in de beschermingsgeleider.
+- Onderafdeling 5.4.3.6. Verbinding van de beschermingsgeleiders met het elektrisch materieel
+- mingsgeleider kan verbonden worden.
+- stroom beschermings inrichting(en), een beschermingsgeleider bevatten. De schakelaars van het  huishoudelijk e
+- a. Doorsnede van de geleiders
+- De hoofdequipotentiale geleider moet ten minste een doorsnede hebben die gelijk is aan de helft van de groot-
+- ste beschermingsgeleider van de installatie, de aardgeleider uitgezonderd, met een minimum koperdoorsnede
+- − 25 mm² indien de geleider uit koper is;
+- De hoofdequipotentiale geleider voldoet aan de voorschriften betreffende de beschermingsgeleider. Hij moet
+- De hoofdequipotentiale geleider is voorzien van een isolatie met geel -groene kleur.
+- a. Doorsnede van de geleiders
+- De doorsnede van de geleiders van de bijkomende equipotentiale verbinding moet ten minste gelijk zijn aan:
+- − de helft van deze van de beschermingsgeleider die met een massa verbonden is, de aardgeleider uitgeslo-
+- − de kleinste doorsnede van de beschermingsgeleiders, verbonden met de massa’s van verschillende toestel-
+- gevolg heeft dat in de beschermingsgeleider met de kleinste doorsnede een foutstroom gaat vloeien die
+- een thermische belasting veroorzaakt groter dan deze toelaatbaar voor deze geleider.
+- − 2,5 mm² wanneer de geleiders mechanisch beschermd zijn;
+- 4 mm² wanneer de geleiders niet mechanisch beschermd zijn.
+- De bijkomende equipotentiale geleiders moeten geplaatst en verbonden worden overeenkomstig de voorschrif-
+- ten van toepassing op beschermingsgeleiders ( onderafdelingen 5.4.3.4.  en 5.4.3.6. ).
+- De bijkomende equipotentiale geleiders zijn voorzien van een isolatie met geel -groene kleur.
+- De onafhankelijke beschermingsgeleiders en de kabels  ten behoeve van communicatie en informatietechnolo-
+- zijn de geïsoleerde geleiders, de kabels en hun toebehoren:
+- Indien alle samenstellende delen van het geheel (draagstel, geïsoleerde geleider, kabel en bevestiging) de
+- Elke geïsoleerde geleider of kabel die aan het draagstel van een geheel met het kenmerk FR2 of met een ken-
+- Om de doorsnede van de geleiders te berekenen, moeten de verhoging van de weerstand van de geleiders van
+- snede van de geleiders van de elektrische leiding kan volgens de regels van goed vakmanschap berekend wor-
+- − het is verboden om een driefasige IT -systeem met verdeelde nulgeleider te gebruiken.
+- De elektrische leidingen van de veiligheidsstroombanen mogen alleen de geleiders van de veiligheidsstroomba-
+- − het is verboden om een driefasige IT -systeem met verdeelde nulgeleider te gebruiken.
+- De elektrische leidingen van de kritische stroombanen mogen alleen de geleiders van de kritische stroombanen
+- equipotentiale verbindingen (hoofd - en bijkomende) en van de beschermingsgeleiders van de
+- beschermingsgeleiders van de contactdozen en van de vaste, vast opgestelde of verplaatsbare
+- (12) beschermingsgeleider van de eindstroombaan van de ruimte die een bad bevat.
+- de beschermingsgeleiders verbonden zijn met een aardverbinding waarvan de spreidingsweerstand niet groter
+- Met uitzondering van de onafhankelijke beschermingsgeleiders (PE), mogen geïsoleerde geleiders niet worden
+- toegepast voor actieve geleiders, tenzij deze worden ondergebracht in schakel - en verdeelborden, behuizingen
+- kabel is geïntegreerd, mag dit niet de enige beschermingsgeleider zijn.
+- De geïsoleerde geleiders en kabels moeten aan de eisen van onderafdeling  5.2.7.3.  beantwoorden, met uit-
+- zondering van de geïsoleerde geleiders en kabels bedoeld in onderafdelingen 5.2.7.1.
+- Nadat de geleiders of kabels in de installatiebuizen zijn aangebracht, moeten de afdichtingen worden gevuld
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 260 Niet-gebruikte geleiders dienen op vrije klemmen te worden aangesloten.
+- Het aansluiten van meer dan één geleider op een aansluitklem is slechts toegestaan wanneer de documentatie
+- bij het materieel hierin voorziet. Bijzondere aandacht dient te worden besteed bij het aansluiten van geleiders
+- Om het kortsluitrisico tussen aangrenzende geleiders tot een minimum te beperken moet de isolatie van elke
+- geleider tot aan het metaal van de aansluitklemmen in stand gehouden zijn.
+- Geleiders van intrinsiek veilige stroombanen en niet -intrinsiek veilige stroombanen mogen niet gemeenschap-
+- aanwezige bijkomende potentiaalvereffeningsgeleider;
+- Wanneer door de aanwezigheid van andere blauwe geleiders of kabels het risico voor verwarring bestaat tussen
+- geleidende delen van de andere geleiders;
+- − de markering van de gelijkstroomgeleiders en de actieve wisselstroomgeleiders;
+- structuur door een beschermingsgeleider van een doorsnede ten minste equivalent met deze van de be-
+- schermingsgeleider van de AC voeding, met een minimum doorsnede gelijk aan:
+- − 2,5 mm² wanneer de geleiders mechanisch beschermd zijn;
+- − 4 mm² wanneer de geleiders niet mechanisch beschermd zijn.
+- 12 of 10 A) – Grootte van de houder en doorsnede van de geleiders
+- − onderafdeling 5.2.1.2. , de elektrische leidingen in dienst te laten waarvan de geïsoleerde geleiders een
+- doorsnede hebben die kleiner is dan 2,5 mm² maar ten minste gelijk is aan 1 mm². De geleiders van 1 mm²
+- Grootte van de houder  Doorsnede van de geleiders in mm²
+- beschermingsgeleider heeft, op voorwaarde dat deze contactdozen door een differentieelstroom -
+- 10. Kleurcode van de geleiders van kabels en van geïsoleerde geleiders
+- − een beschermings -, aard -, of equipotentiaalgeleider die niet gemarkeerd is door de groene en gele kleur-
+- − actieve of beschermingsgeleiders waarvan de isolatie met groene of gele kleur is uitgevoerd.
+- Het gebruik van geïsoleerde actieve geleiders gemarkeerd door de groene en gele kleurcombinatie zoals be-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 277 11. Aardgeleider
+- In afwijking van de voorschriften van onderafdeling 5.4.2.2.  is het toegelaten een koperen aardgeleider in
+- 12. Beschermingsgeleider
+- binden met de beschermingsgeleider van de elektrische leiding.
+- het toegelaten elektrische leidingen in dienst te laten die geen beschermingsgeleider bevatten op voorwaarde
+- Het is eveneens toegelaten een beschermingsgeleider in dienst te laten die zich buiten de elektrische leiding
+- Het is toegelaten de beschermingsgeleider te installeren buiten de elektrische leidingen, daar waar het niet
+- mogelijk is deze beschermingsgeleider in de bestaande buizen te trekken.
+- • geïsoleerde geleiders geïnstalleerd in laag of in bundel die het kenmerk F1 of de klasse Eca hebben
+- • geïsoleerde geleiders en kabels ten minste van het type met versterkte isolatie voor de plaatsing
+- • geïsoleerde geleiders en kabels van het niet -vlamverspreidend type in holle constructieruimten;
+- isolatie, de verbindingen, de geleiders of de omgeving.
+- Geleiders of geleidende delen in de buurt van geleiders onder spanning kunnen elektrische invloeden onder-
+- zorgsmaatregelen worden getroffen bij de uitvoering van werkzaamheden op de vermelde geleiders of gelei-
+- − door aarding op passende tussenafstanden om zo de spanning tussen geleiders en aarde tot een veilig ni-
+- De afwezigheid van spanning moet met de aangepaste uitrustingen worden nagegaan op alle actieve geleiders
+- Wanneer er tijdens de werkzaamheden geleiders moeten worden doorgesneden of aangesloten en indien er een
+- geleiders aangepaste maatregelen binnen de werkzone worden getroffen, zoals overbruggen en/of aarden.
+- geleiders»  zijn onderworpen  aan de voorschriften van de afdelingen 9.3.1. tot 9.3.5.  en aan het verkrijgen
+
+## Zoekresultaten voor 'doorsnede'
+
+- Figuur 5.28. Schematische doorsnede van een sleuf  ................................ ................................ ..... 144
+- Figuur 8.1. Aanduiding van een stroombaan met een doorsnede kleiner dan 1,5 mm²  ............................  275
+- Tabel 4.11. Kaliber van de beschermingsinrichting in functie van de doorsnede der geleiders  ...................  113
+- Tabel 5.1. Elektrische leidingen waarvan de geleiders een doorsnede kleiner dan 2,5 mm² mogen hebben  ... 125
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − INHOUD  | ix Tabel 5.10. Minimumdoorsnede van de beschermingsgeleider waarbij het berekenen van de waarde van S p niet
+- (maat 12 of 10 A) – Minimumdoorsnede en kalibreer -element  ................................ .................  274
+- (maat 12 of 10 A) – Minimumdoorsnede en normalisatiebladen  ................................ ................  275
+- (maat 12 of 10 A) – Grootte van de houder en doorsnede van de geleiders  ................................ .. 275
+- Geometrische doorsnede van een geleider: fysische doorsnede van een geleider die meetbaar is met behulp
+- Equivalente elektrische doorsnede: doorsnede toegekend aan een geleider die aan de stroomdoorgang een
+- weerstand biedt die gelijk is aan deze die geboden wordt door een koperen geleider met voor melde  doorsnede
+- als geometrische doorsnede en waarvan de weerstand bij 20  °C 1,83 /km bedraagt bij een doorsnede van 10
+- sche leiding, hetzij de plaats waar de doorsnede, aard of samenstelling van de elektrische leiding of haar
+- − de kenmerken van de elektrische leidingen: type, doorsnede, aantal geleiders;
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 3 BEPALING VAN DE KARAKTERISTIEKEN  | 63       - de aard, het aantal en de doorsnede van de geleiders;
+- den overeenkomstig de regels van goed vakmanschap, de doorsnede van de geleiders moet ten minste
+- De beschermingsinrichtingen en de doorsneden van de geleiders moet zodanig gekozen worden dat de uit-
+- Bij vaste installaties, tweefasige  stroombanen uitgezonderd, heeft de PEN -geleider een doorsnede die ten
+- − een bijkomende equipotentiale verbinding wordt geïnstalleerd met in dit geval een minimale doorsnede
+- − als gevolg van het aansluiten van bijkomende gebruikstoestellen zonder de doorsnede der geleiders te
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 113 − de doorsnede van de geleiders;
+- in functie van de doorsnede der geleiders:
+- Tabel 4. 11. Kaliber van de beschermingsinrichting in functie van de doorsnede der geleiders
+- Doorsnede van de geleider
+- S: doorsnede van de geleiders in mm²;
+- aftakkingen, vermindering van doorsnede, apparatuur.
+- doorsnede, van aard, van plaatsingswijze of van samenstelling een vermindering van de waarde van de toegela-
+- ring van doorsnede, aard, plaatsingswijze of samenstelling enerzijds en de beschermingsinrichting anderzijds,
+- − de elektrische leiding is stroomafwaarts gelegen van een verandering van doorsnede, van aard, van plaat-
+- onderhoudsdienst en indien de doorsnede van de elektrische leiding bepaald is in functie van het totale
+- karakteristieken (aard, plaatsingswijze, lengte, doorsnede) hebben en ze geen aftakkingen hebben op hun tra-
+- de nulgeleider indien de doorsnede van deze nulgeleider ten minste gelijk of evenwaardig is aan deze der
+- − wanneer de doorsnede van de nulgeleider kleiner is dan of niet ten minste evenwaardig is aan deze der
+- aan de doorsnede van deze geleider. Deze bescherming veroorzaakt de onderbreking van de fasegeleiders,
+- Afdeling 5.2.4. Toegelaten stromen − Bescherming tegen overstroom − Doorsnede van de
+- Onderafdeling 5.4.3.2. Minimumdoorsnede van de geleiders  ................................ .... 175
+- zover hun geleiderdoorsnede kleiner is dan 1,5 mm².
+- bijzonder hun doorsneden, worden derwijze gekozen dat:
+- doorsnede van de elektrische leidingen .
+- wordt het gebruik van geïsoleerde geleiders met een doorsnede kleiner dan 2,5 mm² verboden.
+- Tabel 5.1. Elektrische leidingen waarvan de geleiders een doorsnede kleiner dan 2,5 mm² mogen hebben
+- Minimale doorsnede (mm²)  Elektrische l eidingen
+- of meerdere toegekende stroombanen. De doorsnede van de elektrische leidingen bestemd voor de voeding
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 134 Afdeling 5.2.4. Toegelaten stromen − Bescherming tegen overstroom − Doorsnede
+- tactdoos hoeven niet beschermd te worden tegen overstroom indien hun lengte en de doorsnede van de gelei-
+- 1. voor een nominale stroom kleiner dan of gelijk aan 2,5 A, de minimumdoorsnede van de geleiders ten min-
+- 2. voor een nominale stroom groter dan 2,5 A en kleiner dan of gelijk aan 16 A de minimumdoorsnede van de
+- 3. voor een nominale stroom groter dan 16 A, de minimumdoorsnede van de geleiders overeenstemt met de-
+- elektromagneten voor laad - en hijstoestellen , ... De doorsnede van de geleiders van deze stroombanen moet
+- 1. Uit thermisch oogpunt gezien moet hun doorsnede volgens de regels van goed vakmanschap berekend wor-
+- met betrekking tot de berekening van de doorsnede van de blanke geleiders verschillend van deze van
+- zover hun geleiderdoorsnede kleiner is dan 1,5 mm².
+- richtingen en de doorsneden van de beschermingsmantel is zodanig dat de elektrische leidingen voldoende
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 144 Figuur 5.28. Schematische doorsnede van een sleuf
+- − kleiner zijn dan 1,50 m voor koperen geleiders met een doorsnede groter dan 10 mm ²;
+- de te beschermen elektrische leiding een doorsnede heeft die kleiner is dan 10 mm², worden de smeltzekerin-
+- Men kan rekening houden met de reactantie -invloeden van geleiders met grote doorsneden door de
+- weerstand te vermeerderen met 15 % bij een doorsnede van 150 mm², met 20 % bij een doorsnede van
+- 185 mm², en 25 % bij een doorsnede van 240 mm².
+- S:  de doorsnede, in mm², van de  geleiders.
+- aard, samenstelling en doorsnede van deze elektrische leiding onveranderd blijven overheen het traject.
+- De aardingslus is vervaardigd  hetzij uit een volle geleider met cirkelvormige doorsnede en zonder
+- lassen hetzij uit zeven samengeslagen draden met cirkelvormige doorsnede en zonder lassen . In
+- b.1.3. Geleider doorsnede van de aardingslus
+- De geleider doorsnede van de aardingslus is een geometrische doorsnede die ten minste 35 mm²
+- het koper. Zijn doorsnede is een geometrische doorsnede die ten minste 35 mm² bedraagt.  De geleider
+- Aardings staven  zijn vol en  hebben  een cirkelvormige doorsnede. Hun diameter bedraagt  ten minste
+- van de minimumdoorsnede ten minste een diameter van 19  mm. De dikte van de vleugels bedraagt ten
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 172         geometrische doorsnede van ten minste 50 mm². De geleider wordt  in de grond gedreven door
+- De minimumdoorsnede van een aardgeleider, met inbegrip van de aardgeleider van het nulpunt, moet bere-
+- − 16 mm² koperdoorsnede, indien zij voorzien is van een bekleding die tegen corrosie beschermt;
+- − 25 mm² koperdoorsnede, in de andere gevallen;
+- Onderafdeling 5.4.3.2. Minimumdoorsnede van de geleiders
+- De minimum doorsnede Sp van de beschermingsgeleider, in mm², moet ten minste gelijk zijn aan de waarde
+- doorsnede van de geleiders beantwoordt aan de voorschriften van tabel 5.10 .
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 176 Tabel 5.10. Minimumdoorsnede van de beschermingsgeleider
+- Doorsnede van de geleiders
+- van de installatie (S in mm²)  Minimumdoorsnede van de bescher-
+- worden met een genormaliseerde doorsnede die het dichtst Sp benadert.
+- vaardigd als de actieve geleiders. Indien dit niet het geval is moet de doorsnede van de beschermingsgeleiders
+- nimumdoorsnede van de beschermingsgeleider zoals deze bekomen wordt door toepassing van de tabel.
+- Wanneer de beschermingsgeleider geen deel uitmaakt van de elektrische voedingsleiding moet zijn doorsnede
+- De minimale doorsnede van de hoofdbeschermingsgeleider wordt als deze van een beschermingsgeleider bere-
+- a. Doorsnede van de geleiders
+- De hoofdequipotentiale geleider moet ten minste een doorsnede hebben die gelijk is aan de helft van de groot-
+- ste beschermingsgeleider van de installatie, de aardgeleider uitgezonderd, met een minimum koperdoorsnede
+- Nochtans mag de doorsnede beperkt worden tot:
+- − een gelijkwaardige doorsnede indien het een ander metaal betreft.
+- a. Doorsnede van de geleiders
+- De doorsnede van de geleiders van de bijkomende equipotentiale verbinding moet ten minste gelijk zijn aan:
+- − de kleinste doorsnede van de beschermingsgeleiders, verbonden met de massa’s van verschillende toestel-
+- binding tussen deze twee massa’s, behorend tot stroombanen met zeer verschillende doorsnede, niet tot
+- gevolg heeft dat in de beschermingsgeleider met de kleinste doorsnede een foutstroom gaat vloeien die
+- De volgende minimumdoorsneden moeten in alle gevallen in acht genomen worden:
+- Om de doorsnede van de geleiders te berekenen, moeten de verhoging van de weerstand van de geleiders van
+- b) de doorsnede van de voedingskabel van het hoofdbord;
+- b) de geïnstalleerde beschermingsinrichtingen tegen overstroom en de doorsneden van de respectieve
+- en de doorsneden van de respectievelijke stroombanen die ze beschermen.
+- met verschillende doorsnede.
+- structuur door een beschermingsgeleider van een doorsnede ten minste equivalent met deze van de be-
+- schermingsgeleider van de AC voeding, met een minimum doorsnede gelijk aan:
+- A) – Minimumdoorsnede en kalibreer -element
+- Minimumdoorsnede van de te beschermen
+- A) – Minimumdoorsnede en normalisatiebladen
+- 12 of 10 A) – Grootte van de houder en doorsnede van de geleiders
+- − Aanduiding van een stroombaan met een doorsnede kleiner dan 1,5 mm²
+- De aanwezigheid van een stroombaan met een doorsnede kleiner dan 1,5 mm² wordt aangeduid door middel
+- Figuur 8.1. Aanduiding van een stroombaan met een doorsnede kleiner dan 1,5 mm²
+- doorsnede hebben die kleiner is dan 2,5 mm² maar ten minste gelijk is aan 1 mm². De geleiders van 1 mm²
+- Minimumdoorsnede van de te beschermen
+- Grootte van de houder  Doorsnede van de geleiders in mm²
+- − de doorsnede van de voedingskabel van het hoofdschakel - en verdeelbord;
+- − het type en de doorsnede van de verschillende vertrekken;
+- dienst te laten waarvan de doorsnede ten minste gelijk is aan 6 mm².
+- − tabel 5.1.  van onderafdeling 5.2.1.2. , de elektrische leidingen EMCB en EMCVB met een doorsnede van 1
+- mm² en de elektrische leidingen CTLB en VTLB met een doorsnede van 0,75 mm² die deel uitmaken van
+- den aangepast voor de doorsnede van deze elektrische leidingen;
+- − de doorsnede van de voedingskabel van het hoofdbord;
+- − het type en de doorsnede van de verschillende vertrekken;
+
+## Zoekresultaten voor 'mm²'
+
+- 0,5 en 0,75 mm²
+- Figuur 8.1. Aanduiding van een stroombaan met een doorsnede kleiner dan 1,5 mm²  ............................  275
+- Tabel 5.1. Elektrische leidingen waarvan de geleiders een doorsnede kleiner dan 2,5 mm² mogen hebben  ... 125
+- mm².
+- snede  van minimaal 10 mm²  die omgeven  is met lood.
+- XVB-kabel Cca met 5 geleiders van 4 mm² geplaatst in
+- XVB-kabel Cca met 3 geleiders van 2,5 mm² op een wand
+- snede van 1,5 mm² hebben. Het geheel is geplaatst in
+- 2,5 mm² zijn;
+- minste 10 mm² in koper of 16 mm² in aluminium bedraagt.
+- van 10 mm²; en
+- (mm²)  Maximale nominale stroom van
+- S: doorsnede van de geleiders in mm²;
+- zover hun geleiderdoorsnede kleiner is dan 1,5 mm².
+- wordt het gebruik van geïsoleerde geleiders met een doorsnede kleiner dan 2,5 mm² verboden.
+- Tabel 5.1. Elektrische leidingen waarvan de geleiders een doorsnede kleiner dan 2,5 mm² mogen hebben
+- Minimale doorsnede (mm²)  Elektrische l eidingen
+- ste 0,75 mm² is;
+- geleiders ten minste 1,5 mm² is;
+- zover hun geleiderdoorsnede kleiner is dan 1,5 mm².
+- de trekspanning niet groter zijn dan 15 N/mm². Het aanwenden van een knoop in de elektrische leiding als
+- de te beschermen elektrische leiding een doorsnede heeft die kleiner is dan 10 mm², worden de smeltzekerin-
+- weerstand te vermeerderen met 15 % bij een doorsnede van 150 mm², met 20 % bij een doorsnede van
+- 185 mm², en 25 % bij een doorsnede van 240 mm².
+- S:  de doorsnede, in mm², van de  geleiders.
+- De geleider doorsnede van de aardingslus is een geometrische doorsnede die ten minste 35 mm²
+- het koper. Zijn doorsnede is een geometrische doorsnede die ten minste 35 mm² bedraagt.  De geleider
+- bedraagt ten minste 3,5 mm. Hun trekvastheid bedraagt ten minste 450 N/mm². Indien de aardings -
+- minste 3  mm. Hun trekvastheid bedraagt ten minste 600 N/mm².
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 172         geometrische doorsnede van ten minste 50 mm². De geleider wordt  in de grond gedreven door
+- − 16 mm² koperdoorsnede, indien zij voorzien is van een bekleding die tegen corrosie beschermt;
+- − 25 mm² koperdoorsnede, in de andere gevallen;
+- − 50 mm² bij aluminium of staal.
+- De minimum doorsnede Sp van de beschermingsgeleider, in mm², moet ten minste gelijk zijn aan de waarde
+- van de installatie (S in mm²)  Minimumdoorsnede van de bescher-
+- mingsgeleider (Sp in mm²)
+- − 2,5 mm² wanneer hij mechanisch beschermd is;
+- − 4 mm² wanneer hij mechanisch niet beschermd is.
+- van 6  mm².
+- − 25 mm² indien de geleider uit koper is;
+- − 2,5 mm² wanneer de geleiders mechanisch beschermd zijn;
+- 4 mm² wanneer de geleiders niet mechanisch beschermd zijn.
+- de van 10 mm²; en
+- − 2,5 mm² wanneer de geleiders mechanisch beschermd zijn;
+- − 4 mm² wanneer de geleiders niet mechanisch beschermd zijn.
+- elektrische leiding in mm²  Kleur van het kalibreer -element
+- - kalibreer -element: 1 mm²
+- − Aanduiding van een stroombaan met een doorsnede kleiner dan 1,5 mm²
+- De aanwezigheid van een stroombaan met een doorsnede kleiner dan 1,5 mm² wordt aangeduid door middel
+- Figuur 8.1. Aanduiding van een stroombaan met een doorsnede kleiner dan 1,5 mm²
+- 1 mm²
+- doorsnede hebben die kleiner is dan 2,5 mm² maar ten minste gelijk is aan 1 mm². De geleiders van 1 mm²
+- elektrische leiding in mm²  Normalisatiebladen
+- Grootte van de houder  Doorsnede van de geleiders in mm²
+- dienst te laten waarvan de doorsnede ten minste gelijk is aan 6 mm².
+- mm² en de elektrische leidingen CTLB en VTLB met een doorsnede van 0,75 mm² die deel uitmaken van
+

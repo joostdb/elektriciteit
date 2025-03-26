@@ -1,0 +1,1478 @@
+# Informatie over bescherming
+
+## Zoekresultaten voor 'bescherming'
+
+- differentieelstroombeschermingsinrichting (alle Koninklijk besluit van
+- - boek 1: beschermingsinrichting(en) voor
+- aansluiting (beschermingsinrichting(en)  tegen
+- differentieelstroombeschermingsinrichting en
+- beschermingsinrichtingen (TT -netsysteem)
+- - onderafdeling 4.2.4.3. punt a: bescherming tegen
+- - onderafdeling 4.2.4.4. punt e: bescherming tegen
+- van differentieelstroombeschermingsinrichtingen in
+- beschermingsinrichtingen in huishoudelijke
+- beschermingsinrichting tegen overstroom van de
+- ○ beschermingsgraad IP;
+- Hoofdstuk 2.4. Bescherming tegen elektrische schokken ................................ ..............  23
+- DEEL 4. BESCHERMINGSMAATREGELEN  ................................ ................................ ............  69
+- Hoofdstuk 4.2. Bescherming tegen elektrische schokken ................................ ..............  71
+- Hoofdstuk 4.3. Bescherming tegen thermische invloeden  ................................ ............  103
+- Hoofdstuk 4.4. Elektrische bescherming tegen overstroom  ................................ ..........  112
+- Hoofdstuk 4.5. Bescherming tegen overspanning  ................................ ......................  116
+- Hoofdstuk 4.6. Bescherming tegen bepaalde andere uitwerkingen  ................................ . 117
+- Hoofdstuk 5.3. Elektrische apparatuur (bescherming, bediening, scheiding en toezicht)  ..... 149
+- Hoofdstuk 5.4. Aardingen, beschermingsgeleiders en equipotentiale verbindingen  ............  170
+- Hoofdstuk 7.102. Bescherming tegen explosiegevaar in explosieve atmosferen  .................  254
+- Figuur 4.1. Bescherming die de gelijktijdige aanraking van delen die op potentialen  kunnen gebracht worden
+- Figuur 4.2. Bescherming die de gelijktijdige aanraking van delen die op potentialen  kunnen gebracht worden
+- mechanische bescherming  ................................ ................................ ............................  127
+- Figuur 5.29. Keuze van de beschermingsinrichting tegen kortsluitingen bij smeltzekeringen .....................  167
+- Figuur 5.30. Keuze van de beschermingsinrichting tegen kortsluitingen  bij vermogensschakelaars  (minimale
+- Figuur 5.31. Keuze van de beschermingsinrichting tegen kortsluitingen bij vermogensschakelaar (veronderstelde
+- laadinrichting (overstroombeschermingsinrichting van de toegekende stroombaan geïntegreerd in het
+- laadinrichting (overstroombeschermingsinrichtingen van de toegekende stroombanen geïntegreerd in de
+- laadinrichting (overstroombeschermingsinrichtingen van de toegekende stroombanen geïntegreerd in het
+- laadinrichting (overstroombeschermingsinrichtingen van de toegekende stroombanen geïntegreerd in de
+- Tabel 4.4. Differentieelstroombeschermingsinrichting: gevoeligheid van beschermingstoestellen  in functie van
+- Tabel 4.9. Maximale toegelaten vertragingstijd van de differentieelstroombeschermingsinrichting  ............  110
+- Tabel 4.11. Kaliber van de beschermingsinrichting in functie van de doorsnede der geleiders  ...................  113
+- Tabel 5.4. Beschermingsgraad van elektrische machines en toestellen in functie van de aanwezigheid van water
+- Tabel 5.5. Beschermingsgraad van elektrische machines en toestellen  in functie van de aanwezigheid van
+- Tabel 5.9. k -waarden voor beschermingsgeleiders  ................................ ................................ .......  175
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − INHOUD  | ix Tabel 5.10. Minimumdoorsnede van de beschermingsgeleider waarbij het berekenen van de waarde van S p niet
+- Tabel 7.1. Bescherming tegen elektrische schokken bij rechtstreekse aanraking: m aximumspanning van ZLVS bij
+- gebruik van elektrisch materieel met een beschermingsgraad IP00  ................................ ...........  229
+- Tabel 7.2. Bescherming tegen elektrische schokken bij onrechtstreekse aanraking: maximumspanning bij
+- Tabel 7.4. Bescherming tegen onrechtstreekse aanraking: maximumspanning bij gebruik van ZLVS in de
+- Tabel 7.5. Minimum beschermingsgraad van elektrisch materieel in de verschillende volumes van zwembaden
+- bescherming, het gebruik en de controle van elektrische installaties  op laagspanning en op zeer lage spanning ,
+- HOOFDSTUK 2.4. BESCHERMING TEGEN ELEKTRISCHE SCHOKKEN  ................................ ...........  23
+- Afdeling 2.4.3. Indeling van het materieel met betrekking tot de bescherming tegen
+- Afdeling 2.6.4. Kenmerken van de beschermingsinrichtingen  ................................ ........  33
+- elkaar, geven de uitvoering aan van de nulgeleider en van de beschermingsgeleider:
+- S: de functies van nulgeleider en beschermingsgeleider worden verzekerd door afzonderlijke geleiders;
+- C: één geleider vervult zowel de functie van nulgeleider als van beschermingsgeleider (PEN -geleider).
+- zijn met dit punt verbonden door middel van beschermingsgeleiders. Naargelang de uitvoering van de nul-
+- geleider en de beschermingsgeleider worden drie types van TN -systemen voorzien.
+- − TN-S-systeem: de nulgeleider en de beschermingsgeleider zijn afzonderlijke geleiders in het volledige
+- − TN-C-systeem: de functies van nulgeleider en beschermingsgeleider worden vervuld door dezelfde ge-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 20 − TN-C-S-systeem: de functies van nulgeleider en beschermingsgeleider worden vervuld door dezelfde
+- Zeer lage beschermingsspanning  (ZLBS):  zeer lage spanning waarvan de waarde beperkt blijft:
+- Beschermingsscheiding  op ZLS en LS: een scheiding tussen de actieve delen op ZLS en LS die een isolatiedoor-
+- Hoofdstuk 2.4. Bescherming tegen elektrische schokken
+- voorwaarden mag de nulgeleider de functie van beschermingsgeleider vervullen.
+- PEN-geleider:  een geleider die gelijktijdig de functie van nulgeleider en beschermingsgeleider vervult.
+- − beschermingsgeleiders, equipotentiale geleiders;
+- Contactspanning: spanning die, in het raam van de bescherming tegen onrechtstreekse aanrakingen, bij een
+- Beschermingsgraden gegeven door omhulsels: de beschermingsgraad inzake de door omhulsels verwezenlijkte
+- bescherming tegen het binnendringen van vreemde vaste voorwerpen en vloeistoffen alsmede tegen de directe
+- Deze code is samengesteld uit de letters IP, gevolgd door twee getallen waarvan het eerste de beschermings-
+- mingsgraad tegen het binnendringen van vreemde vaste voorwerpen voorstelt en het tweede de beschermings-
+- De bescherming tegen de directe aanraking met actieve delen, binnen het omhulsel of achter de hindernis,
+- den slechts gebruikt indien de werkelijke bescherming tegen directe aanraking hoger is dan deze aangegeven
+- door het eerste kenmerkend getal of indien enkel de bescherming tegen aanraking van actieve delen is ver-
+- Beschermingsgraden gegeven door hindernissen: de beschermingsgraad inzake de door hindernissen verwe-
+- zenlijkte bescherming tegen het binnendringen van vreemde vaste voorwerpen en vloeistoffen, alsmede de
+- bescherming tegen de directe aanraking van actieve delen achter de hindernissen wordt op een analoge wijze
+- bepaald als bij de beschermingsgraden van omhulsels (zie hoger ).
+- installaties en die de fundamentele bescherming tegen elektrische schokken verzekert.
+- minste een beschermingsgraad IPXX -B biedt;
+- zo geschikt worden dat de bescherming tegen elektrische schokken niet in het gedrang komt;
+- den die ten minste een beschermingsgraad IPXX -B heeft om te beletten dat personen in aanraking komen
+- mechanische en elektrische eigenschappen heeft dat ze een bescherming tegen elektrische schokken verzekert
+- Afdeling 2.4.3. Indeling van het materieel met betrekking tot de bescherming tegen
+- Klassen van elektrisch materieel : in verband met de bescherming tegen elektrische schokken wordt het elek-
+- a) klasse 0: elektrisch materieel waarbij de bescherming tegen elektrische schokken enkel berust op de basis-
+- een beschermingsgeleider.
+- len bevat om inwendige delen te verbinden met een beschermingsgeleider moet het beschouwd worden a ls
+- mingsklem (of massaklem), maar uitgerust met een voedingskabel zonder beschermingsgelei der;
+- c) klasse I: elektrisch materieel waarbij de bescherming tegen elektrische schokken niet uitsluitend berust bij
+- d) klasse II: elektrisch materieel waarbij de bescherming tegen elektrische schokken berust op:
+- Deze maatregelen bevatten geen mogelijkheid tot aansluiting van een beschermingsaarding en hangen niet
+- versterkte isolatie, maar een uitwendige beschermingsklem bezit, wordt  het aanzien  als zijnde  van
+- e) klasse III:  elektrisch materieel waarbij de bescherming tegen elektrische schokken bekomen wordt door
+- horende aardgeleiders en de beschermingsgeleiders.
+- (3) beschermingsgeleiders
+- (5) hoofdbeschermingsgeleider
+- Beschermingsgeleider: geleider gebruikt bij het nemen van bepaalde beschermingsmaatregelen tegen on-
+- Hoofdbeschermingsgeleider: geleider die enerzijds verbonden is met de aardgeleider(s) en anderzijds met de
+- beschermingsgeleiders van de massa’s en zo nodig met deze van de vreemde geleidende delen en eventueel
+- Aardgeleider: beschermingsgeleider die de hoofdaardingsklem met de aardverbinding verbindt, waarbij de
+- Hoofdaardingsklem: verbindingsklem van de aardgeleider(s), van de hoofdbeschermingsgeleider(s) en van de
+- Aardingsklem of beschermingsklem: verbindingsklem van de beschermingsgeleider van elektrisch materieel.
+- Elementaire stroombaan: deel van een elektrische installatie tussen twee opeenvolgende beschermingsinrich-
+- tingen tegen overstroom (hoofdstroombaan) of deel na de laatste beschermingsinrichting (eindstroombaan).
+- Nominale stroom: conventionele waarde van de stroom die de werkingsvoorwaarden van de beschermingsin-
+- beperkend vermogen van de beschermingsinrichting en met alle impedanties in de stroombaan die stroomop-
+- wikkelingen moet een graad van bescherming verzekeren die gelijkwaardig is met deze van een basisisolatie
+- Beschermingstransformator: transformator waarvan de primaire en secundaire wikkelingen elektrisch geschei-
+- cundaire wikkelingen moet een graad van bescherming verzekeren die gelijkwaardig is met deze van een dub-
+- Veiligheidstransformator: beschermingstransformator bestemd voor het voeden van een of meerdere stroom-
+- Afdeling 2.6.4. Kenmerken van de beschermingsinrichtingen
+- een beschermingsinrichting veroorzaakt.
+- Naargelang de gevoeligheid van het toestel worden differentieel stroom beschermings inrichtingen  ingedeeld in
+- Onderbrekingsvermogen:  waarde van de stroom die het beschermingstoestel kan onderbreken op een welbe-
+- Snijpuntstroom: grootste waarde van de overstroom waarbij in een serieschakeling van een beschermingsin-
+- richting en een vermogensschakelaar , deze beschermingsinrichting niet aanspreekt, doordat de vermogens-
+- kortsluiting. Deze waarde hangt af van de overeenstemmende waarden voor de beschermingsinrichting tegen
+- Kabel: samenstel van een of meer geïsoleerde geleiders, hun eventuele individuele mantel, de bescherming
+- Buis: plaatsingsmateriaal dat een doorlopende bescherming voor de geleiders toelaat in niet -opengaande buis-
+- Overtrek  (of huls):  deel rond een elektrische leiding, dat een bijkomende bescherming geeft aan de elektri-
+- waarbij de wand dienst doet als bevestigingsmiddel en eventueel een bescherming vormt.
+- AK2 Mogelijk  Speciale bescherming  Schadelijke of overmatige ontwikkeling van plan-
+- AL2 Mogelijk  Speciale bescherming  Aanwezigheid van insecten, dieren of vogels in
+- D. Beschermingstoestellen
+- differentieelstroombeschermingsinrichting.
+- Differentieelstroombeschermingsinrichting (ΔIn=300mA,
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 50                         D. Beschermingstoestellen
+- Contactdoos met contact voor beschermingsgeleider
+- Contactdoos met kinderbescherming
+- Contactdoos met contact voor beschermingsgeleider en
+- met kinderbescherming
+- Contactdoos met beschermingstransformator (bijvoor-
+- Met deze kenmerken moet rekening worden gehouden bij het kiezen van beschermingsmaatregelen (zie  deel
+- vanaf de beschermingsinrichting tegen overstroom van de elementaire stroombaan. De spanning en de aard
+- − het type en d e kenmerken van de differentieelstroom beschermings inrichtingen;
+- − het type en de kenmerken van de beschermingsinrichtingen tegen overstroom;
+- − de kenmerken van de elektrische leidingen met inbegrip van de beschermingsgeleiders, onder meer:
+- − de kenmerken van de beschermingsinrichtingen, onder meer:
+- De bedienings -, de beschermings - en de scheidingsinrichtingen van de stroombanen moeten op een duidelijke,
+- beschermingsgeleider moet met dit nulpunt verbonden worden en over het hele verdeelnet geïnstalleerd wor-
+- formator geaard worden. In dit geval moeten de fasegeleider en de beschermingsgeleider gescheiden zijn.
+- De beschermingsgeleider moet geaard worden in de nabijheid van elke generator  of transformator . Hij moet
+- beschermingsgeleider, in geval van defect, zo dicht mogelijk bij dit van de aarde te houden.
+- De massa’s van het elektrische materieel moeten verbonden worden met voor melde  beschermingsgeleider.
+- menlijk. Nochtans moeten gelijktijdig genaakbare massa’s met dezelfde beschermingsgeleider verbonden wor-
+- andere elektrische installaties, met het oog op de bescherming tegen elektrische schokken, brand en thermi-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 69 Deel 4. Beschermingsmaatregelen
+- HOOFDSTUK 4.2. BESCHERMING TEGEN ELEKTRISCHE SCHOKKEN  ................................ ...........  71
+- Afdeling 4.2.2. Bescherming tegen elektrische schokken bij rechtstreekse aanraking  ..........  71
+- Afdeling 4.2.3. Bescherming tegen elektrische schokken bij onrechtstreekse aanraking  .......  84
+- Onderafdeling 4.2.3.3. Passieve bescherming bij laagspanning zonder automatische
+- Onderafdeling 4.2.3.4. Actieve bescherming bij laagspanning met automatische onderbreking
+- Afdeling 4.2.4. Aanwending van beschermingsmaatregelen tegen elektrische schokken bij
+- Onderafdeling 4.2.4.3.  Bescherming tegen elektrische schokken bij onrechtstreekse
+- Onderafdeling 4.2.4.4. Bescherming tegen elektrische schokken bij onrechtstreekse
+- Afdeling 4.2.5. Beschermingsmaatregelen op zeer lage spanning  ................................ ... 101
+- zeer lage beschermingsspanning (ZLBS)  ................................ .....................  102
+- HOOFDSTUK 4.3. BESCHERMING TEGEN THERMISCHE INVLOEDEN ................................ ...........  103
+- Afdeling 4.3.2. Bescherming tegen brandwonden  ................................ ......................  104
+- Afdeling 4.3.3. Bescherming tegen brand  ................................ ................................  105
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 70 Onderafdeling 4.3.3.5. Beschermingsmaatregelen tegen brand  ................................ . 108
+- Onderafdeling 4.3.3.6. Bijkomende beschermingsmaatregelen tegen brand in de ruimten met
+- Onderafdeling 4.3.3.7. Bijzondere beschermingsmaatregelen tegen brand  ...................  110
+- Afdeling 4.3.4. Bescherming tegen explosiegevaar in explosieve atmosferen  ....................  111
+- HOOFDSTUK 4.4. ELEKTRISCHE BESCHERMING TEGEN OVERSTROOM  ................................ .......  112
+- Onderafdeling 4.4.1.3. Gemeenschappelijke beschermingsinrichting  ..........................  112
+- Onderafdeling 4.4.1.4. In serie geplaatste beschermingsinrichtingen  ..........................  112
+- Afdeling 4.4.2. Bescherming tegen kortsluiting bij lage en zeer lage spanning  ..................  113
+- Onderafdeling 4.4.2.1. Beschermingsinrichting tegen kortsluiting ..............................  113
+- Onderafdeling 4.4.2.2. Plaats van de beschermingsinrichting  ................................ ... 114
+- Afdeling 4.4.3. Bescherming tegen overbelasting bij lage en zeer lage spanning  ................  114
+- Onderafdeling 4.4.3.2. Beschermingsinrichting tegen overbelasting  ...........................  114
+- Afdeling 4.4.4. Bescherming tegen overstroom van de fasegeleiders en van de nulgeleider bij
+- Onderafdeling 4.4.4.2. Bescherming van éénfasige stroombanen ...............................  115
+- HOOFDSTUK 4.5. BESCHERMING TEGEN OVERSPANNING  ................................ ......................  116
+- HOOFDSTUK 4.6. BESCHERMING TEGEN BEPAALDE ANDERE UITWERKINGEN  ..............................  117
+- Afdeling 4.6.1. Bescherming tegen de effecten van spanningsdalingen  ...........................  117
+- Afdeling 4.6.2. Bescherming tegen biologische effecten van elektrische en magnetische velden
+- Afdeling 4.6.3. Bescherming tegen besmettingsrisico's  ................................ ...............  117
+- Afdeling 4.6.4. Bescherming tegen risico's te wijten aan bewegingen  .............................  118
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 71 Hoofdstuk 4. 1. Inleiding
+- Maatregelen ter bescherming van personen en goederen moeten genomen worden op volgende gebieden:
+- − bescherming tegen elektrische schokken ( hoofdstuk 4 .2.);
+- − bescherming tegen thermische effecten ( hoofdstuk 4 .3.);
+- − bescherming tegen overstromen ( hoofdstuk 4 .4.);
+- − bescherming tegen overspanningen ( hoofdstuk 4 .5.);
+- − bescherming tegen spanningsdalingen ( afdeling 4 .6.1.);
+- − bescherming tegen biologische effecten van elektrische en magnetische velden ( afdeling 4 .6.2.);
+- − bescherming tegen besmettingsrisico’s ( afdeling 4 .6.3.);
+- − bescherming tegen risico’s te wijten aan ongewilde bewegingen en ontijdig aanzetten ( afdeling 4 .6.4.).
+- Hoofdstuk 4. 2. Bescherming tegen elektrische schokken
+- De beschermingsmaatregelen tegen elektrische schokken trachten ten minste één van deze drie omstandighe-
+- Afdeling 4. 2.2. Bescherming tegen elektrische schokken bij rechtstreekse aanraking
+- De bescherming tegen elektrische schokken bij rechtstreekse aanraking bij laagspanning moet verwezenlijkt
+- Bovendien kan een bijkomende bescherming door een differentieelstroom beschermings inrichting met grote of
+- b. Bescherming door middel van omhulsels
+- De bescherming door middel van omhulsels tegen elektrische schokken bij rechtstreekse aanraking wordt be-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 72 Deze omhulsels moeten voldoen aan volgende voorwaarden:
+- 1. de doeltreffendheid van de bescherming wordt verzekerd door de aard, de afmetingen, de schikking, de
+- bescherming, niet buiten spanning gesteld werden;
+- − de voor de handelingen noodzakelijke bewegingsruimte is derwijze dat de bescherming tegen toevallige
+- dient de bescherming tegen toevallige aanraking te zijn verwezenlijkt d.m.v. hindernissen.
+- c. Bescherming door isolatie
+- De bescherming door isolatie tegen elektrische schokken bij rechtstreekse aanraking wordt bekomen wanneer
+- d. Bescherming door verwijdering
+- De bescherming door verwijdering tegen elektrische schokken bij rechtstreekse aanraking wordt bekomen:
+- e. Bescherming door middel van hindernissen
+- De bescherming door middel van hindernissen tegen elektrische schokken bij rechtstreekse aanraking wordt
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 73 f. Bijkomende beschermi ng door middel van differentieelstroom beschermings inrichting
+- Deze beschermingsmaatregel is uitsluitend bedoeld om andere beschermingsmaatregelen tegen rechtstreekse
+- Alleen het gebruik van differentieelstroom beschermings inrichtingen met hoge of zeer hoge gevoeligheid, zoals
+- bepaald in afdeling 2.6.4.  wordt erkend als bijkomende beschermingsmaatregel bij het in gebreke blijven van
+- andere beschermingsmaatregelen tegen rechtstreekse aanraking of in geval van onvoorzichtigheid van de ge-
+- g. Bescherming tegen rechtstreekse aanraking van de nulgeleider gebruikt als beschermingsgeleider
+- Wanneer aan de voorgeschreven voorwaarden van de beschouwde beschermingsmaatregelen tegen onrecht-
+- streekse aanraking is voldaan, wordt aangenomen dat zowel de nulgeleider, gebruikt als beschermingsgeleider
+- De bescherming tegen elektrische schokken bij rechtstreekse aanraking wordt verondersteld verzekerd te zijn
+- a. Keuze van beschermingswijzen rekening houdend met de spanning van de elektrische installatie
+- De beschermingsgraad van de omhulsels en hindernissen moet ten minste IPXX -B zijn.
+- Voor de laagspanning moet de bescherming tegen elektrische schokken bij rechtstreekse aanraking
+- De beschermingsgraad van de omhulsels moet minstens gelijk zijn aan IPXX -D in de voor het publiek
+- De regels voor laagspanning zijn ten minste van toepassing voor wat betreft de bescherming tegen
+- De beschermingsgraad van de omhulsels moet minstens gelijk zijn aan IPXX -D.
+- De beschermingsgraden waarvan hierboven sprake zijn niet vereist voor de functionele openingen (bij-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 74 b. Ruimten speciaal bestemd voor kinderen
+- Snoeren voorzien van een bescherming door isolatie mogen gebruikt worden voor de voeding van hoogspan-
+- − hetzij dat er een of meerdere inwendige schermen aanwezig zijn die een beschermingsgraad ten
+- van de beschermingsgraad die de scheidingswanden of omheiningen hebben ten opzichte van het bin-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 75 a.3. Bescherming tegen elektrische schokken bij rechtstreekse aanraking, van personen die zich buiten de
+- − hetzij dat er een of meerdere inwendige schermen aanwezig zijn die een beschermings-
+- In lokalen waar de bescherming door verwijdering toegepast is, moeten de noodzakelijke maatregelen
+- b. Bescherming tegen elektrische schokken bij rechtstreekse aanraking in ruimten van de elektrische
+- De bescherming tegen elektrische schokken bij rechtstreekse aanraking in ruimten van de elektrische
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 76 Van deze voorschriften mag evenwel worden afgeweken binnen d e grenzen vermeld in het hierna vol-
+- Voor de laagspanning van de 1 e categorie zijn onder andere de bescherming door verwijdering
+- (4.2.2.1.d. ) en de bescherming door middel van hindernissen ( 4.2.2.1.e. ) toegelaten.
+- Bovendien moet de beschermingsgraad van de omhulsels en de hindernissen ten minste gelijk
+- Voor de laagspanning van de 2 e categorie is onder andere de bescherming door middel van
+- Bovendien moet de beschermingsgraad van de omhulsels en de hindernissen ten minste gelijk
+- Bij toepassing van de bescherming door middel van omhulsels ( 4.2.2.1.b. ) of door middel van
+- hindernissen ( 4.2.2.1.e. ) moet de beschermingsgraad ten minste gelijk zijn aan IPXX -B.
+- c. Bescherming tegen elektrische schokken bij rechtstreekse aanraking in exclusieve ruimten van de
+- Voor de zeer lage spanning en de laagspanning van de 1 e categorie, wordt de bescherming
+- Indien gebruik gemaakt wordt van de bescherming door middel van omhulsels ( 4.2.2.1.b. ) of
+- door middel van hindernissen ( 4.2.2.1.e. ), moet hun beschermingsgraad ten minste gelijk zijn
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 77 c.2.2.  Laagspanning van de 2 e categorie
+- Voor de laagspanning van de 2 e categorie is onder andere de bescherming door verwijdering
+- Bovendien moet de beschermingsgraad van de omhulsels ( 4.2.2.1.b. ) en de hindernissen
+- De bescherming door verwijdering ( 4.2.2.1.d. ) is toegelaten.
+- Bovendien moet de beschermingsgraad van de omhulsels ( 4.2.2.1.b. ) en de hindernissen
+- is het toegelaten geheel of gedeeltelijk af te zien van de beschermingsmaatregelen tegen elektrische schokken
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 78 − een afbakening van 1 m hoog moet worden aangebracht;
+- − indien de voorschriften met betrekking tot de bescherming tegen rechtstreekse aanraking niet kunnen
+- f.1. Bescherming tegen rechtstreekse aanraking
+- ke bescherming, te weten:
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 79 Risicobeperkende inrichting: inrichting die de gevaren van elektrocutie beperkt die het gevolg kunnen
+- g.3. Bescherming tegen elektrische schokken bij rechtstreekse aanraking van actieve delen van de las - of
+- − geen beschermingsmaatregelen te nemen tegen rechtstreekse aanraking wat betreft:
+- − slechts een bescherming voor de toortsen te verzekeren tegen toevallige aanraking, mits de volgende
+- ▪ het aanwenden van collectieve of individuele beschermingsmiddelen (isolerend tapijt, isole-
+- b) de bescherming tegen elektrische schokken bij rechtstreekse aanraking van onder spanning
+- − omhulsels met een beschermingsgraad van minstens IPXX -B, of
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 80 ** Deze waarden zijn alleen toegelaten mits volgende voorwaarden gelijktijdig worden nageleefd:
+- d) de beschermingsgraad tegen rechtstreekse aanraking met onder spanning staande delen van de
+- − De las - of snijstroombaan van toestellen voor manueel gebruik mag noch met de beschermingsgelei-
+- dehouder of toorts moet zo zijn opgevat dat het ten  minste voorziet in een bescherming tegen toe-
+- − Aangepaste maatregelen zijn getroffen opdat de  beschermingsgeleider of de PEN -geleider van een
+- val is moeten toestellen aangewend worden waarbij de bescherming tegen rechtstreekse aanraking is verze-
+- ledige bescherming van de actieve delen ( 4.2.2.1.b . of 4.2.2.1.c .);
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 81 ▪ de verkeersvloeren omheen de elektrolysebaden moeten zodanig uitgevoerd zijn dat het stagne-
+- ▪ de werknemers moeten uitgerust zijn met aangepaste individuele beschermingsmiddelen tegen de
+- zijn, voorzien zijn van een gedeeltelijke bescherming tegen de rechtstreekse aanraking:
+- Indien deze bescherming door verwijdering niet uitvoerbaar is, moeten maatregelen met betrek-
+- king tot gedeeltelijke bescherming door middel van hindernissen toegepast worden.
+- toegankelijke ruimten,  op voorwaarde dat ten minste een gedeeltelijke bescherming tegen rechtstreekse aan-
+- elke onder spanning staande draad een niet onder spanning staande beschermingsdraad − type afsluitings-
+- draad − aangebracht worden. Deze beschermingsdraad moet zich in een verticaal vlak bevinden dat ten
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 82 0,10 m van verschilt; hij moet zich aan de zijde van het openbaar domein bevinden zonder er gebruik van
+- vermogensschakelaar ...) moeten in één of meerdere kasten geplaatst zijn die een beschermingsgraad
+- − De bedieners moeten voorzien zijn van aangepaste individuele beschermingsmiddelen tegen de geva-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 83 aanbrengen van verven en bedekkingen toegelaten en mogen in het bijzonder de onder hoogspanning staande
+- mag de bescherming tegen rechtstreekse aanraking verwezenlijkt worden door het buiten bereik stellen door
+- overeenkomstig 4.2.2.1.b. , moet de beschermingsgraad, verwezenlijkt door het monteren van de brander op
+- hindernissen. In dit geval moet de beschermingsgraad ten minste IPXX -B zijn. Nochtans mag het wegnemen van
+- p.1. Beschermingsmaatregelen
+- − hetzij dat er een of meerdere inwendige schermen aanwezig zijn die een beschermingsgraad ten
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 84 kunnen worden aangeraakt zolang de deur of deuren open zijn. Het scherm of de schermen zijn
+- Afdeling 4. 2.3. Bescherming tegen elektrische schokken bij onrechtstreekse aanra-
+- De bescherming tegen onrechtstreekse aanraking moet in elektrische laagspanningsinstallaties verzekerd wor-
+- 2. bovendien, bijkomende beschermingsmaatregelen te nemen, hetzij naargelang het geval:
+- − door andere beschermingsmaatregelen zonder onderbrekingsinrichting die geen beschermingsgeleider
+- − door beschermingsmaatregelen met automatische onderbrekingsinrichting die een verbinding vereisen
+- van de massa’s met een gewoonlijk geaarde beschermingsgeleider. Deze inrichting moet een werkings-
+- Indien verschillende beschermingsmaatregelen gelijktijdig voorzien worden, mogen ze elka ar noch beïnvloeden
+- distributienet en een autonome stroombron, moet de bescherming tegen onrechtstreekse aanraking verzekerd
+- de installatie gevoed wordt door een enkele van deze stroombronnen. De goede werking van de beschermings-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 85 Onder afdeling 4. 2.3.2. Aardingsinstallatie
+- − de beschermingsgeleiders;
+- De spreidingsweerstand van de beschermingsaardverbinding moet zo klein mogelijk zijn, ongeacht de bijko-
+- mende beschermingsmiddelen toegepast in de elektrische installaties.
+- Voor niet -huishoudelijke installaties  en indien er een differentieelstroom beschermings inrichting gebruikt
+- − de beschermingsgeleiders van alle elektrische machines en toestellen met inbegrip van deze gevoed via
+- Onder afdeling 4. 2.3.3. Passieve bescherming bij laagspanning zonder automatische onderbre-
+- a. Bescherming door gebruik van zeer lage veiligheidsspanning (ZLVS)
+- De bescherming tegen elektrische schokken bij onrechtstreekse aanraking wordt verondersteld verzekerd te
+- b. Bescherming door isolatie van het elektrisch materieel
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 86 ling 2.4.3 .);
+- dat de bescherming, verzekerd overeenkomstig de fabricatievoorschriften van dit materieel, niet in het ge-
+- gen niet verbonden zijn met de beschermingsgeleider.
+- De beschermingsgeleiders die de bescherming van elektrisch materieel verzorgen dat zich buiten het omhulsel
+- sel geleid worden. De klemmen voor dergelijke beschermingsgeleiders moeten op een gepaste wijze aangeduid
+- zijn. In het omhulsel moeten de beschermingsgeleiders en de overeenkomstige klemmen geïsoleerd worden op
+- c. Bescherming door veiligheidsscheiding van de stroombanen
+- – hetzij een beschermingstransformator. Deze transformator is van de klasse II of voldoet aan de be-
+- De nominale spanning van de secundaire stroombaan van de beschermingstransformatoren of van de motor -
+- hun massa’s onderling verbonden worden door een niet -geaarde beschermingsgeleider.
+- Wanneer de stroombaan meerdere contactdozen voedt, moeten deze een beschermingscontact hebben.
+- Ten einde de equipotentialiteit van de massa’s te verwezenlijken moeten deze beschermingscontacten on-
+- Bij snoeren moet de mantel zowel de beschermingsgeleider – hier gebruikt als equipotentiale geleider – als
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 87 c.6. Elektrische l eidingen
+- c.7. Beschermingstoestel gebruikt bij twee rechtstreekse fouten
+- d. Bescherming om een gelijktijdige aanraking van delen die op potentialen kunnen gebracht worden
+- Deze beschermingsmaatregel is bedoeld om, bij een fout in de basisisolatie van de actieve delen een ge-
+- Deze bescherming bestaat in het nemen van de volgende maatregelen, hetzij afzonderlijk hetzij in combi-
+- In dergelijke ruimten  mag geen enkele beschermingsgeleider voorzien worden.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 88 Deze verwijdering wordt als voldoende beschouwd wanneer, binnen het genaakbaarheidsgabarit , deze ho-
+- Figuur 4.1. Bescherming die de gelijktijdige aanraking van delen die op potentialen
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 89 Figuur 4.2. Bescherming die de gelijktijdige aanraking van delen die op potentialen
+- Ze moeten eveneens de doeltreffende bescherming verzekeren aan beweegbare machines en toestellen in-
+- Onder afdeling 4. 2.3.4. Actieve bescherming bij laagspanning met automatische onderbreking
+- Beschermingsmaatregelen met automatische onderbreking van de voeding moeten steunen op de eerbiedi-
+- Hun toepassing vereist de verbinding van de massa’s met een beschermingsgeleider evenals een onderbre-
+- Bedoelde beschermingsmaatregelen vereisen de coördinatie tussen:
+- − de karakteristieken van de beschermingsinrichting.
+- Naargelang het geval moeten beschermingsinrichtingen tegen maximumstroom, differentieelstroom be-
+- schermings inrichtingen, beschermingsinrichtingen tegen foutspanning en/of bewakingsinrichtingen van de
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 90 a.4. Verplichting van een beschermingsgeleider
+- Het is niet toegelaten differentieelstroom beschermings inrichtingen aan te wenden als enig beschermings-
+- middel tegen onrechtstreekse aanraking zonder gebruik te maken van een beschermingsgeleider, zelfs in-
+- Wanneer een beschermingsinrichting tegen foutspanning gebruikt wordt moet deze derwijze geïnstalleerd
+- moet enerzijds verbonden worden met de beschermingsgeleider, die de massa’s onderling verbindt, en an-
+- derzijds met een geïsoleerde geleider, aangesloten op een hulpaardelektrode.  De beschermingsgeleider
+- ding moet onderbroken worden wanneer bij een fout de beschermingsinrichting werkt. De hulpaardelek-
+- b. Beschermingsmaatregelen in installaties gevoed door een TN -net
+- kortsluiting tussen deze fasegeleider en de beschermingsgeleider.
+- Een van de volgende beschermingsinrichtingen moet gebruikt worden, namelijk:
+- − beschermingsinrichtingen tegen overstroom;
+- − differentieelstroom beschermings inrichtingen.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 91 Figuur 4. 4. Foutlus in een TN -C-systeem
+- Wanneer één geleider zowel de functie van nulgeleider als deze van beschermingsgeleider vervult (TN -C-
+- systeem), moet de bescherming verzekerd worden door beschermingsinrichtingen tegen overstroom.
+- De beschermingsinrichtingen en de doorsneden van de geleiders moet zodanig gekozen worden dat de uit-
+- fout voordoet tussen een fasegeleider en de beschermingsgeleider of een, met deze laatste verbonden,
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 92 In de bijzondere gevallen waar een rechtstreekse fout kan ontstaan tussen een fase en de aarde, moet de
+- bonden zijn met de beschermingsgeleider en door dewelke een fout kan ontstaan tussen een fase
+- In dit geval wordt de bescherming verzekerd door beveiligingen tegen maximumstroom.
+- van nulgeleider en beschermingsgeleider, is het verboden deze beschermingsgeleider en deze nulgeleider
+- voor de beschermingsgeleider en voor de nulgeleider. Deze schikking moet een rechtstreekse en blijvende
+- verbinding verzekeren van de gemeenschappelijke geleider met de beschermingsgeleider.
+- b.5. Gebruik van differentieelstroom beschermings inrichting
+- schermd worden door een differentieelstroom beschermings inrichting.
+- aangepast is aan de aanspreekstroom van de differentieelstroom beschermings inrichting.
+- De stroombaan, beschermd door deze differentieelstroom beschermings inrichting, moet dan beschouwd
+- worden als een TT -systeem en de beschermingsmaatregelen waarvan sprake in  onderstaande punt c ., die
+- schermingsgeleider stroomopwaarts van de differentieelstroom beschermings inrichting tot stand gebracht
+- c. Beschermingsmaatregelen in installaties gevoed door een TT -net
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 93 Figuur 4.6. Foutlus in een TT -systeem
+- Een van de volgende beschermingsinrichtingen moet gebruikt worden, namelijk:
+- − differentieelstroom beschermings inrichtingen;
+- − beschermingsinrichtingen tegen overstroom;
+- − beschermingsinrichtingen gevoelig voor foutspanning.
+- De aanspreektijd van de beschermingsinrichting mag niet groter zijn dan de tijd bepaald door de veilig-
+- geheel , kunnen dwingende redenen van selectiviteit van de beschermingsmiddelen leiden tot een aan-
+- 2.3., gedeeld door de nominale stroom IA die de werking van het beschermingstoestel verzekert, dus:
+- In geval er gebruik gemaakt wordt van een differentieelstroom beschermings inrichting moeten de waarden
+- c.3. Plaatsing van de differentieelstroom beschermings inrichting
+- Alle massa’s beschermd door een zelfde differentieelstroom beschermings inrichting moeten met dezelfde
+- De nulgeleider mag stroomafwaarts van de differentieelstroom beschermings inrichting niet geaard worden.
+- c.4. Bescherming van de nulgeleider
+- Indien stroomopwaarts of in de beschouwde stroombaan geen differentieel stroom beschermings inrichting
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 94 Zij moet de onderbreking veroorzaken van de voeding, de nulgeleider inbegrepen, wanneer:
+- − hetzij het optreden van rechtstreekse fout in deze stroombaan de werking van beschermingsinrichtin-
+- d. Beschermingsmaatregelen in installaties gevoed door een IT -net
+- Een van de volgende beschermingsinrichtingen moet gebruikt worden, namelijk:
+- − beschermingsinrichtingen tegen overstroom;
+- − differentieelstroom beschermings inrichtingen;
+- − beschermingsinrichtingen gevoelig voor foutspanning.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 95 houdt rekening met de lek stroom en de globale aardingsimpedantie van de elektrische installatie;
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 96 Om zich te beschermen tegen de gevaren die zouden kunnen optreden door de aanwezigheid van twee ge-
+- naargelang alle massa’s al dan niet met elkaar verbonden zijn door middel van een beschermingsgeleider.
+- Afdeling 4. 2.4. Aanwending van beschermingsmaatregelen tegen elektrische schok-
+- Met uitzondering van gevallen, vermeld in het hierna volgend e punt b., worden de beschermingsmaatregelen
+- Geen enkele bijzondere beschermingsmaatregel moet genomen worden in volgende gevallen:
+- de bescherming tegen elektrische schokken bij rechtstreekse aanraking;
+- de te treffen beschermingsmaatregelen te rechtvaardigen in functie van de bescherming tegen elektrische
+- Onder afdeling 4. 2.4.3.  Bescherming tegen elektrische schokken bij onrechtstreekse aanraking in
+- laagspanningsmaterieel van de klasse I worde n verbonden met de beschermingsgeleider van de elektrische
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 97 b. Bescherming van stroombanen in het algemeen
+- Ten minste een differentieelstroom beschermings inrichting met een aanspreekstroom van ten hoogste 300 mA
+- wordt aan het begin van de  elektrische  installatie aangebracht.  Deze differentieelstroombescherming(en) ga-
+- In afwijking van de 1ste alinea, mag (mogen) de differentieelstroombeschermingsinrichting(en) in het algemene
+- de differentieelstroombeschermingsinrichting(en). Het blijvend karakter van deze ongenaakbaarheid wordt
+- nea vereiste differentieelstroombeschermingsinrichting beschermd.
+- Onmiddellijk stroomafwaarts van de beschermingsinrichting aangebracht aan het begin van de elektrische in-
+- stallatie, wordt ten minste een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoe-
+- Het is toegelaten om maximaal 8 eindstroombanen per voormelde differentieelstroombeschermingsinrichting te
+- rentieelstroombeschermingsinrichting die aan het begin van de elektrische installatie wordt aangebracht, wor-
+- 2. de contactdozen gevoed via een individuele beschermingstransformator;
+- alinea bedoelde differentieelstroombeschermingsinrichtingen met een grote of zeer grote gevoeligheid voor-
+- zien. Elke differentieelstroombeschermingsinrichting bevat ten hoogste zestien enkelvoudige of meervoudige
+- worden bedoeld, worden de differentieelstroombeschermingsinrichtingen, die aan het begin van de elektrische
+- installatie worden aangebracht, aangevuld met ten minste eenn differentieelstroombeschermingsinrichting met
+- De bescherming door middel van een veiligheidsscheiding van de stroombanen, overeenkomstig de voorschrif-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 98 wordt op de hoogte van de toepassing van punt 1  van onderafdeling 6.5.8.1.  gesteld. Het erkend organisme
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 99 Figuur 4.11. Voorbeeld van configuratie met een spreidingsweerstand van de aardverbinding hoger dan  30 ohm
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 100
+- Onder afdeling 4. 2.4.4. Bescherming tegen elektrische schokken bij onrechtstreekse aanraking in
+- In ruimten , andere dan droge ruimten met niet -geleidende vloeren en wanden, zijn de beschermingsmaatrege-
+- − hetzij, voor bepaalde plaatsen of materieel, andere beschermingsmaatregelen zoals:
+- d. Gebruik van een differentieelstroom beschermings inrichting
+- Indien een differentieelstroom beschermings inrichting gebruikt wordt, mag de spreidingsweerstand van de
+- De gevoeligheid van het beschermingstoestel moet bepaald worden in functie van de spreidingsweerstand van
+- Tabel 4.4. Differentieelstroom beschermings inrichting: g evoeligheid van beschermingstoestellen
+- beschermingstoestel  Droge en niet -
+- De bescherming tegen elektrische schokken bij onrechtstreekse aanraking van onderafdeling 4.2.4.3.  in huis-
+- stroombeschermingsinrichting niet aan het begin van de elektrische installatie voor de veiligheidsstroombanen
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 101 vóór 01/06/2023 , op voorwaarde dat de gelijkvormigheidscontrole vóór de ingebruikname zal plaatsvinden
+- Afdeling 4. 2.5. Beschermingsmaatregelen op zeer lage spanning
+- tactspanning komen door bij dit materieel de beschermingsmaatregelen tegen onrechtstreekse
+- door deze massa’s te verbinden met de beschermingsgeleider van de primaire stroombaan en door,
+- voor dit materiaal, de beschermingsmaatregelen overeenkomstig de onderafdeling 4.2.3.4.  toe te
+- a.1. Bescherming tegen rechtstreekse aanraking
+- De bescherming tegen rechtstreekse aanraking dient te worden verzekerd:
+- − hetzij door omhulsels of schermen met een minimum beschermingsgraad van IPXX -B;
+- a.2. Bescherming tegen onrechtstreekse aanraking
+- grenzen  overtreft door toepassing van de beschermingsmaatregelen vermeld in onderafdeling
+- − hetzij door toepassing van de beschermingsmaatregelen vermeld in 4.2.3.3.b., 4.2.3.3.c. en
+- a.3. Bescherming tegen thermische invloeden en tegen overstroom
+- De voorschriften van hoofdstuk 4.3. «Bescherming tegen thermische invloeden » en van hoofdstuk 4.4.
+- «Elektrisc he bescherming tegen overstroom»  blijven onverminderd van toepassing. Meer bepaald moeten
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 102 b. Stopcontacten
+- zeer lage beschermingsspanning (ZLBS)
+- zijn gekozen of geïnstalleerd overeenkomstig de voorschriften betreffende de beschermingsmaatregelen inzake
+- Maatregelen zijn genomen om een beschermingsscheiding te verwezenlijken; deze regel is niet van toepassing
+- Teneinde de beschermingsscheiding vermeld in b. te verwezenlijken, moet één van de hierna vermelde schik-
+- − de contactdozen op ZLVS omvatten noch een beschermings - noch een aardcontact. De contactdozen op
+- ZLBS mogen daarentegen wel een beschermings - of een aardcontact omvatten.
+- e. Bescherming tegen thermische invloeden en tegen overstroom
+- De voorschriften van hoofdstuk 4.3. «Bescherming tegen thermische invloeden » en van hoofdstuk 4.4.  «Elektri-
+- sche bescherming tegen overstroom » blijven onverminderd van toepassing.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 103 I.
+- a. Bescherming tegen rechtstreekse aanraking
+- De bescherming tegen rechtstreekse aanraking dient te worden verzekerd:
+- − hetzij door omhulsels of schermen met een minimum beschermingsgraad van IPXX -B;
+- b. Bescherming tegen onrechtstreekse aanraking
+- Geen enkele beschermingsmaatregel tegen onrechtstreekse aanraking is noodzakelijk.
+- Ongeacht de hoger vermelde bepalingen is een bescherming tegen rechtstreekse aanraking niet noodzakelijk
+- a. Bescherming tegen rechtstreekse aanraking
+- onderafdeling 4.2.2.2. dient de bescherming tegen rechtstreekse aanraking te worden verzekerd overeenkom-
+- tabel 4.1. van onderafdeling 4.2.2.2.  is geen bescherming tegen rechtstreekse aanraking noodzakelijk.
+- b. Bescherming tegen onrechtstreekse aanraking
+- Geen enkele beschermingsmaatregel tegen onrechtstreekse aanraking is noodzakelijk.
+- − beschermingsgeleiders behorende tot andere stroombanen.
+- − de beschermingsgeleiders of massa’s van andere installaties;
+- Hoofdstuk 4. 3. Bescherming tegen thermische invloeden
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 104 Onbrandbaar materiaal:  materiaal dat niet kan branden. In de praktijk wordt een materiaal als onbrandbaar
+- de te nemen voorzorgsmaatregelen voor de bescherming tegen thermische effecten:
+- Afdeling 4. 3.2. Bescherming tegen brandwonden
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 105 Daarentegen kunnen bepaalde kunststofbekledingen de thermische geleidbaarheid van een metalen oppervlak
+- Afdeling 4.3.3. Bescherming tegen brand
+- Voor de veiligheidsinstallaties worden de bijkomende beschermingsmaatregelen tegen brand in hoofdstuk 3.4.
+- vermeld. Voor de kritische installaties worden de eventuele bijkomende beschermingsmaatregelen  tegen brand
+- uitrustingen bewijzen voor wat de bescherming tegen brand betreft. De documenten die dit bewijzen maken
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 106 Onderafdeling 4.3.3.3. Indeling van het brandgevaar in een ruimte
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 107 Geïsoleerde geleiders
+- − voeding van een beschermingsinstallatie tegen brand (detectie, alarm, …);
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 108 Tabel 4.8. Kenmerken van de geïsoleerde geleiders en kabels met betrekking tot hun brandweerstand
+- Onderafdeling 4.3.3.5. Beschermingsmaatregelen tegen brand
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 109 c. Gevaarlijke lek - of foutstromen
+- nomen in het kader van de bescherming tegen elektrische schokken en de bescherming tegen overstroom.
+- Onderafdeling 4.3.3.6. Bijkomende beschermingsmaatregelen tegen brand in de ruimten met
+- aanwezigheid van stof (AE4) moeten de omhulsels een beschermingsgraad hebben van ten minste
+- moeten tegen hoge temperaturen door beschermingsinrichtingen tegen overbelastingen met manuele reset
+- ten van onderafdeling 5.3.3.5 . (toestellen voor automatische  wederinschakeling voor beschermingsinrich-
+- geleiders en kabels  moeten worden beschermd tegen overbelastingen en kortsluitingen door beschermingsin-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 110 In de ruimten gekenmerkt door de uitwendige invloeden BE2 en/of BE3 en/of CA2, moeten de laagspannings-
+- stroombanen beschermd worden door een differentieelstroom beschermings inrichting met een aanspreekstroom
+- Tabel 4.9. Maximale toegelaten vertragingstijd van de differentieelstroom beschermings inrichting
+- rentieelstroom beschermings inrichting
+- stroom beschermings inrichting als enige actieve
+- bescherming tegen onrechtstreekse aanraking
+- In een TN -S-net is het toegelaten geen differentieelstroom beschermings inrichting te plaatsen voor de laag-
+- Onderafdeling 4.3.3.7. Bijzondere beschermingsmaatregelen tegen brand
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 111 4. de interne bekabeling van de schakel - en verdeelborden;
+- Afdeling 4. 3.4. Bescherming tegen explosiegevaar in explosieve atmosferen
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 112 Hoofdstuk 4. 4. Elektrische bescherming tegen overstroom
+- De elektrische bescherming tegen overstromen moet vermijden dat het elektrisch materieel wordt doorlopen
+- Deze bescherming moet gebeuren door een of meerdere toestellen die de stroom onderbreken vooraleer een
+- Onder afdeling 4. 4.1.3. Gemeenschappelijke beschermingsinrichting
+- Een enkele inrichting mag geplaatst worden voor de bescherming tegen overbelasting en kortsluiting voor zover
+- Onder afdeling 4. 4.1.4. In serie geplaatste beschermingsinrichtingen
+- Indien de bescherming tegen overbelasting en tegen kortsluiting verzekerd wordt door afzonderlijke toestellen,
+- moeten hun karakteristieken zo op elkaar afgestemd zijn dat de energie doorgelaten door de beschermingsin-
+- richting tegen kortsluiting niet groter is dan de energie die de beschermingsinrichting tegen overbelasting en
+- Het is toegelaten een beschermingsinrichting te gebruiken die een onderbrekingsvermogen  heeft dat kleiner is
+- Wanneer meerdere beschermingsinrichtingen in serie worden geplaatst, kunnen ze op elkaar worden afgestemd
+- zodat in geval van een kortsluiting stroomafwaarts, de beschermingsinrichting stroomopwaarts bijdraagt tot
+- het beperken van de energie die door de stroomafwaarts geplaatste beschermingsinrichtingen vloeit tot een
+- waarde die kleiner is dan deze welke de stroomafwaarts geplaatste inrichtingen en de door deze beschermings-
+- Wanneer de beschermingsinrichting stroomafwaarts een vermogensschakelaars  en de beschermingsinrichting
+- Wanneer de in serie geplaatste beschermingsinrichtingen vermogensschakelaars  zijn, wordt de begeleidingsbe-
+- Om de karakteristieken van de filiatie te bepalen, is het noodzakelijk de filiatietabellen van de beschermings-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 113 − de doorsnede van de geleiders;
+- Tabel 4. 11. Kaliber van de beschermingsinrichting in functie van de doorsnede der geleiders
+- Afdeling 4. 4.2. Bescherming tegen kortsluiting bij lage en zeer lage spanning
+- Onder afdeling 4. 4.2.1. Beschermingsinrichting tegen kortsluiting
+- Het toestel dat de bescherming tegen kortsluiting verzekert moet voldoen aan volgende twee voorwaarden:
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 114 Onder afdeling 4. 4.2.2. Plaats van de beschermingsinrichting
+- Een beschermingsinrichting tegen kortsluiting moet geplaatst worden aan het begin van elke stroombaan, sa-
+- Er wordt echter toegestaan geen beschermingsinrichting tegen kortsluiting te voorzien bij het begin van een
+- stroombaan op voorwaarde dat de stroomopwaarts geplaatste beschermingsinrichting ook de bescherming van
+- In afwijking van punt a. hiervoor, mag de beschermingsinrichting geplaatst worden op de elektrische leiding tot
+- − in het gedeelte van de elektrische leiding tussen het begin en de beschermingsinrichting geen enkel andere
+- respectievelijke bedieningsborden verbinden indien de beschermingsinrichtingen op deze borden geplaatst
+- Afdeling 4. 4.3. Bescherming tegen overbelasting bij lage en zeer lage spanning
+- Een beschermingsinrichting tegen overbelastingen moet in principe geplaatst worden waar een verandering van
+- Onder afdeling 4. 4.3.2. Beschermingsinrichting tegen overbelasting
+- Het toestel dat de bescherming tegen overbelasting verzekert moet voldoen aan volgende twee voorwaarden:
+- ring van doorsnede, aard, plaatsingswijze of samenstelling enerzijds en de beschermingsinrichting anderzijds,
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 115 materialen; indien haar lengte 3 meter overtreft, moet ze beschermd worden tegen kortsluiting.
+- Elke bescherming tegen overbelasting mag eveneens worden weggelaten in volgende gevallen:
+- − de elektrische leiding voedt een machine of gebruikstoestel met ingebouwde bescherming tegen overbelas-
+- de nominale of ingestelde stromen van de beschermingsinrichtingen van de aftakkingen kleiner is dan de
+- van de installatie volgens de beschermingsmaatregel «bijkomende isolatie bij het installeren » (zie afdeling
+- 2.4.2 .), hetzij de stroombaan doelmatig beschermd is door een differentieelstroom beschermings inrichting.
+- mag een enkel beschermingstoestel gebruikt worden op voorwaarde dat alle elektrische leidingen dezelfde
+- ject. De waarde van de toelaatbare stroom die in aanmerking komt bij de keuze van het beschermingstoestel is
+- Afdeling 4. 4.4. Bescherming tegen overstroom van de fasegeleiders en van de nul-
+- Alle fasegeleiders moeten beschermd zijn tegen overstroom. Deze bescherming moet de onderbreking veroor-
+- Onder afdeling 4. 4.4.2. Bescherming van éénfasige stroombanen
+- In éénfasige stroombanen van huishoudelijke  installaties, moet de bescherming voorzien worden op de twee
+- actieve geleiders behalve indien op dit niveau een differentieelstroom beschermings inrichting bestaat die tege-
+- lijkertijd de bescherming bevat tegen overstroom in één van de  actieve  geleiders en de onderbreking verzekert
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 116 Onder afdeling 4. 4.4.3. Driefasige stroombanen in TT - en TN -netten met niet -verdeelde nulge-
+- bescherming tegen overstroom niet voorzien te zijn op één van de fasegeleiders onder voorbehoud dat volgen-
+- − stroomopwaarts of op hetzelfde niveau moet er een differentieelstroom beschermings inrichting bestaan die
+- stroombaan van het onder hoger vermeld streepje  aangegeven beschermingstoestel.
+- De bescherming van de nulgeleider geschiedt volgens de volgende voorwaarden:
+- − het is niet noodzakelijk een bescherming tegen overstroom noch een onderbrekingstoestel te voorzien voor
+- fasegeleiders, moet een bescherming tegen overstroom o p de nulgeleider voorzien worden die aangepast is
+- aan de doorsnede van deze geleider. Deze bescherming veroorzaakt de onderbreking van de fasegeleiders,
+- maar niet noodzakelijk van de nulgeleider. In dat geval echter is het toegelaten de bescherming tegen
+- • de nulgeleider moet beschermd zijn tegen kortsluiting door de beschermingsinrichting op de fasegelei-
+- nele redenen noodzakelijk is de nulgeleider te verdelen, moet een bescherming tegen overstroom voorzien
+- worden op de nulgeleider van elke stroombaan. Deze bescherming moet de onderbreking van al de actieve
+- − hetzij als de beschouwde stroombaan beschermd is door een differentieelstroom beschermings inrichting
+- − hetzij als de nulgeleider stroomopwaarts beschermd is door een beschermingsinrichting tegen kortsluiting.
+- Indien de nulgeleider tegelijkertijd de functie van beschermingsgeleider vervult is het verboden deze te onder-
+- Hoofdstuk 4. 5. Bescherming tegen overspanning
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 117 Afdeling 4. 5.2. Voorzorgsmaatregelen bij het installeren
+- Hoofdstuk 4. 6. Bescherming tegen bepaalde andere uitwerkingen
+- Afdeling 4. 6.1. Bescherming tegen de effecten van spanningsdalingen
+- Beschermingsinrichtingen tegen de uitwerkingen van spanningsdaling of wegvallen van de spanning zijn noodza-
+- Afdeling 4. 6.2. Bescherming tegen biologische effecten van elektrische en magneti-
+- Afdeling 4. 6.3. Bescherming tegen besmettingsrisico's
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 118 Afdeling 4. 6.4. Bescherming tegen risico's te wijten aan bewegingen
+- Onderafdeling 5.1.3.3. Differentieelstroombeschermingsinrichtingen  .........................  124
+- Onderafdeling 5.2.3.8. In functie van de bescherming tegen elektrische schokken (BB en BC)
+- Afdeling 5.2.4. Toegelaten stromen − Bescherming tegen overstroom − Doorsnede van de
+- Onderafdeling 5.2.4.3. Bescherming van blanke geleiders verschillend van deze van
+- HOOFDSTUK 5.3. ELEKTRISCHE APPARATUUR (BESCHERMING, BEDIENING, SCHEIDING EN TOEZICHT)
+- vermogensschakelaars  en differentieelstroombeschermingsinrichtingen  ..............  156
+- Onderafdeling 5.3.5.3. Differentieelstroombeschermingsinrichtingen  .........................  164
+- HOOFDSTUK 5.4. AARDINGEN, BESCHERMINGSGELEIDERS EN EQUIPOTENTIALE VERBINDINGEN  .......  170
+- Afdeling 5.4.3. Beschermingsgeleiders  ................................ ................................ ... 174
+- Onderafdeling 5.4.3.6. Verbinding van de beschermingsgeleiders met het elektrisch materieel
+- Onderafdeling 5.5.7.2. Algemene beschermingsmaatregelen van de veiligheidsstroombanen
+- Onderafdeling 5.5.7.3. Bescherming tegen overbelasting in de veiligheidsstroombanen  .... 183
+- Onderafdeling 5.5.7.4. Bescherming tegen kortsluiting in de veiligheidsstroombanen  ...... 183
+- Onderafdeling 5.5.7.5. Bescherming tegen aardfouten in de veiligheidsstroombanen  ...... 184
+- Afdeling 5.6.2. Te nemen beschermingsmaatregelen  ................................ .................  186
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 124 Onde rafdeling 5.1.3.3. D ifferentieelstroom beschermings inrichtingen
+- De differentieelstroom beschermings inrichtingen moeten voldoen hetzij aan de schikkingen van de desbetref-
+- kelijk zijn of elkaar onderling beïnvloeden en, in dit geval, de keuze van de beschermingsgraad wijzigen.
+- ming waardoor gelijkwaardige eigenschappen verzekerd worden. Deze bijkomende bescherming mag de wer-
+- − als beschermingsgeleider (PE al dan niet geaard);
+- − als nulgeleider, indien deze eveneens als beschermingsgeleider dient (PEN -geleider).
+- de functie van beschermingsgeleider (PEN) vervult.
+- doel gebruikt worden, behalve als beschermingsgeleider.
+- voudige contactdoos voeden. De beschermingsinrichtingen
+- − mits eerbiediging van de voorschriften met betrekking tot de gedeeltelijke bescherming tegen elektrische
+- − wanneer de voorschriften van onderafdeling 4.2.2.2. de bescherming tegen elektrische schokken bij recht-
+- serd type zijn of voorzien worden van een speciale bescherming die hen hiertegen vrijwaart.
+- Bij doorvoeren van vloeren moet ter hoogte van de afgewerkte vloer de bescherming van de elektrische leiding
+- b.2. ingegraven met mechanische bescherming
+- bescherming
+- gevoed worden door middel van een beschermingstransformator.
+- Bovendien moeten bijkomende maatregelen (thermische isolatie, mechanische bescherming, starre bevesti-
+- condensatie of binnendringend water. De beschermingsgraad IP van elektrische leidingen moeten na voltooiing
+- sche bescherming hebben die weerstaat aan de te verwachten schokken.
+- De tegen fauna te nemen beschermingsmaatregelen zijn, naargelang van het geval:
+- − een gepaste beschermingsgraad tegen de indringing van vaste lichamen;
+- Onderafdeling 5.2.3.8. In functie van de bescherming tegen elektrische schokken (BB en BC)
+- De in aanmerking te nemen uitwendige invloeden voor de bescherming tegen elektrische schokken zijn deze die
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 134 Afdeling 5.2.4. Toegelaten stromen − Bescherming tegen overstroom − Doorsnede
+- De toe te passen regels voor de bescherming tegen overstroom worden behandeld in hoofdstuk 4.4. Elektrische
+- bescherming tegen overstroom .
+- De elektrische bescherming tegen overstroom voor de bedrading in elektrische machines of toestellen moet
+- Het is toegelaten geen bescherming tegen overstromen als gevolg van kortsluiting te installeren en het is ver-
+- boden een beschermingsinrichting tegen overbelasting te plaatsen op elektrische leidingen die een elektrische
+- Onderafdeling 5.2.4.3. Bescherming van blanke geleiders verschillend van deze van luchtlijnen
+- Geen enkele bijzondere beschermingsmaatregel tegen overstroom wordt voorzien tot het voorkomen van tem-
+- len binnenkomen, moet een continue bescherming verzekerd worden.
+- Wanneer de elektrische leidingen een mantel of een omhulsel bevatten met een bepaalde beschermingsgraad,
+- − als beschermingsgeleider (PE al dan niet geaard);
+- − als nulgeleider, indien deze eveneens als beschermingsgeleider dient (PEN -geleider).
+- de functie van beschermingsgeleider (PEN) vervult.
+- geheel vormen met inbegrip van de beschermingsgeleider wanneer deze noodzakelijk is.
+- − de beschermingsvoorschriften tegen onrechtstreekse aanraking.
+- − de connectoren hebben een beschermingsgraad van minstens IPXX -B (zijde bron ) in open stand;
+- beschermingsgeleiders.
+- − moeten een beschermingsgraad hebben die ten minste gelijk is aan IPXX -B;
+- algemene beschermingsinrichting voor zover deze kabels, waarvan de lengte niet langer dan 10 meter
+- 1. de bescherming tegen onrechtstreekse aanrakingen wordt verzekerd waarbij de niet -elektrische metalen
+- verdere beschermingsmaatregelen tegen onrechtstreekse aanraking genomen te worden, zelfs in het geval dat
+- toe verplichten dergelijke bescherming te gebruiken.
+- ring van de onafhankelijke beschermingsgeleiders  (PE).
+- Indien deze ingravingsdiepte van 0,60 m niet kan verwezenlijkt worden, moet de bescherming gevormd worden
+- evenwaardig systeem, dat een voldoende bescherming biedt tegen de oorzaken van mechanische beschadigin-
+- − ze zijn voorzien van een geaarde beschermingsmantel en wanneer ze, hetzij samengesteld zijn met een
+- de lichamen of tegen schokken door metalen handwerktuigen; de coördinatie tussen de beschermingsin-
+- richtingen en de doorsneden van de beschermingsmantel is zodanig dat de elektrische leidingen voldoende
+- − ze worden geplaatst in een buis of een evenwaardig systeem, dat een voldoende bescherming biedt tegen
+- Voor wat betreft de bescherming tegen rechtstreekse en onrechtstreekse aanraking wordt geen enkele bijko-
+- mende beschermingsmaatregel vereist buiten de hierboven beschreven voorwaarden.
+- deze elektrische leidingen beschermd worden door beschermingsinrichtingen met een nominale stroomsterkte
+- h.1. Mechanische bescherming
+- De mechanische bescherming van de buizen moet aangepast zijn aan de uitwendige invloeden waaraan ze
+- i.1. Bescherming tegen corrosie
+- beschermingsgeleiders (PE) en de onafhankelijke PEN-geleiders.
+- van de onafhankelijke beschermingsgeleiders (PE) en de onafhankelijke PEN-geleiders.
+- a. Bescherming tegen rechtstreekse aanraking
+- De beschermingsgraad der geprefabriceerde  leidingen moet ten minste gelijk zijn aan IPXX -B. Deze elektrische
+- al toegestaan waar geen enkele mechanische bescherming noodzakelijk is, voor zover geen enkel voorschrift
+- voor zover de dikte en de aard van de bedekking een mechanische bescherming verzekeren rekening houdend
+- De elektrische isolatie van de verwarm ingspanelen moet zodanig zijn dat de bescherming tegen
+- rechtstreekse aanraking  onder de normale bedrijfsomstandigheden  gewaarborgd is. Voor deze bescherming
+- b.9. Mechanische bescherming van de bekleding van verwarmingspanelen
+- De aard van de bekleding der verwarm ingspanelen moet zodanig zijn dat hij de mechanische bescherming
+- b.13. Bescherming tegen onrechtstreekse aanraking
+- De bescherming tegen onrechtstreekse aanraking  moet verzekerd zijn ofwel door de ZLVS die lager of gelijk
+- plaatsing van één of meer differentieelstroom beschermings inrichting en met grote (30 mA) of middelmatige
+- bescherming worden aangevuld met een geaard metalen scherm dat ofwel deel uitmaakt van het
+- De elektrische isolatie van de verwarmings leidingen  moet zodanig zijn dat de bescherming tegen
+- Voor deze bescherming mogen de actieve geleiders blank blijven op voorwaarde dat de voedingsbron op
+- c.9. Aard van de bekleding van de verwarmingsleidingen  en mechanische bescherming
+- bescherming ervan waarborgt, rekening houdend met het verwarmingsleiding type en de sollicitaties waar
+- c.13. Bescherming tegen onrechtstreekse aanraking
+- De bescherming tegen onrechtstreekse  aanraking moet verzekerd zijn ofwel door de ZLVS die lager of gelijk
+- plaatsing van één of meer differentieelstroom beschermings inrichting en met grote (30 mA) of middelmatige
+- lokalen moet deze bescherming worden aangevuld met een geaard metalen scherm dat of  wel deel uit
+- scherming tegen elektrische schokken door rechtstreekse aanraking te verzekeren, hun beschermingsgraad ten
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 149 Hoofdstuk 5.3. Elektrische a pparatuur (bescherming, bediening, schei-
+- Dit hoofdstuk behandelt de keuze en ingebruikname van de elektrische apparatuur voor bescherming, bedie-
+- De beschermingsgraad van elektrische machines en toestellen voor wat betreft het binnendringen van vloeistof-
+- Tabel 5. 4. Beschermingsgraad van elektrische machines en toestellen in fun ctie van de aanwezigheid van water (AD)
+- Code  Aanwezigheid van water  Beschermingsgraad
+- De beschermingsgraad van elektrische machines en toestellen tegen het binnendringen van vreemde vaste li-
+- Tabel 5. 5. Beschermingsgraad van elektrische machines en toestellen
+- Code  Vreemde vaste lichamen  Beschermingsgraad
+- AE1 Grote afmetingen  IP2X of IP0X volgens de beschermingsgraad
+- een beschermingsbekleding die bijzonder is aangepast aan de aard van de aangehaalde reagentia.
+- bescherming hebben die weerstaat aan de te verwachten belasting.
+- De eventueel te nemen beschermingsmaatregelen tegen fauna zijn afhankelijk volgens het geval van:
+- − een aangepaste beschermingsgraad tegen het binnendringen van vaste lichamen;
+- De bijzondere beschermingsmaatregelen, hierna vermeld, moeten eventueel aangewend worden.
+- − speciale beschermingsbekledingen;
+- − kathodische bescherming;
+- BA2 Kinderen  Materieel met een beschermingsgraad
+- BA4 Gewaarschuwden  Materieel zonder bescherming tegen rechtstreek-
+- BB2 Natte huid  Aangepaste beschermingsmaat-
+- (1) volgens de beschermingsmaatregel: veiligheidsscheiding van de  stroombanen beperkt tot  één
+- (2) volgens de beschermingsmaatregel: gebruik van zeer lage veiligheidsspanning
+- Wanneer er de uitwendige invloed CA2 is, moeten de elektrische machines en toestellen een bescherming heb-
+- − de  vermogensschakelaars  en de differentieels troom beschermings inrichtingen  voor zover ze vol-
+- De beschermingsgraad van de contactdozen bedraagt ten minste IPXX -B.
+- kelaars  en differentieelstroom beschermings inrichtingen
+- De toestellen voor automatische wederinschakeling zijn bedoeld om beschermingsinrichtingen ( vermogensscha-
+- kelaar  en differentieelstroom beschermings inrichting) na een uitschakeling door een fout automatische terug in
+- − het toestel voor automatische wederinschakeling mag alleen met een differentieelstroom beschermings in-
+- installatie of bij een manuele werking van de beschermingsinrichting uitgeschakeld  worden (mode
+- beschermingsinrichting manueel is uitgeschakeld;
+- − het toestel voor automatische wederinschakeling mag niet met de differentieelstroom beschermings in-
+- tische wederinschakeling voor beschermingsinrichtingen ( vermogensschakelaar en differentieelstroom bescher-
+- beschermingsinrichting rekening houdt met de veilige temperatuur van het elektrisch materieel.
+- wederinschakeling desactiveren en de bijbehorende beschermingsinrichting uitschakelen.”
+- klemmen die hun isolatie kunnen beschadigen. Bijzondere beschermingsstukken uit isolatie materiaal  wor-
+- Deze schakelaar wordt binnen een omhulsel aangebracht waarvan de beschermingsgraad minimum
+- − Bescherming tegen rechtstreekse en onrechtstreekse aanraking
+- • De bescherming tegen onrechtstreekse aanraking zal verwezenlijkt worden door een equipotentia-
+- verbinding zal geaard worden via een beschermingsgeleider.
+- ningsverbindingen voorzien zijn van een bijkomende beveiliging die een beschermingsgraad biedt
+- ningsverbindingen voorzien zijn van een bijkomende beveiliging die een beschermingsgraad biedt
+- − «Bescherming tegen rechtstreekse en onrechtstreekse aanraking ».
+- beschermingsgraad tegen het binnendringen van water IPX0 bedraagt.
+- − te zijn beschermd door een differentieelstroom beschermings inrichting met een aanspreekstroom van
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 163 Nochtans mag de functie van de algemene scheidingsschakelaar verzekerd worden door de beschermingsin-
+- De beschermings - en bedieningstoestellen betreffende stroombanen waarvan de energie tegen verschillende
+- De contactdozen hebben een beschermingsgraad van ten minste IPXX -B.
+- 250V bedraagt, hebben een beschermingsgraad van ten minste IPXX -D.
+- is met de beschermingsgeleider van de elektrische leiding behalve wanneer de contactdoos gevoed wordt via
+- een individuele beschermingstransformator overeenkomstig de voorschriften van onderafdeling 4.2.3.3., c.  Zij
+- Onder afdeling 5.3.5.3. D ifferentieelstroom beschermings inrichtingen
+- De differentieelstroom beschermings inrichtingen moeten gekozen en geplaatst worden overeenkomstig de
+- De differentieelstroom beschermings inrichtingen die worden geplaatst in huishoudelijke installaties  zijn ten
+- De differentieelstroom beschermings inrichtingen moeten opgesteld worden op een plaats waar hun veilige en
+- Indien de differentie elstroom beschermings inrichting in een schakel - en verdeel bord wordt ingebouwd, moeten
+- De differentieelstroom beschermings inrichting moet de onderbreking verzekeren van alle actieve geleiders van
+- De magnetische kring van de transformator in het beschermingstoestel moet alle actieve geleiders van de
+- stroombaan omsluiten, de nulgeleider inbegrepen. De overeenkomstige beschermingsgeleider moet daarente-
+- Om de bescherming te verzekeren van een toestel op een stroombaan met vier geleiders is het dus verboden
+- twee tweepolige beschermingstoestellen te plaatsen of een driepolig beschermings toestel te voorzien indien de
+- Daarentegen is het niet verboden een beschermingstoestel te gebruiken waarvan een of twee polen niet aange-
+- Eenzelfde vierpolige differentieelstroom beschermings inrichting, eenfasig gevoed, mag meerdere afzonderlijke
+- waarts van het beschermingstoestel en onafhankelijk ervan.
+- De differentieelstroom beschermings inrichtingen moeten dermate worden gekozen en de belasting moet derma-
+- Bepaalde opstellingen van ontstoringsconde nsatoren kunnen de differentieelstroom beschermings inrichtingen
+- en het stroomafwaarts ge plaatst is van een differentieelstroom beschermings inrichting worden maatregelen
+- − de differentieelstroombeschermingsinrichting is zo gebouwd dat haar werking gewaarborgd blijft bij het
+- − de differentieelstroombeschermingsinrichting wordt geïnstalleerd samen en in coördinatie met een detec-
+- g. Massa’s en beschermingsgeleider
+- De nulgeleider is stroomafwaarts van de differentieelstroom beschermings inrichting niet meer geaard.
+- Een differentieelstroom beschermings inrichting met hulpvoeding is een toestel met positieve veiligheid wanneer
+- een onderbreking van zijn hulpvoeding automatisch het openen van de beschermingsinrichting veroorzaakt.
+- De differentieelstroom beschermings inrichtingen zonder positieve veiligheid zijn verboden in huishoude lijke
+- Het gebruik van een differentieelstroom beschermings inrichting met grote of zeer grote gevoeligheid wordt
+- − om een bijkomende bescherming te verzekeren tegen elektrische schokken bij rechtstreekse aanraking;
+- − om het gevaar, dat ontstaat door de breuk van de beschermingsgeleider die de massa’s van het elektrisch
+- Wegens de kleine waarde van de aanspreekstroom van de beschermingsinrichtingen moeten gepaste voor-
+- Het is verboden de v eiligheid, die een differentieelstroom beschermings inrichting biedt, in het gedrang te bren-
+- k. Test van de beschermingsinrichting
+- Wanneer de beschermingsinrichting periodi ek, bijvoorbeeld maandelijks, moet getest worden volgens de on-
+- − hetzij ondergebracht worden in een schakel - en verdeelbord  dat een beschermingsgraad heeft die overeen-
+- kleine vermogensschakelaars toegelaten voor de bescherming van de stroombanen. Bovendien, en voor zover
+- Indien de kalibreerelementen van deze beschermingen geen geheel vormen met de aansluitstrip zijn zij con-
+- eerste reeks beschermingsinrichtingen tegen overstroom, geplaatst na de algemene differentieelstroom be-
+- − hebben de beschermingsinrichtingen tegen overstroom van de distributie netbeheerder  een minimum on-
+- − hebben de beschermingsinrichtingen tegen overstroom een minimum onderbrekingsvermogen van 3000 A
+- vermogensschakelaars  stroomafwaarts van de beschermingsinrichting tegen overstroom van de distributie-
+- − weerstaan de differentieelstroom beschermings inrichtingen en schakelinrichtingen aan een I²t-waarde van
+- stallatie, zo nodig, na verwijdering van de beschermingsplaten geplaatst in het kader van de bescherming
+- De elektrische verbindingen tus sen de differentieelstroom beschermings inrichting enerzijds en de beschermings-
+- De miniatuursmelt zekeringen  en vermogensschakelaars  zijn toegelaten voor de afzonderlijke bescherming van
+- Figuur 5.29. Keuze van de beschermingsinrichting tegen  kortsluitingen bij smelt zekeringen
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 168 Figuur 5.30. Keuze van de beschermingsinrichting tegen  kortsluitingen
+- Figuur 5.31. Keuze van de beschermingsinrichting tegen  kortsluitingen
+- Wanneer de werkingskarakteristiek (F of D1) van de beschermingsinrichting zich onder de kromme C der gelei-
+- stroom van de beschermingsrichting gedurende 5 seconden.
+- beschermingsinrichting berekend worden door vermenigvuldiging van het kwadraat van de effectieve waarde
+- van de werkingskarakteristiek I van de beschermingsinrichting met de werkingstijd t. Voor de kortsluitstromen
+- In de installaties volgens het IT -systeem, moeten de beschermingsinrichtingen het gepaste eenpolig onderbre-
+- U: de spanning, in V, onder nominale dienstvoorwaarden op de plaats van de bescherming sinrichting:
+- i. Bescherming van parallelle geleiders
+- Wanneer eenzelfde  beschermingsinrichting meerdere parallel geschakelde geleiders beschermt tegen de kort-
+- j. Beschermingsinrichting  tegen overstroom van de distributienetbeheerder bij aansluiting en
+- kert de beschermingsinrichting tegen overstroom van de distributienetbeheerder de bescherming tegen zowel
+- − beschermingstoestellen (relais, ontgrendelingstoestellen).
+- De stroommeettransformatoren bestemd voor beschermingsdoeleinden moeten met een zo groot mogelijke
+- stroombaan de betrouwbare werking van de beschermingstoestellen in de secundaire stroombaan niet in het
+- Wanneer een stroommeettransformator voor zowel meet - als beschermingsdoeleinden wordt aangewend, moe-
+- Hoofdstuk 5.4. Aardingen, beschermingsgeleiders en equipotentiale
+- Dit hoofdstuk behandelt de bepalingen voor aardingen, beschermingsgeleiders en equipotentiale verbindingen
+- kend worden zoals deze van een beschermingsgeleider.
+- Afdeling 5.4.3. Beschermingsgeleiders
+- Als beschermingsgeleiders mogen gebruikt worden:
+- dat de desbetreffende regels het voorzien. Zij mogen slechts gebruikt worden als beschermingsgeleider van
+- • andere beschermingsgeleiders moeten erop aangesloten kunnen worden;
+- nulgeleider en de beschermingsgeleider dezelfde zijn (TN -C net) en wanneer zij tezelfdertijd voldoen aan
+- In huishoudelijke elektrische installaties mogen uitsluitend koperen beschermingsgeleiders gebruikt worden. Zij
+- De minimum doorsnede Sp van de beschermingsgeleider, in mm², moet ten minste gelijk zijn aan de waarde
+- − I: de effectieve waarde van de foutstroom, in A, die door het beschermingstoestel kan vloeien bij een
+- vermogen van het beschermingstoestel;
+- − k: een constante, waarvan de waarde afhangt van de aard van het metaal van de beschermingsgeleider
+- Tabel 5.9. k -waarden voor beschermingsgeleiders
+- k-waarden voor ge ïsoleerde beschermingsgeleiders die geen deel uitmaken van de kabels of voor blanke
+- beschermingsgeleiders in contact met de bekleding van kabels
+- geleider  Aard van de isolatie van de beschermingsgeleiders of van de bekleding van kabels
+- k-waarden voor beschermingsgeleiders die deel uitmaken van een meerdradige kabel
+- geleider  Aard van de isolatie van de beschermingsgeleiders
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 176 Tabel 5.10. Minimumdoorsnede van de beschermingsgeleider
+- De aldus vastgestelde waarden gelden slechts indien de beschermingsgeleiders uit hetzelfde metaal zijn ver-
+- vaardigd als de actieve geleiders. Indien dit niet het geval is moet de doorsnede van de beschermingsgeleiders
+- nimumdoorsnede van de beschermingsgeleider zoals deze bekomen wordt door toepassing van de tabel.
+- Wanneer de beschermingsgeleider geen deel uitmaakt van de elektrische voedingsleiding moet zijn doorsnede
+- De minimale doorsnede van de hoofdbeschermingsgeleider wordt als deze van een beschermingsgeleider bere-
+- Wanneer de beschermingsgeleider, die al of niet deel uitmaakt van de kabel, voorzien is van een isolatie moet
+- mantel, is niet noodzakelijk. In dit geval vervult de middelste geleider de functie van beschermingsgeleider,
+- indien de beschouwde stroombaan een beschermingsgeleider bevat.
+- met geel -groene kleur, dan mag de aanduiding van de beschermingsgeleider gebeuren met een andere kleur
+- De beschermingsgeleiders moeten voldoende beschermd worden tegen mechanische en chemische beschadiging
+- scheidingsschakelaar worden aangebracht in de beschermingsgeleider.
+- Onderafdeling 5.4.3.6. Verbinding van de beschermingsgeleiders met het elektrisch materieel
+- Het wegnemen van een elektrische machine of toestel mag de continuïteit van de beschermingsstroombaan
+- stroom beschermings inrichting(en), een beschermingsgeleider bevatten. De schakelaars van het  huishoudelijk e
+- ste beschermingsgeleider van de installatie, de aardgeleider uitgezonderd, met een minimum koperdoorsnede
+- De hoofdequipotentiale geleider voldoet aan de voorschriften betreffende de beschermingsgeleider. Hij moet
+- − de helft van deze van de beschermingsgeleider die met een massa verbonden is, de aardgeleider uitgeslo-
+- − de kleinste doorsnede van de beschermingsgeleiders, verbonden met de massa’s van verschillende toestel-
+- gevolg heeft dat in de beschermingsgeleider met de kleinste doorsnede een foutstroom gaat vloeien die
+- ten van toepassing op beschermingsgeleiders ( onderafdelingen 5.4.3.4.  en 5.4.3.6. ).
+- − Ia: de aanspreekstroom van het beschermingstoestel binnen een tijd, bepaald door de veiligheidscurve,
+- er zich eveneens van vergewissen dat voorm elde voorwaarde wordt nageleefd voor de beschermingstoestellen
+- De onafhankelijke beschermingsgeleiders en de kabels  ten behoeve van communicatie en informatietechnolo-
+- om rekening te houden met de invloed van de eventuele brandbeschermingsmiddelen geïnstalleerd in het com-
+- De bescherming tegen overbelasting, kortsluiting en onrechtstreekse aanraking van de stroombanen van de
+- veiligheidsverbruikers moet de beschermingsmaatregelen van de hoofdstukken 4.2.  (bescherming tegen elektri-
+- sche schokken) en 4.4. (elektrische bescherming tegen overstroom) respecteren.
+- elektrische fout in een andere stroombaan. Dat vereist de selectiviteit tussen de beschermingsinrichtingen.
+- Onderafdeling 5.5.7.2. Algemene beschermingsmaatregelen van de veiligheidsstroombanen
+- in een andere stroombaan. Dat vereist de selectiviteit tussen de beschermingsinrichtingen.
+- − zijn de bescherming tegen onrechtstreekse aanraking en de beveiliging tegen kortsluiting  voor iedere
+- − kan het parallelbedrijf specifieke inrichtingen eisen, bijvoorbeeld een bescherming tegen terugvoeding;
+- − zijn de bescherming tegen onrechtstreekse aanraking en de beveiliging tegen kortsluiting ook bij
+- duele beschermingsinrichtingen.
+- Onderafdeling 5.5.7.3. Bescherming tegen overbelasting in de veiligheidsstroombanen
+- De bescherming tegen overbelasting moet voor alle veiligheidsstroombanen voorzien worden.
+- In afwijking van de eerste alinea mag de bescherming tegen overbelasting achterwege worden gelaten:
+- − hetzij zijn elektrische leiding en zijn bedienings - en beschermingstoestellen aan de
+- stroom  van de bedienings - en beschermingstoestellen en de toelaatbare stroom van de elektrische
+- Onderafdeling 5.5.7.4. Bescherming tegen kortsluiting in de veiligheidsstroombanen
+- De bescherming tegen kortsluiting moet voor alle veiligheidsstroombanen voorzien worden.
+- In afwijking van de eerste alinea mag de bescherming tegen kortsluiting achterwege worden gelaten voor de
+- Onderafdeling 5.5.7.5. Bescherming tegen aardfouten in de veiligheidsstroombanen
+- De bescherming tegen aardfouten moet voor alle veiligheidsstroombanen voorzien worden.
+- Onverminderd de beschermingsmaatregelen tegen elektrische schokken bij onrechtstreekse aanraking, mag h et
+- Voor de elektrische installaties in wooneenheden die aan de voorschriften van de bescherming van stroomba-
+- b. Te nemen beschermingsmaatregelen
+- b.1. Beschermingsmaatregelen zonder automatische onderbreking bij de eerste aardfout
+- De beschermingsmaatregelen zonder automatische onderbreking bij de eerste aardfout zijn:
+- 3. de bescherming tot het onmogelijk maken van een gelijktijdige aanraking van delen die op potentialen
+- b.2. Beschermingsmaatregelen met automatische onderbreking bij de eerste aardfout
+- zich in een stroombaan voordoet niet nadelig de bescherming tegen elektrische schokken en de goede werking
+- b.3. Andere beschermingsmaatregelen
+- organisatorische maatregelen, het gebruik van beschermingsinrichtingen met automatische wederinschakeling
+- Afdeling 5.6.2. Te nemen beschermingsmaatregelen
+- − zijn de bescherming tegen onrechtstreekse aanraking en de beveiliging tegen kortsluiting  voor iedere
+- − kan het parallelbedrijf specifieke inrichtingen eisen, bijvoorbeeld een bescherming tegen terugvoeding;
+- − de bescherming tegen onrechtstreekse aanraking en de beveiliging tegen kortsluiting zijn ook bij
+- een andere stroombaan. Dat vereist de selectiviteit tussen de beschermingsinrichtingen.
+- b. Bescherming tegen overbelasting
+- De bescherming tegen overbelasting moet voor alle kritische stroombanen voorzien worden.
+- In afwijking van de eerste alinea mag de bescherming tegen overbelasting achterwege worden gelaten:
+- − hetzij zijn elektrische leiding en zijn bedienings - en beschermingstoestellen aan de
+- stroom van de bedienings - en beschermingstoestellen en de toelaatbare stroom van de elektrische
+- c. Bescherming tegen kortsluiting
+- De bescherming tegen kortsluiting moet voor alle kritische stroombanen voorzien worden.
+- In afwijking van de eerste alinea mag de bescherming tegen kortsluiting achterwege worden gelaten voor de
+- d. Bescherming tegen aardfouten in de kritische stroombanen
+- De bescherming tegen aardfouten moet voor alle kritische stroombanen voorzien worden.
+- Onverminderd de beschermingsmaatregelen tegen elektrische schokken bij onrechtstreekse aanraking, mag h et
+- Voor de elektrische installaties in wooneenheden die aan de voorschriften van de bescherming van stroomba-
+- d.2. Te nemen beschermingsmaatregelen
+- d.2.1. Beschermingsmaatregelen zonder automatische onderbreking bij de eerste aardfout
+- De beschermingsmaatregelen zonder automatische onderbreking bij de eerste aardfout zijn:
+- 3. de bescherming tot het onmogelijk maken van een gelijktijdige aanraking van delen die op potentialen
+- d.2.2. Beschermingsmaatregelen met automatische onderbreking bij de eerste aardfout
+- stroombaan voordoet niet nadelig de bescherming tegen elektrische schokken en de goede werking van de an-
+- d.2.3. Andere beschermingsmaatregelen
+- ge Raad voor Preventie en Bescherming op het werk;
+- ge Raad voor Preventie en Bescherming op het werk;
+- c) de nominale waarde van de bescherming van de aansluiting;
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 199      b.3. Beschrijving van de aardelektrode, de stroombanen en de bescherming ervan
+- a) de geïnstalleerde differentieelstroom beschermings inrichtingen en de waarde van de spreidingsweerstand
+- b) de geïnstalleerde beschermingsinrichtingen tegen overstroom en de doorsneden van de respectieve
+- equipotentiale verbindingen (hoofd - en bijkomende) en van de beschermingsgeleiders van de
+- bezoeker de differentieelstroom beschermings inrichting, geplaatst aan het begin van de installatie,  heeft
+- aardverbinding in het kader van de bescherming tegen elektrische schokken door onrechtstreekse aanraking,
+- b) de nominale waarde van de bescherming van de aansluiting.
+- c) de controle van de beschermingsmaatregelen  tegen elektrische schokken bij rechtstreekse en
+- d) de controle van de werking van de differentieelstroom beschermings inrichtingen via de eigen
+- e) de controle van de foutlussen en de juiste aansluiting van de differentieelstroom beschermings -
+- beschermingsgeleiders van de contactdozen en van de vaste, vast opgestelde of verplaatsbare
+- Het bevestigt de overeenstemming tussen de geïnstalleerde beschermingsinrichtingen tegen overstroom
+- ingangsklemmen van de differentieelstroom beschermings inrichting, geplaatst aan het begin van de in-
+- 1. Bescherming tegen elektrische schokken door onrechtstreekse aanraking
+- de in de punten 1 en 2 bedoelde stroombanen niet door een differentieelstroombeschermingsinrichting met een
+- meer dan acht eindstroombanen per differentieelstroombeschermingsinrichting met een grote of zeer grote
+- een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoeligheid voor het geheel van de
+- verlichtingsstroombanen en een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoe-
+- 3. Bescherming van ruimten die een bad en/of een douche bevatten
+- van het voedingspunt. Dit materieel heeft een beschermingsgraad IPX4. Als het voedingspunt een con-
+- tactdoos gevoed op laagspanning is, heeft die contactdoos een beschermingsgraad IPXX;
+- 2. Bescherming tegen elektrische schokken door onrechtstreekse aanraking van gemeenschappelijke delen
+- de in de punten 1° en 2° bedoelde stroombanen niet door een differentieelstroombeschermingsinrichting met
+- meer dan acht eindstroombanen per differentieelstroombeschermingsinrichting met een grote of zeer grote
+- een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoeligheid voor het geheel van de
+- verlichtingsstroombanen en een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoe-
+- 4. Bescherming van ruimten die een bad en/of een douche bevatten
+- Afdeling 7.1.4. Bescherming tegen elektrische schokken  ................................ ............  229
+- Onderafdeling 7.1.4.1. Bescherming tegen elektrische schokken bij rechtstreekse aanraking
+- Onderafdeling 7.1.4.2. Bescherming tegen elektrische schokken bij onrechtstreekse
+- Onderafdeling 7.1.4.3. Bescherming tegen elektrische schokken bij onrechtstreekse
+- Afdeling 7.2.3. Bescherming tegen elektrische schokken  ................................ ............  235
+- Onderafdeling 7.2.3.1. Bescherming tegen onrechtstreekse aanraking bij gebruik van zeer
+- Onderafdeling 7.2.3.2. Bescherming tegen rechtstreekse aanraking − Beschermingsgraad van
+- Afdeling 7.3.3. Bescherming tegen elektrische schokken  ................................ ............  239
+- Onderafdeling 7.3.4.1. Beschermingsgraad van het elektrisch materieel  .....................  239
+- Afdeling 7.4.2. Bescherming tegen elektrische schokken  ................................ ............  240
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 208 Onderafdeling 7.4.2.1. Bescherming tegen elektrische schokken bij onrechtstreekse
+- Onderafdeling 7.4.2.2. Bescherming tegen elektrische schokken bij onrechtstreekse
+- Afdeling 7.6.3. Bescherming tegen elektrische schokken  ................................ ............  242
+- Afdeling 7.8.3. Bescherming tegen elektrische schokken  ................................ ............  243
+- Afdeling 7.9.2. Bescherming tegen elektrische schokken  ................................ ............  244
+- Afdeling 7.11.2. Bescherming tegen elektrische schokken  ................................ ...........  245
+- Afdeling 7.22.4. Beschermingsmaatregelen  ................................ .............................  248
+- Onderafdeling 7.22.4.1. Bescherming tegen onrechtstreekse aanraking  .......................  248
+- Onderafdeling 7.22.4.2. Bescherming tegen overstroom  ................................ .........  249
+- Afdeling 7.100.3. Bescherming tegen elektrische schokken  ................................ .........  251
+- Onderafdeling 7.100.3.1. Bescherming tegen onrechtstreekse aanraking bij gebruik van zeer
+- Onderafdeling 7.100.3.2. Bescherming tegen rechtstreekse aanraking - Beschermingsgraad
+- Afdeling 7.101.2. Bescherming tegen elektrische schokken  ................................ .........  253
+- HOOFDSTUK 7.102. BESCHERMING TEGEN EXPLOSIEGEVAAR IN EXPLOSIEVE ATMOSFEREN  ............  254
+- Onderafdeling 7.102.8.5. Beschermingstoestellen tegen foutstromen  .........................  260
+- Afdeling  7.102.9. Bescherming tegen temperatuurverhoging en vonkvorming  ...................  261
+- Onderafdeling 7.102.9.6. Kathodische bescherming  ................................ ..............  262
+- Afdeling 7.103.3. Bescherming tegen elektrische schokken  ................................ .........  264
+- Afdeling 7.103.4. Bescherming tegen explosiegevaar  ................................ .................  265
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 229 Afdeling 7.1.4. Bescherming tegen elektrische schokken
+- Onderafdeling 7.1.4.1. Bescherming tegen elektrische sch okken bij rechtstreekse aanraking
+- a. Beschermingsgraad van het elektrisch materieel
+- Wanneer de bescherming tegen elektrische schokken bij rechtstreekse aanraking verzekerd wordt door het
+- De beschermingsgraad van het elektrisch materieel toegelaten in de ruimten die een bad en/of een douche
+- Bij gebruik van ZLVS als bescherming tegen elektrische schokken bij rechtstreekse aanraking is beschermings-
+- Tabel 7.1. Bescherming tegen elektrische schokken bij rechtstreekse aanraking: m aximumspanning van ZLVS bij gebruik van
+- elektrisch materieel met een beschermingsgraad IP00
+- b. Bescherming door verwijdering en door middel van hindernissen
+- De bescherming door verwijdering zoals beschreven in onderafdeling 4.2.2.1. , d. en door middel van hindernis-
+- Onderafdeling 7.1.4.2. Bescherming tegen elektrische schokken bij onrechtstreekse aanraking
+- a. Bescherming tegen elektrische schokken bij onrechtstreekse aanraking bij gebruik van ZLVS
+- Wanneer de bescherming tegen elektrische schokken bij onrechtstreekse aanraking verzekerd wordt door het
+- Tabel 7.2. Bescherming tegen elektrische schokken bij onrechtstreekse aanraking: maximumspanning bij gebruik van ZLVS
+- b. Bescherming door veiligheidsscheiding van stroombanen
+- Bescherming door veiligheidsscheiding van stroombanen zoals beschreven in onderafdeling 4.2.3.3. , c. wordt
+- Bescherming door veiligheidsscheiding van stroombanen wordt niet toegelaten op verzonken elektrische ver-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 230 c. Bijkomende bescherming tegen elektrische schokken bij onrechtstreekse aanraking zonder automati-
+- Als bijkomende bescherming is het toegelaten om de bepalingen van onderafdeling 4.2.3.3. , d. toe te passen.
+- Onderafdeling 7.1.4.3. Bescherming tegen elektrische schokken bij onrechtstreekse aanraking
+- Behalve eindstroombanen die gebruikmaken van de bescherming door ZLVS of de bescherming door veiligheids-
+- ruimte met een bad en/of een douche voeden beschermd door een of meer differentieelstroombeschermingsin-
+- (12) beschermingsgeleider van de eindstroombaan van de ruimte die een bad bevat.
+- *** Toegelaten beschermingsgraad van contactdozen gevoed op laagspanning: IPXX
+- De installatie van elektrisch materieel bestemd voor de voeding of bescherming van elektrisch materieel in
+- − hetzij beschermd door een differentieelstroombeschermings -inrichting met zeer grote gevoeligheid;
+- − hetzij elk individueel beschermd door een beschermingstransformator met een maximaal vermogen
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 233 In de volumes 0, 1 en 2 wordt bij gebruik van elektrische leidingen gevoed op ZLVS, de beschermingswijze door
+- Afdeling 7.2.3. Bescherming tegen elektrische schokken
+- Onderafdeling 7.2.3.1. Bescherming tegen onrechtstreekse aanraking bij gebruik van zeer lage
+- Wanneer de bescherming tegen onrechtstreekse aanraking verzekerd wordt door het gebruik van zeer lage
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 236 Tabel 7.4. Bescherming tegen onrechtstreekse aanraking: maximumspanning
+- Onderafdeling 7.2.3.2. Bescherming tegen rechtstreekse aanraking − Beschermingsgraad van het
+- De bescherming tegen rechtstreekse aanraking wordt verzekerd door het gebruik van isolatie, hindernissen of
+- De beschermingsgraad van het elektrisch materieel is ten minste  deze aangegeven in tabel 7.5.
+- Tabel 7.5. Minimum beschermingsgraad van elektrisch materieel in de verschillende volumes van zwembaden
+- Minimum beschermingsgraad  IPX7/IPX8  IPX5 IPX4 (*)  IPX4 (*)
+- spanning met rimpel of 30 V gelijkspanning zonder rimpel, is geen enkele beschermingsgraad vereist.
+- Wanneer de beschermingsmaatregel tegen elektrische schokken door middel van veiligheidsscheiding van de
+- stroombanen toegepast wordt, mag een beschermingstransformator slechts één enkel toestel voeden.
+- rentieelstroom beschermings inrichting met grote of zeer grote gevoeligheid;
+- − automatische onderbreking van de voeding d oor middel van een differentieelstroom beschermings inrichting
+- een differentieelstroom beschermings inrichting met grote of zeer grote gevoeligheid.
+- − mechanische bescherming (uitwendige invloed AG2) die enkel met behulp van gereedschap kan worden
+- een mechanische bescherming (uitwendige invloed AG2);
+- • automatische onderbreking van de voeding d oor middel van een differentieelstroom beschermings in-
+- Afdeling 7.3.3. Bescherming tegen elektrische schokken
+- Onderafdeling 7.3.4.1. Beschermingsgraad van het elektrisch materieel
+- De beschermingsgraad van het elektrisch materieel is ten minste IPX4.
+- − hetzij van klasse I zijn, hun voedingsstroombanen z ijn beschermd door differentieelstroom beschermings in-
+- Afdeling 7.4.2. Bescherming tegen elektrische schokken
+- Onderafdeling 7.4.2.1. Bescherming tegen elektrische schokken bij onrechtstreekse aanraking
+- Indien de bescherming tegen elektrische schokken bij onrechtstreekse aanraking verzekerd wordt door een
+- Onderafdeling 7.4.2.2. Bescherming tegen elektrische schokken bij onrechtstreekse aanraking
+- Indien de bescherming tegen elektrische schokken bij onrechtstreekse aanraking verzekerd wordt door zeer
+- stel en de hoofdbeschermingsinrichtingen bevat. De scheidings - en beschermingsinrichting van de verdeel-
+- − de beschermingsinrichtingen tegen over stromen ;
+- − de beschermingsinrichtingen tegen onrechtstreekse aanrakingen;
+- Afdeling 7.6.3. Bescherming tegen elektrische schokken
+- Alleen volgende beschermingsmaatregelen zijn toegelaten:
+- Elk toestel moet dan afzonderlijk gevoed worden door een beschermingstransformator;
+- andere beschermingsmaatregelen op voorwaarde dat het toestel aangedreven wordt via een soepele as of een
+- Afdeling 7.8. 3. Bescherming tegen elektrische schokken
+- door een differentieelstroom beschermings inrichting met grote gevoeligheid. De waarde van de conventionele
+- Afdeling 7.9.2. Bescherming tegen elektrische schokken
+- Afdeling 7.11.2. Bescherming tegen elektrische schokken
+- de beschermingsgeleiders verbonden zijn met een aardverbinding waarvan de spreidingsweerstand niet groter
+- schermd zijn door een differentieelstroom beschermings inrichting waarvan de aanspreekstroom niet groter is
+- dan 100 mA of door een beschermingsinrichting tegen elektrische schokken bij onrechtstreekse aanraking met
+- Aan de vereiste van de vorige alinea wordt voldaan door gebruik te maken van de aangepaste beschermingsin-
+- (overstroombeschermingsinrichting van de toegekende stroombaan geïntegreerd in het schakel - en verdeelbord)
+- (overstroombeschermingsinrichtingen van de toegekende stroombanen geïntegreerd in de laadinrichting)
+- (overstroombeschermingsinrichtingen van de toegekende stroombanen geïntegreerd in het schakel - en verdeelbord)
+- (overstroombeschermingsinrichtingen van de toegekende stroombanen geïntegreerd in de laadinrichting)
+- Afdeling 7.22. 4. Beschermingsmaatregelen
+- Onderafdeling 7.22. 4.1. Bescherming tegen onrechtstreekse aanraking
+- Ten minste een van volgende beschermingsmaatregelen is van toepassing:
+- a. Passieve bescherming zonder automatische onderbreking van de voeding
+- overeenkomstig punt c.  van onderafdeling 4.2.3.3. , en door middel van een beschermingstransformator.
+- b.     Actieve bescherming met automatische onderbreking van de voeding
+- Elke toegekende stroombaan in wisselstroom wordt individueel door een differentieelstroombeschermingsin-
+- 1.  hetzij door een differentieelstroombeschermingsinrichting die zo is gebouwd dat haar werking gegaran-
+- 2. hetzij door een differentieelstroombeschermingsinrichting samen en in coördinatie met een detectieappa-
+- vermelde beschermingsinrichtingen hetzij in de vaste stroomopwaartse elektrische installatie, hetzij in de
+- 1. de in de tweede alinea bedoelde differentieelstroombeschermingsinrichting achterwege wordt gelaten, op
+- Onderafdeling 7.22.4.2. Bescherming tegen overstroom
+- Elke toegekende stroombaan wordt individueel beschermd door een aangepaste beschermingsinrichting tegen
+- Hieraan  wordt voldaan door gebruik te maken van een aangepaste beschermingsinrichting tegen overstroom die
+- die niet tegelijkertijd worden gebruikt, deze laatste over gemeenschappelijke beschermingsinrichtingen tegen
+- overstroom beschikken, op voorwaarde dat dergelijke inrichtingen de vereiste bescherming bieden voor elk
+- verbindingspunt (bijvoorbeeld: de toegekende stroom van de gemeenschappelijke beschermingsinrichting is
+- Als de laadinrichting in open lucht wordt geïnstalleerd, beschikt het materieel over een beschermingsgraad van
+- regelen getroffen ter bescherming tegen mechanische belastingen veroorzaakt door elke redelijkerwijs te ver-
+- productie -eenheden, namelijk voor de bescherming tegen elektrische schokken, de bescherming tegen over-
+- Afdeling 7.100.3. Bescherming tegen elektrische schokken
+- Onderafdeling 7.100.3.1. Bescherming tegen onrechtstreekse aanraking bij gebruik van zeer
+- Wanneer de bescherming tegen onrechtstreekse aanraking in de volumes 0 en 1 verzekerd wordt door het ge-
+- Onderafdeling 7.100.3.2. Bescherming tegen rechtstreekse aanraking - Beschermingsgraad van
+- De bescherming tegen rechtstreekse aanraking in de volumes 0 en 1 wordt verzekerd door het gebruik van iso-
+- De beschermingsgraad van het elektrisch materieel is ten minste:
+- Wanneer de beschermingsmaatregel tegen elektrische schokken door middel van veiligheidsscheiding van de
+- stroombanen toegepast wordt, mag een beschermingstransformator slechts één enkel toestel voeden.
+- − automatische onderbreking van d e voeding door een differentieelstroom beschermings inrichting met grote
+- bescherming (uitwendige invloed AG2) die enkel met behulp van gereedschap kan worden verwijderd.
+- De pompen zijn beschermd door één van de beschermingswijzen aangehaald in punt a.
+- Afdeling 7.101.2. Bescherming tegen elektrische schokken
+- − door een openbaar verdeelnet door middel van een beschermingstransformator of door een motor -
+- de aanhangwagen bes chermd is door een differentieelstroom beschermings inrichting met grote, of zeer gro-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 254 Hoofdstuk 7.102. Bescherming tegen explosiegevaar in explosieve at-
+- elektrisch materieel, om de bescherming van personen en goederen te verzekeren tegen de gevaren welke
+- a. Beschermingsmethode «d»
+- b. Beschermingsmethode « e»
+- zijn bestuurd  moeten de keuze en de regeling van de beschermingsinrichtingen in functie van de maximale
+- Als de tijd tE niet kan gerespecteerd worden, dienen geschikte alternatieve beschermingsmiddelen te worden
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 258 c. Beschermingsmethode «i»
+- afgestemd ten einde de vrijwaring van de beschermingswijze te waarborgen. De maximum toegelaten waarden
+- aangebracht, zo  niet moet het uitgerust zijn met een andere beschermingswijze.
+- d. Beschermingsmethode « p»
+- De aanvoer - en afvoerkanalen van beschermingsgassen ten behoeve van elektrische machines en toestellen
+- uitgevoerd volgens de beschermingswijze door interne overdruk (EExp) zijn ontworpen voor een overdruk van:
+- De plaatsen waar het beschermingsgas in de aanvoerkanalen wordt aangezogen moeten zich buiten de gevaar-
+- De aanzuigkanalen waarvan de druk van het beschermingsgas lager is dan de atmosferische druk moeten her-
+- e. Beschermingsmethode «o»
+- Wanneer de herstelling geen wijziging van de beschermingskenmerken voor gevolg heeft van de herstelde elek-
+- Wanneer de herstelling een wijziging van de beschermingskenmerken voor gevolg heeft, zal de herstelde elek-
+- − kabel met een gelijkwaardige mechanische bescherming.
+- Met uitzondering van de onafhankelijke beschermingsgeleiders (PE), mogen geïsoleerde geleiders niet worden
+- kabel is geïntegreerd, mag dit niet de enige beschermingsgeleider zijn.
+- tiebuizen) op elektrische machines en toestellen zijn derwijze gekozen dat de desbetreffende beschermings-
+- wijze en beschermingsgraad van de behuizing gewaarborgd blijven.
+- aangepast zijn aan de desbetreffende beschermingswijze en beschermingsgraad.
+- De leidinginvoeren in behuizingen gebruikt in de beschermingswijze drukvast (EExd) en verhoogde veiligheid
+- a. Beschermingsmethode «d»
+- b. Beschermingsmethode «e»
+- De in behuizingen met de beschermingswijze verhoogde veiligheid (EExe)  gebruikte aansluitklemmen dienen
+- c. Beschermingsmethode «i»
+- Onderafdeling 7.102.8.5. Beschermingstoestellen tegen foutstromen
+- Het gebruik van een toestel voor automatische wederinschakeling voor beschermingsinrichtingen ( vermogens-
+- schakelaar  en differentieelstroom beschermings inrichting) onder foutomstandigheden is verboden. Deze bepa-
+- − als de noodzakelijke vertragingstijd voor de automatische wederinschakeling van de beschermingsinrichting
+- Afdeling 7.102.9. Bescherming tegen temperatuurverhoging en vonkvorming
+- − hetzij ontladingen veroorzaakt door kathodische beschermingsinstallaties.
+- 22 mits toepassing van een differentieelstroom beschermings inrichting. De aanspreekstroo m van de  diffe-
+- rentieelstroom beschermings inrichting is bepaald volgens de regels van goed vakmanschap met een waarde
+- differentieelstroom beschermings inrichting. De aans preekstroom van de differentieelstroom beschermings in-
+- niet-vertraagde uitschakeltijd . In een TN -S-net is het toegelaten geen differentieelstroom beschermings in-
+- Onderafdeling 7.102.9.6. Kathodische bescherming
+- Er mag geen kathodische bescherming worden toegepast op metalen delen in zone 0 tenzij deze speciaal voor
+- De isolerende elementen die voor de kathodische bescherming vereist zijn, moeten worden geplaatst buiten
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 264 Afdeling 7.103.3. Bescherming tegen elektrische schokken
+- − mogen niet voorzien zijn van beschermingscontacten;
+- bracht in omhulsels die een beschermingsgraad van ten minste IP 2X hebben en gesloten kunnen worden door
+- de persoonlijke beschermingsmiddelen (handschoenen, gezichtsscherm...) tegen elektrische gevaren overeen-
+- bescherming tegen elektrische schokken bij onrechtstreekse aanraking wordt verzekerd.
+- lijk aan 120 V, bieden een bescherming tegen elektrische schokken bij rechtstreekse aanraking:
+- Door het toepassen van één van de hierboven vermelde beschermingstechnieken wordt eveneens verondersteld
+- dat de bescherming tegen elektrische schokken bij onrechtstreekse aanraking wordt verzekerd.
+- gelijk aan 750 V, bieden een bescherming tegen elektrische schokken bij rechtstreekse aanraking:
+- De bescherming tegen elektrische schokken bij onrechtstreekse aanraking voor diezelfde gelijkstroomproduc-
+- ke een beschermingsgraad van ten minste IP 2X hebben en gesloten kunnen worden door middel van een veilig-
+- Afdeling 7.103.4. Bescherming tegen explosiegevaar
+- structuur door een beschermingsgeleider van een doorsnede ten minste equivalent met deze van de be-
+- − de automatische onderbreking van de voeding in het kader van de bescherming tegen elektrische schokken
+- a. controle van de werking van de differentieelstroom beschermings inrichting via de eigen testinrichting;
+- b. controle van de foutlussen en de correcte aansluiting van de differentieelstroom beschermings inrichting
+- elektrische installatie, waaronder met name de aftakdozen, elektrische leidingen, beschermingsinrichtingen,…
+- materieel is ofwel door zijn constructie ofwel door een bijkomende bescherming, aangepast aan de aanwezige
+- 2. Keuze van differentieelstroombeschermingsinrichtingen
+- beschermingsinrichting in dienst te laten waarvan de scheidingsfunctie wordt verzekerd door een algemene
+- − punt a.  van onderafdeling 5.3.5.3. , de differentieelstroombeschermingsinrichtingen met een nominale
+- − punt e.  van onderafdeling 5.3.5.5. , de differentieelstroombeschermingsinrichtingen met een nominale
+- 3. Keuze van de beschermingsinrichtingen tegen overstroom
+- Het is toegelaten, in afwijking van de voorschriften van punt e.  van onderafdeling 5.3.5.5. , de beschermingsin-
+- Wat betreft de normalisatie van de beschermingsinrichtingen tegen overstroom, dienen de houders van smelt-
+- beschermingsgeleider heeft, op voorwaarde dat deze contactdozen door een differentieelstroom -
+- beschermingsinrichting met een grote of zeer grote gevoeligheid worden beschermd ;
+- − de differentieelstroombeschermingsinrichting(en) met haar (hun) karakteristieken;
+- − de beschermingsinrichtingen met hun karakteristieken.
+- − een beschermings -, aard -, of equipotentiaalgeleider die niet gemarkeerd is door de groene en gele kleur-
+- − actieve of beschermingsgeleiders waarvan de isolatie met groene of gele kleur is uitgevoerd.
+- 12. Beschermingsgeleider
+- klasse I, met lamphouders die niet over een beschermingsgraad van ten minste IPXX -B beschikken, niet te ver-
+- binden met de beschermingsgeleider van de elektrische leiding.
+- het toegelaten elektrische leidingen in dienst te laten die geen beschermingsgeleider bevatten op voorwaarde
+- Het is eveneens toegelaten een beschermingsgeleider in dienst te laten die zich buiten de elektrische leiding
+- Het is toegelaten de beschermingsgeleider te installeren buiten de elektrische leidingen, daar waar het niet
+- mogelijk is deze beschermingsgeleider in de bestaande buizen te trekken.
+- 15. Bescherming van ruimten die een badkuip en/of een douche bevatten
+- 16. Bescherming tegen elektrische schokken door onrechtstreekse aanraking
+- de in de punten 1 en 2 bedoelde stroombanen niet door een differentieelstroombeschermingsinrichting met een
+- meer dan acht eindstroombanen per differentieelstroombeschermingsinrichting met een grote of zeer grote
+- een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoeligheid voor het geheel van de
+- verlichtingsstroombanen en een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoe-
+- elektrische installatie, waaronder met name de aftakdozen, elektrische leidingen, beschermingsinrichtingen …
+- materieel is ofwel door zijn constructie ofwel door een bijkomende bescherming, aangepast aan de aanwezige
+- 2. Keuze van de differentieelstroombeschermingsinrichtingen
+- ter plaatse is aangevangen vóór 2 juli 2003, een differentieelstroombeschermingsinrichting in dienst te la-
+- hoofdbord en die zich stroomopwaarts van de differentieelstroombeschermingsinrichting bevindt;
+- − punt a.  van onderafdeling 5.3.5.3. , de differentieelstroombeschermings -inrichtingen met een nominale
+- − punt e.  van onderafdeling 5.3.5.5. , de differentieelstroombeschermingsinrichtingen met een nominale
+- 3. Keuze van de beschermingsinrichtingen tegen overstroom
+- Het is toegelaten, in afwijking van de voorschriften van punt e.  van onderafdeling 5.3.5.5. , de beschermingsin-
+- plaatse is aangevangen vóór 17 mei 1986. De beschermingsinrichtingen van deze elektrische leidingen wor-
+- − het type van de beschermingsinrichtingen.
+- 10. Bescherming tegen elektrische schokken door onrechtstreekse aanraking
+- de in de punten 1 en 2 bedoelde stroombanen niet door een differentieelstroombeschermingsinrichting met een
+- meer dan acht eindstroombanen per differentieelstroombeschermingsinrichting met een grote of zeer grote
+- een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoeligheid voor het geheel van de
+- verlichtingsstroombanen en een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoe-
+- 11. Bescherming van ruimten die een bad en/of een douche bevatten
+- werp of door collectieve beschermingsmaatregelen of om de risico’s op een ernstig letsel in te perken door
+- 4.1. Elke stroombaan is beschermd door minstens één beschermingsinrichting, die een
+- Elke stroombaan is beschermd door een beschermingsinrichting die een kortsluitstroom onderbreekt
+- bescherming, aangepast aan de aanwezige en redelijkerwijze te verwachten uitwendige invloeden
+- beschermingsinrichtingen, … dat geïnstalleerd was in overeenstemming met de voorschriften van het
+- ofwel door een bijkomende bescherming, aangepast aan de aanwezige en de redelijkerwijze te
+- De schakelaars en beschermingsinrichtingen van de voornaamste stroombanen moeten op een duidelijke
+- een beschermingsgraad IPXX -B.
+- 6. Bescherming van ruimten die een bad en/of een douche bevatten
+- − de differentieelstroom beschermings inrichting(en) met haar (hun) karakteristieken;
+- − de karakteristieken van de beschermingsinrichtingen.
+- bijvoorbeeld d e beproeving van de  differentieelstroom beschermings inrichtingen ;
+- Preventie en Bescherming op het werk en aan het Comité voor Preventie en Bescherming op het werk;
+- Alle gebruikte collectieve en persoonlijke beschermingsmiddelen , alsook alle arbeidsmiddelen (werktuigen,
+- tegen elektriciteitsrisico’s. Alle collectieve en persoonlijke beschermingsmiddelen , alsook alle arbeidsmiddelen
+- en de collectieve beschermingsmiddelen die tijdens de werkzaamheden werden gebruikt, moeten worden weg-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 297 Voor werkzaamheden onder spanning moeten er beschermingsmaatregelen worden getroffen om elektrische
+- Alle collectieve en persoonlijke beschermingsmiddelen als ook alle arbeidsmiddelen (aangepaste werkkledij,
+- d. Arbeidsmiddelen, collectieve en persoonlijke beschermingsmiddelen
+- 4.2.2.2 . niet overschrijdt) mogen zonder beschermingsmaatregelen tegen rechtstreekse aanraking worden uit-
+- − gebruik van gepaste collectieve beschermings middelen ;
+- − aanwending van persoonlijke  beschermings middelen  (handschoenen, gelaatsscherm).
+- getroffen, moet de bescherming worden verzekerd door het behoud van een minimale werkafstand ten opzich-
+- verhinderen dat het personeel, dat de beschermingsmiddelen aanbrengt de zone onder spanning binnendringt,
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 299 c. Bescherming door behoud van een veilige werkafstand
+- Wanneer de bescherming door behoud van een veilige werkafstand wordt gebruikt, moet deze werkmethode
+- nen bestaan. Alle collectieve en persoonlijke beschermingsmiddelen , alsook alle arbeidsmiddelen (aangepaste
+- Alle veiligheidsmaatregelen moeten worden getroffen, met inbegrip van maatregelen die voor de bescherming
+- − ieder systeem voor bescherming van de elektrische installatie weg te nemen, te beschadigen of te vernie-
+
+## Zoekresultaten voor 'differentieel'
+
+- differentieelstroombeschermingsinrichting (alle Koninklijk besluit van
+- differentieelstroombeschermingsinrichting en
+- van differentieelstroombeschermingsinrichtingen in
+- Tabel 4.4. Differentieelstroombeschermingsinrichting: gevoeligheid van beschermingstoestellen  in functie van
+- Tabel 4.9. Maximale toegelaten vertragingstijd van de differentieelstroombeschermingsinrichting  ............  110
+- Residuele differentieelstroom: algebraïsche som van de ogenblikkelijke waarden van de stromen doorheen
+- Naargelang de gevoeligheid van het toestel worden differentieel stroom beschermings inrichtingen  ingedeeld in
+- differentieelstroombeschermingsinrichting.
+- Differentieelstroombeschermingsinrichting (ΔIn=300mA,
+- − het type en d e kenmerken van de differentieelstroom beschermings inrichtingen;
+- Bovendien kan een bijkomende bescherming door een differentieelstroom beschermings inrichting met grote of
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 73 f. Bijkomende beschermi ng door middel van differentieelstroom beschermings inrichting
+- Alleen het gebruik van differentieelstroom beschermings inrichtingen met hoge of zeer hoge gevoeligheid, zoals
+- Voor niet -huishoudelijke installaties  en indien er een differentieelstroom beschermings inrichting gebruikt
+- Naargelang het geval moeten beschermingsinrichtingen tegen maximumstroom, differentieelstroom be-
+- Het is niet toegelaten differentieelstroom beschermings inrichtingen aan te wenden als enig beschermings-
+- − differentieelstroom beschermings inrichtingen.
+- b.5. Gebruik van differentieelstroom beschermings inrichting
+- schermd worden door een differentieelstroom beschermings inrichting.
+- aangepast is aan de aanspreekstroom van de differentieelstroom beschermings inrichting.
+- De stroombaan, beschermd door deze differentieelstroom beschermings inrichting, moet dan beschouwd
+- schermingsgeleider stroomopwaarts van de differentieelstroom beschermings inrichting tot stand gebracht
+- − differentieelstroom beschermings inrichtingen;
+- In geval er gebruik gemaakt wordt van een differentieelstroom beschermings inrichting moeten de waarden
+- c.3. Plaatsing van de differentieelstroom beschermings inrichting
+- Alle massa’s beschermd door een zelfde differentieelstroom beschermings inrichting moeten met dezelfde
+- De nulgeleider mag stroomafwaarts van de differentieelstroom beschermings inrichting niet geaard worden.
+- Indien stroomopwaarts of in de beschouwde stroombaan geen differentieel stroom beschermings inrichting
+- − differentieelstroom beschermings inrichtingen;
+- Ten minste een differentieelstroom beschermings inrichting met een aanspreekstroom van ten hoogste 300 mA
+- wordt aan het begin van de  elektrische  installatie aangebracht.  Deze differentieelstroombescherming(en) ga-
+- In afwijking van de 1ste alinea, mag (mogen) de differentieelstroombeschermingsinrichting(en) in het algemene
+- de differentieelstroombeschermingsinrichting(en). Het blijvend karakter van deze ongenaakbaarheid wordt
+- nea vereiste differentieelstroombeschermingsinrichting beschermd.
+- stallatie, wordt ten minste een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoe-
+- Het is toegelaten om maximaal 8 eindstroombanen per voormelde differentieelstroombeschermingsinrichting te
+- De voorschriften van de 5de alinea zijn niet van toepassing op de eventuele bijkomende differentieelstroombe-
+- rimpel, wordt de elektrische verwarmingsinstallatie uitgerust met een afzonderlijke differentieelstroombe-
+- alinea bedoelde differentieelstroombeschermingsinrichtingen met een grote of zeer grote gevoeligheid voor-
+- zien. Elke differentieelstroombeschermingsinrichting bevat ten hoogste zestien enkelvoudige of meervoudige
+- worden bedoeld, worden de differentieelstroombeschermingsinrichtingen, die aan het begin van de elektrische
+- installatie worden aangebracht, aangevuld met ten minste eenn differentieelstroombeschermingsinrichting met
+- d. Gebruik van een differentieelstroom beschermings inrichting
+- Indien een differentieelstroom beschermings inrichting gebruikt wordt, mag de spreidingsweerstand van de
+- Tabel 4.4. Differentieelstroom beschermings inrichting: g evoeligheid van beschermingstoestellen
+- Het is toegelaten in afwijking van de 1ste alinea van punt b.  van onderafdeling 4.2.4.3. , om de differentieel-
+- stroombanen beschermd worden door een differentieelstroom beschermings inrichting met een aanspreekstroom
+- kleiner dan of gelijk aan 300 mA. De maximale toegelaten vertragingstijd van de differentieelstroom bescher-
+- Tabel 4.9. Maximale toegelaten vertragingstijd van de differentieelstroom beschermings inrichting
+- BE2 en/of CA2  Vertragingstijd berekend alsof de differentieel-
+- In een TN -S-net is het toegelaten geen differentieelstroom beschermings inrichting te plaatsen voor de laag-
+- 2.4.2 .), hetzij de stroombaan doelmatig beschermd is door een differentieelstroom beschermings inrichting.
+- actieve geleiders behalve indien op dit niveau een differentieelstroom beschermings inrichting bestaat die tege-
+- − stroomopwaarts of op hetzelfde niveau moet er een differentieelstroom beschermings inrichting bestaan die
+- − hetzij als de beschouwde stroombaan beschermd is door een differentieelstroom beschermings inrichting
+- Onderafdeling 5.1.3.3. Differentieelstroombeschermingsinrichtingen  .........................  124
+- vermogensschakelaars  en differentieelstroombeschermingsinrichtingen  ..............  156
+- Onderafdeling 5.3.5.3. Differentieelstroombeschermingsinrichtingen  .........................  164
+- De differentieelstroom beschermings inrichtingen moeten voldoen hetzij aan de schikkingen van de desbetref-
+- plaatsing van één of meer differentieelstroom beschermings inrichting en met grote (30 mA) of middelmatige
+- plaatsing van één of meer differentieelstroom beschermings inrichting en met grote (30 mA) of middelmatige
+- − de  vermogensschakelaars  en de differentieels troom beschermings inrichtingen  voor zover ze vol-
+- kelaars  en differentieelstroom beschermings inrichtingen
+- kelaar  en differentieelstroom beschermings inrichting) na een uitschakeling door een fout automatische terug in
+- − het toestel voor automatische wederinschakeling mag alleen met een differentieelstroom beschermings in-
+- − het toestel voor automatische wederinschakeling mag niet met de differentieelstroom beschermings in-
+- tische wederinschakeling voor beschermingsinrichtingen ( vermogensschakelaar en differentieelstroom bescher-
+- − te zijn beschermd door een differentieelstroom beschermings inrichting met een aanspreekstroom van
+- De differentieelstroom beschermings inrichtingen moeten gekozen en geplaatst worden overeenkomstig de
+- De differentieelstroom beschermings inrichtingen die worden geplaatst in huishoudelijke installaties  zijn ten
+- De differentieelstroom beschermings inrichtingen moeten opgesteld worden op een plaats waar hun veilige en
+- De differentieelstroom beschermings inrichting moet de onderbreking verzekeren van alle actieve geleiders van
+- Eenzelfde vierpolige differentieelstroom beschermings inrichting, eenfasig gevoed, mag meerdere afzonderlijke
+- De differentieelstroom beschermings inrichtingen moeten dermate worden gekozen en de belasting moet derma-
+- Bepaalde opstellingen van ontstoringsconde nsatoren kunnen de differentieelstroom beschermings inrichtingen
+- en het stroomafwaarts ge plaatst is van een differentieelstroom beschermings inrichting worden maatregelen
+- − de differentieelstroombeschermingsinrichting is zo gebouwd dat haar werking gewaarborgd blijft bij het
+- − de differentieelstroombeschermingsinrichting wordt geïnstalleerd samen en in coördinatie met een detec-
+- Alle massa’s van het gedeelte van een installatie  dat beschermd wordt door een differentieelstroom bescher-
+- De nulgeleider is stroomafwaarts van de differentieelstroom beschermings inrichting niet meer geaard.
+- Een differentieelstroom beschermings inrichting met hulpvoeding is een toestel met positieve veiligheid wanneer
+- De differentieelstroom beschermings inrichtingen zonder positieve veiligheid zijn verboden in huishoude lijke
+- Het gebruik van een differentieelstroom beschermings inrichting met grote of zeer grote gevoeligheid wordt
+- Het is verboden de v eiligheid, die een differentieelstroom beschermings inrichting biedt, in het gedrang te bren-
+- eerste reeks beschermingsinrichtingen tegen overstroom, geplaatst na de algemene differentieelstroom be-
+- − weerstaan de differentieelstroom beschermings inrichtingen en schakelinrichtingen aan een I²t-waarde van
+- minimum 22,5 kA2s bij een stroom van 3000 A; een specifieke markering van de differentieelstroom be-
+- De elektrische verbindingen tus sen de differentieelstroom beschermings inrichting enerzijds en de beschermings-
+- schakelaars, deze op zeer lage veiligheidsspanning en deze stroomopwaarts van de algemene differentieel-
+- a) de geïnstalleerde differentieelstroom beschermings inrichtingen en de waarde van de spreidingsweerstand
+- bezoeker de differentieelstroom beschermings inrichting, geplaatst aan het begin van de installatie,  heeft
+- d) de controle van de werking van de differentieelstroom beschermings inrichtingen via de eigen
+- e) de controle van de foutlussen en de juiste aansluiting van de differentieelstroom beschermings -
+- ingangsklemmen van de differentieelstroom beschermings inrichting, geplaatst aan het begin van de in-
+- de in de punten 1 en 2 bedoelde stroombanen niet door een differentieelstroombeschermingsinrichting met een
+- meer dan acht eindstroombanen per differentieelstroombeschermingsinrichting met een grote of zeer grote
+- een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoeligheid voor het geheel van de
+- verlichtingsstroombanen en een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoe-
+- de in de punten 1° en 2° bedoelde stroombanen niet door een differentieelstroombeschermingsinrichting met
+- meer dan acht eindstroombanen per differentieelstroombeschermingsinrichting met een grote of zeer grote
+- een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoeligheid voor het geheel van de
+- verlichtingsstroombanen en een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoe-
+- ruimte met een bad en/of een douche voeden beschermd door een of meer differentieelstroombeschermingsin-
+- − hetzij beschermd door een differentieelstroombeschermings -inrichting met zeer grote gevoeligheid;
+- − automatische onderbreking van de voeding d oor middel van een differentieelstroom beschermings inrichting
+- een differentieelstroom beschermings inrichting met grote of zeer grote gevoeligheid.
+- • automatische onderbreking van de voeding d oor middel van een differentieelstroom beschermings in-
+- − hetzij van klasse I zijn, hun voedingsstroombanen z ijn beschermd door differentieelstroom beschermings in-
+- door een differentieelstroom beschermings inrichting met grote gevoeligheid. De waarde van de conventionele
+- Elk aansluitingspunt van plezierboten dient individueel te worden beschermd door een differentieelstroom be-
+- schermd zijn door een differentieelstroom beschermings inrichting waarvan de aanspreekstroom niet groter is
+- Elke toegekende stroombaan in wisselstroom wordt individueel door een differentieelstroombeschermingsin-
+- 1.  hetzij door een differentieelstroombeschermingsinrichting die zo is gebouwd dat haar werking gegaran-
+- 2. hetzij door een differentieelstroombeschermingsinrichting samen en in coördinatie met een detectieappa-
+- 1. de in de tweede alinea bedoelde differentieelstroombeschermingsinrichting achterwege wordt gelaten, op
+- − automatische onderbreking van d e voeding door een differentieelstroom beschermings inrichting met grote
+- de aanhangwagen bes chermd is door een differentieelstroom beschermings inrichting met grote, of zeer gro-
+- schakelaar  en differentieelstroom beschermings inrichting) onder foutomstandigheden is verboden. Deze bepa-
+- 22 mits toepassing van een differentieelstroom beschermings inrichting. De aanspreekstroo m van de  diffe-
+- differentieelstroom beschermings inrichting. De aans preekstroom van de differentieelstroom beschermings in-
+- niet-vertraagde uitschakeltijd . In een TN -S-net is het toegelaten geen differentieelstroom beschermings in-
+- a. controle van de werking van de differentieelstroom beschermings inrichting via de eigen testinrichting;
+- b. controle van de foutlussen en de correcte aansluiting van de differentieelstroom beschermings inrichting
+- 2. Keuze van differentieelstroombeschermingsinrichtingen
+- − punt a.3.  van onderafdeling 5.3.3.1. , aan het begin van de elektrische installatie, een differentieelstroom-
+- scheidingsinrichting geplaatst in het hoofdbord en die zich stroomopwaarts van de differentieelstroombe-
+- − punt a.  van onderafdeling 5.3.5.3. , de differentieelstroombeschermingsinrichtingen met een nominale
+- − punt e.  van onderafdeling 5.3.5.5. , de differentieelstroombeschermingsinrichtingen met een nominale
+- beschermingsgeleider heeft, op voorwaarde dat deze contactdozen door een differentieelstroom -
+- − de differentieelstroombeschermingsinrichting(en) met haar (hun) karakteristieken;
+- de in de punten 1 en 2 bedoelde stroombanen niet door een differentieelstroombeschermingsinrichting met een
+- meer dan acht eindstroombanen per differentieelstroombeschermingsinrichting met een grote of zeer grote
+- een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoeligheid voor het geheel van de
+- verlichtingsstroombanen en een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoe-
+- 2. Keuze van de differentieelstroombeschermingsinrichtingen
+- ter plaatse is aangevangen vóór 2 juli 2003, een differentieelstroombeschermingsinrichting in dienst te la-
+- hoofdbord en die zich stroomopwaarts van de differentieelstroombeschermingsinrichting bevindt;
+- − punt a.  van onderafdeling 5.3.5.3. , de differentieelstroombeschermings -inrichtingen met een nominale
+- − punt e.  van onderafdeling 5.3.5.5. , de differentieelstroombeschermingsinrichtingen met een nominale
+- de in de punten 1 en 2 bedoelde stroombanen niet door een differentieelstroombeschermingsinrichting met een
+- meer dan acht eindstroombanen per differentieelstroombeschermingsinrichting met een grote of zeer grote
+- een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoeligheid voor het geheel van de
+- verlichtingsstroombanen en een differentieelstroombeschermingsinrichting met een grote of zeer grote gevoe-
+- − de differentieelstroom beschermings inrichting(en) met haar (hun) karakteristieken;
+- bijvoorbeeld d e beproeving van de  differentieelstroom beschermings inrichtingen ;
+
+## Zoekresultaten voor 'aarding'
+
+- baren , aardingsbaren (staven, aardingsstaven)
+- Hoofdstuk 2.5. Aardingen  ................................ ................................ ....................  30
+- Hoofdstuk 5.4. Aardingen, beschermingsgeleiders en equipotentiale verbindingen  ............  170
+- Figuur 2.10. Aardingsinstallatie  ................................ ................................ ................................  30
+- HOOFDSTUK 2.5. AARDINGEN  ................................ ................................ .......................  30
+- T: rechtstreeks geaarde massa’s onafhankelijk van een eventuele aarding van een punt van het verdeel-
+- Deze maatregelen bevatten geen mogelijkheid tot aansluiting van een beschermingsaarding en hangen niet
+- Hoofdstuk 2.5. Aardingen
+- Aardingsinstallatie: geheel bestaande uit één of meerdere met elkaar verbonden aardverbindingen, de bijbe-
+- Figuur 2.10. Aardingsinstallatie
+- (6) hoofdaardingsklem
+- (7) aardingsonderbreker
+- Aarding: aansluiting van een actief deel, een massa of een vreemd geleidend deel aan één of meerdere aard-
+- Aardgeleider: beschermingsgeleider die de hoofdaardingsklem met de aardverbinding verbindt, waarbij de
+- eventuele aarding sscheider geacht wordt deel uit te maken van deze aardgeleider.
+- Hoofdaardingsklem: verbindingsklem van de aardgeleider(s), van de hoofdbeschermingsgeleider(s) en van de
+- Aardingsklem of beschermingsklem: verbindingsklem van de beschermingsgeleider van elektrisch materieel.
+- Aardingsweerstand RE: (aardverspreidingsweerstand van een aardverbinding): weerstand tussen de aardver-
+- Aardingsimpedantie  ZE: impedantie tussen de aardingsinstallatie eventueel verbonden met andere aardingsin-
+- Aardingsonderbreker
+- Aardelektrode, aarding
+- opzichte van de aarde te dempen, mag men bijkomende aardingen voorzien via impedanties of kunstmatige
+- − systemen van gemeenschappelijke of gescheiden aarding, naargelang de functionele behoeften;
+- Onderafdeling 4.2.3.2. Aardingsinstallatie  ................................ ...........................  85
+- houdend met de waarde van de impedanties van de foutlussen en met het aardingssysteem ( zie afde-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 85 Onder afdeling 4. 2.3.2. Aardingsinstallatie
+- De aardingsinstallatie omvat:
+- verbonden worden met de hoofdaardingsklem. Worden er mee verbonden:
+- − hetzij één enkele geleider die de hierboven vermelde  delen aan de hoofdaardingsklem verbindt, zonder de
+- − hetzij de hierboven vermelde delen worden elk met een afzonderlijke geleider aan de hoofdaardingsklem
+- De uitvoering van de elementen die deel uitmaken van de aardingsinstallatie wordt beschreven in hoofdstuk
+- globale aardingsweerstand RB aan de volgende voorwaarde voldoen:
+- De aardingsweerstand RE van de aardverbinding van de massa’s moet voldoen aan volgende voorwaarde:
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 95 houdt rekening met de lek stroom en de globale aardingsimpedantie van de elektrische installatie;
+- • verbranding of ontaarding van het materiaal;
+- HOOFDSTUK 5.4. AARDINGEN, BESCHERMINGSGELEIDERS EN EQUIPOTENTIALE VERBINDINGEN  .......  170
+- Afdeling 5.4.2. Aardingsinstallaties  ................................ ................................ .......  170
+- beschermd zijn tegen de beschadigingen die door kortsluiting of een aardingsfout zouden kunnen veroor-
+- − kortsluiting en aarding van de actieve delen.
+- De contactdozen, met uitzondering van deze op ZLVS, worden voorzien van een aardingscontact dat verbonden
+- Hoofdstuk 5.4. Aardingen, beschermingsgeleiders en equipotentiale
+- Dit hoofdstuk behandelt de bepalingen voor aardingen, beschermingsgeleiders en equipotentiale verbindingen
+- Afdeling 5.4.2. Aardingsinstallaties
+- b.1. De aardingslus
+- b.1.2. Samenstelling van de aardingslus
+- De aardingslus is vervaardigd  hetzij uit een volle geleider met cirkelvormige doorsnede en zonder
+- b.1.3. Geleider doorsnede van de aardingslus
+- De geleider doorsnede van de aardingslus is een geometrische doorsnede die ten minste 35 mm²
+- b.1.4. Aard van het metaal waaruit de aardingslus is samengesteld
+- b.1.5. Plaatsing en vasthechting van de aardingslus op de bodem van de funderingssleuf
+- De aardingslus wordt  rechtstreeks tegen de grond aangebracht op de bodem van de
+- metaal van de geleider die de aardingslus vormt.
+- b.1.6. Uiteinden van de geleider(s) van de aardingslus
+- De uiteinden van de aardingslus moeten bereikbaar blijven voor onderzoek. Indien de aardingslus is
+- Indien geen aardingslus kan worden geïnstalleerd (bijvoorbeeld wanneer de diepte van de
+- door de aardingslus, onvoldoende klein is moet gebruik worden gemaakt van aardelektroden die
+- De aardings staven  of -pennen moeten ten minste 1,50 m lang zijn. De ingedreven lengte onder het
+- a) aardings stave n;
+- b) aardingspennen;
+- b.5. Aardings staven
+- Aardings staven  zijn vol en  hebben  een cirkelvormige doorsnede. Hun diameter bedraagt  ten minste
+- b.6. Aardingspennen
+- De aardingspennen zijn vervaardigd uit een recht of schroefvormig metalen profiel. Indien de aardings -
+- bedraagt ten minste 3,5 mm. Hun trekvastheid bedraagt ten minste 450 N/mm². Indien de aardings -
+- b.8.2. Aardings staaf uit gegalvaniseerd staal
+- b.8.3. Aardingspennen uit een koperlegering
+- De verbinding van aardingspennen uit een koperlegering wordt verwezenlijkt  door middel van
+- ding met aardingsonderbreker . Deze mag aangesloten blijven op de gemeenschappelijke aardverbinding.
+- 3° Bij de plaatsing van een aardingslus onder de gemeenschappelijke funderingen moet deze
+- 4° Een enkele aardingsonderbreker moet geïnstalleerd worden en deze moet bereikbaar blijven
+- werken of metingen op deze aardverbinding moet uitvoeren. Als een aardingslus gebruikt wordt
+- aardingsonderbreker. Als een door punt b.  toegelaten ander systeem van aardverbinding ( stave n,
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 173          van de aardgeleider tussen de gemeenschappelijke aardingsonderbreker en de
+- hoofdaardingsklem(men) van elk gebouw toegelaten.
+- 6° De gemeenschappelijke aardingsonderbreker moet als volgt duurzaam en onuitwisbaar gemarkeerd
+- aardverbinding en de plaats van de gemeenschappelijke aardingsonderbreker vermelden. Bij een
+- aardingsonderbreker te voorzien zoals een klem of strip, die slechts met gereedschap losgemaakt kan worden.
+- tijdelijke installatie niet voorzien is van een aardingsaansluiting, moet de eventueel ter plaatse aan te brengen
+- Het aardingscontact van contactdozen moet verbonden worden met de aardverbinding van de massa’s van de
+- Het aardingscontact van contactdozen moet verbonden worden met de aardverbinding van de massa’s van de
+- De aarding van de omhulsels en de intrinsiek veilige stroombanen dient te worden uitgevoerd overeenkomstig
+- − de aarding gebeurt via kleine condensatoren met een totale capaciteit van maximaal 10 nF.
+- De aardingsweerstand van de vloeren van de batterijruimten mag maximum 108  bedragen.
+- − de aarding, behalve indien verboden door de fabrikant, van het metalen raam van de PV -modules en hun
+- − door aarding op passende tussenafstanden om zo de spanning tussen geleiders en aarde tot een veilig ni-
+- worden uitgevoerd, geaard en vervolgens kortgesloten worden. De aardings - en kortsluitinrichtingen of -
+- uitrustingen moeten eerst aan het aardingspunt en vervolgens aan de te aarden actieve delen worden aangeslo-
+- De aardings - en kortsluitinrichtingen of -uitrustingen moeten, telkens wanneer dit mogelijk is, vanuit de werk-
+- zone zichtbaar zijn. Indien dat niet mogelijk is, moeten de aardingsverbindingen zo dicht als redelijkerwijs
+- (aardingsscheider, kabels, klemmen...) aangepast zijn aan de voorziene kortsluitstroom.
+- De nodige voorzorgsmaatregelen moeten worden getroffen opdat de aardingen tijdens de duur van de werk-
+- zaamheden verzekerd blijven, uitgezonderd wanneer de aardingsverbindingen moeten verwijderd worden bij
+- metingen of proeven die niet uitgevoerd kunnen worden met geïnstalleerde aardings - of kortsluitinrichtingen.
+
+## Zoekresultaten voor 'aardlekschakelaar'
+
+Geen specifieke informatie gevonden voor 'aardlekschakelaar'
+
+## Zoekresultaten voor 'zekering'
+
+- - boek 1: smeltveiligheid (smeltzekering),
+- smeltveiligheden (smeltzekeringen)
+- Figuur 5.29. Keuze van de beschermingsinrichting tegen kortsluitingen bij smeltzekeringen .....................  167
+- Tabel 8.1. Houders voor smeltzekeringen (6 A) en kleine vermogensschakelaars met penafstand van 20 mm
+- Tabel 8.2. Houders voor smeltzekeringen (6 A) en kleine vermogensschakelaars met penafstand van 20 mm
+- Tabel 8.3. Houders voor smeltzekeringen (6 A) en kleine vermogensschakelaars met penafstand van 20 mm
+- smelt zekeringen , het in goede staat houden...).
+- Bij de smelt zekeringen  wordt deze stroom de conventionele niet -doorsmeltstroom genoemd.
+- Aanspreek -joule -integraal: met betrekking tot een stroombaan beschermd door een smelt zekering  of een
+- vermogensschakelaar moet de Joule -integraal over de aanspreektijd van de smelt zekering  of van de vermo-
+- Joule -integraal eigen aan een zekering: grafiek die de waarde van I²t aangeeft (voor de boog of bij aan-
+- kortsluiting ( smelt zekeringe n, vermogensschakelaars ) en verandert in functie van de aard van het metaal en de
+- Smeltzekering
+- Smeltzekering met een nominale stroomsterkte van 16 A
+- gelapparatuur, vervangen van smelt zekering en), het openen of het wegnemen  van uitwendige omhulsels of van
+- stroomopwaarts een smelt zekering  of een vermogensschakelaar is, laat deze techniek toe dat de stroomaf-
+- Voor de huishoudelijke installaties wordt de maximale nominale stroom der smelt zekeringen  of de maximale
+- de smeltzekering  Maximale nominale stroom van
+- aan de smeltstroom in de overeengekomen tijd voor de smelt zekering en van het type gL.
+- Onderafdeling 5.3.5.5. Smeltzekeringen en vermogensschakelaars  ............................  166
+- zijn, maar enkel met een werktuig. Deze inrichting mag echter worden gevormd door smelt zekeringe n of
+- zijn, maar enkel met een werktuig. Deze inrichting mag echter worden gevormd door smelt zekering en of
+- − vervangingselementen voor smelt zekeringen ;
+- veiligheidsniveau bieden  als dit bepaald in deze normen . Indien ze ingesloten smelt zekeringe n bezitten, moe-
+- Onderafdeling 5.3.5.5. Smelt zekeringen  en vermogensschakelaars
+- In huishoudelijke installaties  worden enkel smelt zekeringen  of kleine vermogens schakelaars met pennen en
+- c. Steunen van smelt zekeringen
+- De steunen voor smelt zekeringen van het type D moeten zo aangesloten worden dat het centraal contact zich
+- De steunen voor smelt zekeringen met pennen moeten zo geplaatst of gebouwd zijn dat de mogelijkheid uitge-
+- ders door middel van smelt zekeringen  of kleine vermogensschakelaars  met pennen.
+- d. Werking van de smeltzekeringen
+- De smelt zekeringen moeten conform de desbetreffende normen zijn die door de Koning bekrachtigd werden of
+- De smelt zekeringen en vermogensschakelaars  moeten een onderbrekingsvermogen  hebben dat overeenstemt
+- − hebben de smelt zekeringen  en de penautomaten een minimum onderbrekingsvermogen van 3000 A;
+- De typen van smelt zekeringen  waarvan de  smeltdraad niet in een volkomen dichte smeltkamer opgesloten is,
+- g. In toestellen ingebouwde smelt zekeringen  en vermogensschakelaars
+- De miniatuursmelt zekeringen  en vermogensschakelaars  zijn toegelaten voor de afzonderlijke bescherming van
+- − Bij smelt zekeringen
+- Figuur 5.29. Keuze van de beschermingsinrichting tegen  kortsluitingen bij smelt zekeringen
+- F: smeltkarakteristiek van de smelt zekering  (boven ste limiet van de werkingszone)
+- Behoudens andersluidend voorschrift, mag geen enkel scheidingstoestel zoals smelt zekering , schakelaar of
+- zekeringscontract. Na het verkrijgen van de erkenning, en vóór aanvang van de controlewerkzaamhe-
+- transformatoren, weerstanden, klemmenstroken, lampen, smelt zekeringe n...
+- zekeringen, evenals de pensmeltzekeringen met een nominale stroomsterkte van 6 A en de kleine vermogens-
+- − Eisen voor de houders van smeltzekeringen en kleine vermogensschakelaars met penafstand van 20
+- De houders voor smeltzekeringen en kleine vermogensschakelaars met penafstand van 20 mm conform de norm
+- Tabel 8.1. Houders voor smeltzekeringen (6 A) en kleine vermogensschakelaars met penafstand van 20 mm (maat 12 of 10
+- Tabel 8.2. Houders voor smeltzekeringen (6 A) en kleine vermogensschakelaars met penafstand van 20 mm (maat 12 of 10
+- Tabel 8.3. Houders voor smeltzekeringen (6 A) en kleine vermogensschakelaars met penafstand van 20 mm (maat
+- worden beschermd tegen overbelasting hetzij door smeltzekeringen met een nominale intensiteit van ten
+- Het bedienen, door  rechtstreekse actie op actieve delen, van scheidingsschakelaars en smelt zekeringen  voor
+- van smelt zekeringen  of lampen).
+- a. Vervanging van smelt zekeringen
+- Normalerwijze moet de vervanging van smelt zekeringen  buiten spanning worden uitgevoerd.
+- Indien smelt zekeringen  zodanig bevestigd zijn dat personen beschermd zijn tegen rechtstreekse aanrakingen en
+
+## Zoekresultaten voor 'automaat'
+
+- Indien de installatie een knipperautomaat bevat moet de voeding van het beveiligingssysteem en
+- van het herstelsysteem ( resetsysteem ) stroomopwaarts van de knipperautomaat worden aangeslo-
+

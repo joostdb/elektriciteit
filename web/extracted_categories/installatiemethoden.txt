@@ -1,0 +1,1928 @@
+# Informatie over installatiemethoden
+
+## Zoekresultaten voor 'installatie'
+
+- de elektrische installaties
+- Bijlage 1. Boek 1. Installaties op laagspanning en op zeer lage
+- wooneenheden (huishoudelijke installaties)
+- streepje: ruimten (installaties)
+- ruimten (installaties)
+- - onderafdeling 4.4.4.2.: van elektrische installaties
+- installaties)
+- alinea: ruimten (installaties)
+- (installaties)
+- (installaties)  Koninklijk besluit van
+- huishoudelijke installaties en in de ruimten )
+- elektrische installaties van huishoudelijke ruimten
+- (in huishoudelijke installaties)
+- - onderafdeling 5.3.6.1.: op elektrische installaties
+- huishoudelijke installaties)
+- (installaties)
+- - afdeling 9.1.6. vijfde alinea: ruimten (installaties)
+- installatie
+- huishoudelijke installatie)
+- documenten van een huishoudelijke installatie
+- huishoudelijke installatie
+- installatie
+- in huishoudelijke installaties
+- huishoudelijke installaties
+- (borden  van huishoudelijke installaties )
+- in huishoudelijke installaties
+- voor huishoudelijke installaties (contactdoos en
+- huishoudelijke installaties
+- installaties )
+- norm (markering DSI in huishoudelijke installaties)
+- installaties)
+- installaties)
+- huishoudelijke en niet -huishoudelijke installaties
+- huishoudelijke installaties uitgevoerd vóór
+- - onderafdeling 2.2.1.1.: definities installatie -
+- betreffende de installatie van wandcontactdozen
+- toepassing op de elektrische installaties in die
+- toepassing op bestaande elektrische installaties
+- zwembaden in huishoudelijke installatie –
+- installatie).
+- installaties (afdeling 9.1.6.);
+- huishoudelijke installaties (artikel 60 van het
+- installaties op wisselspanning:
+- toepassing op bestaande elektrische installaties;
+- de plaatselijke installatie van de bijkomende
+- BIJLAGE  1. BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − INHOUD  | iii INHOUDSOPGAVE
+- BIJLAGE 1. BOEK 1. INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING  ........................  I
+- INSTALLATIES  ................................ ................................ ................................ ... 11
+- Hoofdstuk 1.5. Grenzen van de installaties  ................................ ...............................  14
+- Hoofdstuk 2.2. Kenmerken van de installaties  ................................ ...........................  17
+- Hoofdstuk 2.12. Schema’s, plannen en documenten van elektrische installaties  .................  47
+- DEEL 3. BEPALING VAN DE ALGEMENE KENMERKEN VAN ELEKTRISCHE INSTALLATIES  ....................  57
+- Hoofdstuk 3.4. Veiligheidsinstallaties  ................................ ................................ ...... 67
+- Hoofdstuk 3.5. Kritische installaties  ................................ ................................ .......  67
+- Hoofdstuk 5.5. Veiligheidsinstallaties  ................................ ................................ ..... 178
+- Hoofdstuk 5.6. Kritische installaties  ................................ ................................ ...... 186
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − INHOUD  | iv DEEL 6. CONTROLES VAN INSTALLATIES  ................................ ................................ ..........  191
+- DEEL 7. BEPALINGEN VOOR BIJZONDERE INSTALLATIES EN RUIMTEN  ................................ .......  207
+- Hoofdstuk 7.4. Werfinstallaties en buiteninstallaties  ................................ ..................  240
+- Hoofdstuk 7.11. Foorinstallaties  ................................ ................................ ...........  245
+- Hoofdstuk 7.112. Huishoudelijke fotovoltaïsche installaties op laagspanning (≤ 10 kVA)  ...... 267
+- DEEL 8. BIJZONDERE VOORSCHRIFTEN MET BETREKKING TOT BESTAANDE ELEKTRISCHE INSTALLATIES
+- installaties  ................................ ................................ ..............................  274
+- installaties  ................................ ................................ ..............................  280
+- Hoofdstuk 8.4. Controlebezoeken van sommige oude elektrische installaties die niet het
+- Hoofdstuk 9.3. Werken aan elektrische installaties  ................................ ....................  292
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − INHOUD  | v Overzicht van de figuren
+- Figuur 2.10. Aardingsinstallatie  ................................ ................................ ................................  30
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − INHOUD  | vi Figuur 5.3. Plaatsingswijzen van elektrische leidingen − Ondergrondse elektrische leidingen ingegraven met
+- Figuur 5.34. Principe van een veiligheidsinstallatie  ................................ ................................ ...... 178
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − INHOUD  | vii Figuur 7.18. Laadinrichting met twee verbindingspunten “laadpaalcontactdozen” die deel uitmaken van de
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − INHOUD  | viii Overzicht van de tabellen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − INHOUD  | ix Tabel 5.10. Minimumdoorsnede van de beschermingsgeleider waarbij het berekenen van de waarde van S p niet
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 1 ALGEMENE VOORSCHRIFTEN  | 11 Deel 1. Algemene voorschriften voor het elektrisch materieel
+- en de elektrische installaties
+- Afdeling 1.4.1. Elektrische installaties  ................................ ................................ .... 13
+- HOOFDSTUK 1.5. GRENZEN VAN DE INSTALLATIES  ................................ ..............................  14
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 1 ALGEMENE VOORSCHRIFTEN  | 12 Hoofdstuk 1.1. Inleiding
+- Het Boek 1 betreft elektrische installaties op laagspanning  en op zeer lage spanning .
+- Boek 2:  boek over de installaties op hoogspanning .
+- Boek 3:  boek over de installaties voor transmissie en distributie van elektrische energie .
+- − voor alle elektrische installaties op laagspanning  en op zeer lage spanning  bestemd voor productie, omvor-
+- − voor de keuze en de plaatsing van de vaste toestellen van de installaties voor informatica, van de installa-
+- ties voor  gegevensverwerking, van de installaties op zeer lage spanning die vallen onder de Wet tot rege-
+- stallatie zodat de bepalingen die voor de installaties  op laagspanning en op zeer lage spanning  gelden ook op
+- − voor installaties voor transmissie en distributie van elektrische energie  uitgebaat door de netbeheerder s,
+- en hun hulpinstallaties (verlichting, verwarming…), met inbegrip van de aansluitingen op dit net en de bij-
+- horende meetinstallaties ;
+- − voor vaste installaties eigen aan elektrische tractie van spoorwegen, metro, tramwegen en trolley bussen ,
+- alsook voor de elektrische uitrusting van hun rollend materieel. Worden niet beschouwd als installaties ei-
+- − voor installaties ontworpen of uitgebaat door de militaire overheid;
+- − voor signalisatie -installaties van de Belgische S poorweg en;
+- − voor telecommunicatie -installaties verwezenlijkt ten behoeve van:
+- van installaties voor grote waterwegen, grote wegen, spoorwegen, tramwegen en voor de navigatie
+- − voor installaties op zeeschepen, vissersvaartuigen en binnenschepen;
+- − voor installaties voor luchtnavigatie, met inbegrip van de bijhorende grondinstallaties, van  Belgocontrol ,
+- − voor ondergrondse installaties en gelijkgestelde bovengrondse installaties die het voorwerp uitmaken van
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 1 ALGEMENE VOORSCHRIFTEN  | 13 gegeven;
+- − voor installaties voor informatica, voor  installaties voor  gegevensverwerking,  voor teletransmissie -
+- installaties van elektriciteitsproducenten en uitbaters , voor installaties op zeer lage spanning die vallen onder
+- waking)  en voor elk ander systeem van gegevensoverbrenging. Deze installaties en systemen moeten echter
+- − voor installaties voor teledistributie.
+- bescherming, het gebruik en de controle van elektrische installaties  op laagspanning en op zeer lage spanning ,
+- Afdeling 1.4.1. Elektrische installaties
+- Elektrische installaties moeten in al hun onderdelen ontworpen en uitgevoerd worden in functie van hun nomi-
+- De elektrische installaties moeten uitgevoerd worden :
+- De als dusdanig uitgevoerde installaties brengen, bij correct onderhoud en bij gebruik overeenkomstig hun
+- Herstellingen, toevoegingen en wijzigingen van elektrische installaties moeten uitgevoerd worden met veilig
+- In een elektrische installatie mogen slechts veilige elektrische machines, toestellen en leidingen aangewend
+- van foutloze installatie en onderhoud, en toepassing volgens hun bestemming, zowel de veiligheid van personen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 1 ALGEMENE VOORSCHRIFTEN  | 14 Onderafdeling 1.4.2.3. Naleving van de normen
+- Hoofdstuk 1.5. Grenzen van de installaties
+- Voor installaties gevoed vanuit een  laagspanningsdistributienet wordt de exploitatiegrens tussen de netbeheer-
+- als oorsprong van de elektrische laagspanningsinstallatie.
+- Voor installaties die niet worden gevoed vanuit een  laagspanningsdistributienet , maar  door een hoogspan -
+- sprong van de elektrische laagspanningsinstallatie.
+- Voor installaties gevoed door autonome stroombronnen op laagspanning wordt  de bron beschouwd als deel van
+- de elektrische laagspanningsinstallatie.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 15 Deel 2. Begrippen en definities
+- HOOFDSTUK 2.2. KENMERKEN VAN DE INSTALLATIES  ................................ ..........................  17
+- Afdeling 2.2.3. Diverse Installaties  ................................ ................................ .........  21
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 16 Afdeling 2.10.15. Aard van behandelde of opgeslagen goederen (BE)  ..............................  43
+- Afdeling 2.11.1. Werkzaamheden aan elektrische installaties  ................................ ........  44
+- Afdeling 2.11.2. Controle van elektrische installaties  ................................ ..................  46
+- HOOFDSTUK 2.12. SCHEMA’S, PLANNEN EN DOCUMENTEN VAN ELEKTRISCHE INSTALLATIES  ..........  47
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 17 Hoofdstuk 2.1. Inleiding
+- Hoofdstuk 2.2. Kenmerken van de installaties
+- Elektrische installatie: een geheel bestaande uit elektrische machines, toestellen en leidingen.
+- Huishoudelijke elektrische installatie  (gewoonlijk huishoudelijke installatie genoemd ): elektrische installa-
+- Indien de elektrische installatie van een ruimte geen deel uitmaakt van een regime van mede -eigendom, wordt
+- de elektrische installatie van deze voor privégebruik bestemde ruimte die niet voor activiteiten van een onder-
+- neming wordt gebruikt, beschouwd als een huishoudelijke installatie.
+- Niettegenstaande het voorgaande worden als niet -huishoudelijke elektrische installatie beschouwd ( gewoonlijk
+- niet-huishoudelijke installatie genoemd) :
+- − elke andere elektrische installatie die niet beantwoordt aan de definitie van een elektrische huishoudelijke
+- installatie.
+- Vaste installatie (ook blijvende installatie genoemd): installatie die niet beantwoordt aan de definitie van een
+- tijdelijke installatie, noch aan de definitie van een mobiele of verplaatsbare installatie.
+- Tijdelijke installatie: installatie die enkel een beperkte duur heeft zoals:
+- − hetzij een installatie die voor inrichtingen van beperkte duur bestemd is, die buiten het voorziene toepas-
+- singsgebied van ruimten vallen hetzij een installatie  die zich regelmatig herha alt (bijvoorbeeld, foorinstal-
+- − hetzij een installatie die voor de uitvoering van bouwwerken van gebouwen en dergelijke bestemd is  (bij-
+- voorbeeld, werfinstallaties bedoeld in hoofdstuk 7.4. ).
+- Mobiele of verplaatsbare installatie: installatie die kan worden verplaatst, al dan niet onder spanning, hetzij
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 18 Ruimte van de elektrische dienst:  een lokaal of een omheinde plaats die hoofdzakelijk of exclusief dient voor
+- de uitbating van elektrische installaties.
+- voor de uitbating van de elektrische installaties (bijvoorbeeld toezicht, bediening, regeling sturing...).
+- nodig is, hoofdzakelijk voor het normaal onderhoud van de elektrische installaties (bijvoorbeeld vervanging van
+- Normaal bedrijf : een situatie waarin elektrische en niet -elektrische installaties binnen de ontwerpparameters
+- − de tweede letter geeft de relatie aan tussen de massa’s van de elektrische installatie en de aarde:
+- Bij het TN -systeem is een punt van het net rechtstreeks geaard en de massa’s van de elektrische installatie
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 19 Figuur 2. 1. TN-S-systeem
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 20 − TN-C-S-systeem: de functies van nulgeleider en beschermingsgeleider worden vervuld door dezelfde
+- elektrische installatie wel geaard zijn.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 21 Figuur 2.5. IT-systeem
+- Afdeling 2.2.3. Diverse Installaties
+- Veiligheidsinstallatie: elektrische installatie samengesteld uit de veiligheidsvoeding en de veiligheidsverbrui-
+- Kritische installatie: elektrische installatie samengesteld uit de kritische verbruiker, zijn stroombaan en zijn
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 22 Vervangingsbron:  elektrische bron voorzien om de voeding van een elektrische installatie of gedeelten van
+- deze installatie  of een toestel , om anderen redenen dan deze van de veiligheid van personen, bij het uitvallen
+- van de normale bron te garanderen. Ze kan voor de voeding van de kritische installaties gebruikt worden.
+- Normale bron:  elektrische hoofdbron van een elektrische installatie onder normale gebruiksvoorwaarden.
+- Nominale spanning van een elektrische installatie: spanning die gegeven wordt door de kenmerken van een
+- elektrische installatie en waardoor de beproevingsvoorwaarden en de spanningsgrenzen van deze installatie
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 23 De indeling van een elektrische installatie in één van de spanningsgebieden geschiedt in functie van haar nomi-
+- de tabel vermelde waarden overschrijdt, deze spanning gebruikt om de indeling van de elektrische installatie
+- De indeling van een elektrische installatie in één van de spanningsgebieden geschiedt in functie van haar nomi-
+- de tabel vermelde waarden overschrijdt, deze spanning gebruikt om de indeling van de elektrische installatie
+- gelen) indien de desbetreffende bijzondere voorschriften dit voorzien of indien de installatie - en gebruiks-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 24 voorwaarden zodanig zijn dat deze geleidende delen in normale omstandigheden op een spanning kunnen
+- − geleidende delen, vreemd aan de elektrische installatie;
+- Geleidend deel, vreemd aan de elektrische installatie (afgekort: vreemd geleidend  deel):  geleidend deel
+- dat niet tot de elektrische installatie behoort en dat een potentiaal, de aardpotentiaal inbegrepen, kan over-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 25 Fout: toevallige elektrische verbinding tussen twee punten op verschillende potentialen. De verbinding kan
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 26 Figuur 2.8. Genaakbaarheidsgabarit: materiële elementen die het verplaatsingsoppervlak begrenzen hebben openingen die
+- waarin UN, uitgedrukt in kV, de nominale spanning van de elektrische installatie  is.
+- − 50 kΩ /m² indien de nominale spanning van de installatie niet groter is dan 500 V (300 V ten opzichte van
+- − 100 kΩ /m² indien de nominale spanning van de installatie deze waarde overschrijdt.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 27 3. wanden bekleed met een bepleistering, zoals droge plaaster;
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 28 Tabel 2.4. Relatieve conventionele spanningsgrens  UL(t)
+- rieel of een elektrische installatie gebruikt worden om de actieve delen te isoleren. De isolatie moet geduren-
+- installaties en die de fundamentele bescherming tegen elektrische schokken verzekert.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 29 c) deklagen van verf, vernis en gelijkaardige stoffen voldoen meestal niet aan deze voorschriften met uitzon-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 30 d.3. klasse II die een samenstelling is van elektrisch materieel met omhullende isolatie en met metalen
+- Aardingsinstallatie: geheel bestaande uit één of meerdere met elkaar verbonden aardverbindingen, de bijbe-
+- Figuur 2.10. Aardingsinstallatie
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 31  (12) afvoer
+- installatie geen gevaarlijke potentiaalverschillen kunnen ontstaan.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 32 Er wordt onderscheid gemaakt tussen:
+- Aardingsimpedantie  ZE: impedantie tussen de aardingsinstallatie eventueel verbonden met andere aardingsin-
+- Elementaire stroombaan: deel van een elektrische installatie tussen twee opeenvolgende beschermingsinrich-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 33 Overstroom: bij een elektrische machine of toestel, iedere stroomsterkte die groter is dan de nominale
+- alle actieve geleiders van een stroombaan in een punt van de elektrische installatie ( In).
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 34 Joule -integraal eigen aan een vermogensschakelaar : grafiek die de maximale waarde van I²t aangeeft (over
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 35 Luchtlijn: het geheel van een installatie bestemd voor transmissie van elektrische energie en bestaande uit
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 36 Figuur 2.12. Plaatsingswijze «kabelkanaal»
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 37 Figuur 2.17. Plaatsingswijze «goot»
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 38 Schakelinrichtingssysteem : volledige reeks mechanische en elektrische componenten (omhulsels, rails tellen ,
+- Scheider: systeem bestemd om een hele installatie of een gedeelte ervan spanningsloos te stellen door de
+- installatie te scheiden van iedere elektrische energiebron. Op deze wijze wordt de veiligheid van personen
+- verzekeren. Dit kan geschieden voor een gedeelte van de  elektrische  installatie, een elektrisch gebruikstoestel
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 39 Hoofdstuk 2.10. Uitwendige invloed en
+- standigheden die een invloed kunnen hebben op de elektrische installatievoorschriften.
+- − de omgevings omstandigheden  die onafhankelijk zijn van de aard van de installaties en van de ruimten en
+- toestand en andere omstandigheden in de ruimte  waar de elektrische installatie zich bevindt;
+- − de gebruiks omstandigheden van de betrokken ruimten  en van de elektrische installaties zelf;
+- bijvoorbeeld het geval voor installaties in openlucht: AA3+5 ( -25 °C tot +40 °C) en voor gieterijen: AA4+6 ( -
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 40 AD4 Nat Vloeien  en spatten  van water  in alle
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 41 Afdeling 2.10.7. Mechanische belastingen veroorzaakt door trillingen (AH)
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 42 Afdeling 2.10.11. Bekwaamheid van personen (BA)
+- van elektrische installaties  ...
+- uitbating van  elektrische installaties  ...
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 43 BC4 Voortdurend  Personen  die voortdurend  in aanra-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 44 Afdeling 2.10.17. Structuur van gebouwen (CB)
+- Afdeling 2.11.1. Werkzaamheden aan elektrische installaties
+- Elektrische werkzaamheden : werkzaamheden aan, met of in de omgeving van een elektrische installatie (zo-
+- uitbreidingen en onderhoud...) en die rechtstreeks betrekking hebben op de elektrische installatie.
+- Niet-elektrische werkzaamheden : werkzaamheden in de omgeving van een elektrische installatie (zoals
+- de elektrische installatie.
+- installaties.
+- van een elektrische installatie te wijzigen, om een uitrusting te gebruiken, om uitrustingen aan te sluiten, af te
+- kelen van installaties ten behoeve van het uitvoeren van werkzaamheden.
+- thermische toestand van een elektrische installatie te verifiëren. De beproevingen omvatten verder ook de
+- Metingen omvatten alle activiteiten bestemd om fysische grootheden te meten in een elektrische installatie.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 45 Werkzaamheden onder spanning : werkzaamheden waarbij een persoon in aanraking komt met blanke delen
+- Werkzaamheden buiten spanning : werkzaamheden op elektrische installaties die noch onder spanning, noch
+- Installatieverantwoordelijke : persoon aangeduid om de verantwoordelijkheid voor de exploitatie van de elek-
+- trische installatie op zich te nemen. Indien nodig kan die verantwoordelijkheid gedeeltelijk op andere personen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 46 Figuur 2.23. Voorstelling van de zone onder spanning en de nabijheidszone met geaarde, metalen bescherminrichting
+- die integraal deel uitmaakt van de elektrische installatie, dat toelaat de
+- Opmerking 2:  voor gelijkspanningsinstallaties wordt aanbevolen om dezelfde afstanden te
+- Afdeling 2.11.2. Controle van elektrische installaties
+- de controlebezoeken van de elektrische installaties.
+- Gelijkvormigheidscontrole vóór de ingebruikname: gelijkvormigheidscontrole van elektrische installaties
+- Controlebezoek:  controle van de elektrische installaties voorzien in hoofdstuk 6.5 .
+- Ingebruikname:  de eerste terbeschikkingstelling van een elektrische installatie voor bedrijfsdoeleinden.
+- Belangrijke wijziging of belangrijke uitbreiding:  wijziging of uitbreiding van een elektrische installatie die
+- ging van een schakel - en verdeelbord, toevoeging van een kring in een huishoudelijke installatie, …
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 47 Hoofdstuk 2.12. Schema’s, plannen en documenten van elektrische in-
+- de verschillende delen van een installatie en onderdelen daarvan met elkaar samenhangen.
+- Plan: grafische voorstelling die op schaal de geografische plaats van de verschillende delen van een installatie
+- Functioneel schema of blokschema:  schema dat de globale werking van de installatie of van onderdelen
+- verbindingen en het elektrisch materieel weergeeft die samen de elektrische installatie of
+- een installatieonderdeel vormen en dat de samenstelling en de kenmerken ervan geeft.
+- Uitvoeringsschema:  schema dat de montage en de aansluiting van de verschillende installatieonderdelen
+- Situatieplan: plan dat de plaats aangeeft van de verschillende installatieonderdelen.
+- Plan van de veiligheidsinstallaties:  plan dat de lokalen en de compartimenten toont en weergeeft:
+- Plan van de kritische installaties:  plan dat de lokalen toont en weergeeft:
+- De kritische installaties mogen op het plan van de veiligheidsinstallaties weergegeven worden op voorwaarde dat
+- de veiligheidsinstallaties en de kritische installaties aangeduid zijn op dit plan zodat iedere mogelijkheid tot
+- Lijst met de veiligheidsinstallaties en/of de kritische installaties:  lijst die aangeeft:
+- − de type van de veiligheidsinstallaties en/of de kritische installaties;
+- − de genomen maatregelen in het kader van de risicoanalyse van de veiligheidsinstallaties en/of de kritische
+- installaties.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 48 Plan van de ondergrondse leidingen (kabelplan):  plan dat de plaats aangeeft van de ondergrondse elektrische
+- situatieplan van een huishoudelijke elektrische installatie op te stellen.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 49                        C. Elektrische leidingen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 50                         D. Beschermingstoestellen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 51                          E. Schakelaars
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 52                         F. Contactdozen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 53                       G. Gebruikstoestellen –
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 54                       G. Gebruikstoestellen –
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 55                        H. Bronnen
+- schikking gehouden in het dossier van de elektrische installatie.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 3 BEPALING VAN DE KARAKTERISTIEKEN  | 57 Deel 3. Bepaling van de algemene kenmerken van elektrische
+- installaties
+- Afdeling 3.1.1. Bepaling van de installatiekenmerken  ................................ .................  59
+- Afdeling 3.1.2. Schema’s, plannen en documenten van elektrische installaties  ..................  59
+- Afdeling 3.2.4. Indeling van de installaties  ................................ ...............................  66
+- Afdeling 3.3.1. Onafhankelijkheid van een elektrische installatie ten overstaan van andere
+- installaties  ................................ ................................ ...............................  67
+- Afdeling 3.3.2. Onafhankelijkheid van de delen van een elektrische installatie  ..................  67
+- Afdeling 3.3.3. Installaties voor telecommunicatie, signalisatie en dergelijke  ....................  67
+- HOOFDSTUK 3.4. VEILIGHEIDSINSTALLATIES  ................................ ................................ ..... 67
+- HOOFDSTUK 3.5. KRITISCHE INSTALLATIES  ................................ ................................ .......  67
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 3 BEPALING VAN DE KARAKTERISTIEKEN  | 59 Hoofdstuk 3.1. Algemeenheden
+- Afdeling 3.1.1 . Bepaling van de installatiekenmerken
+- De bepaling van de volgende installatiekenmerken worden vastgesteld aan de hand van de vermelde hoofdstuk-
+- − het doel waarvoor de installatie is ontworpen, de algemene indeling en de voedingsbronnen (zie hoofdstuk
+- − de uitwendige invloeden waaraan de installatie wordt blootgesteld (zie hoofdstuk 2.10 .);
+- − de compatibiliteit van elektrisch materieel van de installatie (zie hoofdstuk 3.3 .);
+- 4.), bij de keuze en installatie  van het elektrisch materieel (zie deel 5 .) en de naleving van de bijzondere
+- Afdeling 3.1.2. Schema ’s, plannen  en documenten  van elektrische installaties
+- a. Huishoudelijke elektrische installaties
+- Voor elke nieuwe huishoudelijke elektrische installatie of voor elke belangrijke wijziging of belangrijke uit-
+- breiding van een bestaande huishoudelijke elektrische installatie  stelt de verantwoordelijke van de uitvoering
+- van het werk de eendraadsschema ’s en de situatieplan nen van de elektrische installatie op .
+- waar deze elektrische installatie wordt verwezenlijkt  wordt ook  vermeld op de eendraadsschema ’s en de situ-
+- In geval van conformiteit van de elektrische installatie bij de controle overeenkomstig dit Boek, ondertekenen
+- Het controleverslag, de ondertekende eendraadsschema’s en situatieplannen van de elektrische installatie
+- worden aan de eigenaar, de uitbater of de beheerder van de elektrische installatie overhandigd om deel uit te
+- maken van het dossier van de elektrische installatie. Een kopie van het controleverslag, de ondertekende een-
+- heerder van de elektrische installatie bij het betrokken erkend organisme verzoeken om een duplicaat van het
+- elektrische installatie op te stellen worden weergegeven in hoofdstuk 2.13.  Indien er geen symbool opgeno-
+- een huishoudelijke elektrische installatie.
+- nummer dat toegekend werd op het eendraadsschema van de elektrische installatie . Elke schakelaar  en elke
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 3 BEPALING VAN DE KARAKTERISTIEKEN  | 60 Het is toegelaten, indien nodig, een meerdraadschema (d.w.z. weergave van de verschillende fases) als
+- Elke wijziging of uitbreiding van een huishoudelijke elektrische installatie wordt  aangebracht op het situatie-
+- plan van de elektrische installatie. Dit plan geeft  op ieder ogenblik de bestaande toestand van de elektrische
+- installatie  weer.
+- Elk oud deel van de elektrische installatie waarvan de uitvoering ter plaatse is aangevangen vóór 1/10/1981 en
+- dat vermeld  wordt  op de eendraad sschema’s wordt aangeduid met de vermelding “oude  installatie”.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 3 BEPALING VAN DE KARAKTERISTIEKEN  | 61
+- -    plan van de veiligheidsinstallaties en/of de kritische installaties;
+- -    lijst met de veiligheidsinstallaties en/of de kritische installaties.
+- De veiligheidsinstallaties en de kritische installaties (voedingen, stroombanen en verbruikers) worden op
+- b. Niet-huishoudelijke elektrische installaties
+- Iedere elektrische installatie maakt het voorwerp uit van een of meerdere:
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 3 BEPALING VAN DE KARAKTERISTIEKEN  | 62 − zoneringsverslag;
+- − plan van de veiligheidsinstallaties en/of de kritische installaties;
+- − lijst met de veiligheidsinstallaties en/of de kritische installaties.
+- Indien noodzakelijk voor het begrip, de correcte installatie en de veilige uitbating, zijn deze schema’s , plannen
+- zicht, controle, onderhoud, herstelling of omvorming van de installatie.
+- schema’s, plannen en documenten van een huishoudelijke installatie beoogd in punt a.  hierboven.
+- a. Huishoudelijke elektrische installaties
+- b. Niet-huishoudelijke elektrische installaties
+- − de te verwachten  maximale  kortsluitstromen > 3000 A aan de oorsprong van de installatie en ter hoogte
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 3 BEPALING VAN DE KARAKTERISTIEKEN  | 63       - de aard, het aantal en de doorsnede van de geleiders;
+- De veiligheidsinstallaties en de kritische installaties (voedingen, stroombanen en verbruikers) worden op
+- a. Huishoudelijke elektrische installaties
+- b. Niet-huishoudelijke elektrische installaties
+- controle s, onderhoud, herstelling en, wijzigingen  of uitbreidingen van de installatie.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 3 BEPALING VAN DE KARAKTERISTIEKEN  | 64 De stroombanen die stroomopwaarts van de algemene schakelaar van het schakel –en verdeelbord aangesloten
+- De bijzondere voorschriften voor de veiligheidsinstallaties en de kritische installaties worden in afdeling 5.5.8.
+- (veiligheidsinstallaties) en in onderafdeling 5.6.2.5.  (kritische installaties) voorzien.
+- a. Huishoudelijke elektrische installaties
+- b. Niet-huishoudelijke  elektrische installaties
+- huishoudelijke installatie zoals beoogd in punt a.  hierboven.
+- installatie, rekening houdend met beperkingen door de temperatuur en spanningsval.
+- Bij het vaststellen van het voedingsvermogen van een installatie of deel daarvan mag rekening worden gehou-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 3 BEPALING VAN DE KARAKTERISTIEKEN  | 65 Onderafdeling 3.2.2.2. Aardverbindingssysteem  bij een TN -net
+- rechtstreeks geaard worden. Een punt van de installatie mag nochtans geaard worden via een aangepaste im-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 3 BEPALING VAN DE KARAKTERISTIEKEN  | 66 pedantie. Een kunstmatig nulpunt mag rechtstreeks geaard worden indien de homopolaire impedantie voldoen-
+- de groot is. Teneinde de overspanningen te verminderen en de potentiaalschommelingen van de installatie ten
+- nulpunten, waarvan de kenmerken aangepast zijn aan deze van de installatie.
+- In een elektrische installatie, waarvan de actieve delen niet rechtstreeks geaard zijn, moet het elektrische
+- − de waarde van de veronderstelde kortsluitstroom aan de oorsprong van de installatie;
+- − de mogelijkheid om aan de noden van de installatie te voldoen  (bv.: noodzakelijk vermogen, noodzaak tot
+- Afdeling 3.2.4. Indeling van de installaties
+- De elektrische installatie moet zo nodig ingedeeld worden in verscheidene stroombanen om de gevolgen van
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 3 BEPALING VAN DE KARAKTERISTIEKEN  | 67 Hoofdstuk 3.3. Compatibiliteit
+- Afdeling 3.3.1. Onafhankelijkheid van een elektrische installatie ten overstaan van
+- andere installaties
+- De elektrische en niet -elektrische installaties moeten derwijze opgesteld worden dat elke gevaarlijke weder-
+- Afdeling 3.3.2. Onafhankelijkheid van de delen van een elektrische installatie
+- − stroomlevering aan het voedingsnet door bepaalde machines of toestellen  van de installatie.
+- Afdeling 3.3.3. Installaties voor telecommunicatie, signalisatie en dergelijke
+- Elke installatie voor telecommunicatie, besturing, signalisatie en dergelijke moet van de nodige inrichtingen
+- voorzien worden om de beveiliging te waarborgen tegen wederzijdse beïnvloeding tussen deze installaties en
+- andere elektrische installaties, met het oog op de bescherming tegen elektrische schokken, brand en thermi-
+- installaties en andere installaties.
+- en hun verenigbaarheid met betrekking tot andere elektrische installaties.
+- Voor wat betreft de energievoorziening van deze installaties zijn de elektrische veiligheidsmaatregelen en de
+- Hoofdstuk 3.4. Veiligheidsinstallaties
+- Voorschriften voor de veiligheidsinstallaties zijn opgenomen in hoofdstuk 5.5.
+- Hoofdstuk 3. 5. Kritische installaties
+- Voorschriften voor de kritische installaties  zijn opgenomen  in hoofdstuk 5.6 .
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 69 Deel 4. Beschermingsmaatregelen
+- Onderafdeling 4.2.3.2. Aardingsinstallatie  ................................ ...........................  85
+- aanraking in huishoudelijke installaties  ................................ .......................  96
+- aanraking in niet -huishoudelijke installaties  ................................ ...............  100
+- Onderafdeling 4.2.5.2. Elektrische installaties op zeer lage functionele spanning (ZLFS)  .. 101
+- Onderafdeling 4.2.5.3. Elektrische installaties op zeer lage veiligheidsspanning (ZLVS) en op
+- Onderafdeling 4.3.2.3. Installatie van het elektrisch materieel  ................................  105
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 70 Onderafdeling 4.3.3.5. Beschermingsmaatregelen tegen brand  ................................ . 108
+- installaties op lage en zeer lage spanning  ................................ ........................  115
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 71 Hoofdstuk 4. 1. Inleiding
+- Nochtans, in huishoudelijke installaties , is alleen de voeding op zeer lage spanning en laagspanning van 1e
+- worden hetzij bij de constructie van het elektrisch materieel, hetzij bij de installatie ervan.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 72 Deze omhulsels moeten voldoen aan volgende voorwaarden:
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 73 f. Bijkomende beschermi ng door middel van differentieelstroom beschermings inrichting
+- Deze regel is niet van toepassing op de elektrische installaties van zwembaden  (hoofdstuk  7.2.) en sauna’s
+- a. Keuze van beschermingswijzen rekening houdend met de spanning van de elektrische installatie
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 74 b. Ruimten speciaal bestemd voor kinderen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 75 a.3. Bescherming tegen elektrische schokken bij rechtstreekse aanraking, van personen die zich buiten de
+- UN is de nominale spanning tussen fasen van het net van de installatie, uitgedrukt in kV en af-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 76 Van deze voorschriften mag evenwel worden afgeweken binnen d e grenzen vermeld in het hierna vol-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 77 c.2.2.  Laagspanning van de 2 e categorie
+- − installaties met beperkt  vermogen ( b.);
+- − elektrostatische filterinstallaties ( h.);
+- − elektrolyse -installaties ( i.);
+- − schrikdraadinstallaties ( k.):
+- b. Installaties met beperkt  vermogen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 78 − een afbakening van 1 m hoog moet worden aangebracht;
+- waakt worden zodat men niet onachtzaam installaties of elementen kan benaderen die op een grotere
+- • in binneninstallatie:
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 79 Risicobeperkende inrichting: inrichting die de gevaren van elektrocutie beperkt die het gevolg kunnen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 80 ** Deze waarden zijn alleen toegelaten mits volgende voorwaarden gelijktijdig worden nageleefd:
+- elektrische installatie niet zou dienen als terugvoer geleider voor de stroom.
+- h. Elektrostatische filterinstallaties
+- De verplaatsbare elektrostatische filterinstallaties moeten van een omhulsel voorzien zijn ( 4.2.2.1.b. ). Deze
+- Bij de vaste elektrostatische filterinstallaties mogen alle onder spanning staande delen blank blijven.
+- Deze installaties moeten opgesteld staan in gesloten ruimten van de elektrische dienst; indien dit niet het ge-
+- hoogspanningsinstallaties moeten automatisch buiten spanning gesteld worden zodra een toegangsdeur tot het
+- i. Elektrolyse -installaties
+- Bij elektrolyse -installaties mogen in het bijzonder de actieve delen van baden zoals elektroden, elektrolyten,
+- • de elektrische leidingen van de voedingsinstallaties in gelijkstroom moeten voorzien zijn van een vol-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 81 ▪ de verkeersvloeren omheen de elektrolysebaden moeten zodanig uitgevoerd zijn dat het stagne-
+- ▪ de werkzaamheden aan elektrolyse -installaties mogen alleen worden toevertrouwd aan gewaar-
+- schuwde (BA4) of vakbekwame  (BA5) personen  die kennis hebben van de aan deze installaties ver-
+- k. Schrikdraadinstallaties
+- De draad die als schrikdraad dient mag slechts blank zijn voor zover de installatie aan de volgende voor-
+- − de elektrische leiding die de spanningsgever verbindt met de schrikdraadinstallatie moet gekozen wor-
+- − een schrikdraadinstallatie of een geheel van elektrisch verbonden schrikdraadinstallaties moet gevoed
+- De aanwezigheid van een schrikdraadinstallatie moet aangeduid worden door middel van de in afdeling
+- Schrikdraadinstallaties mogen slechts op de scheidingslijn van gronden geplaatst worden indien de betrok-
+- Bij het opstellen van een schrikdraadinstallatie langs de grens van het openbaar domein moet samen met
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 82 0,10 m van verschilt; hij moet zich aan de zijde van het openbaar domein bevinden zonder er gebruik van
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 83 aanbrengen van verven en bedekkingen toegelaten en mogen in het bijzonder de onder hoogspanning staande
+- • moet de installatie automatisch werken;
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 84 kunnen worden aangeraakt zolang de deur of deuren open zijn. Het scherm of de schermen zijn
+- De bescherming tegen onrechtstreekse aanraking moet in elektrische laagspanningsinstallaties verzekerd wor-
+- Indien de elektrische installatie gevoed kan worden door stroombronnen in parallel, bijvoorbeeld het openbare
+- zijn zowel in het geval dat de installatie gevoed wordt door alle stroombronnen in parallel als in het geval dat
+- de installatie gevoed wordt door een enkele van deze stroombronnen. De goede werking van de beschermings-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 85 Onder afdeling 4. 2.3.2. Aardingsinstallatie
+- De aardingsinstallatie omvat:
+- mende beschermingsmiddelen toegepast in de elektrische installaties.
+- Voor huishoudelijke installaties  en de gemeenschappelijke delen van een residentieel geheel wordt  de aardver-
+- lijke installaties te realiseren, worden in onderafdeling 5.4.2.1.  bepaald.
+- Voor niet -huishoudelijke installaties  en indien er een differentieelstroom beschermings inrichting gebruikt
+- De uitvoering van de elementen die deel uitmaken van de aardingsinstallatie wordt beschreven in hoofdstuk
+- 3. het elektrisch materieel en de installatie beantwoorden aan de voorschriften van de onderafdelingen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 86 ling 2.4.3 .);
+- installatie;
+- wordt aangebracht bij de uitvoering van de elektrische installatie.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 87 c.6. Elektrische l eidingen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 88 Deze verwijdering wordt als voldoende beschouwd wanneer, binnen het genaakbaarheidsgabarit , deze ho-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 89 Figuur 4.2. Bescherming die de gelijktijdige aanraking van delen die op potentialen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 90 a.4. Verplichting van een beschermingsgeleider
+- In elk gebouw  (zowel de huishoudelijke installaties als de niet -huishoudelijke installaties) is de
+- b. Beschermingsmaatregelen in installaties gevoed door een TN -net
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 91 Figuur 4. 4. Foutlus in een TN -C-systeem
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 92 In de bijzondere gevallen waar een rechtstreekse fout kan ontstaan tussen een fase en de aarde, moet de
+- Bij vaste installaties, tweefasige  stroombanen uitgezonderd, heeft de PEN -geleider een doorsnede die ten
+- Indien bij bepaalde elektrische toestellen of delen van elektrische installaties een of meerdere bovenge-
+- noemde voorwaarden niet geëerbiedigd worden, moeten deze toestellen of delen van installaties be-
+- c. Beschermingsmaatregelen in installaties gevoed door een TT -net
+- elektrische verbindingen tussen de aardverbindingen van de massa’s van de installatie en deze van het ver-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 93 Figuur 4.6. Foutlus in een TT -systeem
+- Nochtans, behalve in de huishoudelijke installaties  en de gemeenschappelijke delen van een residentieel
+- De weerstand R E van de aardverbinding waarmee de massa’s van de installatie verbonden zijn, moet klei-
+- naargelang het type van installatie:
+- − in 4.2.3.2 . en 4.2.4.3. b. voor huishoudelijke  installaties en gemeenschappelijke delen van een residen-
+- − in 4.2.4.4.d.  voor niet -huishoudelijke installaties ;
+- − in afdeling  7.11.2.  voor foorinstallaties ;
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 94 Zij moet de onderbreking veroorzaken van de voeding, de nulgeleider inbegrepen, wanneer:
+- d. Beschermingsmaatregelen in installaties gevoed door een IT -net
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 95 houdt rekening met de lek stroom en de globale aardingsimpedantie van de elektrische installatie;
+- De elektrische installatie moet bewaakt worden door een toestel voor permanente isolatiecontrole indien
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 96 Om zich te beschermen tegen de gevaren die zouden kunnen optreden door de aanwezigheid van twee ge-
+- mingsmaatregelen, voorgeschreven voor de installaties gevoed door een TN - of TT -net, toegepast worden
+- De toe te passen regels voor huishoudelijke  installaties  worden vermeld in onder afdeling 4. 2.4.3.
+- In niet -huishoudelijke installaties  zijn de na te volgen regels  bepaald in onderafdeling 4.2.4.4.
+- tingen, sauna’s, collectieve stortbadzalen, enge geleidende ruimten, buiten - of werfinstallaties, voeding van
+- 1. bij installaties waarvan de actieve delen van het elektrisch materieel, blank mogen blijven in het kader van
+- huishoudelijke installaties
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 97 b. Bescherming van stroombanen in het algemeen
+- wordt aan het begin van de  elektrische  installatie aangebracht.  Deze differentieelstroombescherming(en) ga-
+- installatie bedoeld in deel 8 , wordt het geheel van de elektrische installatie door ten minste een in de 1ste ali-
+- rentieelstroombeschermingsinrichting die aan het begin van de elektrische installatie wordt aangebracht, wor-
+- schermingsinrichtingen aangebracht in het begin van de elektrische installatie waarop er per stroombaan of
+- elektrische verwarmingsinstallaties;
+- rimpel, wordt de elektrische verwarmingsinstallatie uitgerust met een afzonderlijke differentieelstroombe-
+- installatie worden aangebracht, aangevuld met ten minste eenn differentieelstroombeschermingsinrichting met
+- materieel van andere ruimten van de huishoudelijke installatie voeden.
+- De toepassing van punt 1  van onderafdeling 6.5.8.1.  is toegelaten op de elektrische installaties en de belang-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 98 wordt op de hoogte van de toepassing van punt 1  van onderafdeling 6.5.8.1.  gesteld. Het erkend organisme
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 99 Figuur 4.11. Voorbeeld van configuratie met een spreidingsweerstand van de aardverbinding hoger dan  30 ohm
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 100
+- niet-huishoudelijke installaties
+- De volgende voorschriften zijn van  toepassing in de niet -huishoudelijke  installaties .
+- houdelijke installaties is van toepassing.
+- stroombeschermingsinrichting niet aan het begin van de elektrische installatie voor de veiligheidsstroombanen
+- De toepassing van punt 2  van onderafdeling 6.5.8.2.  is toegelaten op de elektrische installaties en de belangrij-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 101 vóór 01/06/2023 , op voorwaarde dat de gelijkvormigheidscontrole vóór de ingebruikname zal plaatsvinden
+- 2. hetzij vanaf een elektrische installatie door middel van toestellen met elektrisch gescheiden wikkelingen,
+- Onder afdeling 4. 2.5.2. Elektrische installaties op zeer lage functionele spanning (ZLFS)
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 102 b. Stopcontacten
+- Onder afdeling 4. 2.5.3. Elektrische installaties op zeer lage veiligheidsspanning  (ZLVS) en op
+- Indien de elektrische installatie op zeer lage veiligheidsspanning gevoed wordt door gelijkspanning, bekomen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 103 I.
+- − de beschermingsgeleiders of massa’s van andere installaties;
+- • uitbreiding van brand door de elektrische installatie;
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 104 Onbrandbaar materiaal:  materiaal dat niet kan branden. In de praktijk wordt een materiaal als onbrandbaar
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 105 Daarentegen kunnen bepaalde kunststofbekledingen de thermische geleidbaarheid van een metalen oppervlak
+- Alle delen van de elektrische installatie welke, zelfs gedurende korte tijd, hogere temperaturen kunnen berei-
+- Onder afdeling 4. 3.2.3 . Installatie van het elektrisch materieel
+- van de elektrische installatie die, zelfs gedurende korte tijd, hogere temperaturen kunnen bereiken dan deze
+- elektrische installatie zoals bijvoorbeeld vaste, tijdelijke,  binnen -, buiten -, mobiele of verplaatsbare installa-
+- Bij de keuze en de installatie van het elektrisch materieel, uitr ustingen, … in een ruimte moet men rekening
+- Voor de veiligheidsinstallaties worden de bijkomende beschermingsmaatregelen tegen brand in hoofdstuk 3.4.
+- vermeld. Voor de kritische installaties worden de eventuele bijkomende beschermingsmaatregelen  tegen brand
+- De eigenaar, beheerder of uitbater moet de correcte keuze en installatie van het elektrisch materieel  en de
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 106 Onderafdeling 4.3.3.3. Indeling van het brandgevaar in een ruimte
+- De elektrische installaties in een ruimte met onvervangbare goederen (musea, verzameling van kunstvoorwerpen,
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 107 Geïsoleerde geleiders
+- 1. elektrische installaties  die zich niet bevinden in de gebouwen;
+- 2. elektrische installaties die zich niet bevinden in de civieltechnische werken;
+- 3. elektrische installaties van een industrieel proces dat bestemd is om mechanisch of chemisch
+- hiervan zijn: productielijn van een product, walserij, installatie van aardolieraffinage en bijhorend
+- Een elektrische installatie die de algemene werking van een gebouw of een civieltechnisch werk
+- verzekert, wordt niet als een elektrische installatie van een industrieel proces beschouwd . Zoals
+- − verlichtingsinstallaties en contact dozen;
+- − HVAC -installaties;
+- − informatica -installaties;
+- − installaties van een autonome voedingsbron (stroomgenerator, fotovoltaïsche installatie, …);
+- − elektrische installaties of gedeelten van elektrische installaties in een hoogspanningscabine die de in-
+- − voeding van een beschermingsinstallatie tegen brand (detectie, alarm, …);
+- − voeding van een bewakingsinstallatie (camera, inbraakdetectie, …);
+- − hun installatie zich beperkt tot het eerste compartiment.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 108 Tabel 4.8. Kenmerken van de geïsoleerde geleiders en kabels met betrekking tot hun brandweerstand
+- De keuze en de installatie van het elektrisch materieel moeten beantwoorden aan de voorschriften van onder-
+- De kabels van de stekerbare installaties (systemen van toestelverbindingsstopcontacten voor vaste aansluitin-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 109 c. Gevaarlijke lek - of foutstromen
+- In huishoudelijke installaties , in gemeenschappelijke delen van een residentieel geheel  en in niet -
+- huishoudelijke installaties zonder gewaarschuwde (BA4) of vakbekwame (BA5) personen is het TN -C net verbo-
+- De elektrische installaties in de ruimten BE2 en BE3 worden beperkt tot deze die noodzakelijk zijn voor de
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 110 In de ruimten gekenmerkt door de uitwendige invloeden BE2 en/of BE3 en/of CA2, moeten de laagspannings-
+- De kabels van de stekerbare installaties (systemen van toestelverbindingsstopcontacten voor vaste aansluitin-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 111 4. de interne bekabeling van de schakel - en verdeelborden;
+- toepassing op huishoudelijke installaties.
+- Bij een gelijkvormigheidscontrole voor ingebruikname of een controlebezoek van een installatie wordt het eva-
+- Specifieke bepalingen zijn van toepassing op de elektrische installaties in ruimten met explosiegevaar (zie
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 112 Hoofdstuk 4. 4. Elektrische bescherming tegen overstroom
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 113 − de doorsnede van de geleiders;
+- Voor de huishoudelijke installaties wordt de maximale nominale stroom der smelt zekeringen  of de maximale
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 114 Onder afdeling 4. 4.2.2. Plaats van de beschermingsinrichting
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 115 materialen; indien haar lengte 3 meter overtreft, moet ze beschermd worden tegen kortsluiting.
+- Uitgezonderd bij installaties in lokalen of plaatsen met uitwendige invloeden BE2 of BE3  of CA2 , is het toegela-
+- van de installatie volgens de beschermingsmaatregel «bijkomende isolatie bij het installeren » (zie afdeling
+- geleider bij installaties op lage en zeer lage spanning
+- In éénfasige stroombanen van huishoudelijke  installaties, moet de bescherming voorzien worden op de twee
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 116 Onder afdeling 4. 4.4.3. Driefasige stroombanen in TT - en TN -netten met niet -verdeelde nulge-
+- In installaties, gevoed door een net met TT - of TN -systeem waarin de nulgeleider niet verdeeld is, hoeft de
+- In installaties gevoed door een IT -net is de nulgeleider in principe niet verdeeld. Indien het echter om functio-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 117 Afdeling 4. 5.2. Voorzorgsmaatregelen bij het installeren
+- De elektrische installatie op laagspanning  en op zeer lage spanning  moet zodanig uitgevoerd worden dat de
+- installatie tussen de aardverbinding van de installaties en hetzij de nulgeleider, hetzij een fasegeleider.
+- kelijk in installaties van gebouwen waarin veiligheidsverbruikers zijn voorzien en ze zijn eventueel noodzakelijk
+- installatie van transmissie of distributie van elektrische energie, op een potentiaal worden gebracht die in een
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 4 BESCHERMINGSMAATREGELEN  | 118 Afdeling 4. 6.4. Bescherming tegen risico's te wijten aan bewegingen
+- aan bewegingen te wijten zijn, moeten de elektrische installaties of delen ervan van die aard zijn dat ze de
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 119 Deel 5. Keuze en gebruik van het materieel
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 120 luchtlijnen  ................................ ................................ .......................  13
+- Onderafdeling 5.2.6.2. Aansluiten van toestellen op installaties  ...............................  135
+- Onderafdeling 5.2.9.12. Installatie van evenwijdige draden op isolatoren  ....................  144
+- Onderafdeling 5.2.9.14. Specifieke regels voor buiteninstallaties  ..............................  148
+- Onderafdeling 5.2.9.15. Specifieke regels voor installaties op zeer lage spanning (ZLS)  .... 148
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 121 Afdeling 5.3.3. Bedienings - en scheidingswijzen  ................................ .......................
+- Afdeling 5.3.5. Installatiematerieel  ................................ ................................ .......  162
+- Afdeling 5.4.2. Aardingsinstallaties  ................................ ................................ .......  170
+- HOOFDSTUK 5.5. VEILIGHEIDSINSTALLATIES  ................................ ................................ .... 178
+- Afdeling 5.5.3. Bepaling van de veiligheidsinstallaties  ................................ ................  179
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 122 Onderafdeling 5.5.5.1. Veiligheidsverbruikers met geïntegreerde veiligheidsbron  ...........  179
+- HOOFDSTUK 5.6. KRITISCHE INSTALLATIES  ................................ ................................ ...... 186
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 123 Hoofdstuk 5.1. Gemeenschappelijke regels voor al het materieel
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 124 Onde rafdeling 5.1.3.3. D ifferentieelstroom beschermings inrichtingen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 125 Hoofdstuk 5.2. Aanvullende regels voor de leidingen
+- tieken van de installatie (spanning, stroom, vermogen, compatibiliteit…) .
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 126 Onderafdeling 5.2.1.3. Plaatsing van de geleiders
+- b. Specifieke voorschriften voor installatie op ZLVS en op ZLBS
+- In de binneninstallaties moeten alle actieve geleiders samengesteld zijn uit geleiders die op een zekere en
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 127 bovenkant steekt boven de vloer uit op een hoogte ten minste gelijk aan deze der plinten indien aanwezig e
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 128 Figuur 5.5. Plaatsingswijzen van elektrische leidingen − Opbouw
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 129 g. in de vrije lucht, hetzij met klemmen, beugels of andere bevestigingsmiddelen, hetzij op kabelrekken,
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 130 j. in open, gesloten of met zand gevuld kabelkanaal;
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 131 k.2. geprefabriceerde  blokken
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 132 p. onder water;
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 133 ondergaan, zoals vastgesteld hetzij in de desbetreffende door de Koning bekrachtigde  of door het NBN gere
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 134 Afdeling 5.2.4. Toegelaten stromen − Bescherming tegen overstroom − Doorsnede
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 135 Afdeling 5.2.5. Spanningsval
+- Onderafdeling 5.2.6.2. Aansluiten van toestellen op installaties
+- De toestellen kunnen op de installaties worden aangesloten, hetzij rechtstreeks via een vaste  elektrische  lei-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 136 Aan de ingang van de toestellen moeten de elektrische leidingen eveneens beschermd worden tegen mechani-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 137         - kabels geplaatst in met zand gevulde kanalen, of
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 138 In de nabijheid van verwarmings - of warmeluchtleidingen en schoorstenen, mogen de elektrische leidingen
+- Voor de installatieregels specifiek voor luchtlijnen  op lage en zeer lage spanning  zijn de voorschriften  van het
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 139 − ze zijn voorzien van een uitwendige mantel die in normale omstandigheden een voldoende weerstand blijft
+- − de kabels die de verschillende palen van een openbare verlichtingsinstallatie of van een lichtsignali-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 140 Evenmin moet de aanwezigheid van kabels, geplaatst in een openbare weg, aangeduid worden, wanneer de
+- lijke toepassing van dit punt d. op de installaties die zij gebruikt of die op haar domein liggen.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 141 − ze moeten voldoende vastgehecht worden en hun eventuele verbindingsmoffen mogen niet kunnen ver-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 142 De gleuven van sierlijsten, holle plinten en lijsten moeten dusdanige afmetingen hebben dat de geleiders
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 143 Onderafdeling 5.2.9.10. Verzonken plaatsing zonder buizen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 144 Figuur 5.28. Schematische doorsnede van een sleuf
+- Onderafdeling 5.2.9.12. Installatie van evenwijdige draden op isolatoren
+- De plaatsing op isolatoren is verboden in huishoudelijke installaties .
+- In de andere installaties  is de installatie van evenwijdige draden van een elektrische leiding op isolatoren over-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 145 − kleiner zijn dan 1,20 m voor koperen geleiders met een doorsnee kleiner dan of gelijk aan 10 mm ²;
+- In huishoudelijke installaties  en niet -huishoudelijke installaties  zonder gewaarschuwd (BA4) of vakbekwaam
+- Een installatie voor verwarming door in de wanden verzonken panelen, hierna «  verwarmingsinstallatie  »
+- genoemd, is een elektrische installatie waarin het verwarmend element wordt gevormd door een reeks
+- Het punt b.  is van toepassing op de verwa rmingsinstallaties binnenshuis geplaatst in het plafond en de
+- vloer, voor huishoudelijke installaties  en niet-huishoudelijke  installaties  zonder gewaarschuwd (BA4) of
+- vakbekwaam (BA5)  personeel . Deze verwarmingsinstallaties zijn niet toegelaten in de valse plafonds van
+- b.3. Eisen aan het gebruikte materieel in verwarmingsinstallaties
+- Het in de verwarmingsinstallaties gebruikte materieel moet aan de bepalingen van onderafdelingen
+- Het materieel , dat voor thermische isolatie wordt gebruikt en dat in contact met de verwarmingsinstallatie
+- b.6. Bepalingen van toepassing op elektrische verwarmingsinstallaties
+- De elektrische verwarminsinstallatie moet beantwoorden aan de van toepassing zijnde bepalingen van dit
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 146       aanbevolen door de fabrikant van het element, kunnen doen ontstaan.
+- De nominale voedingsspanning van de verwarmingsinstallaties mag de 400V niet overschrijden.
+- worpen. Voor de installaties in vloeren andere dan deze die gevoed zijn met een ZLVS, moet de bekleding
+- van de installatie kan worden geïsoleerd met het oog op het nazicht of het onderhoud ervan. Deze in -
+- - ofwel door een schakelaar die de hele installatie aandrijft en die op of nabij het schakel - en verdeel bord
+- wanneer de installatie verschillende niveaus omvat.
+- b.14. Waarschuwing van de aanwezigheid van een installatie met elektrische verwarmingspanelen
+- In de huishoudelijke installaties waar dit verwarmingssysteem geïnstalleerd is, komt de volgende
+- waarschuwing ten minste in het eendraadsschema en het situatieplan van de huishoudelijke installatie
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 147 c. Elektrische verwarmingsleidingen
+- Een installatie voor verwarming door in de wand en verzonken kabel s, hierna «  verwarmingsinstallatie  »
+- genoemd, is een elektrische installatie waarin het verwarmend element wordt gevormd door een net van
+- Het punt c.  is van toepassing op de verwarmingsinstallaties binnenshuis en buitenhuis geplaatst in het
+- plafond en de vloer , voor huishoudelijke installaties  en niet-huishoudelijke installaties  zonder
+- Het in de verwarmingsinstallaties gebruikte materieel moet aan de bepalingen van onderafdelingen
+- Het materieel , dat voor thermische isolatie wordt gebruikt en dat in contact met de verwarmingsinstallatie
+- c.6. Bepalingen van toepassing op de elektrische verwarmingsinstallatie s
+- De elektrische verwarminsinstallatie moet beantwoorden aan de van toepassing zijnde bepalingen van dit
+- De nominale voedingsspanning van de verwarmingsinstallaties mag de 400V niet overschrijden.
+- aan de verwarmingsleiding is onderworpen. Voor de installaties in vloeren andere dan deze die gevoed zijn
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 148       van de verwarmingseenheid, voor elk lokaal met een oppervlakte van meer dan 4 m², zodat dit gedeelte
+- van de installatie kan worden geïsoleerd met het oog op het nazicht of het onderhoud ervan. Deze in -
+- - ofwel door een schakelaar die de hele installatie aandrijft en die op of nabij het schakel - en verdeel bord
+- wanneer de installatie verschillende niveaus omvat.
+- Onderafdeling 5.2.9.14. Specifieke regels voor buiteninstallaties
+- Onderafdeling 5.2.9.15. Specifieke regels voor installaties op zeer lage spanning (ZLS)
+- De algemeenheden van toepassing op de laagspanningsinstallaties, opgenomen in  onderafdeling 5.2.1. , zijn van
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 149 Hoofdstuk 5.3. Elektrische a pparatuur (bescherming, bediening, schei-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 150 AD4 Nat IPX4
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 151 Onderafdeling 5.3.2.7. In functie van de aanwezigheid van flora en/of schimmelvorming (AK) en
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 152 Tabel 5. 7. Keuze van elektrische machines en toestellen in functie van de toestand van het menselijk lich
+- Teneinde de scheiding van iedere elektrische installatie of gedeelte ervan mogelijk te maken moeten in-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 153 Dit voorschrift is niet van toepassing:
+- − terugvoeding te vermijden wanneer de installatie door verschillende bronnen wordt gevoed.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 154 peling beveelt bij abnormale variatie van spanning en /of frequentie ;
+- installatie waarvoor het nodig kan zijn om de voeding te onderbreken en aldus een gevaar uit te sluiten.
+- het overeenstemmend gedeelte van de installatie met inbegrip van de stroom van eventueel geblokkeerde
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 155 installatie. Men kan hierbij echter het behoud van de voeding voor elektrisch afremmen behouden.
+- gedeelten van de installatie.
+- In de TN -installaties is het  echter  toegelaten de nulgeleider niet te onderbreken wanneer de nulgeleiders van
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 156 e. Stuurinrichtingen
+- installatie of bij een manuele werking van de beschermingsinrichting uitgeschakeld  worden (mode
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 157 toestand (werking en fout);
+- niet-huishoudelijke installaties:
+- Voor elektrische installaties in ruimte n met verhoogd brandgevaar is het gebruik van een  toestel voor automa-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 158 d. Opgehangen toestellen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 159 De looplampen voor laagspanning moeten van de klasse I of II zijn.
+- In de huishoudelijke installaties  en in de ruimten speciaal bestemd voor kinderen (BA2), moeten deze rails op
+- h.2. Vaste installaties
+- • Buiteninstallaties
+- • Binneninstallaties
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 160 Indien de hoogspanningshulpinrichting van de ontladingslampen aangebracht is binnen in de gebouwen,
+- moet zij geplaatst worden, hetzij in een lokaal, gescheiden van de rest van de installatie en onbereik-
+- Indien de installatie een knipperautomaat bevat moet de voeding van het beveiligingssysteem en
+- Indien de installatie onder spanning wordt geplaatst bij een openingsfout van de secundaire
+- Indien het openen zich voordoet tijdens de werking van de installatie, moet het beveiligings-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 161 h.3. Draagbare en verplaatsbare toestellen
+- verlichtingsinstallaties verlichtingstoestellen te gebruiken bestaande uit lampen met lamphouder waarvan de
+- In de centrale verwarmingsinstallaties met warme lucht, mogen de verwarmingslichamen slechts onder span-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 162 Onderafdeling 5.3.4.5. Elektrisch speelgoed
+- Afdeling 5.3.5. Installatiematerieel
+- De verbindingsinstallaties en de beveiligingstoestelle n (veiligheden, vermogensschakelaars ...) moeten op
+- In elektrische installaties van voor het publiek toegankelijke ruimten zijn de schakel - en verdeelborden
+- In huishoudelijke installaties zijn de schakel - en verdeelborden van de klasse I of II die voorzien zijn van een
+- sterkte is aan de installatie aangepast, zonder nochtans minder dan 25 A te bedragen.
+- In huishoudelijke installaties  is de nominale stroomsterkte van de algemene scheidingsschakelaar aan de instal-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 163 Nochtans mag de functie van de algemene scheidingsschakelaar verzekerd worden door de beschermingsin-
+- installaties, zijn de schakel - en verdeelborden gemakkelijk bereikbaar zonder speciale middelen.
+- a. Laagspanningscontactdozen van elektrische installaties op wisselspanning
+- − de tijdelijke, mobiele of verplaatsbare installaties bedoeld in onderafdeling 2.2.1.1. ;
+- b. Specifieke regels voor huishoudelijke installaties
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 164 de controle op de hoogte gesteld van de toepassing van onderafdeling 6.5.8.1. , 2. of van onderafdeling
+- De differentieelstroom beschermings inrichtingen die worden geplaatst in huishoudelijke installaties  zijn ten
+- minste van het type A; deze geplaatst aan het begin van de elektrische installatie hebben  een nominale
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 165 − het elektrisch materieel dat gelijkstroom voortbrengt of gebruikt, wordt uitgevoerd volgens de regels to
+- Alle massa’s van het gedeelte van een installatie  dat beschermd wordt door een differentieelstroom bescher-
+- elektrische installaties.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 166 b. Onderbreking
+- In huishoudelijke installaties  worden enkel smelt zekeringen  of kleine vermogens schakelaars met pennen en
+- gen en de kleine vermogensschakelaars met pennen in deze elektrische installaties zodanig opgevat dat het
+- langs de voedingszijde van de installatie bevindt.
+- met het te verwachten kortsluitvermogen dat op de plaats van hun installatie is vereist. Het minimaal kort-
+- In huishoudelijke  installaties  mag de te verwachten eenfasige kortsluitstroom aan de uitgangsklemmen van de
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 167 schermings inrichtingen zonder overstroombeveiliging, met nominale stroomsterkte  40 A, verzekert de
+- • de veronderstelde kortsluitstroom in het punt van de installatie waar de vermogensschakelaar zich be-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 168 Figuur 5.30. Keuze van de beschermingsinrichting tegen  kortsluitingen
+- In de installaties volgens het IT -systeem, moeten de beschermingsinrichtingen het gepaste eenpolig onderbre-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 169 L: de ontwik kelde lengte, in meter, van de geleiders van de elektrische leiding.
+- Bij huishoudelijke en niet -huishoudelijke installaties die verbonden zijn met het openbaar distributienet verze-
+- De voorschriften van onderafdeling 5.3.6.2.  zijn niet van toepassing op huishoudelijke  installaties .
+- Wanneer de elektrische leidingen van de gebruiksinstallatie bestaan uit niet -geïsoleerde buizen, worden deze
+- b. Aansluiting van huishoudelijke installaties
+- de installatie en de geleidende delen van de constructie (zoals betonwapeningen, ijzerbeslag, metalen lijs-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 170 De meettransformatoren moeten een nominaal vermogen hebben en van een klasse zijn die toereikend is voor
+- teneinde te voldoen aan de veiligheidsvoorschriften van de elektrische installatie.
+- Afdeling 5.4.2. Aardingsinstallaties
+- houdelijke installaties . Voor niet -huishoudelijke installaties, moet de aardverbinding verwezenlijkt worden
+- b. Specifieke regels voor huishoudelijke installaties
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 171               met zeven samengeslagen draden is vervaardigd  uit gehard koper .
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 172         geometrische doorsnede van ten minste 50 mm². De geleider wordt  in de grond gedreven door
+- huishoudelijke installaties
+- vanaf 1 juni 2020 . Het gebouw mag ook niet -huishoudelijke installaties bevatten.
+- huishoudelijke installaties gelegen op het vakantiedorp of campingterrein mogen ook op  deze gemeenschap -
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 173          van de aardgeleider tussen de gemeenschappelijke aardingsonderbreker en de
+- worden: «  Gemeenschappelijke aardverbinding + adressen van de betrokken installaties  ».
+- 7° Het eendraadsschema en het situatieplan van elke elektrische installatie, die gebruik maakt van
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 174 Figuur 5.33. Principeschema van de gemeenschappelijke aardverbinding (Geval bedoeld in punt c .1. 3de alin
+- − geleiders die zich in dezelfde elektrische leiding bevinden als de actieve geleiders van de installatie, voor
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 175 − delen van omhulsels van geprefabriceerde  schakel en verdeelinrichtingen, in de mate dat de desbetreffen
+- van een privaat en onafhankelijk verdeelnet, wanneer zij geen deel uitmaken van installaties waarin de
+- In huishoudelijke elektrische installaties mogen uitsluitend koperen beschermingsgeleiders gebruikt worden. Zij
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 176 Tabel 5.10. Minimumdoorsnede van de beschermingsgeleider
+- van de installatie (S in mm²)  Minimumdoorsnede van de bescher-
+- Voor huishoudelijke installaties moeten de elektrische leidingen, met uitzondering van deze die eindigen in de
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 177 hetzij aan bepalingen die ten minste een gelijkwaardig veiligheidsniveau bieden als dit bepaald in deze no
+- ste beschermingsgeleider van de installatie, de aardgeleider uitgezonderd, met een minimum koperdoorsnede
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 178 Hoofdstuk 5.5. Veiligheidsinstallaties
+- De veiligheidsinstallatie kan in het algemeen volgens figuur 5.34.  aangegeven worden.
+- Figuur 5.34. Principe van een veiligheid sinstallatie
+- van dit hoofdstuk, als de veiligheidsinstallatie aan het geheel van de eisen van dit ander referentiekader be-
+- De uitbater of zijn afgevaardigde moet een risicoanalyse van de veiligheidsinstallaties uitvoeren. Deze bevat
+- − de bepaling van de veiligheidsinstallaties;
+- De maatregelen, die in het kader van de risicoanalyse van de veiligheidsinstallaties genomen zijn, zijn in de
+- lijst met de veiligheidsinstallaties vermeld. De lijst en de risicoanalyse  van de veiligheidsinstallaties worden ter
+- risicoanalyse van de veiligheidsinstallaties bepaald;
+- de schakel - en verdeelborden of de verbruikers van een veiligheidsinstallatie te voeden en waarbij  het
+- risicoanalyse van de veiligheidsinstallaties bepaald.
+- Het functiebehoud van de veiligheidsinstallatie moet gegarandeerd worden:
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 179 Om aan deze voorwaarden te voldoen, is het noodzakelijk om specifieke elektrische bronnen, materialen,
+- veiligheidsinstallatie kunnen verstoren. Ze worden door de uitbater of zijn afgevaardigde bepaald bij de keuze
+- Afdeling 5.5.3. Bepaling van de veiligheidsinstallaties
+- Worden bepaald als veiligheidsinstallaties:
+- − en deze die op basis van een risicoanalyse van de veiligheidsinstallaties door de uitbater of zijn
+- Per definitie vallen de verbruikers met positieve veiligheid niet onder de veiligheidsinstallaties.
+- De uitbater of zijn afgevaardigde stelt de lijst met de veiligheidsinstallaties op. Deze lijst vermeldt voor elke
+- veiligheidsinstallatie de referentie (risicoanalyse of wettelijke eisen).
+- De veiligheidsinstallaties worden weergegeven op een of meerdere plannen van de veiligheidsinstallaties. Deze
+- ring van de installatie. De vertegenwoordiger van het erkend organisme bedoeld in hoofdstuk 6.3 . parafeert de
+- plannen voor ontvangst bij de controle. De overeenstemming tussen de plannen en de installatie moet door de
+- - hetzij door de risicoanalyse van de veiligheidsinstallaties.
+- De lijst met de veiligheidsinstallaties vermeldt voor elke veiligheidsverbruik er hun tijd van functiebehoud.
+- De risicoanalyse van de veiligheidsinstallaties of eventuele referentiekaders bepalen de noodzaak:
+- houd van de veiligheidsinstallaties te garanderen. De persoon die dit onderhoud en deze testen uitvoert docu-
+- Voor de veiligheidsbronnen bepaalt de risicoanalyse van de veiligheidsinstallaties ten minste:
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 180 worden;
+- toezicht. Dat bevat bijvoorbeeld de beschikbaarheid van de hulpinstallaties van de veiligheidsbron, het niveau
+- houd van de veiligheidsinstallaties te garanderen. De persoon die dit onderhoud en deze testen uitvoert docu-
+- heidsinstallaties moeten aan de eisen van de elektrische leidingen van onderafdeling 5.5.6.4.  voldoen, tenzij
+- gie, van signalisatie of bediening van de veiligheidsinstallaties moeten aan de eisen van de elektrische leidin-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 181 gen van onderafdeling 5.5.6.4.  voldoen, tenzij de goede werking van de veiligheidsverbruikers door deze e
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 182 De brandweerstand van de interne bekabeling van het veiligheidsbord is niet vereist.
+- De plaatsing en de installatie van de elektrische leidingen en hun bevestigingen moeten het functiebehoud van de
+- In lange verticale installaties moeten de bevestigingen van de elektrische leidingen garanderen dat de elektrische
+- Er wordt rekening gehouden met de mogelijke negatieve invloed van de plaatsing van andere installaties (elek-
+- trisch en niet -elektrisch), die geen veiligheidsinstallaties zijn en die in de nabijheid van de veiligheidsinstallaties
+- de risicoanalyse van de veiligheidsinstallaties) gevoed wordt  en als elke elektrische leiding in afzonderlijk e
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 183 De goede werking van een stroombaan met veiligheidsverbruikers mag niet nadelig beïnvloed worden door een
+- installatie (bv.: buiteninstallatie).
+- 1° als een eindveiligheidsstroombaan een elektrische motor van een veiligheidsinstallatie voedt die noch
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 184 Als een veiligheidsstroombaan meerdere veiligheidsverbruikers voedt, moet een kortsluitisolator op het niv
+- Voor de elektrische installaties in wooneenheden die aan de voorschriften van de bescherming van stroomba-
+- 5.  het gebruik van het IT -net op het geheel of een  deel van de veiligheidsinstallatie (te bepalen in het
+- kader van de risicoanalyse van de veiligheidsinstallaties) bewaakt door een toestel voor permanente
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 185      - deze delen geplaatst zijn in een ruimte uitsluitend toegankelijk voor gewaarschuwd (BA4) of
+- 2. De uitbater of zijn afgevaardigde kan op basis van de risicoanalyse van de veiligheidsinstallaties
+- Markeringen laten toe om de bestemming van veiligheidsinstallaties te herkennen. De volgende onderdelen
+- beeld: «VEILIGHEIDSINSTALLATIE NIET UITSCHAKELEN.»:
+- De materialen van de veiligheidsinstallaties moeten zo geïnstalleerd zijn dat een gemakkelijke bediening, toe-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 186
+- Hoofdstuk 5.6. Kritische installaties
+- De uitbater of zijn afgevaardigde bepaalt de kritische installaties op basis van een risicoanalyse. Hij stelt de
+- lijst met de kritische installaties op. De maatregelen genomen in het kader van de risicoanalyse van de kriti-
+- sche installaties zijn in de lijst met de kritische installaties vermeld. De lijst  en de risicoanalyse van de kriti-
+- sche installaties worden ter beschikking gehouden van het erkend organisme en de met het toezicht belaste
+- ambtenaar.  Deze worden weergegeven op een of meerdere plannen van de kritische installaties. Deze plannen
+- de installatie. De vertegenwoordiger van het erkend organisme bedoeld in hoofdstuk 6.3 . parafeert de plannen
+- voor ontvangst bij de controle. De overeenstemming tussen de plannen en de installatie moet door de verte-
+- Kunnen worden beschouwd als kritische installaties: productielijn, serverlokaal, controlezaal, gebouw voor
+- Om het functiebehoud van een kritische installatie te garanderen, kan de uitbater of zijn afgevaardigde, op
+- basis van de risicoanalyse van de kritische installaties, andere maatregelen dan deze van dit hoofdstuk nemen
+- en waarvoor hij ze voldoende acht. Bijvoorbeeld: de melding van het eventuele stoppen van de installatie,
+- afgevaardigde bepaalt, op basis van de risicoanalyse van de kritische installaties, de noodzaak aan maatregelen
+- kritische installatie kunnen verstoren. Ze worden door de uitbater of zijn afgevaardigde bepaald bij de keuze
+- sche installaties bepaald;
+- schakel - en verdeelborden of de verbruikers van een kritische installatie te voeden en waarbij  het uitvallen
+- risicoanalyse van de kritische installaties bepaald.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 187 Men verstaat onder laagspanningshoofdbord: het hoofdbord van een gebouw, een zone of een gedeeltelijke
+- installatie (bv.: buiteninstallatie).
+- installaties, de maatregelen bij de keuze en het gebruik van een vervangingsbron om het functiebehoud van de
+- heidsinstallaties wat betreft de maatregelen te nemen voor de veiligheidsbronnen ( afdeling 5.5.5. ): type,
+- de risicoanalyse van de kritische installaties. De lijst met de kritische installaties vermeldt de tijd van functie-
+- installaties van de vervangingsbron, het niveau van de brandstof, het laadniveau van de batterijen, de omscha-
+- om het functiebehoud van de kritische installaties te garanderen. De persoon die dit onderhoud en deze testen
+- installaties, de maatregelen te nemen bij een brand om het functiebehoud van de kritische verbruikers te ga-
+- Hij houdt eventueel rekening met sommige maatregelen  van de veiligheidsinstallaties wat betreft de maatrege-
+- 1° als een kritische eindstroombaan een elektrische motor van een kritische installatie voedt die noch
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 188 door de motorfabrikant, mag men beschouwen dat deze laatste voorwaarde voldoet als de toegekende
+- Voor de elektrische installaties in wooneenheden die aan de voorschriften van de bescherming van stroomba-
+- 5. het gebruik van het IT -net op het geheel of een deel van de kritische installatie (te bepalen in het
+- kader van de risicoanalyse van de kritische installaties) bewaakt door een toestel voor permanente
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 189 Wat betreft de kritische verbruikers gevoed door meerdere aparte stroombanen, mag een fout die zich in een
+- 2. De uitbater of zijn afgevaardigde kan op basis van de risicoanalyse van de kritische installaties andere
+- Markeringen laten toe om de bestemming van kritische installaties te herkennen. De volgende onderdelen moe-
+- markering die wijst op de risico’s van een buitendienststelling, bijvoorbeeld  : « KRITISCHE INSTALLATIE NIET
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 190
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 191 Deel 6. Controles van installaties
+- Afdeling 6.3.10. Elektrische installaties van overheidsdiensten  ................................ .... 196
+- elektrische installatie  ................................ ................................ ..........  198
+- Onderafdeling 6.4.6.3. Bijzondere voorschriften met betrekking tot verslagen van installaties
+- huishoudelijke installaties ................................ ................................ ..... 198
+- huishoudelijke installaties ................................ ................................ ..... 199
+- Onderafdeling 6.4.7.2. Verplaatsbare, mobiele of tijdelijke installatie  .......................  199
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 192 installaties  ................................ ................................ .......................  201
+- huishoudelijke installaties ................................ ................................ ..... 203
+- Afdeling 6.5.8. Afwijkende beschikkingen voor elektrische installaties uitgevoerd vanaf 1 juni
+- Onderafdeling 6.5.8.1. Bestaande gedeelten van huishoudelijke installaties uitgevoerd vanaf
+- Onderafdeling 6.5.8.2. Bestaande gedeelten van niet -huishoudelijke installaties uitgevoerd
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 193 Hoofdstuk 6.1. Inleiding
+- De controles hebben betrek king op elektrische installaties  op lage of zeer lage wissel -of gelijkspanning  met
+- installaties zoals voorzien in hoofdstukken 6.4. en 6.5.;
+- − van de controle s van de elektrische installaties zoals voorzien in hoofdstuk V van boek III, titel 2 van de
+- Codex over het welzijn op het werk betreffende de elektrische installaties op arbeidsplaatsen,
+- toepassing op elektrische installaties vast te stellen;
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 194 Onderafdeling 6.3.3.2. Bijzonder geval
+- − huishoudelijke installaties op lage en zeer lage spanning  bedoeld in het Boek 1 ;
+- − installaties in zones met ontploffingsgevaar  bedoeld in de Boeken 1, 2 en 3 ;
+- − installaties op laagspanning en zeer lage spanning niet omschreven in de voorm elde domeinen  be-
+- − hoogspanningsinstallaties (uitgezonderd hoogspanningsluchtlijnen)  bedoeld in de Boeken 2 en 3 ;
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 195 − het afschrift van het aanwervingscontract  (behalve voor controledienste n geïntegreerd in
+- − voor de controle van huishoudelijke installaties  op laagspanning en op zeer lage spanning  die ze con-
+- 1. het adres van de installatie die wordt bezocht, alsook het type van de lokalen die door haar wor-
+- 2. naam, voornaam en adres van de eigenaar van de gecontroleerde elektrische installatie;
+- 4. de EAN -code die toelaat iedere installatie op een eenduidige wijze te identificeren.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 196 en Toezicht opgericht die als taak heeft:
+- Afdeling 6.3.1 0. Elektrische installaties van overheidsdiensten
+- a) De federale overheden kunnen de elektrische installaties waarvan ze eigenaar, beheerder of huurder zijn,
+- b) De gewestelijke overheden kunnen de elektrische installaties waarvan ze eigenaar, beheerder of huurder
+- c) Het Ministerie van Defensie kan de elektrische installaties waarvan het eigenaar, beheerder of huurder is
+- d) De Belgische Spoorwegen kunnen de elektrische installaties waarvan het eigenaar  of beheerder is laten
+- Elke elektrische installatie op lage of zeer lag e spanning zoals bepaald in de delen 1. en 2. van dit Boek , zelfs
+- gevoed door een privé -installatie zoals de vaste, verplaatsbare of mobiele stroomgeneratoren, behalve echter
+- de installaties op zeer lage gelijkspanning gevoed uitsluitend door batterijen, accumulatoren, accumulatoren-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 197 batterijen die niet ond er het toepassingsgebied van hoofdstuk 7.103 . vallen, fotovoltaïsche  cellen of  andere
+- gelijkaardige bronnen, moet voor de ingebruikname van deze installatie het voorwerp uit maken van een gelijk-
+- De gelijkvormigheidscontrole van elektrische installaties  moet buiten spanning gebeuren en  omvat:
+- − op meet - en regeltechnische installaties;
+- − op installaties op zeer lage spanning.
+- ken elektrische installatie gemeten.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 198 Afdeling 6.4.6. Verslagen
+- 6.4.6.4.  voor huishoudelijke installaties hetzij onderafdeling 6.4.6.5.  voor niet -huishoudelijke installaties.
+- Dit verslag van de gelijkvormigheidscontrole wordt bewaard in het dossier van de elektrische installatie.
+- moeten in het geval van huishoudelijke installaties bij deze kopie de ééndraad sschema’s en situatie plannen
+- van de elektrische installatie gevoegd worden.
+- elektrische  installatie
+- Vooraleer over te gaan tot het ter beschikking stellen van het vermogen van een nieuwe elektrische installatie
+- Onderafdeling 6.4.6.3. Bijzondere voorschriften met betrekking tot verslagen van installaties in
+- Specifieke voorschriften voor verslagen van installaties in zones met explosiegevaar worden in hoofdstuk 7.102 .
+- lijke installaties
+- Het verslag dat volgt op het gelijkvormigheidscontrole van elke huishoudelijke elektrische installatie op laag-
+- de installatie waarvoor de controle met het oog op de gelijkvormigheidscontrole, werd aangevraagd;
+- f) het adres van de installatie die wordt gecontroleerd, alsook het type van de lokalen die door haar
+- a) de nominale spanning van de installatie en de aard van de stroom;
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 199      b.3. Beschrijving van de aardelektrode, de stroombanen en de bescherming ervan
+- c) de uitvoering van de elektrische installatie overeenkomstig de eendraadsschema’s en de
+- (correcte keuze, installatie en samenbouw ter plaatse)  en de controle van de continuïteit van de
+- Indien de installatie conform is, bevestigt het verslag van de gelijkvormigheidscontrole dat de agent -
+- bezoeker de differentieelstroom beschermings inrichting, geplaatst aan het begin van de installatie,  heeft
+- elektrische installatie;
+- b) de verplichting in het dossier elke wijziging aan de elektrische installatie te vermelden;
+- houdelijke installaties
+- In niet -huishoudelijke installaties worden de vaste machines en toestellen voor de ingebruikname onderworpen
+- aan een gelijkvormigheidscontrole die enkel betrekking heeft op de correcte keuze, installatie en samenbouw
+- Onderafdeling 6.4.7.2. Verplaatsbare, mobiele of tijdelijke installatie
+- Er bestaan twee categorieën van verplaatsbare, mobiele of tijdelijke installatie:
+- 1° De  verplaatsbare, mobiele of tijdelijke installatie met veranderlijke samenstelling, d.w.z. samengesteld uit
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 200     voor elke ingebruikname het voorwerp uitmaken van een gelijkvormigheidscontrole met de voorschriften van
+- ke installatie beperkt de gelijkvormigheidscontrole voor elke ingebruikname zich tot de correcte keuze,
+- installatie en samenbouw ter plaatse. Om redenen van dwingende bedrijfsvereisten, is het toegelaten voor
+- de niet -huishoudelijke installaties dat de gelijkvormigheidscontrole voor de ingebruikname niet wordt uitge -
+- - de eigenaar, beheerder of uitbater van de elektrische installatie, alle maatregelen heeft getroffen om
+- - de uitbating van de elektrische installatie niet langer dan 48 uur duurt (maximum 2 dagen).
+- 2°De verplaatsbare, mobiele of tijdelijke  installatie met een vaste samenstelling, d.w.z. een enkel autonoom
+- tijdelijke installatie niet voorzien is van een aardingsaansluiting, moet de eventueel ter plaatse aan te brengen
+- Iedere belangrijke wijziging of belangrijke uitbreiding van een installatie op lage of zeer lage wissel -of gelijk-
+- tot het bijgevoegde of gewijzigde gedeelte van de installatie.
+- installaties , waarvoor geen gelijkvormigheidscontrole voor de ingebruikname dient plaats te vinden, vult de
+- installatieverantwoordelijke de schema’s , de plannen  en de documenten  zoals bepaald in afdeling 9.1.1 . (pun-
+- dwingende bedrijfsvereisten, is het toegelaten voor de niet -huishoudelijke installaties dat een gelijk -
+- van de elektrische installatie, alle maatregelen heeft getroffen om ieder gevaar voor de personen en goederen
+- Elke elektrische installatie op lage of zeer lage spanning zoals bepaald in hoofdstuk 6.4 . moet ter plaatse aan
+- Boek. De elektrische installatie  moet buiten spanning kunnen worden gesteld gedurende het controlebezoek.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 201 Afdeling 6.5.2. Periodiciteit van de controlebezoeken
+- Na de gelijkvormigheidscontrole dient elke elektrische installatie het voorwerp uit te maken van controlebe-
+- − om de 25 jaar voor de huishoudelijke elektrische installaties;
+- − jaarlijks voor de verplaatsbare, mobiele of tijdelijke elektrische installatie zoals bepaald in onderafdeling
+- − jaarlijks voor de elektrische installaties in ontploffingsgevaarlijke zones zoals bepaald in hoofdstuk 7.102 .;
+- − om de 5 jaar voor de andere elektrische installaties.
+- De controlebezoeken omvatten ten minste  de metingen gedefinieerd  in afdeling 6.4.5  Voor de installaties in
+- huishoudelijke installaties hetzij onderafdeling 6.5. 7.3. voor niet -huishoudelijke installaties. Dit verslag van
+- het controlebezoek wordt bewaard in het dossier van de elektrische installatie.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 202 b. Beschrijving van de inhoud
+- de installatie waar  voor het controlebezoek werd aangevraagd;
+- d) het adres van de installatie die wordt bezocht, alsook het type van de lokalen die door haar worden
+- a) de nominale spanning van de installatie en de aard van de stroom;
+- a) de controle van de uitvoering van de elektrische installatie overeenkomstig de eendraadsschema’s en
+- toepassing voor de elektrische installatie zijn worden in het verslag van het controlebezoek vermeld .
+- a) De elektrische installatie voldoet aan de voorschriften van het Boek 1 inzake de installaties op
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 203       b) De elektrische installatie voldoet niet aan de voorschriften van het Boek 1 inzake de installaties op
+- maatregelen moeten getroffen worden opdat de in inbreuk zijnde installatie, indien zij in dienst blijft,
+- Indien de installatie conform is, vermeldt het verslag van het controlebezoek bovendien dat:
+- installatie;
+- b) de verplichting in het dossier elke wijziging aangebracht aan de elektrische installatie te vermelden;
+- op de huishoudelijke elektrische installaties.
+- installaties
+- Afdeling 6.5.8. Afwijkende beschikkingen voor elektrische installaties uitgevoerd
+- Onderafdeling 6.5.8.1. Bestaande gedeelten van huishoudelijke installaties uitgevoerd vanaf 1
+- grote of zeer grote gevoeligheid te beschermen voor elektrische installaties waarvan de uitvoering ter plaatse
+- gevoeligheid in dienst te laten voor elektrische installaties waarvan de uitvoering ter plaatse is aangevangen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 204 voudige contactdozen bevat in dienst te laten voor elektrische installaties waarvan de uitvoering ter plaatse is
+- 1. bestaande elektrische installaties van ruimten die een bad en/of een douche bevatten en bestaande huis-
+- houdelijke installaties die een privézwembad bevatten waarvan de uitvoering ter plaatste vóór 01/03/2025 ,
+- 2. ruimten die een bad en/of een douche bevatten en bestaande huishoudelijke installaties die een privé-
+- − niet-belangrijke wijzigingen of uitbreidingen worden aangebracht aan de elektrische installatie; of
+- − wijzigingen geen impact hebben op de in 3.2. bepaalde volumes of op de elektrische installatie.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 205 Voor een ruimte die meerdere collectieve douches bevat zonder scheidingswanden, is het volume 3 het volume
+- Onderafdeling 6.5.8.2. Bestaande gedeelten van niet -huishoudelijke installaties uitgevoerd van-
+- installaties waarvan de uitvoering ter plaatse was aangevat vanaf 1 juni 2020 en die het voorwerp hebben uit-
+- 1. Dossier van de elektrische installatie van gemeenschappelijke delen van een residentieel geheel
+- dossier van een huishoudelijke elektrische installatie ( afdeling 9.1.2. ).
+- een grote of zeer grote gevoeligheid te beschermen voor elektrische installaties waarvan de uitvoering ter
+- gevoeligheid in dienst te laten voor elektrische installaties waarvan de uitvoering ter plaatse is aangevangen
+- voudige contactdozen bevat in dienst te laten voor elektrische installaties waarvan de uitvoering ter plaatse is
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 206 3. Contactdozen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 207 Deel 7. Bepalingen voor bijzondere installaties en ruimten
+- HOOFDSTUK 7.4. WERFINSTALLATIES EN BUITENINSTALLATIES  ................................ .............  240
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 208 Onderafdeling 7.4.2.1. Bescherming tegen elektrische schokken bij onrechtstreekse
+- HOOFDSTUK 7.11. FOORINSTALLATIES  ................................ ................................ ...........  245
+- Afdeling 7.22.3. Bepaling van de algemene karakteristieken – Indeling van de installaties  .... 246
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 209 lage veiligheidsspanning  ................................ ................................ .......  251
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 210 Onderafdeling 7.103.3.6. Bijkomende voorschriften  ................................ ..............  265
+- HOOFDSTUK 7.112. HUISHOUDELIJKE FOTOVOLTAÏSCHE INSTALLATIES OP LAAGSPANNING (≤ 10 KVA)
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 211
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 213 Hoofdstuk 7.1. Ruimten die een bad en/of douche bevatten
+- De algemene voorschriften van de andere delen van dit Boek zijn van toepassing op de bijzondere installaties
+- 5. de douches en baden geïnstalleerd in verplaatsbare, mobiele of tijdelijke installaties en waarbij:
+- − de gehele verplaatsbare, mobiele of tijdelijke installatie waarin een bad en/of een douche geïnstal-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 214 Douchebak: een onderste deel van een douche dat wordt gebruikt om water op te vangen en af te voeren.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 215 Wanneer een douche meer dan één vaste watertoevoer heeft, zijn de grenzen van de volumes waarmee reke-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 216 3)  Volume 2
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 217 b. Douches zonder douchebak of met douchebak met een diepte kleiner dan 0,10 m, met vaste wanden
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 218 d. Douches met douchebak met een diepte groter dan of gelijk aan 0,10 m, met vaste wanden die de vo-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 219 f. Douche zonder douchebak met vaste wanden en draaibare deuren die de volumes begrenzen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 220
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 221
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 222
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 223 b. Badkuipen waarvan de bodem niet samenvalt met het hoogst betreedbare niveau van volume 2
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 224
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 225
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 226
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 227
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 228 g. Begrenzing van de volumes door een vaste wand met een open ruimte onder de vaste wand kleiner of
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 229 Afdeling 7.1.4. Bescherming tegen elektrische schokken
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 230 c. Bijkomende bescherming tegen elektrische schokken bij onrechtstreekse aanraking zonder automati-
+- scheiding van stroombanen  of die deel uitmaken van een veiligheidsinstallatie, worden de stroombanen die een
+- Bij huishoudelijke installaties en de gemeenschappelijke delen van een residentieel geheel zijn deze inrichtin-
+- gen stroomafwaarts geïnstalleerd van de inrichtingen  die aan het begin van de elektrische installatie zijn ge-
+- (8) schakel - en verdeelbord van de elektrische installatie
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 231                    (10) verlichtingstoestel klasse I gevoed op laagspanning
+- ** Na te leven uitwendige invloed BC in een huishoudelijke installatie. In een niet -huishoudelijke installatie, de uitwendi-
+- De installatie van elektrisch materieel bestemd voor de voeding of bescherming van elektrisch materieel in
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 232 b. Volume 0
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 233 In de volumes 0, 1 en 2 wordt bij gebruik van elektrische leidingen gevoed op ZLVS, de beschermingswijze door
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 234 Hoofdstuk 7.2. Zwembaden
+- De algemene voorschriften van de andere delen van dit Boek zijn van toepassing op de bijzondere installaties
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 235 Figuur 7.13. Zwembaden: a fmetingen van de volumes voor bovengrondse kommen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 236 Tabel 7.4. Bescherming tegen onrechtstreekse aanraking: maximumspanning
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 237 Onderafdeling 7.2.4.3. Elektrisch materieel
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 238 Hoofdstuk 7.3. Sauna's
+- De algemene voorschriften van de andere delen van dit Boek zijn van toepassing op de bijzondere installaties
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 239 • in volume 4 mogen enkel verlichtingstoestellen, bedienings - en regelinrichtingen voor verwarmingstoe-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 240 Hoofdstuk 7.4. Werfinstallaties en buiteninstallaties
+- De algemene voorschriften van de andere delen van dit Boek zijn van toepassing op de bijzondere installaties
+- De bijzondere voorschriften van dit hoofdstuk zijn van toepassing op niet -huishoudelijke werf installaties en op
+- huishoudelijke en niet -huishoudelijke buiteninstallaties.
+- De elektrische buiteninstallaties en werfinstallaties, met uitzondering van deze op kaaien en pieren, zijn ge-
+- Aan de oorsprong van elke werfinstallatie moet een geheel  opgesteld worden die een algemeen bedieningstoe-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 241 b. Contactdozen voor werfinstallaties
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 242 Hoofdstuk 7.6. Enge geleidende ruimten
+- De algemene voorschriften van de andere delen van dit Boek zijn van toepassing op de bijzondere installaties
+- De bijzondere voorschriften van dit hoofdstuk zijn van toepassing op installaties van enge geleidende ruimten
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 243 Hoofdstuk 7.8. Campings
+- De algemene voorschriften van de andere delen van dit Boek zijn van toepassing op de bijzondere installaties
+- De bijzondere voorschriften van dit hoofdstuk zijn van toepassing op de elektrische installatiedelen die voor-
+- voedingsinstallatie.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 244 Hoofdstuk 7.9. Jachthavens
+- De algemene voorschriften van de andere delen van dit Boek zijn van toepassing op de bijzondere installaties
+- De bijzondere voorschriften van dit hoofdstuk zijn van toepassing op de elektrische installaties die voorzien
+- voedingsinstallatie.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 245 Hoofdstuk 7.11. Foorinstallaties
+- De algemene voorschriften van de andere delen van dit Boek zijn van toepassing op de bijzondere installaties
+- De bijzondere voorschriften van dit hoofdstuk zijn van toepassing op tijdelijke elektrische installaties van ten-
+- In foorinstallaties, welke ook de voedingswijze is, met uitzondering van zeer lage veiligheidsspanning, moeten
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 246 Hoofdstuk 7.22. Voeding van elektrische wegvoertuigen
+- de installatie - of vervangingswerkzaamheden is aangevangen vóór 1/11/2022 , onverminderd dat de gelijk-
+- De vaste elektrische installatie die bestemd is voor de voeding van een elektrisch voertuig dat verbonden is
+- ting of geheel van uitrustingen van de vaste installatie, die de functies vervullen die bestemd zijn voor het
+- Het is verboden een laadinrichting op een vaste elektrische installatie door middel van een stopcontact aan te
+- richtingen hetzij in de vaste stroomopwaartse elektrische installatie, hetzij in de laadinrichting (of een combi-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 247 Figuur 7.17. Laadinrichting met één verbindingspunt “voertuigconnector” dat deel uitmaakt van de laadinrichting
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 248 Figuur 7.19. Laadinrichting met twee verbindingspunten “voertuigconnectoren” die deel uitmaken van de laadinrichting
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 249 Het verbindingspunt wordt dus beschermd:
+- vermelde beschermingsinrichtingen hetzij in de vaste stroomopwaartse elektrische installatie, hetzij in de
+- opwaartse elektrische installatie, hetzij in de laadinrichting. Zodra een toestel voor permanente isolatie-
+- installatie, hetzij in de laadinrichting (of een combinatie van beide) geplaatst wordt.
+- en de uitvoering van de installatie, in overleg met de brandweer een andere opstellingsplaats bepaalt. Het
+- advies van de brandweer wordt bewaard in het dossier van de elektrische installatie en ter plaatse ter beschik-
+- Deze onderafdeling is niet van toepassing op laadinrichtingen die deel uitmaken van de elektrische installatie
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 250 Onderafdeling 7.22.5.3. Verbindingspunt
+- In geval dat de laadinrichting elektrische energie in de vaste stroomopwaartse elektrische installatie kan terug-
+- 2. wordt de waarschuwing: “Opgelet: mogelijke teruglevering van elektrische energie in de installatie”
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 251 Hoofdstuk 7.100. Fonteinen en andere waterkommen
+- De algemene voorschriften van de andere delen van dit Boek zijn van toepassing op de bijzondere installaties
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 252 Afdeling 7.100.4. Keuze en ingebruikname van elektrisch materieel
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 253 Hoofdstuk 7.101. Voertuigen of aanhangwagens voor wegvervoer tijdens
+- De algemene voorschriften van de andere delen van dit Boek zijn van toepassing op de bijzondere installaties
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 254 Hoofdstuk 7.102. Bescherming tegen explosiegevaar in explosieve at-
+- De algemene voorschriften van de andere delen van dit Boek zijn van toepassing op de bijzondere installaties
+- De bijzondere voorschriften van dit hoofdstuk zijn van toepassing op de elektrische installaties in de hierna
+- mate dat bijzondere voorzorgen dienen genomen te worden voor de bouw, de installatie en het gebruik van
+- wordt om het nemen van bijzondere voorzorgen noodzakelijk te maken voor de bouw, de installatie en het
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 255 Zone 21 : een ruimte waar een explosieve atmosfeer, in de vorm van een wolk brandbaar stof in lucht, in nor-
+- a) het type van de installatie, de aard van de activiteit en de toegepaste procedés;
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 256 Afdeling 7.102.7. Keuze van de  elektrische  machines en toestellen en hun beveili-
+- troles van elektrische installaties in zones met explosiegevaar.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 257 De uitbater moet aan de met toezicht belaste ambtenaren en aan het erkend organisme belast met de gelijk-
+- cumenten die de gebruiksvoorwaarden en/of installatiespecificaties bevatten;
+- neel dat de bijzondere vereisten voor installatie en onderhoud eigen aan dit materieel kent.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 258 c. Beschermingsmethode «i»
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 259 Onderafdeling 7.102.8.4. Installeren van elektrische leidingen
+- de uitbreiding van explosiegevaarlijke gebieden via doorgaande leidingen (installatiebuizen, kokers, kabelgoten
+- of systemen opgebouwd uit installatiebuizen rekening houdend met de bepalingen van punt g. van onderafde-
+- Nadat de geleiders of kabels in de installatiebuizen zijn aangebracht, moeten de afdichtingen worden gevuld
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 260 Niet-gebruikte geleiders dienen op vrije klemmen te worden aangesloten.
+- Installaties met intrinsiek veilige stroombanen (EExi) moeten derwijze worden geïnstalleerd dat hun intrinsiek
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 261 In een IT -net, w anneer een automatische uitschakeling van het elektrisch materieel een ernstiger veiligheidsri-
+- installaties oorzaak zijn van het ontstaan van gevaarlijke temperatuurverhogingen of vonken te wijten aan:
+- − hetzij ontladingen veroorzaakt door kathodische beschermingsinstallaties.
+- d) bij aanwending van een IT netstelsel dient de elektrische installatie in eender welke zone te worden be-
+- tenzij de installatievoorschriften van dit materieel het verplichten.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 262 Onderafdeling 7.102.9.4. Galvanisch contact
+- Deze bepalingen gelden niet voor intrinsiek veilige installaties.
+- geleidende delen vreemd aan de installatie, die als potentieel gevaarlijk moeten worden beschouwd.
+- van de installaties worden uitgevoerd door een bevoegd  persoon .
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 263 Hoofdstuk 7.103. Industriële accumulatorbatterijen
+- De algemene voorschriften van de andere delen van dit Boek zijn van toepassing op de bijzondere installaties
+- installaties.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 264 Afdeling 7.103.3. Bescherming tegen elektrische schokken
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 265 Onderafdeling 7.103.3.3. Bijzondere voorschriften voor gelijkstroomproductie -eenheden, waar-
+- De installatievoorwaarden voor de gelijkstroomproductie -eenheden waarvan de nominale spanning hoger is dan
+- De elektrische laadinstallaties van de gelijkstroomproductie -eenheden voor elektrische wegvoertuigen  moeten
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 266 cumulatorenbatterijen, waar nog een ontplofbaar mengsel bestaat. Bovendien vermijdt zij de aanwezigheid
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 267 Hoofdstuk 7.112. Huishoudelijke fotovoltaïsche installaties op laagspan-
+- De algemene voorschriften van de andere delen van dit Boek zijn van toepassing op de bijzondere installaties
+- De bijzondere voorschriften van dit hoofdstuk zijn van toepassing op huishoudelijke fotovoltaïsche installaties
+- afdeling 9.1.2. inzake de huishoudelijke fotovoltaïsche installaties op laagspanning;
+- de volgende vermeldingen: “ Niet onderbreken bij belasting ” en “ Elektrische installatie altijd onder span-
+- ke fotovoltaïsche installatie op laagspanning, omvatten de beproevingen en de metingen, die worden uitge-
+- 6.5.7.2. ) van een huishoudelijke fotovoltaïsche installatie moet ook de volgende gegevens bevatten:
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 268
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 269 Deel 8. Bijzondere voorschriften met betrekking tot bestaande
+- elektrische installaties
+- Afdeling 8.1.2. Bestaande elektrische installaties, die op basis van het oud AREI gecontroleerd
+- INSTALLATIES  ................................ ................................ ................................ .. 274
+- Afdeling 8.2.1. Bestaande gedeelten van oude huishoudelijke elektrische installaties  ........  274
+- Afdeling 8.2.2. Bestaande gedeelten van huishoudelijke elektrische installaties oud AREI  .... 277
+- ELEKTRISCHE INSTALLATIES  ................................ ................................ .................  280
+- Afdeling 8.3.1. Oude niet -huishoudelijke elektrische installaties  ................................ .. 280
+- Onderafdeling 8.3.1.1. Elektrische installaties in de ruimten waarin geen personen worden
+- Onderafdeling 8.3.1.2. Elektrische installaties in de ruimten waarin personen worden
+- Afdeling 8.3.2. Niet -huishoudelijke elektrische installaties oud AREI  ..............................  281
+- HOOFDSTUK 8.4. CONTROLEBEZOEKEN VAN SOMMIGE OUDE ELEKTRISCHE INSTALLATIES DIE NIET HET
+- Afdeling 8.4.1. Controlebezoek van een oude huishoudelijke elektrische installatie van een
+- Afdeling 8.4.2. Controlebezoek van een oude huishoudelijke elektrische installatie van een
+- Afdeling 8.4.3. Controlebezoek van oude huishoudelijke elektrische installaties dat niet aan de
+- Afdeling 8.4.4. Controlebezoek van een oude niet -huishoudelijke elektrische installatie in de
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 271
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 273 Hoofdstuk 8.1. Inleiding
+- Oud AREI:  Algemeen Reglement op de Elektrische installaties, goedgekeurd bij de koninklijke besluiten
+- Bestaande elektrische installatie:  iedere elektrische installatie of elk gedeelte van een elektrische installatie
+- Worden als bestaande elektrische installatie s beschouwd:
+- − iedere oude huishoudelijke elektrische installatie of elk gedeelte van een oude huishoudelijke elektrische
+- installatie waarvan de aanleg was aangevat vóór 1/10/1981 en die  (dat) al dan niet het voorwerp heeft uit-
+- sche installatie ” genoemd);
+- − iedere oude niet -huishoudelijke elektrische installatie of elk gedeelte van een oude niet -huishoudelijke
+- elektrische installatie, waarvan de aanleg was aangevat:
+- a) ten laatste op 1/10/1981 voor de elektrische installaties van de inrichtingen die geen elektriciteits-
+- b) ten laatste op 1/ 01/1983 voor de andere installaties.
+- (in dit Boek “oude niet -huishoudelijke elektrische installatie ” genoemd );
+- − iedere huishoudelijke elektrische installatie of elk gedeelte van een huishoudelijke elektrische installatie
+- (in dit Boek “huishoudelijke elektrische installatie oud ARE I” genoemd );
+- − iedere niet -huishoudelijke elektrische installatie of  elk gedeelte van een niet -huishoudelijke elektrische
+- installatie die  (dat) het voorwerp heeft uitgemaakt van een gelijkvormigheidsonderzoek overeenkomstig
+- het oud AREI (in dit Boek “niet-huishoudelijke elektrische installatie oud AREI ” genoemd ).
+- De bestaande elektrische installaties (oude installaties en installaties oud AREI) in de technische lokalen  en de
+- worden in dit Boek als bestaande niet -huishoudelijke elektrische installaties beschouwd.
+- Afdeling 8.1.2. Bestaande elektrische installaties, die op basis van het oud AREI
+- Als een bes taande elektrische installatie, die op basis van het oud AREI door het erkend organisme gecontro-
+- sche installatie deze inbreuken oplossen. De voorschriften van onderafdeling 9.1.3.2.  zijn van toepassing.
+- Het eerste controlebezoek overeenkomstig afdeling 6.5.2.  voor een bestaande elektrische installatie, die op
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 274 Hoofdstuk 8.2. Afwijkende beschikkingen voor bestaande huishoudelijke
+- elektrische installaties
+- elektrische installaties waarvan de uitvoering ter plaatse was aangevat vóór 1 oktober 1981 en die al dan niet
+- 1. Conformiteit van het elektrisch materieel in de elektrische installatie
+- elektrische installatie, waaronder met name de aftakdozen, elektrische leidingen, beschermingsinrichtingen,…
+- de voorschriften van de huishoudelijke installaties van dit Boek, onder voorbehoud van de toepassing van de
+- een correcte installatie en correct onderhoud en bij gebruik volgens zijn bestemming. Het gebruikte elektrisch
+- − punt a.3.  van onderafdeling 5.3.3.1. , aan het begin van de elektrische installatie, een differentieelstroom-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 275 b) buiten de in tabel 3 van punt 7.1.1.  van bedoelde norm gegeven normale afmetingen van de
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 276 6. Contactdozen
+- van de elektrische installatie zijn verboden .
+- − het adres van de elektrische installatie;
+- − de nominale spanning van de elektrische installatie;
+- deel uit van het dossier van de elektrische installatie bedoeld in afdeling 9.1.2.
+- gelijkvormigheidscontrole van de elektrische installatie in het elektrisch dossier te dulden bij het controlebe-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 277 11. Aardgeleider
+- enkele verlichtingsstroombaan per elektrische installatie te beschikken.
+- van onderafdeling 7.1.4.5  of de voorschriften betreffende hun installatie indien zij niet kunnen worden
+- Afdeling 8.2.2. Bestaande gedeelten van huishoudelijke elektrische installaties oud
+- trische installaties oud AREI waarvan de uitvoering ter plaatse was aangevat vanaf 1 oktober 1981 en die het
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 278 1. Conformiteit van het elektrisch materieel in de elektrische installatie
+- elektrische installatie, waaronder met name de aftakdozen, elektrische leidingen, beschermingsinrichtingen …
+- de voorschriften van de huishoudelijke installaties van dit Boek, onder voorbehoud van de toepassing van de
+- een correcte installatie en correct onderhoud en bij gebruik volgens zijn bestemming. Het gebruikte elektrisch
+- − punt a.3.  van onderafdeling 5.3.3.1. , aan het begin van de elektrische installatie, waarvan de uitvoering
+- stroomsterkte kleiner dan 40 A in dienst te laten voor elektrische installaties waarvan de uitvoering ter
+- ten voor elektrische installaties waarvan de uitvoering ter plaatse is aangevangen vóór 7 mei 2000 of die
+- voor elektrische installaties waarvan de uitvoering ter plaatse is aangevangen vóór 31 december 2007.
+- installaties waarvan de uitvoering ter plaatse is aangevangen vóór 16 september 1991.
+- gevallen in dienst te laten voor elektrische installaties waarvan de uitvoering ter plaatse is aangevangen
+- sche installaties waarvan de uitvoering ter plaatse is aangevangen vóór 4 september 2013:
+- de verklaringen a1 en s1 hebben en hun toebehoren in dienst te laten voor elektrische installaties waarvan
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 279 − onderafdeling 5.2.1.2. , stroombanen, die niet toegekend zijn voor de voeding van de elektrische machines
+- stroombanen zonder contactdoos, in dienst te laten voor elektrische installaties waarvan de uitvoering ter
+- − hoofdstuk 5.5. , nood - of veiligheidsinstallaties waarvoor het functiebehoud alleen wordt gegarandeerd
+- ten met de uitwendige invloeden BE2, BE3, CA2 of CB2, voor nood - of veiligheidsinstallaties waarvan de
+- een bad en/of een douche bevatten in dienst te laten voor elektrische installaties waarvan de uitvoering
+- van de elektrische installatie;
+- lijke fotovoltaïsche installaties (≤ 10 kVA), alleen over een schriftelijke beschrijving aangevuld met eventuele
+- gelijkvormigheidscontrole van de elektrische installatie in het elektrisch dossier te dulden bij het controlebe-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 280 Het is toegelaten, in afwijking van de voorschriften van de 10de alinea van punt b . van onderafdeling 4.2.4.3. ,
+- huishoudelijke elektrische installaties
+- Afdeling 8.3.1. Oude niet-huishoudelijke elektrische installaties
+- Onderafdeling 8.3.1.1. Elektrische  installatie s in de ruimten waarin geen personen worden te-
+- huishoudelijke elektrische installaties in deze ruimten:
+- 2. De elektrische installatie is zodanig uitgevoerd dat de personen beschermd zijn tegen de risico’s van recht-
+- het nemen van materiële maatregelen, dient de toegang tot deze installatie uitsluitend te worden voorbe-
+- 3.   De elektrische installatie is zodanig uitgevoerd dat:
+- elektrische installatie of van individuele stroombanen op een veilige en betrouwbare wijze
+- 6.    De elektrische installatie is opgebouwd met elektrisch materieel, dat zodanig gebouwd is dat het bij
+- een correcte installatie en correct onderhoud, en bij gebruik volgens zijn bestemming, de veiligheid
+- materieel, met betrekking tot de installatie, het onderhoud en het veilig gebruik van dit materieel ;
+- beheerder van een elektrische installatie de elektrische installatie.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 281 Onderafdeling 8.3.1.2. Elektrische installatie s in de ruimten waarin personen worden tewerkge-
+- Titel 2 betreffende de elektrische installaties van boek III van de codex over het welzijn op het werk is van
+- toepassing voor de bestaande gedeelten van oude niet -huishoudelijke installaties in deze ruimten.
+- Afdeling 8.3.2. Niet -huishoudelijke elektrische installaties oud AREI
+- De inbreuken met dit Boek in een elektrische installatie, die overeenkomstig het oud AREI was, worden als
+- bezoek vermeld. Dit document maakt deel uit van het dossier van de elektrische installatie. Dit document ver-
+- - de identificatie van de betrokken bestaande gedeelten van de elektrische installatie;
+- De risicoanalyse, die door Titel 2 betreffende de elektrische installaties van boek III van de codex over het
+- huishoudelijke installaties oud AREI:
+- 1. Conformiteit van het elektrisch materieel in de elektrische installatie
+- een elektrische installatie, waaronder met name de aftakdozen, elektrische leidingen,
+- zijn installatie, in dienst te laten. Het gebruikte elektrisch materieel is ofwel door zijn constructie
+- eventuele instructies van de fabrikant van het elektrisch materieel,  met betrekking tot de installatie,
+- aan de volgende bepalingen voor niet -huishoudelijke elektrische installaties oud AREI te
+- De elektrische installatie moet het voorwerp uitmaken van een principeschema of een beschrijving die
+- gemachtigd is tot het uitoefenen van toezicht of controle van deze installatie of er aan te werken.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 282          De stroombanen moeten zo nodig derwijze uitgevoerd worden dat hun latere identificatie mogelijk is bij
+- nazichten, proeven, herstellingen of omvormingen van de installatie.
+- Deze afwijking is van toepassing voor de palen waarvan de installatie ter plaatse is aangevangen vóór
+- 4. Elektrische installaties in de ruimten waarin geen personen worden tewerkgesteld die onder toepas -
+- huishoudelijke installaties oud AREI in deze ruimten:
+- een huishoudelijke elektrische installatie ( afdeling 9.1.2. ).
+- Afdeling 8.4.1. Controlebezoek van een oude huishoudelijke elektrische installatie
+- Iedere oude huishoudelijke elektrische installatie van een wooneenheid die niet het voorwerp heeft uitgemaakt
+- sche installatie. Alvorens over te gaan tot bedoelde verzwaring van de aansluiting, verzekert de verdeler of de
+- het verslag . Dit verslag van het controlebezoek wordt bewaard in het dossier van de elektrische installatie.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 283 Het verslag van het controlebezoek wordt door de eigenaar, beheerder, uitbater of het erkend organisme ge-
+- Afdeling 8.4.2. Controlebezoek van een oude huishoudelijke elektrische installatie
+- − met een oude elektrische installatie waaraan sedert 1 oktober 1981 geen belangrijke wijzigingen of aan-
+- − met een oude elektrische installatie waaraan sedert 1 oktober 1981 belangrijke wijzigingen of aanzienlijke
+- maar waarvan de elektrische installatie wordt gevoed via een elektriciteitsmeter op naam van de mede -
+- − een controlebezoek van de elektrische installatie te laten uitvoeren;
+- Indien de verkoper en koper overeenkomen dat een controlebezoek van de elektrische installatie overbodig en
+- nutteloos is omdat de koper het gebouw gaat afbreken of de elektrische installatie volledig gaat renoveren is
+- belast met het hoog toezicht op de huishoudelijke elektrische installaties moet informeren van de afbraak van
+- het gebouw of van de volledige renovatie van de elektrische installatie. Deze laatste maakt aan de koper een
+- sche installatie in gebruik wordt genomen.
+- koop schriftelijk mee te delen aan het erkend organisme dat het controlebezoek van de elektrische installatie
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 284 Na deze melding moet de koper een nieuw controlebezoek door een erkend organisme laten uitvoeren om na te
+- Bij een afbraak van het gebouw of een volledige renovatie van de elektrische installatie zijn de bepalingen van
+- Het controleonderzoek  heeft tot doel de gelijkvormigheid van de elektrische installatie vast te stellen met:
+- eendraadsschema ’s en de situatieplannen van de elektrische installatie niet tot beschikking van de
+- − het adres van de installatie;
+- − de nominale spanning van de installatie;
+- installatie gebruikt worden. Ze tonen alleen de traceerbaarheid van de verschillende delen aan, die door
+- huishoudelijke installatie bezorgd om integraal deel uit te maken van het dossier van de elektrische
+- installatie bedoeld in afdeling 9.1.2.
+- het verslag . Dit verslag van het controlebezoek wordt bewaard in het dossier van de elektrische installatie.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 8 BESTAANDE  INSTALLATIES  | 285 De voorschriften van afdeling 9.1.4.  zijn van toepassing wanneer de inbreuken worden vastgesteld bij het
+- Afdeling 8.4.3. Controlebezoek van oude huishoudelijke elektrische installaties dat
+- Wanneer een controlebezoek van een oude elektrische installatie noodzakelijk is, wordt ze door een erkend
+- organisme uitgevoerd en ze heeft tot doel de gelijkvormigheid van de elektrische installatie vast te stellen met
+- het verslag . Dit verslag van het controlebezoek wordt bewaard in het dossier van de elektrische installatie.
+- Wanneer een controlebezoek van een oude elektrische installatie in deze ruimten noodzakelijk is, wordt ze
+- door een erkend organisme uitgevoerd en ze heeft tot doel de gelijkvormigheid van de elektrische installatie
+- het verslag . Dit verslag van het controlebezoek wordt bewaard in het dossier van de elektrische installatie.
+- der vertraging worden uitgevoerd en alle gepaste maatregelen worden genomen opdat, indien de installatie in
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 287 Deel 9. Algemene voorschriften door personen na te leven
+- installaties  ................................ ................................ ..............................  289
+- Afdeling 9.1.2. Plichten van de eigenaar, beheerder of uitbater in huishoudelijke installaties
+- Afdeling 9.1.3. Installaties die bij een gelijkvormigheidscontrole of een controlebezoek in
+- Afdeling 9.1.4. Installaties die bij een controlebezoek van een oude huishoudelijke installatie
+- HOOFDSTUK 9.3. WERKEN AAN ELEKTRISCHE INSTALLATIES  ................................ .................  292
+- Afdeling 9.4.1. Waarschuwingsborden tegen de gevaren van elektrische installaties  ..........  301
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 289 Hoofdstuk 9.1. Plichten van de eigenaar, beheerder of uitbater
+- huishoudelijke installaties
+- De eigenaar, beheerder of uitbater van een niet -huishoudelijke elektrische installatie is er toe gehouden:
+- 4. ingeval van werken aan elektrische installaties, zijn personeel dat de werken uitvoert, te doen beschikken
+- b. de geactualiseerde schema’s, plannen  en documenten  van de elektrische installatie zoals bepaald in
+- a. het of de dossier(s) van de elektrische installatie met daarin:
+- 1. de schema’s,  plannen  en documenten  van de elektrische installatie zoals bepaald in afdeling
+- de elektrische installatie;
+- 7. een document met de wijzigingen aangebracht aan de installatie sinds het laatste bezoek van een
+- a. de personen aangeduid voor de exploitatie van de elektrische installatie de reglementaire
+- d. de gelijkvormigheidscontroles  en de controle bezoeken  het geheel van de installaties omvatten;
+- dien de installatie in dienst blijft, deze inbreuken geen gevaar vormen voor de personen of goederen;
+- f. de elektrische installatie of deel van de elektrische installatie het voorwerp uitmaakt van een gelijk-
+- vormigheidscontrole voor de ingebruikname, met dien verstande dat voor de installaties bestemd om
+- controle betrekking heeft op de installatie vanaf haar begin tot aan de stuurinrichtingen .
+- elektrische installatie over te maken;
+- 11. een kopie van het dossier van de elektrische installatie ter beschikking van de eventuele huurder te
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 290 het slachtoffer zijn en dat  rechtstreeks of onrechtstreeks te wijten is aan de aanwezigheid van elektris
+- installaties.
+- installaties
+- De eigenaar, beheerder of uitbater houdt het dossier van de elektrische installatie in zijn bezit . Het dossier
+- wordt in tweevoud samengesteld. Het dossier van de elektrische installatie  moet bevatten:
+- 1. het(de) eendraadsschema('s) van de elektrische installatie;
+- 2. het(de) situatieplan(nen) van de elektrische installatie;
+- 3. het of de verslag(en) van de gelijkvormigheidscontrole van de elektrische installatie bedoeld in hoofdstuk
+- 4. eventueel het of de verslag(en) van het controlebezoek van de elektrische installatie bedoeld in hoofdstuk
+- of een  belangrijke uitbreiding van de elektrische installatie werd uitgevoerd;
+- schouwd worden en welke zou zijn uitgevoerd aan de elektrische installatie.
+- Wat betreft de huishoudelijke fotovoltaïsche installaties op laagspanning bedoeld in hoofdstuk 7.112. , moet
+- het dossier van de elektrische installatie  ook bevatten:
+- 1. de gebruiksaanwijzingen  van de installatie (onderhoud en werking);
+- 2. de veiligheidsvoorschriften met betrekking tot de interventie op de installatie en tot haar gebruik;
+- De eigenaar, beheerder of uitbater van een huishoudelijke elektrische installatie is ertoe gehouden:
+- 3. het dossier van de elektrische installatie aan de nieuwe eigenaar, beheerder of uitbater over te maken;
+- 4. een kopie van het dossier van de elektrische installatie ter beschikking te stellen van de eventuele
+- rechtstreeks of onrechtstreeks te wijten is aan de aanwezigheid van elektrische installaties.
+- Afdeling 9.1.3. Installaties die bij een gelijkvormigheidscontrole of een controlebe-
+- Geen enkele elektrische installatie of deel ervan waarvoor inbreuken  tegenover dit Boek worden vastgesteld
+- den getroffen opdat, indien de installatie in dienst blijft, deze inbreuken  geen gevaar vormen voor de personen
+- der vertraging worden uitgevoerd en alle gepaste maatregelen worden genomen opdat, indien de installatie in
+- Voor huishoudelijke installaties wordt bovendien:
+- ken ingeval geen gevolg wordt gegeven aan het in orde brengen van de installatie.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 291 Afdeling 9.1.4. Installaties die bij een controlebezoek van een oude huishoudelijke
+- installatie in inbreuk  zijn
+- gevens verstrekt door de uitbater van de ruimten waarin de installatie zich bevindt .
+- geparafeerd door de exploitant of zijn afgevaardigde vóór het ontwerp en de uitvoering van de installatie. De
+- bij de controle. De overeenstemming tussen het document en de installatie moet door de vertegenwoordiger
+- De uitbater  van meerdere installaties van hetzelfde type  of zijn afgevaardig de mag, per type installatie, een
+- feerd door de exploitant of zijn afgevaardigde vóór het ontwerp en de uitvoering van de installatie. De verte-
+- trole. De overeenstemming tussen de lijst en de installatie moet door de vertegenwoordiger van het erkend
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 292 [Koninklijk besluit van 3 oktober 2024 - Art. 60. Elke bestaande niet -huishoudelijke elektrische install
+- fende de elektrische installaties op laagspanning en op zeer lage spanning,  Boek 2 betreffende de elektrische installaties op hoog-
+- spanning en Boek 3 betreffende de installaties voor transmissie en distributie van elektrische energie voldoet uiterlijk twee jaar
+- De bepalingen van afdeling 9.1.6.  zijn niet van toepassing op elektrische installaties in huishoudelijke installa-
+- installaties of de aard van de werkzaamheden waarvoor deze bekwaamheid geldt, moet bepaald zijn.
+- betreffende de elektrische installaties op arbeidsplaatsen , houdt de werkgever bij de beoordeling van de be-
+- − de kennis van de betrokken werknemer met betrekking tot de risico’s die door de elektrische installaties
+- − de aard en de verscheidenheid van de elektrische installaties , zoals hoog - of laagspanning, netstelsels,
+- − de verscheidenheid aan activiteiten aan of nabij een elektrische installatie (werken onder spanning, in de
+- sche installaties, controle -, inspectie - en meetwerkzaamheden... ) waarvoor deze kennis geldt.
+- Deze beoordeling van de bekwaamheid, met inbegrip van de omschrijving van de installaties en van de werk-
+- werknemer, duidelijk bepaalt voor welke werkzaamheden en voor welke elektrische installaties de bekwaam-
+- men wanneer zij hen met de uitvoering van een werkzaamheid aan of nabij een elektrische installatie be-
+- zaamheden aan of nabij een elektrische installatie worden uitgevoerd door personen die daartoe de vereis-
+- Hoofdstuk 9.3. Werken aan elektrische installaties
+- − is van toepassing op alle werkzaamheden die aan, met of in de omgeving van elektrische installaties wor-
+- − is niet van toepassing op personen die gebruik maken van elektrische installaties die zijn ontworpen en
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 293 2.10.11 .
+- Elke elektrische installatie moet onder de verantwoordelijkheid van de installatieverantwoordelijke worden
+- De werkverantwoordelijke en de installatieverantwoordelijke moeten in gemeenschappelijk akkoord schikkin-
+- De werkverantwoordelijke en de installatieverantwoordelijke kunnen één en dezelfde persoon zijn.
+- De werkzone moet worden bepaald door de werkverantwoordelijke na overleg met de installatieverantwoorde-
+- De toelating om de werkzaamheden aan te vatten en de elektrische installatie na de voltooiing van de werk-
+- De exploitatiewerkzaamheden zijn onderworpen aan het akkoord van de installatieverantwoordelijke en moe-
+- ten worden uitgevoerd door gewaarschuwde  (BA4)  of vakbekwame (BA5) personen . De installatieverantwoorde-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 294 De meet - en testapparaten moeten vóór en, indien nodig, ook na hun gebruik op hun goede werking worden
+- ren van soortgelijke installaties. Inspecties moeten worden uitgevoerd met passende hulpmiddelen en zodanig
+- − de installatie van elke normale voedingsbron gescheiden is;
+- − de installatie door geen enkele andere voedingsbron kan worden hervoed;
+- In de installaties op laagspanning van de tweede categorie is het verboden onder stroom staande smelt zekerin-
+- voor het in - of uitschakelen van installaties waarvan het geïnstalleerd schijnbaar vermogen 100 kVA niet over-
+- De installatieverantwoordelijke of de werkverantwoordelijke vergewist zich er van dat de specifieke en gede-
+- Vóór de aanvang van de werkzaamheden licht de werkverantwoordelijke de installatieverantwoordelijke in
+- sche installatie.
+- Enkel de installatieverantwoordelijke mag toestemming verlenen om met de werkzaamheden aan te vangen.
+- − dat de kenmerken van de elektrische installatie het toelaten; en
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 295 b. Inductie
+- om gevaar te voorkomen, moeten werkzaamheden aan installaties in de openlucht of aan een toestel dat direct
+- is verbonden met een dergelijke installatie, bij het zien van bliksem of het horen van donder of wanneer er
+- een onweersbui nadert, onmiddellijk worden gestaakt. Dit moet aan de installatieverantwoordelijke worden
+- Om zich te verzekeren dat de elektrische installatie in de werkzone buiten spanning is en blijft gedurende de
+- − scheiden van de elektrische installatie;
+- − voorkomen van herinschakeling van de elektrische installatie;
+- − afbakenen en/of afschermen van de elektrische installatie;
+- vrijgeven van de elektrische installatie.
+- Het voorbereiden omvat de identificatie van de installatie waaraan moet worden gewerkt, alsmede de identifi-
+- catie van de maatregelen die moeten worden getroffen om de veiligheid te waarborgen en de installatie vrij te
+- Het gedeelte van de installatie waarop de werkzaamheden moeten worden uitgevoerd, moet van alle voedings-
+- Alle schakelinrichtingen die gebruikt werden om de elektrische installatie in de werkzone te scheiden, moeten
+- van de elektrische installatie binnen de werkzone of in de onmiddellijke nabijheid daarvan.
+- Binnen de werkzone moeten alle gedeelten van alle hoogspanningsinstallaties en van sommige laagspanningsin-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 296 De actieve delen van voormelde elektrische installatie die na de scheiding nog capacitieve ladingen vertonen,
+- Installaties die eventueel na het onderbreken nog een restspanning kunnen vertonen mogen pas kort gesloten
+- risico van potentiaalverschillen op de installatie bestaat, dan moeten er vóór het doorsnijden of aarden van de
+- De verplichting tot het aarden en kortsluiten van laagspanningsinstallaties binnen de werkzone is enkel ver-
+- plicht wanneer het risico aanwezig is dat deze installatie ongewild spanning kan voeren, bijvoorbeeld:
+- − installaties die gevoed kunnen worden door noodstroombronnen.
+- Wanneer delen van een elektrische installatie in de onmiddellijke omgeving van de werkzone onder spanning
+- De toelating om de werkzaamheden aan te vatten, moet worden verleend door  de installatieverantwoordelijke.
+- elektrische installatie te verzekeren, ongedaan is gemaakt, mag dat gedeelte van de elektrische installatie niet
+- Het is pas wanneer de werkverantwoordelijke ervan verzekerd is dat de elektrische installatie klaar is om op-
+- nieuw op veilige wijze onder spanning te worden gebracht, dat hij de plicht heeft de installatieverantwoorde-
+- De werkzaamheden om de installatie terug onder spanning te brengen gebeuren onder de verantwoordelijkheid
+- van de installatieverantwoordelijke.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 297 Voor werkzaamheden onder spanning moeten er beschermingsmaatregelen worden getroffen om elektrische
+- ke delen onder spanning. In laagspanningsinstallaties  sluit het gebruik van isolerende handschoenen het gebruik
+- f. Specifieke eisen voor installaties  op zeer lage spanning
+- Werkzaamheden aan ZLVS -installaties (waarvan de spanning de waarden van de tabel van onderafdeling
+- g. Bijkomende eisen voor laagspanningsinstallaties
+- Buiten de bijzondere voorschriften die voor specifieke laagspanningsinstallaties kunnen van kracht zijn, dienen
+- h. Aanvullende voorschriften voor installaties in explosieve atmosferen
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 298 i. Specifieke werkzaamheden onder spanning
+- De reinigingswerkzaamheden onder spanning van elektrische installaties moeten worden uitgevoerd met nale-
+- reiniging) , alsook deze van de stofzuiginstallatie (droge reiniging) alsook deze van de vloeistof zelf worden
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 299 c. Bescherming door behoud van een veilige werkafstand
+- van de werkzaamheden en de nominale spanning van de elektrische installatie;
+- d. Aanvullende voorschriften voor installaties in explosieve atmosferen
+- − installatie en gebruik van hijstoestellen, bouwmachines, hoogwerkers en brandweerladders;
+- − installatiewerkzaamheden;
+- − installatie van andere uitrustingen en bouwuitrustingen,
+- Het doel van het onderhoud bestaat erin om de elektrische installatie in een goede werkingsstaat te houden.
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 300 Onderafdeling 9.3.5.2. Personeel
+- Wanneer er onderhoudswerkzaamheden op een elektrische installatie worden uitgevoerd:
+- − moet het betrokken gedeelte van de installatie duidelijk worden gedefinieerd;
+- − opnieuw in dienst stellen  van het herstelde gedeelte van de installatie.
+- installatie onder spanning of via het toepassen van proefspanningen die gesteund zijn op de werkprocedures
+- gedeelten van de installatie geschikt zijn om opnieuw onder spanning te worden gebracht.
+- geïsoleerde delen onder spanning te beletten en elke niet -geoorloofde schakeling op de elektrische installatie
+- Indien nodig, moet de persoon die als verantwoordelijke voor de elektrische installatie werd aangeduid, hier-
+- voor het onderhoud werd aangeduid, de installatie opnieuw ter beschikking stellen van de persoon die als ver-
+- antwoordelijke voor de installatie werd aangeduid en deze laatste via een bericht in kennis stellen van de toe-
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 301 Afdeling 9.3.6. Bijzondere voorzorgsmaatregelen
+- Afdeling 9.4.1. Waarschuwingsborden tegen de gevaren van elektrische installaties
+- − de elektrische installaties, machines, toestellen en leidingen op laagspanning  en op zeer lage spanning  die,
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 302 Afdeling 9.4.2. Verbodsborden
+- keling van het net, op afstand bediende installaties...).
+- metingen van de elektrische installaties, machines, toestellen en  leidingen waarop  zij geplaatst worden en
+- − ieder systeem voor bescherming van de elektrische installatie weg te nemen, te beschadigen of te vernie-
+- elektrische installaties op laagspanning en op zeer lage spanning, Boek 2 betreffende de elektrische installaties
+- op hoogspanning en Boek 3 betreffende de installaties voor transmissie en distributie van elektrische energie .
+- BOEK 1. INSTALLATIES OP LAAGSPANNING  EN OP ZEER LAGE SPANNING
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 303 De Minister van Werk ,
+
+## Zoekresultaten voor 'plaatsing'
+
+- streepje: toelating plaatsing op isolatoren in ZLS in
+- Figuur 2.6. Genaakbaarheidsgabarit: het verplaatsingsoppervlak is natuurlijk begrensd  ............................  25
+- Figuur 2.7. Genaakbaarheidsgabarit: het verplaatsingsoppervlak is begrensd door een materieel element ...... 25
+- Figuur 2.8. Genaakbaarheidsgabarit: materiële elementen die het verplaatsingsoppervlak begrenzen hebben
+- Figuur 2.9. Genaakbaarheidsgabarit: materiële elementen die het verplaatsingsoppervlak begrenzen hebben
+- Figuur 2.11. Plaatsingswijze «holle blok»  ................................ ................................ ....................  35
+- Figuur 2.12. Plaatsingswijze «kabelkanaal»  ................................ ................................ .................  36
+- Figuur 2.13. Plaatsingswijze «kabelrek»  ................................ ................................ .....................  36
+- Figuur 2.14. Plaatsingswijze «buis»  ................................ ................................ ...........................  36
+- Figuur 2.15. Plaatsingswijze «kabelbaan»  ................................ ................................ ...................  36
+- Figuur 2.16. Plaatsingswijze «haak»  ................................ ................................ ..........................  36
+- Figuur 2.17. Plaatsingswijze «goot»  ................................ ................................ ..........................  37
+- Figuur 2.18. Plaatsingswijze «lijst»  ................................ ................................ ...........................  37
+- Figuur 2.19. Plaatsingswijze «gegroefde plinten of lijsten»  ................................ ..............................  37
+- Figuur 2.20. Plaatsingswijze «kraagstuk»  ................................ ................................ ....................  37
+- Figuur 5.1. Plaatsingswijzen van elektrische leidingen − Luchtlijnen  ................................ .................  127
+- Figuur 5.2. Plaatsingswijzen van elektrische leidingen − Rechtstreeks ingegraven ondergrondse elektrische
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − INHOUD  | vi Figuur 5.3. Plaatsingswijzen van elektrische leidingen − Ondergrondse elektrische leidingen ingegraven met
+- Figuur 5.4. Plaatsingswijzen van elektrische leidingen − Ondergrondse elektrische leidingen, ingegraven in een
+- Figuur 5.5. Plaatsingswijzen van elektrische leidingen − Opbouw  ................................ .....................  128
+- Figuur 5.6. Plaatsingswijzen van elektrische leidingen − Inbouw  ................................ ......................  128
+- Figuur 5.7. Plaatsingswijzen van elektrische leidingen − Plinten  ................................ ......................  128
+- Figuur 5.8. Plaatsingswijzen van elektrische leidingen − Lijsten  ................................ .......................  128
+- Figuur 5.9. Plaatsingswijzen van elektrische leidingen − Kabelrekken  ................................ ................  129
+- Figuur 5.10. Plaatsingswijzen van elektrische leidingen − Haken  ................................ ......................  129
+- Figuur 5.11. Plaatsingswijzen van elektrische leidingen − Kabelbaan  ................................ .................  129
+- Figuur 5.12. Plaatsingswijzen van elektrische leidingen − Goot ................................ ........................  129
+- Figuur 5.13. Plaatsingswijzen van elektrische leidingen − Kokers  ................................ .....................  129
+- Figuur 5.14. Plaatsingswijzen van elektrische leidingen − Buizen in open of verluchte kabelkanalen  ...........  130
+- Figuur 5.15. Plaatsingswijzen van elektrische leidingen − Buizen in gesloten kabelkanalen  ......................  130
+- Figuur 5.16. Plaatsingswijzen van elektrische leidingen − Rechtstreekse plaatsing in open of verluchte
+- Figuur 5.17. Plaatsingswijzen van elektrische leidingen − Rechtstreekse plaatsing in gesloten kabelkanalen  . 130
+- Figuur 5.18. Plaatsingswijzen van elektrische leidingen − Rechtstreekse plaatsing in met zand gevulde
+- Figuur 5.19. Plaatsingswijzen van elektrische leidingen − Holten  ................................ .....................  130
+- Figuur 5.20. Plaatsingswijzen van elektrische leidingen − Geprefabriceerde blokken  .............................  131
+- Figuur 5.21. Plaatsingswijzen van elektrische leidingen − Achter wandpanelen  ................................ .... 131
+- Figuur 5.22. Plaatsingswijzen van elektrische leidingen − Rechtstreeks verzonken, zonder buizen  .............  131
+- Figuur 5.23. Plaatsingswijzen van elektrische leidingen − In geprefabriceerde leidingen  .........................  131
+- Figuur 5.24. Plaatsingswijzen van elektrische leidingen − Op isolatoren  ................................ .............  131
+- Figuur 5.25. Plaatsingswijzen van elektrische leidingen − Onder water  ................................ ..............  132
+- Figuur 5.26. Verzonken plaatsing zonder buizen in beton of cement  ................................ .................  143
+- Figuur 7.1. Voorbeeld van plaatsing van de bijkomende potentiaalvereffeningsverbinding  in een ruimte die een
+- − voor de keuze en de plaatsing van de vaste toestellen van de installaties voor informatica, van de installa-
+- Afdeling 2.7.2. Plaatsingswijzen  ................................ ................................ ............  35
+- Afdeling 2.8.2. Verplaatsingsmogelijkheden  ................................ .............................  38
+- Met de term massa  wordt eveneens elk metalen voorwerp bedoeld dat door gewilde plaatsing of als gevolg van
+- Verplaatsingsoppervlak: vast oppervlak waarop personen zich in normale omstandigheden bevinden of zich
+- Genaakbaarheidsgabarit: volume dat gelegen is rond een verplaatsingsoppervlak en dat begrensd is zoals ver-
+- Figuur 2.6. Genaakbaarheidsgabarit: het verplaatsingsoppervlak is natuurlijk begrensd
+- Figuur 2.7. Genaakbaarheidsgabarit: het verplaatsingsoppervlak is begrensd door een materieel element
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 26 Figuur 2.8. Genaakbaarheidsgabarit: materiële elementen die het verplaatsingsoppervlak begrenzen hebben openingen die
+- Figuur 2.9. Genaakbaarheidsgabarit: materiële elementen die het verplaatsingsoppervlak begrenzen hebben openingen die
+- S: verplaatsingsoppervlak
+- De verplaatsingsoppervlakken, alsmede de materiële elementen waarvan de samenstelling zodanig is dat de
+- plaatsingswijze verandert.
+- Afdeling 2.7.2. Plaatsingswijzen
+- Holle blok: plaatsingsmateriaal bestaande uit delen in vast materiaal (zoals beton) waarin holten vrijgelaten
+- Figuur 2.11. Plaatsingswijze «holle blok»
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 36 Figuur 2.12. Plaatsingswijze «kabelkanaal»
+- Kabelrek:  plaatsingsmateriaal in volle of geperforeerde profielelementen, om de kabels op hun weg te onder-
+- Figuur 2.13. Plaatsingswijze «kabelrek»
+- Buis: plaatsingsmateriaal dat een doorlopende bescherming voor de geleiders toelaat in niet -opengaande buis-
+- Figuur 2.14. Plaatsingswijze «bui s»
+- Kabelbaan: plaatsingsmateriaal met volle of geperforeerde geprofileerde wanden, voorzien om geleiders  of
+- Figuur 2.15. Plaatsingswijze «kabelbaan»
+- Figuur 2.16. Plaatsingswijze «haak»
+- Goot:  plaatsingsmateriaal, met volle of geperforeerde geprofileerde wanden, geopend aan de bovenzijde om
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 37 Figuur 2.17. Plaatsingswijze «goot»
+- Lijst: plaatsingsmateriaal bestaande uit een basis, voetstuk genoemd, dat gleuven bevat waarin geleiders kun-
+- Figuur 2.18. Plaatsingswijze «lijst»
+- Figuur 2.19. Plaatsingswijze «gegroefde plinten of lijsten»
+- Kraagstuk: plaatsingsmateriaal bestaande uit een in een verticale wand aangebrachte doorlopende horizontale
+- Figuur 2.20. Plaatsingswijze «kraagstuk»
+- Afdeling 2.8.2. Verplaatsingsmogelijkheden
+- zodat verplaatsingen tussen verschillen-
+- − de plaatsingswijze van de elektrische leidingen;
+- - de plaatsingswijze;
+- Indien het verplaatsings - of werkoppervlak niet in horizontale zin begrensd is door zijn eigen schikking, moet
+- k.3. Plaatsing
+- c.3. Plaatsing van de differentieelstroom beschermings inrichting
+- d.3. Plaatsing van een toestel voor permanente isolatiecontrole
+- − voor de volgende plaatsingswijzen: constructieruimte en sierlijsten, plinten of lijsten gemaakt uit brand-
+- 1. voor de geïsoleerde geleiders en kabels die zijn geïnstalleerd met de volgende plaatsingswijzen:
+- dan de aangenomen kortsluitstroom op het punt van haar plaatsing. In dit geval moet echter stroomopwaarts
+- − de plaatsing en de omgeving van de elektrische leiding;
+- doorsnede, van aard, van plaatsingswijze of van samenstelling een vermindering van de waarde van de toegela-
+- ring van doorsnede, aard, plaatsingswijze of samenstelling enerzijds en de beschermingsinrichting anderzijds,
+- karakteristieken (aard, plaatsingswijze, lengte, doorsnede) hebben en ze geen aftakkingen hebben op hun tra-
+- Onderafdeling 5.2.1.3. Plaatsing van de geleiders  ................................ ................  126
+- Afdeling 5.2.2. Plaatsingswijzen  ................................ ................................ ...........  127
+- Onderafdeling 5.2.2.4. Bijkomende plaatsingswijze  ................................ ..............  132
+- Afdeling 5.2.9. Bijzondere regels voor de verschillende plaatsingswijzen  ........................  138
+- Onderafdeling 5.2.9.3. Plaatsing in buizen  ................................ .........................  140
+- Onderafdeling 5.2.9.4. Plaatsing onder sierlijsten, holle plinten en lijsten  ...................  141
+- Onderafdeling 5.2.9.5. Plaatsing in de vrije lucht en plaatsing in opbouw  ....................  142
+- Onderafdeling 5.2.9.10. Verzonken plaatsing zonder buizen  ................................ .... 143
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 126 Onderafdeling 5.2.1.3. Plaatsing van de geleiders
+- De plaatsing de  van de elektrische  leidingen moet zodanig uitgevoerd worden dat ze een voldoende mechani-
+- Afdeling 5.2.2. Plaatsingswijzen
+- Figuur 5.1. Plaatsingswijzen van elektrische leidingen − Luchtlijnen
+- Figuur 5.2. Plaatsingswijzen van elektrische leidingen − Rechtstreeks ingegraven ondergrondse elektrische leidingen
+- Figuur 5.3. Plaatsingswijzen van elektrische leidingen − Ondergrondse elektrische leidingen ingegraven met mechanische
+- Figuur 5.4. Plaatsingswijzen van elektrische leidingen − Ondergrondse elektrische leidingen, ingegraven in een  huls
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 128 Figuur 5.5. Plaatsingswijzen van elektrische leidingen − Opbouw
+- Figuur 5.6. Plaatsingswijzen van elektrische leidingen − Inbouw
+- Figuur 5.7. Plaatsingswijzen van elektrische leidingen − Plinten
+- Figuur 5.8. Plaatsingswijzen van elektrische leidingen − Lijsten
+- Figuur 5.9. Plaatsingswijzen van elektrische leidingen − Kabelrekken
+- Figuur 5.10. Plaatsingswijzen van elektrische leidingen − Haken
+- Figuur 5.11. Plaatsingswijzen van elektrische leidingen − Kabelbaan
+- Figuur 5.12. Plaatsingswijzen van elektrische leidingen − Goot
+- Figuur 5.13. Plaatsingswijzen van elektrische leidingen − Kokers
+- Figuur 5.14. Plaatsingswijzen van elektrische leidingen − Buizen in open of verluchte kabelkanalen
+- Figuur 5.15. Plaatsingswijzen van elektrische leidingen − Buizen in gesloten kabelkanalen
+- j.3. rechtstreekse plaatsing in open of verluchte kabelkanalen
+- Figuur 5.16. Plaatsingswijzen van elektrische leidingen − Rechtstreekse plaatsing in open of verluchte kabelkanalen
+- j.4. rechtstreekse plaatsing in gesloten kabelkanalen
+- Figuur 5.17. Plaatsingswijzen van elektrische leidingen − Rechtstreekse plaatsing in gesloten kabelkanalen
+- j.5. rechtstreekse plaatsing in met zand gevulde kabelkanalen
+- Figuur 5.18. Plaatsingswijzen van elektrische leidingen − Rechtstreekse plaatsing in met zand gevulde kabelkanalen
+- Figuur 5.19. Plaatsingswijzen van elektrische leidingen − Holten
+- Figuur 5.20. Plaatsingswijzen van elektrische leidingen − Geprefabriceerde  blokken
+- Figuur 5.21. Plaatsingswijzen van elektrische leidingen − Achter wandpanelen
+- Figuur 5.22. Plaatsingswijzen van elektrische leidingen − Rechtstreeks verzonken, zonder buizen
+- Figuur 5.23. Plaatsingswijzen van elektrische leidingen − In geprefabriceerde leidingen
+- Figuur 5.24. Plaatsingswijzen van elektrische leidingen − Op isolatoren
+- Figuur 5.25. Plaatsingswijzen van elektrische leidingen − Onder water
+- Alle plaatsingswijzen voor de elektrische leidingen op laagspanning zijn toepasselijk voor elektrische leidingen
+- De plaatsingswijzen voor elektrische leidingen op zeer lage spanning zijn van toepassing op elektrische leidin-
+- gen op zeer lage veiligheidsspanning met uitzondering van de rechtstreekse plaatsing van de blanke geleiders in
+- Onderafdeling 5.2.2.4. Bijkomende plaatsingswijze
+- Andere plaatsingswijzen voor elektrische geleiders en leidingen moeten beantwoorden aan de desbetreffende
+- Verbindings -, aftak - en inbouwdozen voor plaatsing in buizen moeten uit metaal, onbrandbaar gemaakt hout of
+- volgende plaatsingswijzen:
+- Afdeling 5.2.9. Bijzondere regels voor de verschillende plaatsingswijzen
+- Wanneer voor plaatsing van ondergrondse kabels de doorgang van muren of wanden noodzakelijk is, moet de
+- doorgang na plaatsing zorgvuldig gedicht worden.
+- c.2. Verplaatsing van energie - en telecommunicatiekabels
+- Onderafdeling 5.2.9.3. Plaatsing in buizen
+- Onder voorbehoud van de uitzonderingen, aangehaald in dit Boek , is de plaatsing in buizen in alle ruimten  toe-
+- de geleiders of kabels gemakkelijk te trekken of te verwijderen na plaatsing van de buizen en hun onderdelen.
+- e. Plaatsing van de buizen − algemene regels
+- Onderafdeling 5.2.9.4. Plaatsing onder sierlijsten, holle plinten en lijsten
+- Onderafdeling 5.2.9.5. Plaatsing in de vrije lucht en plaatsing in opbouw
+- De plaatsing van geleiders  die alleen van basisisolatie zijn voorzien is verboden in open goten , met uitzondering
+- plaatsing op vloerbalken.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 143 Onderafdeling 5.2.9.10. Verzonken plaatsing zonder buizen
+- Figuur 5.26. Verzonken plaatsing zonder buizen in beton of cement
+- − de plaatsing buiten dit profiel wordt, zoals hierboven beschreven , verticaal uitgevoerd ten opzichte van
+- − zij worden aan geen enkele mechanische invloed onderworpen, noch tijdens de plaatsing, noch later;
+- De plaatsing op isolatoren is verboden in huishoudelijke installaties .
+- b. Plaatsing
+- plaatsen van de steunen of door tussenplaatsing van een isolatiestof. De afstand tussen de geleiders en de
+- b.11. Plaatsing van een uitschakelinggsinrichting
+- plaatsing van één of meer differentieelstroom beschermings inrichting en met grote (30 mA) of middelmatige
+- c.10. Plaatsing van de verbinding van de verwarm ingsleiding  met zijn voeding
+- plaatsing van één of meer differentieelstroom beschermings inrichting en met grote (30 mA) of middelmatige
+- De plaatsingswijze van de  elektrische  leidingen buiten de gebouwen moet beantwoorden aan de desbetreffen-
+- b. Plaatsingswijze
+- De plaatsingswijzen van elektrische leidingen, voorgeschreven voor laagspanning  (zie afdeling 5.2.2. ), zijn van
+- toepassing. Deze voorschriften zijn, wat de plaatsingswijze betreft, vervat in afdeling 5.2.9.  met uitzondering
+- Andere plaatsingswijzen voor elektrische geleiders en leidingen moeten beantwoorden aan de desbetreffende
+- d. Plaatsing
+- worden door ronddraaien of elke andere verplaatsing van deze toestellen.
+- − Plaatsing van de hulpinrichting
+- Bij de plaatsing, moet men er zich van verzekeren dat een doeltreffende scheiding bestaat tussen, enerzijds de
+- − plaatsing van moffen, kousen of schermen in isolerend materiaal.
+- b.1.5. Plaatsing en vasthechting van de aardingslus op de bodem van de funderingssleuf
+- 3° Bij de plaatsing van een aardingslus onder de gemeenschappelijke funderingen moet deze
+- geleider  Plaatsingsomstandigheden
+- − hun plaatsing;
+- De plaatsing en de installatie van de elektrische leidingen en hun bevestigingen moeten het functiebehoud van de
+- Er wordt rekening gehouden met de mogelijke negatieve invloed van de plaatsing van andere installaties (elek-
+- Figuur 7.1. Voorbeeld van plaatsing van de bijkomende potentiaalvereffeningsverbinding  in een ruimte die een bad bevat
+- volgens de gebruiks - en plaatsingsaanwijzingen van de fabrikant, en;
+- lume volgens de gebruiks - en plaatsingsaanwijzingen van de fabrikant, en;
+- Voor het voeden van het in volume 0 toegelaten elektrisch materieel is enkel verzonken plaatsing met of zon-
+- In de volumes 1 en 2 zijn enkel de volgende plaatsingswijzen toegelaten:
+- 1. de plaatsing in buizen verzonken in de vaste wanden overeenkomstig de voorschriften van onderafdeling
+- 2. de plaatsing in vrije lucht of de plaatsing in opbouw overeenkomstig de voorschriften van onderafdeling
+- 3. de plaatsing in de holle constructieruimten overeenkomstig de voorschriften van onderafdeling 5.2.9.9. ;
+- 4. de verzonken plaatsing zonder buizen overeenkomstig de voorschriften van onderafdeling 5.2.9.10.
+- isolatie toegepast zoals bepaald in onderafdeling 4.2.5.4. , a. en dit ongeacht de plaatsingswijze.
+- k) de kenmerken van natuurlijke en/of kunstmatige ventilatie alsook de luchtverplaatsing die de vorming van
+- • geïsoleerde geleiders en kabels ten minste van het type met versterkte isolatie voor de plaatsing
+- uitwendige invloeden BE1, CA1 en CB1 en voor alle plaatsingwijzen;
+- Afdeling 9.4.3. Plaatsing en afmetingen van de signalisatieborden  ................................ . 302
+- alle mogelijke verschuivingen, verplaatsingen, schommelingen, zwaai - of valbewegingen van de toestellen die
+- Afdeling 9.4.3. Plaatsing en afmetingen van de signalisatieborden
+
+## Zoekresultaten voor 'montage'
+
+- Uitvoeringsschema:  schema dat de montage en de aansluiting van de verschillende installatieonderdelen
+- h. Bijzondere regels van toepassing voor de montage van buizen  in opbouw
+
+## Zoekresultaten voor 'bevestiging'
+
+- breke blijven van de basisisolatie , de bevestigings - of bescherm inrichtingen.
+- ve delen als gevolg van onvolkomenheden van de bevestigingsmiddelen (zoals loskomen van verbindingen,
+- tellen  en de elementen die zijn bestemd voor de bevestiging ervan en, zo nodig, hun mechanische bescher-
+- waarbij de wand dienst doet als bevestigingsmiddel en eventueel een bescherming vormt.
+- Steunen voor ontladingslampen: staven en bevestigingsbeugels die bestemd zijn om lampen of buizen te dra-
+- − indien de afstand tussen de bevestigingspunten van deze draad groter is dan 10 m, moet zijn minimale
+- breuklast bij trek 2800 N bedragen. In dit geval moeten de bevestigingen uit isolatoren bestaan;
+- Het installeren van het elektrisch materieel (bevestiging, verbinding van de geleiders...) moet zo geschieden
+- elektrische functie verzekerd is (geïsoleerde geleider of kabel getest met draagstel en bevestiging)
+- Indien alle samenstellende delen van het geheel (draagstel, geïsoleerde geleider, kabel en bevestiging) de
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 129 g. in de vrije lucht, hetzij met klemmen, beugels of andere bevestigingsmiddelen, hetzij op kabelrekken,
+- De bevestiging van buizen moet uitgevoerd worden conform de desbetreffende regels van goed vakman-
+- De bevestigingsmiddelen, kabelrekken, kraagstukken ... moeten zodanig gekozen en geplaatst worden dat geen
+- De bevestigingsmiddelen moeten zodanig ontworpen en gedimensioneerd zijn dat ze de elektrische leidingen
+- c. Bevestiging van de toestellen
+- dat hun bevestiging aan volgende voorschriften beantwoordt:
+- − de ophanging wordt niet verzekerd door bevestiging aan de voedingsgeleiders;
+- van de steuntjes en houders voor de bevestiging van kabels en neonbuizen. Deze equipotentiale
+- de bodem van de funderingssleuf ter plaatse te houden worden uitsluitend bevestigings -
+- Indien alle samenstellende delen van het geheel (draagstel, geïsoleerde geleider, kabel en bevestiging) de
+- De plaatsing en de installatie van de elektrische leidingen en hun bevestigingen moeten het functiebehoud van de
+- In lange verticale installaties moeten de bevestigingen van de elektrische leidingen garanderen dat de elektrische
+
+## Zoekresultaten voor 'inbouw'
+
+- Figuur 5.6. Plaatsingswijzen van elektrische leidingen − Inbouw  ................................ ......................  128
+- - kabels, al dan niet in buis, die in een onbrandbare bekleding met een minimale inbouwdiepte van
+- inbouwdiepte van 3 cm  zijn verzonken,
+- Figuur 5.6. Plaatsingswijzen van elektrische leidingen − Inbouw
+- Verbindings -, aftak - en inbouwdozen voor plaatsing in buizen moeten uit metaal, onbrandbaar gemaakt hout of
+- - kabels, al dan niet in buis, die in een onbrandbare bekleding met een minimale inbouwdiepte van
+- inbouwdiepte van 3 cm  zijn verzonken,
+- c. Inbouw
+
+## Zoekresultaten voor 'opbouw'
+
+- Figuur 5.5. Plaatsingswijzen van elektrische leidingen − Opbouw  ................................ .....................  128
+- aangebracht in openlucht of in opbouw,  voor zover de lengte van deze uiteinden 3  m niet
+- - voor de geïsoleerde geleiders en de kabels in openlucht of in opbouw voor een
+- - voor de aftakkingskabels, al dan niet in buis, in openlucht of in opbouw;
+- - voor de geïsoleerde aftakkingsgeleiders in een buis in openlucht of in opbouw.
+- Onderafdeling 5.2.9.5. Plaatsing in de vrije lucht en plaatsing in opbouw  ....................  142
+- d. in opbouw:
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 128 Figuur 5.5. Plaatsingswijzen van elektrische leidingen − Opbouw
+- aangebracht in openlucht of in opbouw,  voor zover de lengte van deze uiteinden 3  m niet
+- - voor de geïsoleerde geleiders en de kabels in openlucht of in opbouw voor een aansluiting op een
+- - voor de aftakkingskabels, al dan niet in buis, in openlucht of in opbouw;
+- - voor de geïsoleerde aftakkingsgeleiders in een buis in openlucht of in opbouw.
+- h. Bijzondere regels van toepassing voor de montage van buizen  in opbouw
+- Onderafdeling 5.2.9.5. Plaatsing in de vrije lucht en plaatsing in opbouw
+- In de vrije lucht en in opbouw mogen enkel kabels geplaatst worden , met uitzondering van de onafhankelijke
+- 2. de plaatsing in vrije lucht of de plaatsing in opbouw overeenkomstig de voorschriften van onderafdeling
+

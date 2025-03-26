@@ -1,0 +1,559 @@
+# Informatie over veiligheidszones
+
+## Zoekresultaten voor 'veiligheidszone'
+
+Geen specifieke informatie gevonden voor 'veiligheidszone'
+
+## Zoekresultaten voor 'zone'
+
+- Figuur 2.21. Voorstelling van de zone onder spanning en de nabijheidszone  ................................ ..........  45
+- Figuur 2.22. Voorstelling van de zone onder spanning en de nabijheidszone met isolerende bescherminrichting
+- Figuur 2.23. Voorstelling van de zone onder spanning en de nabijheidszone met geaarde, metalen
+- bodem wordt aangebracht in de gemeenschappelijke neutrale zone van deze elektrode en van de hulpaardelek-
+- Equipotentiaalzone  of potentiaalvereffeningszone:  ruimte waarin in geval van een fout in een elektrische
+- Neutrale  zone  of neutrale  (referentie)  aarde:  deel van de aarde, buiten de beïnvloedingszone van een aard-
+- Spreidingszone (van een aardverbinding): zone gelegen omheen de aardverbinding en buiten de neutrale
+- zone.
+- onder spanning of in de zone onder spanning binnendringt, hetzij met een lichaamsdeel, hetzij met arbeids-
+- bijheidszone binnendringt, hetzij met een lichaamsdeel, hetzij met arbeidsmiddelen of uitrustingen, zonder
+- evenwel in de zone onder spanning binnen te dringen.
+- Werkzone : ruimte waarbinnen de werkzaamheden uitgevoerd worden.
+- Nabijheidszone : een begrensde ruimte rondom de zone onder spanning zoals bepaald in de drie onderstaande
+- Zone onder spanning: een begrensde ruimte rondom de blanke actieve delen onder spanning zoals bepaald in
+- Figuur 2.21. Voorstelling van de zone onder spanning en de nabijheidszone
+- 2. zone onder spanning
+- 3. nabijheidszone
+- DL: afstand die de buitengrens van de zone onder spanning aangeeft
+- DV: afstand die de buitengrens van de nabijheidszone aangeeft
+- Figuur 2.22. Voorstelling van de zone onder spanning en de nabijheidszone met isolerende bescherminrichting
+- 2. zone onder spanning
+- 3. nabijheidszone
+- de toegang tot de zone onder spanning en/of de nabijheidszone te vermijden
+- DL: afstand die de buitengrens van de zone onder spanning aangeeft
+- DV: afstand die de buitengrens van de nabijheidszone aangeeft
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 2 BEGRIPPEN EN DEFINITIES  | 46 Figuur 2.23. Voorstelling van de zone onder spanning en de nabijheidszone met geaarde, metalen bescherminrichting
+- 2. zone onder spanning
+- 3. nabijheidszone
+- toegang tot de zone onder spanning en/of de nabijheidszone te vermijden
+- DL: afstand die de buitengrens van de zone onder spanning aangeeft
+- DV: afstand die de buitengrens van de nabijheidszone aangeeft
+- van de zone onder spanning
+- van de nabijheidszone aan-
+- Zoneringsplan:  plan dat de ruimten aangeeft waar een ontploffingsgevaar kan bestaan. Deze ruimten zijn in
+- overeenstemming met de voorschriften van dit Boek  ingedeeld  in verschillende zones.
+- Zoneringsverslag: document dat de gegevens vermeldt waarop de vaststelling van de zones en hun uitgestrekt-
+- zoneringsplannen en de zoneringsverslagen  ................................ ..................  63
+- − zoneringsplan;
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 3 BEPALING VAN DE KARAKTERISTIEKEN  | 62 − zoneringsverslag;
+- Onderafdeling 3.1.2.4. Bijzondere voorschriften betreffende de inhoud van de zoneringsplannen
+- en de zoneringsverslagen
+- De zon eringsplannen en de zoneringsverslagen  bevatten onder meer:
+- − de fysicochemische kenmerken van de producten noodzakelijk voor de klassering in zones en voor de
+- − de aanduiding en afbakening van de zones;
+- voor elektrisch materieel op ZLBS gelegen in een geaarde equipotentiale zone en voor zover de waarde van de
+- − voor de stroombanen ondergebracht in een zone 22 van een ruimte BE3; of
+- F: smeltkarakteristiek van de smelt zekering  (boven ste limiet van de werkingszone)
+- Men verstaat onder laagspanningshoofdbord: het hoofdbord van een gebouw, een zone of een gedeeltelijke
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 5 KEUZE EN GEBRUIK VAN HET MATERIEEL  | 187 Men verstaat onder laagspanningshoofdbord: het hoofdbord van een gebouw, een zone of een gedeeltelijke
+- in zones met explosiegevaar  ................................ ................................ .. 198
+- − installaties in zones met ontploffingsgevaar  bedoeld in de Boeken 1, 2 en 3 ;
+- zones met explosiegevaar
+- Specifieke voorschriften voor verslagen van installaties in zones met explosiegevaar worden in hoofdstuk 7.102 .
+- − jaarlijks voor de elektrische installaties in ontploffingsgevaarlijke zones zoals bepaald in hoofdstuk 7.102 .;
+- ontploffingsgevaarlijke zones is het toegelaten de meting van de isolatieweerstand om de 5 jaar uit te voeren.
+- beschreven, waarbij de douchebak  of wat daartoe dienstdoet , wordt bepaald door de afvloeiingszone van het
+- beschreven, waarbij de douchebak of wat daartoe dienstdoet, wordt bepaald door de afvloeiingszone van  het
+- Afdeling 7.102.5. Vaststelling van de zones  ................................ .............................  255
+- − eventueel afgebakend door vaste wanden waardoor het water niet kan binnendringen in de zone aan de
+- − eventueel afgebakend door vaste wanden waardoor het water niet kan binnendringen in de zone aan de
+- als volgt in zones ingedeeld:
+- Zone 0 : een ruimte waar een explosieve atmosfeer, bestaande uit een mengsel van brandbare stoffen in de
+- Zone 1 : een ruimte waar een explosieve atmosfeer, bestaande uit een mengsel van brandbare stoffen in de
+- Zone 2 : een ruimte waar de aanwezigheid van een explosieve atmosfeer, bestaande uit een mengsel van
+- Zone 20 : een ruimte waar een explosieve atmosfeer, in de vorm van een wolk brandbaar stof in lucht voortdu-
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 255 Zone 21 : een ruimte waar een explosieve atmosfeer, in de vorm van een wolk brandbaar stof in lucht, in nor-
+- Zone 22 : een ruimte waar de aanwezigheid van een explosieve atmosfeer in de vorm van een wolk brandbaar
+- Afdeling 7.102.5. Vaststelling van de zones
+- Voorafgaandelijk aan de vaststelling van de zones en van hun uitgestrektheid, vergewist de uitbater zich ervan
+- Indien de kunstmatige ventilatie van belang is voor de vaststelling van de zonetypes en/of hun uitgestrekt-
+- De vaststelling van de zones en van hun begrenzing is gesteund op:
+- Indien een technische bedrijfseenheid het voorwerp is geweest van een indeling in gevaarlijke zones, mogen
+- delijk de verantwoordelijken van de indeling van de gevaarlijke zones daarover te hebben geraadpleegd.
+- grafische afmetingen van de zones worden daarenboven aangebracht op één of meerdere zoneringsplannen
+- Dit zoneringsverslag vermeldt de gegevens waarop de vaststelling van de zones en hun uitgestrektheid gesteund
+- Het zoneringsverslag en zoneringsplan zijn ten opzichte van elkaar identificeerbaar.
+- welke de indeling in zones heeft bepaald, geeft aanleiding tot het aanpassen van het zoneringsplan en van het
+- zoneringsverslag, dat opnieuw wordt goedgekeurd en geparafeerd door de uitbater of zijn afgevaardigde en
+- Met name de volgende categorieën apparatuur worden in die zones gebruikt, mits zij geschikt zijn voor de be-
+- − in zone 0 en zone 20, categorie 1 -apparatuur;
+- − in zone 1 en zone 21, categorie 1 - of categorie 2 -apparatuur;
+- − in zone 2 en zone 22, categorie 1 -, categorie 2 - of categorie 3 -apparatuur.
+- troles van elektrische installaties in zones met explosiegevaar.
+- De afvoerkanalen die uitmonden in een zone 1 moeten voorzien zijn van een vonkenvanger.
+- Dit geldt tevens voor de afvoerkanalen in een zone 2, wanneer bij het te beschermen materieel onder normale
+- In de explosieve stofzones, zijn de leidingaanlegsystemen (kabelbanen, kabelkanalen...) zodanig  opgesteld of
+- − voor de stroombanen ondergebracht in een zone 22; of
+- Buiten de explosiegevaarlijke zones, zijn op doelmatig gekozen plaatsen inrichtingen voor elektrische noodon-
+- voeding naar de zone te onderbreken.
+- a) de aanwending van een TN -C netstelsel is verboden in eender welke zone van een ontploffingsgevaarlijk
+- b) de aanwending van een TT netstelsel is verboden in de zone 0 en 20 en toegelaten in de zones 1, 2, 21 en
+- c) bij aanwending van een TN -S netstelsel dient dit in eender welke zone te worden beschermd door een
+- d) bij aanwending van een IT netstelsel dient de elektrische installatie in eender welke zone te worden be-
+- − de elektrische voeding onmiddellijk uitschakelt in zone 0 en 20;
+- een isolatieweerstand van minder dan 50 /V in de zones 1, 2, 21 en 22.
+- − de werkzaamheden van dringende aard zijn en beperkt blijven tot werkzaamheden in de zones 1, 2, 21 of
+- Er mag geen kathodische bescherming worden toegepast op metalen delen in zone 0 tenzij deze speciaal voor
+- functie van de oorspronkelijke gevarenzone en van de kenmerken van de explosieve atmosfeer.
+- van een dergelijke ontplofbare atmosfeer in de niet -geventileerde zone.
+- Afdeling 9.1.7. Zoneringsplannen  ................................ ................................ .........  292
+- De niet -specifieke uitwendige invloeden  in de betrokken zones worden vermeld in tabel  9.1.
+- Afdeling 9.1.7. Zoneringsplannen
+- De specificaties voor de realisatie van de zoneringsplannen met betrekking tot explosiegevaar zijn beschreven
+- De werkzone moet worden bepaald door de werkverantwoordelijke na overleg met de installatieverantwoorde-
+- − moet de werkzone en/of de toegang tot de werkzone worden afgebakend;
+- − door potentiaalvereffening op de werkzone om zo de mogelijkheid te voorkomen dat personen zich in een
+- Wanneer het zicht op de werkzone slecht is, mogen er geen werkzaamheden worden begonnen of voortgezet.
+- Om zich te verzekeren dat de elektrische installatie in de werkzone buiten spanning is en blijft gedurende de
+- Alle schakelinrichtingen die gebruikt werden om de elektrische installatie in de werkzone te scheiden, moeten
+- van de elektrische installatie binnen de werkzone of in de onmiddellijke nabijheid daarvan.
+- Binnen de werkzone moeten alle gedeelten van alle hoogspanningsinstallaties en van sommige laagspanningsin-
+- zone zichtbaar zijn. Indien dat niet mogelijk is, moeten de aardingsverbindingen zo dicht als redelijkerwijs
+- mogelijk bij de werkzone worden aangebracht.
+- geleiders aangepaste maatregelen binnen de werkzone worden getroffen, zoals overbruggen en/of aarden.
+- De verplichting tot het aarden en kortsluiten van laagspanningsinstallaties binnen de werkzone is enkel ver-
+- Wanneer delen van een elektrische installatie in de onmiddellijke omgeving van de werkzone onder spanning
+- personen wier aanwezigheid niet langer vereist is, de werkzone verlaten. Alle arbeidsmiddelen, de signalering
+- langer beschouwd worden als een zone waar werkzaamheden buiten spanning kunnen uitgevoerd worden.
+- − binnen de werkzone wanneer door testen wordt gewaarborgd dat er geen explosiegevaar aanwezig is.
+- bieden dat de delen onder spanning niet kunnen worden aangeraakt of dat de zone onder spanning niet kan
+- De waarden van de afstanden DV, die de buitengrens van de nabijheidszone aangeven, zijn opgenomen in  tabel
+- Wanneer deze bescherminrichtingen worden geïnstalleerd binnen de zone onder spanning, moeten ze van isole-
+- Wanneer deze bescherminrichtingen worden geïnstalleerd buiten de zone onder spanning, moet hiervoor de
+- verhinderen dat het personeel, dat de beschermingsmiddelen aanbrengt de zone onder spanning binnendringt,
+- − de procedures die tijdens de werkzaamheden moeten worden gevolgd om het binnendringen in de zone
+- − binnen de werkzone wanneer door testen wordt gewaarborgd dat er geen explosiegevaar aanwezig is.
+- a. Te nemen voorzorgsmaatregelen bij werken in de nabijheidszone van luchtlijnen
+- Werkzaamheden  uitgevoerd  in de nabijheidszone  van een luchtlijn  met «blanke of daarmee  gelijkgestelde
+- van de nabijheidszone.
+- nemen  voorwaarden  mag men geen  gebruik  maken  van machines  of mechanisch  gereedschap  in een zone
+
+## Zoekresultaten voor 'volume'
+
+- Figuur 7.12. Afmetingen van de volumes voor zwembaden en voetbaden  ................................ ............  234
+- Figuur 7.13. Zwembaden: afmetingen van de volumes voor bovengrondse kommen  ...............................  235
+- Figuur 7.14. Zwembaden: voorbeeld van de afmetingen van de volumes  met vaste wanden van minstens 2,5 m
+- Figuur 7.15. Verschillende volumes van sauna’s − Zijaanzicht  ................................ .........................  238
+- Figuur 7.16. Verschillende volumes van sauna’s − Bovenaanzicht  ................................ .....................  238
+- verschillende volumes van zwembaden  ................................ ................................ ............  236
+- Tabel 7.5. Minimum beschermingsgraad van elektrisch materieel in de verschillende volumes van zwembaden
+- Genaakbaarheidsgabarit: volume dat gelegen is rond een verplaatsingsoppervlak en dat begrensd is zoals ver-
+- - de aard en de kenmerken van het metaal van de geleider (volumetrische massa, massawarmte  en
+- contactdozen, of in de plafonddozen met voldoende volume voor het ophangen van verlichtingstoestellen.
+- − wijzigingen geen impact hebben op de in 3.2. bepaalde volumes of op de elektrische installatie.
+- che bevat af te bakenen als een ruimte beperkt tot de in 3.2. bepaalde volumes.
+- 3.2. In afwijking van afdeling 7.1.3. , is het toegelaten rekening te houden met de hierna bepaalde volumes en
+- a) volume 0: het inwendige volume van de badkuip of van de douchebak .
+- Voor een ruimte die meerdere collectieve douches bevat zonder scheidingswanden, is volume 0 zoals hierboven
+- b) volume 1: het volume begrensd door het verticaal oppervlak op de rand van de badkuip  of douchebak die
+- door het horizontale vlak op 2,25 m boven het voormelde horizontale vlak, verminderd met het volume 0 zoals
+- hierboven beschreven en het eventuele volume 1bis zoals hierna beschreven. Indien de bodem van de badkuip
+- Voor een ruimte die meerdere collectieve douches bevat zonder scheidingswanden , is volume 1 zoals hierboven
+- c) volume 1bis: het volume begrensd door de buitenwand van de badkuip en een volle structuur die aansluit
+- d) volume 2: het volume buiten het volume 1 en het eventuele volume 1bis, begrensd door het verticale vlak
+- op een afstand van 0,60 m van de grens van volume 1 en door dezelfde horizontale vlakken als gedefinieerd
+- voor het volume 1.
+- Voor een ruimte die individuele douches zonder individuele kleedruimte bevat, is het volume 2 het volume
+- buiten de volumes 0 en 1,  begrensd door het verticale vlak op een afstand van 3 m van de grens van volumes 0
+- en 1 en door dezelfde horizontale vlakken als gedefinieerd voor het volume 1.
+- Voor een ruimte die meerdere collectieve douches bevat zonder scheidingswanden, is het volume 2 het volume
+- buiten de volumes 0 en 1,  begrensd door het verticale vlak op een afstand van 3 m van de grens van volumes 0
+- en 1 en door dezelfde horizontale vlakken als gedefinieerd voor het volume 1.
+- e) Volume 3: het volume buiten het volume 2, begrensd door het verticale vlak op een afstand van 2,40 m van
+- het volume 2 en door dezelfde horizontale vlakken als gedefinieerd voor het volume 1 en beperkt tot de ruimte
+- een hiervan gedeeltelijk gescheiden aangrenzende individuele kleedruimte, is het volume 3 het volume buiten
+- volume 2 en begrensd door het verticale vlak gevormd door de wanden van de ruimte en door dezelfde horizon-
+- tale vlakken als gedefinieerd voor het volume 1.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 205 Voor een ruimte die meerdere collectieve douches bevat zonder scheidingswanden, is het volume 3 het volume
+- buiten volume 2 en begrensd door het verticale vlak gevormd door de wanden van de ruimte en door dezelfde
+- horizontale vlakken als gedefinieerd voor het volume 1.
+- vreemde geleidende delen die zich bevinden in de volumes 0, 1, 1bis, 2 en 3 zoals bepaald in 3.2., in dienst te
+- − in het volume 0 zoals bepaald in 3.2., het elektrisch materieel bedoeld in onderafdeling 7.1.5.2. , b., even-
+- − in het volume 1 zoals bepaald in 3.2., het elektrisch materieel bedoeld in onderafdeling 7.1.5.2., c.,  even-
+- − in het volume 2 zoals bepaald in 3.2., het elektrisch materieel bedoeld in onderafdeling 7.1.5.2. , d.;
+- − in het volume 1bis zoals bepaald in 3.2.:
+- bestaande verdeel - en schakelbord gelegen in het volume 3 zoals bepaald in 3.2.
+- Onderafdeling 7.1.3.2. Definitie van de volumes  ................................ ..................  215
+- Onderafdeling 7.1.3.3. Afmetingen van de volumes en de ruimte - Bovenaanzicht  ..........  216
+- Onderafdeling 7.1.3.4. Afmetingen van de volumes – Vooraanzicht  ............................  222
+- Afdeling 7.2.2. Bepaling van de algemene karakteristieken − Classificatie van de volumes  ... 234
+- Onderafdeling 7.3.2.1. Volumes  ................................ ................................ ..... 238
+- Afdeling 7.100.2. Bepaling van de algemene karakteristieken - Classificatie van de volumes  251
+- gedefinieerde volumes beïnvloeden:
+- 2. bij de bepaling van de afmetingen van de in onderafdeling 7.1.3.2.  gedefinieerde volumes wordt rekening
+- a) wanneer de door de vaste wanden bepaalde afmetingen kleiner zijn dan die van de volumes wordt rekening
+- − als vaste wanden die de afmetingen van de volumes kunnen beïnvloeden.
+- voorwaarde dat het onderste deel van deze deuren aansluit op het onderste deel van het volume 1, zoals be-
+- Wanneer een douche zich bevindt in volume 1 van een bad, zoals bepaald in onderafdeling 7.1.3.2. , 2), zijn de
+- volumes bepaald voor dit bad  van toepassing.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 215 Wanneer een douche meer dan één vaste watertoevoer heeft, zijn de grenzen van de volumes waarmee reke-
+- ning wordt gehouden deze die worden bepaald  door de strengste combinatie van de volumes verkregen door
+- Onderafdeling 7.1.3.2. Definitie van de volumes
+- 1) Volume 0
+- Volume 0 is begrensd:
+- b.2.1.)  het volume gaande van het laagst betreedbare niveau van de afgewerkte vloer of van de douchebak tot
+- 2) Volume 1
+- Volume 1 is begrensd:
+- op de grens van volume 1 en het verticale parallelle  vlak op 0,60 m daar vandaan, en;
+- Volume 1 omvat de ruimte onder de badkuip en sluit volume 0 uit.
+- Volume 1 omvat de ruimte onder de douche bak en sluit volume 0 uit.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 216 3)  Volume 2
+- Volume 2 is begrensd:
+- a.2.) het hoogste horizontale vlak dat samenvalt met dit van volume 1, en;
+- a.3.) het verticale vlak gelegen  op de grens van volume 1 en het verticale parallelle vlak op 0,60 m daar van-
+- b) Volume 2 is niet gedefinieerd voor een douche.
+- Onderafdeling 7.1.3. 3. Afmetingen van de volumes en de ruimte - Bovenaanzicht
+- a. Badkuipen met vaste wanden die de volumes begrenzen
+- die de volumes begrenzen en met een vaste watertoevoer  nabij een hoek
+- die de volumes begrenzen en met een vaste watertoevoer  op afstand van een hoek
+- de volumes begrenzen
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 219 f. Douche zonder douchebak met vaste wanden en draaibare deuren die de volumes begrenzen
+- g. Begrenzing van de volumes en de ruimte door de vaste wanden, de deuren en de vensters
+- Onderafdeling 7.1.3.4. Afmetingen van de volumes – Vooraanzicht
+- a. Badkuip  op vloerniveau van volume 2
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 223 b. Badkuipen waarvan de bodem niet samenvalt met het hoogst betreedbare niveau van volume 2
+- c. Begrenzing van de volumes en de ruimte door een vals plafond (voorbeeld van een ruimte die een bad
+- Geen begrenzing van de ruimte met een bad en van de volumes door een vals plafond dat geperforeerd is of
+- Begrenzing van de ruimte met een bad en van de volumes door een vals plafond dat niet geperforeerd is en
+- die de volumes begrenzen
+- de volumes begrenzen
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 228 g. Begrenzing van de volumes door een vaste wand met een open ruimte onder de vaste wand kleiner of
+- Volume 0  6 12 20
+- Volume 1  6 12 20
+- Volume 2  12 18 30
+- volumes)  12 18 30
+- Volume 0  12 18 30
+- Volume 1  12 18 30
+- Volume 2  25 36 60
+- volumes)  25 36 60
+- 1. ze zich niet in volume 0 bevinden;
+- Volume 0  AD7 BB3 BC4**
+- Volume 1  AD4* BB3 BC3**
+- Volume 2  AD4***  BB2 BC3**
+- volumes)  AD2***  BB2 BC2**
+- Er wordt evenwel rekening gehouden met de volumes gevormd door voormeld materieel.
+- Aftak -, koppel - en verdeeldozen zijn verboden in volume 0.
+- andere ruimten is verboden in de volumes 0, 1, en 2.
+- De schakel - en verdeelborden zijn verboden in de volumes 0, 1 en 2.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 232 b. Volume 0
+- − beantwoorden aan de voorschriften van toepassing op volume 0 en geschikt zijn voor gebruik in dit volume
+- − gevoed zijn op ZLVS, waarbij de voedingsbron op ZLVS geïnstalleerd is buiten de volumes 0 en 1.
+- In volume 0 zijn contactdozen en bedieningstoestellen niet toegelaten met uitzondering van de bedieningstoe-
+- is buiten de volumes 0 en 1.
+- c. Volume 1
+- buiten volume 0 en 1;
+- 2. contactdozen gevoed op ZLVS, waarbij de voedingsbron op ZLVS geïnstalleerd is buiten de volumes 0 en 1;
+- − beantwoorden aan de voorschriften van toepassing op volume 1 en geschikt zijn voor gebruik in dit vo-
+- den op ZLVS, waarbij de voedingsbron op ZLVS geïnstalleerd is buiten de volumes 0 en 1;
+- 4. bedieningstoestellen gevoed op ZLVS, waarbij de voedingsbron op ZLVS geïnstalleerd is buiten de volumes
+- d. Volume 2
+- 3. contactdozen gevoed op ZLVS, waarbij de voedingsbron op ZLVS geïnstalleerd is buiten de volumes 0 en 1;
+- 4. bedieningstoestellen gevoed op ZLVS, waarbij de voedingsbron op ZLVS geïnstalleerd is buiten de volumes
+- nen.In het volume 0 worden de elektrische leidingen beperkt tot deze die deel uitmaken van het erin toegela-
+- In de volumes 1 en 2 worden de elektrische leidingen beperkt tot deze noodzakelijk voor de voeding van het
+- elektrisch materieel binnen de volumes 0, 1 en 2.
+- Voor het voeden van het in volume 0 toegelaten elektrisch materieel is enkel verzonken plaatsing met of zon-
+- der buizen in de vaste wanden van volume 0 toegelaten overeenkomstig de voorschriften van onderafdelingen
+- In de volumes 1 en 2 zijn enkel de volgende plaatsingswijzen toegelaten:
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 233 In de volumes 0, 1 en 2 wordt bij gebruik van elektrische leidingen gevoed op ZLVS, de beschermingswijze door
+- op de aanpalende volumes. In deze volumes is bij normaal gebruik risico op een elektrische schok verhoogd als
+- volumes
+- Volume 0: het inwendig volume van de zwembadkom, zijn openingen in de wanden of de bodem, en de voet-
+- Volume 1: het volume begrensd door:
+- − het volume 0;
+- personen zich kunnen bevinden aanwezig zijn, is het volume 1 begrensd door:
+- Volume 2: het volume begrensd door:
+- − het verticaal buitenoppervlak van het volume 1 en het ermee evenwijdig oppervlak gelegen op 1,5 m er-
+- deze plaats te worden beschouwd als deel uitmakend van volume 2;
+- hierboven vermelde volumes 1 en 2.
+- De figuren 7.12. t.e.m. 7.14.  verduidelijken de verschillende volumes voor enkele gevallen.
+- Figuur 7.12. Afmetingen van de volumes voor zwembaden en voetbaden
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 235 Figuur 7.13. Zwembaden: a fmetingen van de volumes voor bovengrondse kommen
+- Figuur 7.14. Zwembaden: v oorbeeld van de afmetingen van de volumes
+- bij gebruik van ZLVS in de verschillende volumes van zwembaden
+- Maximumspanningen in V Volume 0  Volume 1  Volume 2  0 tot 1,25 m  1,25 tot 2 m
+- Tabel 7.5. Minimum beschermingsgraad van elektrisch materieel in de verschillende volumes van zwembaden
+- Volume 0  Volume 1  Volume 2  0 tot 1,25 m  1,25 tot 2 m
+- van het elektrisch materiaal in de volumes 0, 1 en 2 met uitzondering van de massa’s van het elektrisch mate-
+- Uitwendige invloed  Volume 0  Volume 1  Volume 2  0 tot 1,25 m  1,25 tot 2 m
+- In het volume 0 moeten de elektrische leidingen beperkt worden tot deze die deel uitmaken van het erin toe-
+- In de volumes 1 en 2 moeten de zichtbare elektrische leidingen, evenals deze verzonken op een diepte kleiner
+- In de volumes 1 en 2 moeten de elektrische leidingen beperkt worden tot deze noodzakelijk voor de voeding
+- van het elektrisch materieel binnen deze volumes.
+- Verbindingsdozen van elektrische leidingen zijn verboden in de volumes 0 en 1. Voor de stroombanen op ZLVS
+- zijn zij echter  toegelaten in volume 1.
+- verboden in de volumes 0 en 1.
+- − in het volume 1, indien ze worden geplaatst in een isolerend omhulsel op meer dan 1,25 m van de grens
+- van het volume 0 en ten minste 0,3 m boven de vloer;
+- − in het volume 2,
+- ning zonder rimpel. Het voedingstoestel voor deze ZLVS moet zich buiten de volumes 0, 1 en 2 bevinden.
+- Dit toestel mag in volume 2 worden geplaatst indien zijn voedingsstroombaan beschermd is do or een diffe-
+- ten van punt c. van onderafdeling 4.2.3.3 . Het voedingstoestel moet zich buiten de volumes 0, 1 en 2 be-
+- vinden. Dit toestel mag in volume 2 worden geplaatst indien zijn voedingsstroombaan bes chermd is door
+- De verlichtingstoestellen in volume 0 mogen slechts worden gevoed op zeer lage veiligheidsspanning overeen-
+- In de volumes 1 en 2 zijn verlichtingstoestellen toegelaten op voorwaarde dat ze door één van de volgende
+- Verwarmingselementen verzonken in vloeren en wanden van volume 0 zijn verboden.
+- onderafdeling  4.2.2.5. zijn toegelaten in de vloeren van volumes 1 en 2 indien ze bedekt zijn met een metalen
+- In de volumes 0, 1 en 2 moeten de elektrische machines en toestellen, andere dan deze aangehaald in voor-
+- Indien het elektrisch materieel geplaatst is in een kabelkanaal of technische ruimte in het volume 1 of 2:
+- Onderafdeling 7.3.2.1. Volumes
+- De figuren  7.15.  en 7.16.  geven  de versch illende volumes van sauna’s weer.
+- Figuur 7.15. Verschillende volumes van sauna’s − Zijaanzicht
+- Figuur 7.16. Verschillende volumes van sauna’s − Bovenaanzicht
+- − wat de omgevingstemperatuur betreft, wordt een onderscheid gemaakt in functie van de 4 volumes ( zie
+- • in volume 1 is enkel elektrisch materieel toegelaten dat behoort bij de verwarmingstoestellen voor
+- • in volume 2 gelden geen bijzondere voorschriften in verband met de weerstand van het materieel te-
+- • in volume 3 moet het elektrisch materieel kunnen weerstaan aan een temperatuur van 125  °C;
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 239 • in volume 4 mogen enkel verlichtingstoestellen, bedienings - en regelinrichtingen voor verwarmingstoe-
+- moeten verplicht in volume 4 worden geplaatst. De weerstand tegen warmte is zoals voorgeschreven
+- voor volume 3.
+- gepast zijn. Deze voorschriften zijn ook van toepassing op de aanpalende volumes.
+- volumes
+- Volume 0: het inwendig volume van de kom, zijn openingen in de wanden of de bodem, en het inwendig volu-
+- Volume 1: het volume begrensd door:
+- − het volume 0;
+- kunnen bevinden, is het volume 1 begrensd door:
+- hierboven vermelde volume 1.
+- Er bestaat geen volume 2.
+- Wanneer de bescherming tegen onrechtstreekse aanraking in de volumes 0 en 1 verzekerd wordt door het ge-
+- De bescherming tegen rechtstreekse aanraking in de volumes 0 en 1 wordt verzekerd door het gebruik van iso-
+- − IPX7/IPX8 in het volume 0;
+- − IPX5 in het volume 1.
+- van het elektrisch materiaal in de volumes 0 en 1 met uitzondering van de massa’s van het elektrisch materieel
+- In de volumes 0 en 1 moeten de elektrische leidingen beperkt worden tot deze noodzakelijk voor de voeding
+- van het elektrisch materieel binnen deze volumes.
+- Verbindingsdozen van elektrische leidingen en contactdozen zijn verboden in de volumes 0 en 1. Voor de
+- stroombanen op ZLVS zijn zij echter  toegelaten in volume 1.
+- In de volumes 0 en 1 zijn verlichtingstoestellen toegelaten op voorwaarde dat ze door één van de volgende
+- ZLVS moet zich buiten de volumes 0 en 1 bevinden;
+- dingstoestel moet zich buiten de volumes 0 en 1 bevinden.
+- De verlichtingstoestellen in de volumes 0 en 1 moeten vast opgesteld en voorzien zijn van een mechanische
+- De verlichtingstoestellen in volume 0, geplaatst achter vaste vensters en gevoed buiten het volume 0, moeten
+- In de volumes 0 en 1 zijn enkel pompen en het elektrisch materieel aangehaald in voor melde  punten toegela-
+- Indien het elektrisch materieel geplaatst is in een kabelkanaal of technische ruimte in het volume 1:
+- stofgehalte 21 ± 1 volumeprocent bedraagt.
+- a) buiten het volume omschreven door een verticale cilinder waarvan de wand 0,50 m buiten de rand van het
+- toegelaten, op voorwaarde dat de afstand van het volume 2 op 1 m wordt gebracht, :
+
+## Zoekresultaten voor 'afstand'
+
+- Tabel 2.22. Waarden van de afstanden D L en D V ................................ ................................ ............  46
+- Tabel 4.2. Minimumafstanden voor onderhouds - en dienstplaatsen  ................................ .....................  76
+- Tabel 8.1. Houders voor smeltzekeringen (6 A) en kleine vermogensschakelaars met penafstand van 20 mm
+- Tabel 8.2. Houders voor smeltzekeringen (6 A) en kleine vermogensschakelaars met penafstand van 20 mm
+- Tabel 8.3. Houders voor smeltzekeringen (6 A) en kleine vermogensschakelaars met penafstand van 20 mm
+- soon kunnen aangeraakt worden, dit wil zeggen die zich op een afstand van elkaar bevinden die gegeven wordt
+- d1, d2, d3: afstanden in meter volgens onderstaande formule:
+- uitsluitend dienen voor telefoon -, telegraaf -, telesignalisatie -, afstandsbedienings - en teledistributieverbindin-
+- afstand groter dan of gelijk aan 20 mm van elke andere kabel of geïsoleerde geleider is geïnstalleerd.
+- DL: afstand die de buitengrens van de zone onder spanning aangeeft
+- DV: afstand die de buitengrens van de nabijheidszone aangeeft
+- DL: afstand die de buitengrens van de zone onder spanning aangeeft
+- DV: afstand die de buitengrens van de nabijheidszone aangeeft
+- d0: minimumafstand volgens onderafdeling 5.1.3.2.
+- DL: afstand die de buitengrens van de zone onder spanning aangeeft
+- DV: afstand die de buitengrens van de nabijheidszone aangeeft
+- Tabel 2.22. Waarden van de afstanden D L en D V
+- (effectieve waarde)  Afstand DL die de buitengrens
+- aangeeft [mm]  Afstand DV die de buitengrens
+- Opmerking 2:  voor gelijkspanningsinstallaties wordt aanbevolen om dezelfde afstanden te
+- worden gemaakt van markeringen die op regelmatige afstanden worden herhaald.
+- mag zich op een afstand van de bovenrand van de scheidingswanden of omheiningen bevinden
+- Geen enkel niet -beschermd actief deel mag zich op een afstand, kleiner dan dh bevinden van
+- door verwijdering als gewaarborgd beschouwd wanneer de minimumafstanden  vermeld in ta-
+- Tabel 4.2. Minimumafstanden voor onderhouds - en dienstplaatsen
+- als zijnde verwezenlijkt, als hun onderlinge afstand ten minste 2,5 meter bedraagt.
+- − indien de afstand tussen de bevestigingspunten van deze draad groter is dan 10 m, moet zijn minimale
+- Deze borden moeten geplaatst worden over heel de lengte van de afsluiting met een onderlinge afstand
+- tingen op een afstand van het hoekpunt die niet meer dan 1 m mag bedragen.
+- • deze schakelaar moet van op afstand bediend worden door het sluiten van een bedieningsstroom-
+- rizontale afstand 2 m bedraagt en erbuiten 1,25 m.
+- Deze hindernissen worden als doeltreffend beschouwd indien de te overbruggen afstand hierdoor wordt ge-
+- Afstanden in meter
+- Afstanden in meter
+- indien de hulpaardelektrode geplaatst wordt op een afstand van ten minste 15 m van andere aardverbin-
+- terrein over deze afstand zouden kunnen verminderen.
+- voortplanten en uit zichzelf doven op weinig afstand van de vuurhaard die hen doen ontvlammen heeft.
+- − hetzij worden geïnstalleerd op voldoende afstand van alle voorwerpen of alle delen van het bouwwerk die
+- − worden de motoren die automatisch of vanop afstand  bediend of die niet voortdurend worden bewaakt,
+- op een afstand van maximum 3 m van het begin van de stroombaan, op voorwaarde dat:
+- de luchtafstand tussen de blanke delen onder spanning, tussen deze delen en de massa of tussen blanke onder
+- − d: de voorgenoemde afstand in mm;
+- het luchtledige inbegrepen, moet het isolatiepeil dat voortvloeit uit de kleinere afstanden die bestaan tussen
+- middellijke nabijheid op zulke wijze dat de afstand tussen de elektrische leiding en de wand niet groter is
+- verwijderd op een afstand groter dan of gelijk aan 0,3 maal haar buitendiameter;
+- van de afstand waarover de geïsoleerde geleiders en kabels effectief in bundel of in laag geïnstalleerd zijn.
+- dingen derwijze geplaatst worden dat tussen de uitwendige oppervlakken ervan een afstand behouden wordt,
+- ten ze op een voldoende afstand gehouden worden of door een warmtewerend scherm gescheiden worden van
+- de beschreven boog. Indien een afstand van 50 m dit merkteken scheidt van deze die het begin van de
+- boog aanduiden moeten bijkomende merktekens geplaatst worden, zodat de afstand tussen de merktekens
+- den op een zo klein mogelijke afstand van de ligging van deze kabel of kabels.
+- De afstand tussen geleiders van verschillende polariteit moet 10 cm zijn voor een spanwijdte kleiner dan
+- De afstand tussen de draden of kabels en de wanden of voorwerpen moet 10 cm bedragen. Indien een klei-
+- nere afstand noodzakelijk is, wordt deze toegestaan als het aanrakingsrisico uitgesloten is door het dichter
+- plaatsen van de steunen of door tussenplaatsing van een isolatiestof. De afstand tussen de geleiders en de
+- De afstand tussen rail - en buisgeleiders en de aangrenzende elektrische leidingen of buizen moet ten min-
+- De afstand tussen opeenvolgende isolerende steunen moet zodanig zijn dat:
+- rest van het verwarmend element.  De afstand tussen de borden van de verwarm ingspanelen en de
+- voorzien, moet de afstand tussen de spanning staande delen gel ijk zijn aan 9 mm.
+- In dit geval moeten de middelen, die het eerbiedigen van deze afstand toelaten, op een veilige wijze
+- bekrachtigde norm, moeten de afstanden, aangepast volgens de regels van goed vakmanschap, toege-
+- Contactoren met afstandsbesturing moeten geopend worden door het afsnijden van de voeding van de
+- vanaf de begane grond en op een horizontale afstand van maximum 5 m vanaf het dichtstbijzijnde
+- • hetzij opgesteld op voldoende afstand van alle voorwerpen of alle delen van het gebouw die het
+- − tussen deze elementen een afstand van ten minste 6 mm in de lucht onderhouden;
+- op een afstand van 0,60 m van de grens van volume 1 en door dezelfde horizontale vlakken als gedefinieerd
+- buiten de volumes 0 en 1,  begrensd door het verticale vlak op een afstand van 3 m van de grens van volumes 0
+- buiten de volumes 0 en 1,  begrensd door het verticale vlak op een afstand van 3 m van de grens van volumes 0
+- e) Volume 3: het volume buiten het volume 2, begrensd door het verticale vlak op een afstand van 2,40 m van
+- a) gelegen op een afstand van 4 m vanaf de vaste watertoevoeren, en;
+- 2. vals plafond: opgehangen of zelfdragend bouwelement dat met een verticale tussenafstand aan de structu-
+- gehouden met de reikafstand omheen deze wanden;
+- − gelegen op een afstand van 1,20 m van het midden van elke vaste watertoevoer, en;
+- − gelegen op een afstand van 1,20 m van het midden van elke vaste watertoevoer, en;
+- afstand groter dan of gelijk aan 1,20 m van het midden van de vaste watertoevoeren, wordt het in punt b.3. )
+- die de volumes begrenzen en met een vaste watertoevoer  op afstand van een hoek
+- lumes begrenzen en met een vaste watertoevoer  op afstand van een hoek
+- verwijderd, en geplaatst op een afstand van ten minste 2,25 m boven het vlak waar personen zich kunnen
+- Deze afdichtingen moeten binnen een afstand van 450 mm van alle drukvaste omhulsels worden voorzien.
+- De afstanden:
+- den van de hierboven vermelde voorschriften, op voorwaarde dat de afstand, tussen twee genaakbare naakte
+- − Eisen voor de houders van smeltzekeringen en kleine vermogensschakelaars met penafstand van 20
+- De houders voor smeltzekeringen en kleine vermogensschakelaars met penafstand van 20 mm conform de norm
+- Tabel 8.1. Houders voor smeltzekeringen (6 A) en kleine vermogensschakelaars met penafstand van 20 mm (maat 12 of 10
+- Tabel 8.2. Houders voor smeltzekeringen (6 A) en kleine vermogensschakelaars met penafstand van 20 mm (maat 12 of 10
+- Tabel 8.3. Houders voor smeltzekeringen (6 A) en kleine vermogensschakelaars met penafstand van 20 mm (maat
+- toegelaten, op voorwaarde dat de afstand van het volume 2 op 1 m wordt gebracht, :
+- dit noodzakelijk blijkt te zijn, gebruik gemaakt worden van aanduidingen die op regelmatige afstanden
+- − door aarding op passende tussenafstanden om zo de spanning tussen geleiders en aarde tot een veilig ni-
+- Werkzaamheden op afstand > DL: methode voor het uitvoeren van werkzaamheden onder spanning waarbij de
+- persoon op een gegeven afstand van de blanke delen onder spanning blijft en zijn werk met behulp van aange-
+- De waarden van de afstanden DV, die de buitengrens van de nabijheidszone aangeven, zijn opgenomen in  tabel
+- getroffen, moet de bescherming worden verzekerd door het behoud van een minimale werkafstand ten opzich-
+- ge afstanden, over de getroffen veiligheidsmaatregelen en over de noodzaak van veiligheidsbewust gedrag. De
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 9 ALGEMENE VOORSCHRIFTEN VOOR PERSONEN | 299 c. Bescherming door behoud van een veilige werkafstand
+- Wanneer de bescherming door behoud van een veilige werkafstand wordt gebruikt, moet deze werkmethode
+- − de in acht te nemen afstand die niet minder dan DL mag bedragen, daarbij rekening houdend met de aard
+- moeten de afstanden voorgeschreven in  tabel 2.22.  in afdeling 2.11.1 . en in afdeling 2.4.1 . m.b.t. het genaak-
+- Bij de bepaling van de afstand moet rekening worden gehouden met:
+- tussen twee verticale vlakken op een afstand van 50 cm aan weerszijden  van de kabel.
+- keling van het net, op afstand bediende installaties...).
+- anderzijds met de afstand waarop zij gewoonlijk worden waargenomen.
+
+## Zoekresultaten voor 'badkamer'
+
+Geen specifieke informatie gevonden voor 'badkamer'
+
+## Zoekresultaten voor 'douche'
+
+- 28/10/2024  1° Ruimten die een bad en/of een douche bevatten:
+- Hoofdstuk 7.1. Ruimten die een bad en/of douche bevatten  ................................ ........  213
+- Tabel 7.3. Ruimten die een bad of douche bevatten: combinaties van de uitwendige invloeden AD, BB en BC  231
+- 3. de ruimten die een bad en/of een douche bevatten zoals bedoeld in hoofdstuk 7.1. ;
+- Het is toegelaten dat de stroombanen van de ruimten die een bad en/of een douche bevatten, ook elektrisch
+- 3. Bescherming van ruimten die een bad en/of een douche bevatten
+- 1. bestaande elektrische installaties van ruimten die een bad en/of een douche bevatten en bestaande huis-
+- 2. ruimten die een bad en/of een douche bevatten en bestaande huishoudelijke installaties die een privé-
+- de aanwezigheid van vaste wanden of draaibare wandelementen om de ruimte die een bad en/of een douche
+- a) volume 0: het inwendige volume van de badkuip of van de douchebak .
+- Voor een ruimte die meerdere collectieve douches bevat zonder scheidingswanden, is volume 0 zoals hierboven
+- beschreven, waarbij de douchebak  of wat daartoe dienstdoet , wordt bepaald door de afvloeiingszone van het
+- b) volume 1: het volume begrensd door het verticaal oppervlak op de rand van de badkuip  of douchebak die
+- onderaan begrensd wordt door het horizontale vlak van de vloer rond de badkuip  of douchebak en bovenaan
+- of douchebak zich echter op meer dan 0,15 m boven de vloer bevindt, wordt de hoogte van het bovenste hori-
+- zontale vlak gemeten vanaf de bodem van de badkuip of douchebak. Indien een douche niet voorzien is van een
+- douchebak wordt deze vervangen door een cirkel met een straal van 0,60 m op het niveau van de vloer, waar-
+- Voor een ruimte die meerdere collectieve douches bevat zonder scheidingswanden , is volume 1 zoals hierboven
+- beschreven, waarbij de douchebak of wat daartoe dienstdoet, wordt bepaald door de afvloeiingszone van  het
+- Voor een ruimte die individuele douches zonder individuele kleedruimte bevat, is het volume 2 het volume
+- Voor een ruimte die meerdere collectieve douches bevat zonder scheidingswanden, is het volume 2 het volume
+- waarin de badkuip en/of de douche  is opgesteld.
+- Voor een ruimte die meerdere individuele douches bevat met een eigenlijke doucheruimte en eventueel met
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 6 CONTROLES VAN INSTALLATIES  | 205 Voor een ruimte die meerdere collectieve douches bevat zonder scheidingswanden, is het volume 3 het volume
+- 4. Bescherming van ruimten die een bad en/of een douche bevatten
+- HOOFDSTUK 7.1. RUIMTEN DIE EEN BAD EN/OF DOUCHE BEVATTEN  ................................ .......  213
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 213 Hoofdstuk 7.1. Ruimten die een bad en/of douche bevatten
+- 1. ruimten die permanent een bad en/of een douche bevatten;
+- 2. ruimten waarin mobiele toepassingen worden geplaatst (bv.: mobiele douche voor bouwplaats);
+- Worden niet beschouwd als een bad of een douche:
+- 1. de uitrustingen van noodvoorzieningen,  bijvoorbeeld nooddouches  die gebruikt worden in industriële instal-
+- 3. de in de hoogte verstelbare en eventueel verplaatsbare baden en douches voor medische behandeling;
+- 4. de baden en douches voor dieren;
+- 5. de douches en baden geïnstalleerd in verplaatsbare, mobiele of tijdelijke installaties en waarbij:
+- − de gehele verplaatsbare, mobiele of tijdelijke installatie waarin een bad en/of een douche geïnstal-
+- − het bad en/of de douche voldoet ook aan de eisen van de voormelde norm.
+- Op ruimten voor medisch gebruik waarin zich een badkuip of douche voor medische behandeling bevindt, kun-
+- De ruimte die een bad en/of een douche bevat wordt afgebakend door:
+- b) gemeten in het horizontale vlak door de vaste watertoevoeren ter hoogte van het bad of de douche:
+- − hetzij vanaf de uitgang van de mengkraan of de kraan waarop de doucheslang van de handdouche
+- Douche: een bepaalde plaats met of zonder douchebak bestemd voor het wassen van een menselijk lichaam
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 214 Douchebak: een onderste deel van een douche dat wordt gebruikt om water op te vangen en af te voeren.
+- De douchebak  wordt geplaatst op of geïntegreerd in de vloer.
+- Elektrische multifunctionele douchecabine : geprefabriceerde douchecabine die ten minste een elektrische
+- functie integreert in aanvulling van de douchefunctie.
+- Elektrische afzonderlijke multifunctionele douche -eenheid: elektrische multifunctionele douche -eenheid
+- zonder een geprefabriceerde douchecabine die ten minste een elektrische functie integreert in aanvulling van
+- de douchefunctie.
+- Douchefunctie:  het wassen van een menselijk lichaam onder een waterstraal.
+- gedefinieerde ruimte met een bad en/of een douche alsook de afmetingen van de in onderafdeling 7.1.3.2.
+- en/of een douche wordt rekening gehouden met het volgende:
+- gesloten. De douchedeuren die deel uitmaken van de douche worden niet in beschouwing genomen.
+- mes van de ruimte met een bad en/of een douche zijn gelegen, worden beschouwd:
+- In afwijking van 2., b), worden de douchedeuren die deel uitmaken van de douche, als gesloten beschouwd, op
+- Wanneer een douche zich bevindt in volume 1 van een bad, zoals bepaald in onderafdeling 7.1.3.2. , 2), zijn de
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 215 Wanneer een douche meer dan één vaste watertoevoer heeft, zijn de grenzen van de volumes waarmee reke-
+- b) voor een douche:
+- b.1) met een douchebak waarvan de diepte groter is dan of gelijk is aan 0,10 m, door de binnenkant van de
+- douchebak tot het horizontale vlak op 0,10 m boven het hoogst betreedbare niveau van de douchebak.
+- b.2) zonder een douchebak of met een douchebak waarvan de diepte minder dan 0,10 m bedraagt, door:
+- b.2.1.)  het volume gaande van het laagst betreedbare niveau van de afgewerkte vloer of van de douchebak tot
+- aan een horizontaal vlak op 0,10 m boven het hoogst betreedbare niveau van de afgewerkte vloer of douche-
+- b) voor een douche door:
+- b.1.)  het laagst betreedbare niveau van de afgewerkte vloer of van de bodem van de douche bak, en;
+- bodem van de douche bak, en;
+- Indien de douchebak een diepte heeft groter dan of gelijk aan 0,10 m en een of meer buitenranden met een
+- bedoelde verticale vlak ook tot deze buitenrand(en) van de douchebak verplaatst.
+- Volume 1 omvat de ruimte onder de douche bak en sluit volume 0 uit.
+- b) Volume 2 is niet gedefinieerd voor een douche.
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 217 b. Douches zonder douchebak of met douchebak met een diepte kleiner dan 0,10 m, met vaste wanden
+- c. Douches zonder douchebak of met douchebak met een diepte kleiner dan 0,10 m, met vaste wanden
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 218 d. Douches met douchebak met een diepte groter dan of gelijk aan 0,10 m, met vaste wanden die de vo-
+- e. Douche zonder douchebak of met douchebak met een diepte kleiner dan 0,10 m, met vaste wanden die
+- INSTALLATIES OP LAAGSPANNING EN OP ZEER LAGE SPANNING − DEEL 7 BIJZONDERE INSTALLATIES EN RUIMTEN  | 219 f. Douche zonder douchebak met vaste wanden en draaibare deuren die de volumes begrenzen
+- g.2. Lokaal met een douche, met vaste verticale wanden die allemaal een hoogte van ten minste 2,25 m
+- g.3. Lokaal met een douche, met een aantal vaste verticale wanden met een hoogte van ten minste 2,25
+- d. Douches zonder douchebak of met douchebak met een diepte kleiner dan 0,10 m, met vaste wanden
+- e. Douches met douchebak met een diepte groter dan of gelijk aan 0,10 m, met vaste wanden die de vo-
+- f. Douche zonder douchebak of met douchebak met een diepte kleiner dan 0,10 m, met vaste wanden die
+- groter dan 0,10 m (voorbeeld van een ruimte die een douche bevat)
+- De beschermingsgraad van het elektrisch materieel toegelaten in de ruimten die een bad en/of een douche
+- douche
+- douche
+- ruimte met een bad en/of een douche voeden beschermd door een of meer differentieelstroombeschermingsin-
+- Deze inrichtingen  zijn geïnstalleerd buiten de ruimte die een bad en/of een douche bevat .
+- en/of een douche met uitzondering van:
+- douche indien:
+- en “aanraking van de aardpotentiaal door personen” in ruimten  die een bad en/of een douche bevatten, zijn
+- Tabel 7.3. Ruimten die een bad of douche bevatten: combinaties van de uitwendige invloeden AD, BB en BC
+- douche
+- geinvloed BC te bepalen in functie van de samenstelling van de ruimte die een bad en/of een douche bevat.
+- Wanneer het elektrisch materieel meerdere plaatsten in de ruimte met een bad en/of een douche beslaat, zijn
+- 1. elektrische multifunctionele douchecabines;
+- 2. elektrische afzonderlijke multifunctionele douche -eenheden;
+- 3. baden of douches met elektrische functies,
+- Het is toegelaten dat stroombanen van ruimten met een bad en/of een douche ook elektrisch materieel voeden
+- bad en/of een douche bevatten, alsook de elektrische leidingen verzonken in de vaste wanden van deze ruim-
+- 15. Bescherming van ruimten die een badkuip en/of een douche bevatten
+- een bad en/of een douche bevatten in dienst te laten voor elektrische installaties waarvan de uitvoering
+- 11. Bescherming van ruimten die een bad en/of een douche bevatten
+- 6. Bescherming van ruimten die een bad en/of een douche bevatten
+

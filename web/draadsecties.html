@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Draadsecties - AREI 2025 Controle-Tool</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="site-header">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <h1 class="site-title">AREI 2025 Controle-Tool</h1>
+                    <p class="lead">Voor elektrotechnische monteurs</p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <p class="mb-0">Belgische wetgeving voor elektrische installaties</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigatie -->
+    <nav class="navbar navbar-expand-lg navbar-custom">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarMain">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Algemene Voorschriften
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
+                            <li><a class="dropdown-item" href="definities.html">Begrippen en Definities</a></li>
+                            <li><a class="dropdown-item" href="toepassingsgebied.html">Toepassingsgebied</a></li>
+                            <li><a class="dropdown-item" href="symbolen.html">Grafische Symbolen</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Materialen
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown4">
+                            <li><a class="dropdown-item active" href="draadsecties.html">Draadsecties en Kabels</a></li>
+                            <li><a class="dropdown-item" href="schakel-verdeel.html">Schakel- en Verdeelinrichtingen</a></li>
+                            <li><a class="dropdown-item" href="installatiemethoden.html">Installatiemethoden</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="tools.html">Controle-Tools</a>
+                    </li>
+                </ul>
+                <form class="d-flex">
+                    <input class="form-control me-2" type="search" placeholder="Zoeken in AREI" aria-label="Zoeken">
+                    <button class="btn btn-outline-light" type="submit">Zoeken</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hoofdinhoud -->
+    <main class="container py-4">
+        <div class="row">
+            <!-- Zijbalk -->
+            <div class="col-lg-3 mb-4">
+                <div class="sidebar">
+                    <h4 class="sidebar-heading">Draadsecties</h4>
+                    <ul class="sidebar-nav">
+                        <li><a href="#voorschriften">AREI Voorschriften</a></li>
+                        <li><a href="#calculator">Draadsectie Calculator</a></li>
+                        <li><a href="#tabellen">Referentietabellen</a></li>
+                        <li><a href="#spanningsval">Spanningsval</a></li>
+                        <li><a href="#brandreactie">Brandreactie</a></li>
+                    </ul>
+                    
+                    <h4 class="sidebar-heading mt-4">Gerelateerde Onderwerpen</h4>
+                    <ul class="sidebar-nav">
+                        <li><a href="installatiemethoden.html">Installatiemethoden</a></li>
+                        <li><a href="elektrische-bescherming.html">Elektrische Bescherming</a></li>
+                        <li><a href="thermische-invloeden.html">Thermische Invloeden</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- Hoofdinhoud -->
+            <div class="col-lg-9">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item"><a href="materialen.html">Materialen</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Draadsecties en Kabels</li>
+                    </ol>
+                </nav>
+                
+                <h2 class="section-title">Draadsecties en Kabels</h2>
+                
+                <div class="card mb-4" id="voorschriften">
+                    <div class="card-header">
+                        <h3>AREI Voorschriften voor Draadsecties</h3>
+                    </div>
+                    <div class="card-body">
+                        <p>Het AREI 2025 stelt specifieke eisen aan de minimale draadsecties voor verschillende toepassingen in huishoudelijke elektrische installaties. Deze voorschriften zijn essentieel om de veiligheid en betrouwbaarheid van de installatie te waarborgen.</p>
+                        
+                        <h4>Minimale Draadsecties</h4>
+                        <p>Volgens het AREI moeten de volgende minimale draadsecties worden gerespecteerd:</p>
+                        
+                        <div class="table-responsive">
+                            <table class="table table-striped table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Toepassing</th>
+                                        <th>Minimale Doorsnede (mm²)</th>
+                                        <th>Opmerkingen</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Verlichtingscircuits</td>
+                                        <td>1,5</td>
+                                        <td>Max. 10A beveiliging</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Stopcontactcircuits</td>
+                                        <td>2,5</td>
+                                        <td>Max. 16A beveiliging</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Kookapparaten</td>
+                                        <td>6</td>
+                                        <td>Max. 32A beveiliging</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Voedingskabel</td>
+                                        <td>10</td>
+                                        <td>Voor standaard huishoudelijke aansluiting</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Aardingsgeleider</td>
+                                        <td>16</td>
+                                        <td>Hoofdaardingsgeleider</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Equipotentiale verbindingen</td>
+                                        <td>6</td>
+                                        <td>Hoofdequipotentiale verbindingen</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Bijkomende equipotentiale verbindingen</td>
+                                        <td>4</td>
+                                        <td>In badkamers, douches, etc.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <h4>Factoren die de Draadsectie Beïnvloeden</h4>
+                        <p>Bij het bepalen van de juiste draadsectie moet rekening worden gehouden met:</p>
+                        <ul>
+                            <li>Stroomsterkte (ampère)</li>
+                            <li>Installatiewijze (inbouw, opbouw, kabelgoot, etc.)</li>
+                            <li>Kabeltype (XVB, VOB, EXVB, etc.)</li>
+                            <li>Omgevingstemperatuur</li>
+                            <li>Aantal belaste geleiders in dezelfde buis of bundel</li>
+                            <li>Maximaal toegestane spanningsval</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="card mb-4" id="calculator">
+                    <div class="card-header">
+                        <h3>Draadsectie Calculator</h3>
+                    </div>
+                    <div class="card-body">
+                        <p>Gebruik deze calculator om de juiste draadsectie te bepalen op basis van de AREI 2025 voorschriften.</p>
+                        
+                        <form id="draadsectieForm">
+                            <div class="row mb-3">
+                                <div class="col-md-6">
+                                    <label for="stroom" class="form-label">Stroomsterkte (A)</label>
+                                    <input type="number" class="form-control" id="stroom" min="0" step="0.1" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="kabelType" class="form-label">Kabeltype</label>
+                                    <select class="form-select" id="kabelType" required>
+                                        <option value="XVB">XVB (PVC geïsoleerd, PVC mantel)</option>
+                                        <option value="VOB">VOB (PVC geïsoleerd, zonder mantel)</option>
+                                        <option value="EXVB">EXVB (XLPE geïsoleerd, PVC mantel)</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="row mb-3">
+                                <div class="col-md-6">
+                                    <label for="installatieWijze" class="form-label">Installatiewijze</label>
+                                    <select class="form-select" id="installatieWijze" required>
+                                        <option value="inbouw">Inbouw (in buis in de muur)</option>
+                                        <option value="opbouw">Opbouw (in buis op de muur)</option>
+                                        <option value="kabelgoot">Kabelgoot</option>
+                                        <option value="ondergronds">Ondergronds</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="omgevingsTemp" class="form-label">Omgevingstemperatuur (°C)</label>
+                                    <input type="number" class="form-control" id="omgevingsTemp" value="30" min="0" max="60" required>
+                                </div>
+                            </div>
+                            
+                            <div class="row mb-3">
+                                <div class="col-md-6">
+                                    <label for="aantalGeleiders" class="form-label">Aantal belaste geleiders</label>
+                                    <select class="form-select" id="aantalGeleiders" required>
+                                        <option value="2">2 (Fase + Nul)</option>
+                                        <option value="3" selected>3 (Fase + Nul + Aarde)</option>
+                                        <option value="4">4 (3 Fasen + Aarde)</option>
+                                        <option value="5">5 (3 Fasen + Nul + Aarde)</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <button type="button" class="btn btn-primary" onclick="berekenDraadsectie()">Bereken Draadsectie</button>
+                        </form>
+                        
+                        <div id="resultaat" class="mt-3"></div>
+                        <div id="extraInfo"></div>
+                    </div>
+                </div>
+                
+                <div class="card mb-4" id="tabellen">
+                    <div class="card-header">
+                        <h3>Referentietabellen</h3>
+                    </div>
+                    <div class="card-body">
+                        <h4>Stroombelastbaarheid van Kabels</h4>
+                        <p>De onderstaande tabel geeft de maximale stroombelastbaarheid van verschillende kabeltypes en -secties weer onder standaardomstandigheden (30°C, niet meer dan 3 belaste geleiders).</p>
+                        
+                        <div class="table-responsive">
+                            <table class="table table-striped table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Doorsnede (mm²)</th>
+                                        <th>XVB Inbouw (A)</th>
+                                        <th>XVB Opbouw (A)</th>
+                                        <th>VOB in Buis (A)</th>
+                                        <th>EXVB Inbouw (A)</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>1,5</td>
+                                        <td>17</td>
+                                        <td>19</td>
+                                        <td>15</td>
+                                        <td>19</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2,5</td>
+                                        <td>23</td>
+                                        <td>26</td>
+                                        <td>20</td>
+                                        <td>26</td>
+                                    </tr>
+                                    <tr>
+                                        <td>4</td>
+                                        <td>31</td>
+                                        <td>35</td>
+                                        <td>27</td>
+                                        <td>35</td>
+                                    </tr>
+                                    <tr>
+                                        <td>6</td>
+                                        <td>40</td>
+                                        <td>46</td>
+                                        <td>35</td>
+                                        <td>45</td>
+                                    </tr>
+                                    <tr>
+                                        <td>10</td>
+                                        <td>54</td>
+                                        <td>63</td>
+                                        <td>48</td>
+                                        <td>61</td>
+                                    </tr>
+                                    <tr>
+                                        <td>16</td>
+                                        <td>73</td>
+                                        <td>85</td>
+                                        <td>64</td>
+                                        <td>82</td>
+                                    </tr>
+                                    <tr>
+                                        <td>25</td>
+                                        <td>95</td>
+                                        <td>110</td>
+                                        <td>86</td>
+                                        <td>108</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <h4>Correctiefactoren</h4>
+                        <p>Pas de volgende correctiefactoren toe op de waarden uit de bovenstaande tabel:</p>
+                        
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h5>Omgevingstemperatuur</h5>
+                                <div class="table-responsive">
+                                    <table class="table table-sm">
+                                        <thead>
+                                            <tr>
+                                                <th>Temperatuur (°C)</th>
+                                                <th>Factor</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>30</td>
+                                                <td>1,00</td>
+                                            </tr>
+                                            <tr>
+                                                <td>35</td>
+                                                <td>0,94</td>
+                                            </tr>
+                                            <tr>
+                                                <td>40</td>
+                                                <td>0,87</td>
+                                            </tr>
+                                            <tr>
+                                                <td>45</td>
+                                                <td>0,79</td>
+                                            </tr>
+                                            <tr>
+                                                <td>50</td>
+                                                <td>0,71</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <h5>Aantal Belaste Geleiders</h5>
+                                <div class="table-responsive">
+                                    <table class="table table-sm">
+                                        <thead>
+                                            <tr>
+                                                <th>Aantal</th>
+                                                <th>Factor</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>1-3</td>
+                                                <td>1,00</td>
+                                            </tr>
+                                            <tr>
+                                                <td>4-5</td>
+                                                <td>0,80</td>
+                                            </tr>
+                                            <tr>
+                                                <td>6-9</td>
+                                                <td>0,70</td>
+                                            </tr>
+                                            <tr>
+                                                <td>10-12</td>
+                                                <td>0,62</td>
+                                            </tr>
+                                            <tr>
+                                                <td>13-16</td>
+                                                <td>0,57</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="card mb-4" id="spanningsval">
+                    <div class="card-header">
+                        <h3>Spanningsval</h3>
+                    </div>
+                    <div class="card-body">
+                        <p>Volgens het AREI 2025 mag de spanningsval in een huishoudelijke elektrische installatie niet meer bedragen dan:</p>
+                        <ul>
+                            <li><strong>3%</strong> voor verlichtingscircuits</li>
+                            <li><strong>5%</strong> voor andere circuits (stopcontacten, toestellen, etc.)</li>
+                        </ul>
+                        
+                        <p>De spanningsval kan worden berekend met de volgende formule:</p>
+                        <div class="alert alert-info">
+                            <p><strong>Voor eenfasige circuits:</strong></p>
+                            <p>ΔU = 2 × ρ × L × I / S</p>
+                            <p><strong>Voor driefasige circuits:</strong></p>
+                            <p>ΔU = √3 × ρ × L × I / S</p>
+                            <p>Waarbij:</p>
+                            <ul>
+                                <li>ΔU = spanningsval (V)</li>
+                                <li>ρ = soortelijke weerstand van het materiaal (0,0225 Ω.mm²/m voor koper)</li>
+                                <li>L = lengte van de kabel (m)</li>
+                                <li>I = stroomsterkte (A)</li>
+                                <li>S = doorsnede van de geleider (mm²)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="card mb-4" id="brandreactie">
+                    <div class="card-header">
+                        <h3>Brandreactie en Brandweerstand</h3>
+                    </div>
+                    <div class="card-body">
+                        <p>Het AREI 2025 stelt specifieke eisen aan de brandreactie en brandweerstand van kabels, afhankelijk van de toepassing en locatie.</p>
+                        
+                        <h4>Brandreactieklassen</h4>
+                        <p>De Europese norm EN 13501-6 definieert de volgende brandreactieklassen voor kabels:</p>
+                        
+                        <div class="table-responsive">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Klasse</th>
+                                        <th>Beschrijving</th>
+                                        <th>Toepassing</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Eca</td>
+                                        <td>Basis brandreactie</td>
+                                        <td>Minimale vereiste voor alle kabels</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dca</td>
+                                        <td>Beperkte brandverspreiding</td>
+                                        <td>Standaard voor huishoudelijke installaties</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Cca</td>
+                                        <td>Verbeterde brandreactie</td>
+                                        <td>Publieke gebouwen, evacuatieroutes</td>
+                                    </tr>
+                                    <tr>
+                                        <td>B2ca</td>
+                                        <td>Hoge brandreactie</td>
+                                        <td>Kritische installaties, hoge risico's</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <h4>Aanvullende Classificaties</h4>
+                        <ul>
+                            <li><strong>s1, s2, s3</strong>: Rookproductie (s1 = laagste)</li>
+                            <li><strong>d0, d1, d2</strong>: Brandende druppels (d0 = geen)</li>
+                            <li><strong>a1, a2, a3</strong>: Zuurgraad (a1 = laagste)</li>
+                        </ul>
+                        
+                        <p>Voor huishoudelijke installaties is minimaal klasse Dca-s2,d2,a2 vereist volgens AREI 2025.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h5>AREI 2025 Controle-Tool</h5>
+                    <p>Een praktische gids voor elektrotechnische monteurs om huishoudelijke elektrische installaties conform de Belgische wetgeving uit te voeren.</p>
+                </div>
+                <div class="col-md-4">
+                    <h5>Nuttige Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="https://economie.fgov.be/nl/themas/energie/bronnen-en-dragers-van-energie/elektriciteit/veiligheid-en-controle-van/controle-van-huishoudelijke" target="_blank">FOD Economie - Controle van huishoudelijke elektrische installaties</a></li>
+                        <li><a href="https://www.volta-org.be/" target="_blank">Volta - Kenniscentrum elektrotechniek</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h5>Disclaimer</h5>
+                    <p>Deze website is bedoeld als hulpmiddel en vervangt niet de officiële AREI-reglementering. Raadpleeg altijd de meest recente officiële publicatie.</p>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-12 text-center">
+                    <p class="mb-0">&copy; 2025 AREI Controle-Tool | Alle rechten voorbehouden</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/custom.js"></script>
+</body>
+</html>

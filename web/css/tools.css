@@ -1,0 +1,103 @@
+/* Placeholder afbeeldingen voor de veiligheidszones visualisatie */
+.zone-container {
+    position: relative;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    min-height: 300px;
+    text-align: center;
+}
+
+.zone-container::before {
+    content: "Afbeelding placeholder";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #6c757d;
+    font-style: italic;
+}
+
+/* Aanvullende stijlen voor de interactieve elementen */
+.tool-card {
+    transition: transform 0.3s ease;
+}
+
+.tool-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.result-container {
+    border-left: 4px solid var(--primary-color);
+    padding-left: 1rem;
+    margin-top: 1.5rem;
+}
+
+/* Stijlen voor de keuring checklist */
+.checklist-item {
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    transition: background-color 0.2s ease;
+}
+
+.checklist-item:hover {
+    background-color: rgba(0, 86, 179, 0.05);
+}
+
+.checklist-item.completed {
+    background-color: rgba(40, 167, 69, 0.1);
+}
+
+/* Stijlen voor de spanningsval calculator */
+.calculator-result {
+    padding: 1rem;
+    border-radius: 0.25rem;
+    margin-top: 1rem;
+}
+
+.calculator-result.success {
+    background-color: rgba(40, 167, 69, 0.1);
+    border-left: 4px solid var(--success-color);
+}
+
+.calculator-result.warning {
+    background-color: rgba(255, 193, 7, 0.1);
+    border-left: 4px solid var(--warning-color);
+}
+
+.calculator-result.danger {
+    background-color: rgba(220, 53, 69, 0.1);
+    border-left: 4px solid var(--danger-color);
+}
+
+/* Print-vriendelijke stijlen */
+@media print {
+    .sidebar, .navbar, .footer, .breadcrumb {
+        display: none;
+    }
+    
+    .container {
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+    }
+    
+    .card {
+        border: 1px solid #ddd;
+        margin-bottom: 1rem;
+        break-inside: avoid;
+    }
+    
+    .card-header {
+        background-color: #f8f9fa !important;
+        color: #333 !important;
+    }
+    
+    .btn {
+        display: none;
+    }
+}

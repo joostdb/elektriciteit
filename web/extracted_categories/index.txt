@@ -1,0 +1,8 @@
+# AREI 2025 - Geëxtraheerde Categorieën
+
+- [Draadsecties](draadsecties.txt)
+- [Veiligheidszones](veiligheidszones.txt)
+- [Bescherming](bescherming.txt)
+- [Materialen](materialen.txt)
+- [Installatiemethoden](installatiemethoden.txt)
+- [Keuring](keuring.txt)

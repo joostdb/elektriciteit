@@ -1,0 +1,46 @@
+# Geïdentificeerde secties in AREI 2025
+
+- Deel: Algemene voorschriften voor het elektrisch materieel
+- Deel: Begrippen en definities
+- Deel: Bepaling van de algemene kenmerken van elektrische
+- Hoofdstuk: 5. Kritische installaties
+- Deel: Beschermingsmaatregelen
+- Hoofdstuk: 1. Inleiding
+- Hoofdstuk: 2. Bescherming tegen elektrische schokken
+- Afdeling: 2.1. Algemeenheden
+- Afdeling: 2.2. Bescherming tegen elektrische schokken bij rechtstreekse aanraking
+- Afdeling: 2.3. Bescherming tegen elektrische schokken bij onrechtstreekse aanra-
+- Afdeling: 2.4. Aanwending van beschermingsmaatregelen tegen elektrische schok-
+- Afdeling: 2.5. Beschermingsmaatregelen op zeer lage spanning
+- Hoofdstuk: 3. Bescherming tegen thermische invloeden
+- Afdeling: 3.1. Algemeenheden
+- Afdeling: 3.2. Bescherming tegen brandwonden
+- Afdeling: 3.4. Bescherming tegen explosiegevaar in explosieve atmosferen
+- Hoofdstuk: 4. Elektrische bescherming tegen overstroom
+- Afdeling: 4.1. Algemeenheden
+- Afdeling: 4.2. Bescherming tegen kortsluiting bij lage en zeer lage spanning
+- Afdeling: 4.3. Bescherming tegen overbelasting bij lage en zeer lage spanning
+- Afdeling: 4.4. Bescherming tegen overstroom van de fasegeleiders en van de nul-
+- Hoofdstuk: 5. Bescherming tegen overspanning
+- Afdeling: 5.1. Principe
+- Afdeling: 5.2. Voorzorgsmaatregelen bij het installeren
+- Afdeling: 5.3. Overspanningsbegrenzer in IT -netten
+- Afdeling: 5.4. Gemeenschappelijke buizen voor energiegeleiders en telecommuni-
+- Hoofdstuk: 6. Bescherming tegen bepaalde andere uitwerkingen
+- Afdeling: 6.1. Bescherming tegen de effecten van spanningsdalingen
+- Afdeling: 6.2. Bescherming tegen biologische effecten van elektrische en magneti-
+- Afdeling: 6.3. Bescherming tegen besmettingsrisico's
+- Afdeling: 6.4. Bescherming tegen risico's te wijten aan bewegingen
+- Deel: Keuze en gebruik van het materieel
+- Deel: Controles van installaties
+- Deel: Bepalingen voor bijzondere installaties en ruimten
+- Deel: Bijzondere voorschriften met betrekking tot bestaande
+- Deel: voor het gedeelte
+- Deel: , voor het gedeelte
+- Deel: voor het gedeelte
+- Deel: , voor het gedeelte
+- Deel: voor het gedeelte
+- Deel: , voor het gedeelte
+- Deel: voor het gedeelte
+- Deel: , voor het gedeelte
+- Deel: Algemene voorschriften door personen na te leven
