@@ -421,8 +421,177 @@
             ctx.restore();
         }
 
-        // Overige functies (handleMouse*, zoom, snapToGrid, save/load, etc.)
-        // ... [De rest van de functies zoals eerder beschreven] ...
+    function zoom(factor) {
+        const center = {
+            x: canvas.width / 2 / scale - offset.x,
+            y: canvas.height / 2 / scale - offset.y
+        };
+        
+        scale *= factor;
+        scale = Math.min(Math.max(minScale, scale), maxScale);
+        
+        offset.x = canvas.width / 2 / scale - center.x;
+        offset.y = canvas.height / 2 / scale - center.y;
+        
+        redraw();
+    }
+
+    function zoomToFit() {
+        if (elements.length === 0 && wires.length === 0) return;
+        
+        let minX = Infinity, minY = Infinity, 
+            maxX = -Infinity, maxY = -Infinity;
+        
+        elements.forEach(el => {
+            minX = Math.min(minX, el.x - 20);
+            maxX = Math.max(maxX, el.x + 20);
+            minY = Math.min(minY, el.y - 20);
+            maxY = Math.max(maxY, el.y + 20);
+        });
+        
+        wires.forEach(wire => {
+            wire.points.forEach((coord, i) => {
+                const axis = i % 2 === 0 ? 'x' : 'y';
+                const value = coord;
+                if (axis === 'x') {
+                    minX = Math.min(minX, value - 5);
+                    maxX = Math.max(maxX, value + 5);
+                } else {
+                    minY = Math.min(minY, value - 5);
+                    maxY = Math.max(maxY, value + 5);
+                }
+            });
+        });
+        
+        const margin = 50;
+        const width = maxX - minX + margin * 2;
+        const height = maxY - minY + margin * 2;
+        
+        const scaleX = canvas.width / width;
+        const scaleY = canvas.height / height;
+        scale = Math.min(scaleX, scaleY, maxScale);
+        
+        offset.x = -minX + margin + (canvas.width / scale - width) / 2;
+        offset.y = -minY + margin + (canvas.height / scale - height) / 2;
+        
+        redraw();
+    }
+
+    function updateStatusMessage() {
+        const messages = {
+            'wire': 'Klik op een component om een draad te beginnen',
+            'select': 'Selectiemodus - Klik op een component of draad',
+            'delete': 'Verwijderen - Klik op een component of draad',
+            'default': `Plaats ${selectedTool} - Klik om te plaatsen`
+        };
+        statusMessage.text(messages[selectedTool] || messages.default);
+    }
+
+    function getCanvasCoordinates(e) {
+        const rect = canvas.getBoundingClientRect();
+        return {
+            x: (e.clientX - rect.left - offset.x) / scale,
+            y: (e.clientY - rect.top - offset.y) / scale
+        };
+    }
+
+    function snapToGrid(x, y) {
+        return {
+            x: Math.round(x / gridSize) * gridSize,
+            y: Math.round(y / gridSize) * gridSize
+        };
+    }
+
+    function handleKeyDown(e) {
+        if (e.key === 'Delete' && selectedElement) {
+            elements = elements.filter(el => el.id !== selectedElement.id);
+            wires = wires.filter(wire => 
+                !wire.connectedTo.includes(selectedElement.id)
+            );
+            selectedElement = null;
+            redraw();
+        }
+    }
+
+    function saveProject() {
+        const project = {
+            elements: elements,
+            wires: wires,
+            customComponents: customComponents,
+            scale: scale,
+            offset: offset
+        };
+        const data = JSON.stringify(project);
+        const blob = new Blob([data], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'schema.json';
+        a.click();
+        URL.revokeObjectURL(url);
+    }
+
+    function loadProject() {
+        const input = document.createElement('input');
+        input.type = 'file';
+        input.accept = '.json';
+        input.onchange = e => {
+            const file = e.target.files[0];
+            const reader = new FileReader();
+            reader.onload = event => {
+                const project = JSON.parse(event.target.result);
+                elements = project.elements || [];
+                wires = project.wires || [];
+                customComponents = project.customComponents || [];
+                scale = project.scale || 1;
+                offset = project.offset || { x: 0, y: 0 };
+                updateCustomComponentsList();
+                redraw();
+            };
+            reader.readAsText(file);
+        };
+        input.click();
+    }
+
+    function printCanvas() {
+        const printWindow = window.open('', '_blank');
+        const printContent = `
+            <!DOCTYPE html>
+            <html>
+            <head>
+                <title>Print</title>
+                <style>
+                    body { margin:20px; }
+                    canvas { border:1px solid #ccc; }
+                </style>
+            </head>
+            <body>
+                <canvas id="printCanvas"></canvas>
+                <script>
+                    (function() {
+                        const canvas = document.getElementById('printCanvas');
+                        const ctx = canvas.getContext('2d');
+                        canvas.width = ${canvas.width};
+                        canvas.height = ${canvas.height};
+                        
+                        ${drawGrid.toString()}
+                        ${drawElements.toString()}
+                        
+                        ctx.fillStyle = 'white';
+                        ctx.fillRect(0, 0, canvas.width, canvas.height);
+                        
+                        drawGrid(ctx, canvas);
+                        drawElements(ctx, canvas);
+                        
+                        setTimeout(() => window.print(), 500);
+                    })();
+                <\/script>
+            </body>
+            </html>
+        `;
+        printWindow.document.write(printContent);
+        printWindow.document.close();
+    }
 
         init();
     });
