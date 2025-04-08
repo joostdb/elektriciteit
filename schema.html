@@ -430,6 +430,29 @@
 
         return Math.sqrt(Math.pow(x - xx, 2) + Math.pow(y - yy, 2));
     }
+         function handleWheel(e) {
+    e.preventDefault();
+    
+    const zoomIntensity = 0.1;
+    const mousePosBeforeZoom = getCanvasCoordinates(e);
+    
+    // Pas de schaal aan
+    if (e.deltaY < 0) {
+      scale *= 1 + zoomIntensity;
+    } else {
+      scale *= 1 - zoomIntensity;
+    }
+    
+    // Beperk de schaal
+    scale = Math.min(Math.max(0.5, scale), 3);
+    
+    // Pas de offset aan zodat we inzoomen op de muispositie
+    const mousePosAfterZoom = getCanvasCoordinates(e);
+    offset.x -= (mousePosAfterZoom.x - mousePosBeforeZoom.x) * scale;
+    offset.y -= (mousePosAfterZoom.y - mousePosBeforeZoom.y) * scale;
+    
+    redraw();
+  }
         
         function drawGrid() {
             ctx.save();
