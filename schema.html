@@ -187,115 +187,139 @@
         <div id="coordinates">X: 0 | Y: 0 | Schaal: 100%</div>
     </div>
 
-    <script>
-    $(document).ready(function() {
-        const canvas = $('#schemaCanvas')[0];
-        const ctx = canvas.getContext('2d');
-        const statusMessage = $('#status-message');
-        const coordinatesDisplay = $('#coordinates');
 
-        // Configuratie
-        const gridSize = 20;
-        const snapTolerance = 10;
-        const minScale = 0.2;
-        const maxScale = 3.0;
+<script>
+$(document).ready(function() {
+    // Configuratie
+    const canvas = $('#schemaCanvas')[0];
+    const ctx = canvas.getContext('2d');
+    const gridSize = 20;
+    const minScale = 0.2;
+    const maxScale = 3.0;
 
-        // Applicatiestatus
-        let elements = [];
-        let wires = [];
-        let customComponents = [];
-        let selectedTool = 'select';
-        let selectedElement = null;
-        let isDrawingWire = false;
-        let currentWire = null;
-        let mousePos = { x: 0, y: 0 };
-        let scale = 1.0;
-        let offset = { x: 0, y: 0 };
-        let isDragging = false;
-        let dragStart = { x: 0, y: 0 };
+    // Applicatiestatus
+    let elements = [];
+    let wires = [];
+    let customComponents = [];
+    let selectedTool = 'select';
+    let selectedElement = null;
+    let isDrawingWire = false;
+    let currentWire = null;
+    let mousePos = { x: 0, y: 0 };
+    let scale = 1.0;
+    let offset = { x: 0, y: 0 };
+    let isDragging = false;
+    let dragStart = { x: 0, y: 0 };
 
-        // Initialisatie
-        function init() {
-            setupEventListeners();
-            loadCustomComponents();
-            drawGrid();
-            updateStatusBar();
-        }
+    // Initialisatie
+    function init() {
+        setupEventListeners();
+        loadCustomComponents();
+        redraw();
+    }
 
-        // Event listeners
-        function setupEventListeners() {
-            $('.symbol').on('click', function() {
-                $('.symbol').removeClass('active');
-                $(this).addClass('active');
-                selectedTool = $(this).data('type');
-                updateStatusMessage();
+    // Event listeners
+    function setupEventListeners() {
+        $('.symbol').on('click', function() {
+            $('.symbol').removeClass('active');
+            $(this).addClass('active');
+            selectedTool = $(this).data('type');
+            updateStatusMessage();
+        });
+
+        $('#add-component-btn').click(addCustomComponent);
+        $('#btn-zoom-in').click(() => zoom(1.2));
+        $('#btn-zoom-out').click(() => zoom(0.8));
+        $('#btn-zoom-fit').click(zoomToFit);
+        $('#btn-save').click(saveProject);
+        $('#btn-load').click(loadProject);
+        $('#btn-print').click(printCanvas);
+
+        $(canvas).on({
+            mousedown: handleMouseDown,
+            mousemove: handleMouseMove,
+            mouseup: handleMouseUp,
+            mouseleave: handleMouseLeave,
+            contextmenu: e => e.preventDefault(),
+            wheel: handleWheel
+        });
+
+        $(document).keydown(handleKeyDown);
+    }
+
+    // Status updates
+    function updateStatusBar() {
+        const snapped = snapToGrid(mousePos.x, mousePos.y);
+        $('#coordinates').text(`X: ${snapped.x} | Y: ${snapped.y} | Schaal: ${Math.round(scale * 100)}%`);
+    }
+
+    function updateStatusMessage() {
+        const messages = {
+            'wire': 'Klik op een component om een draad te beginnen',
+            'select': 'Selectiemodus - Klik op een component of draad',
+            'delete': 'Verwijderen - Klik op een component of draad',
+            'default': `Plaats ${selectedTool} - Klik om te plaatsen`
+        };
+        $('#status-message').text(messages[selectedTool] || messages.default);
+    }
+
+    // Zoom functionaliteit
+    function zoom(factor) {
+        const center = {
+            x: canvas.width / 2 / scale - offset.x,
+            y: canvas.height / 2 / scale - offset.y
+        };
+        
+        scale = Math.min(maxScale, Math.max(minScale, scale * factor));
+        
+        offset.x = canvas.width / 2 / scale - center.x;
+        offset.y = canvas.height / 2 / scale - center.y;
+        
+        redraw();
+    }
+
+    function zoomToFit() {
+        if (elements.length === 0 && wires.length === 0) return;
+        
+        let bounds = {
+            minX: Infinity,
+            minY: Infinity,
+            maxX: -Infinity,
+            maxY: -Infinity
+        };
+
+        elements.forEach(el => {
+            bounds.minX = Math.min(bounds.minX, el.x);
+            bounds.maxX = Math.max(bounds.maxX, el.x);
+            bounds.minY = Math.min(bounds.minY, el.y);
+            bounds.maxY = Math.max(bounds.maxY, el.y);
+        });
+
+        wires.forEach(wire => {
+            wire.points.forEach((coord, i) => {
+                const axis = i % 2 === 0 ? 'x' : 'y';
+                const value = coord;
+                bounds[`min${axis.toUpperCase()}`] = Math.min(bounds[`min${axis.toUpperCase()}`], value);
+                bounds[`max${axis.toUpperCase()}`] = Math.max(bounds[`max${axis.toUpperCase()}`], value);
             });
+        });
 
-            $('#add-component-btn').click(addCustomComponent);
-            $('#btn-zoom-in').click(() => zoom(1.2));
-            $('#btn-zoom-out').click(() => zoom(0.8));
-            $('#btn-zoom-fit').click(zoomToFit);
-            $('#btn-save').click(saveProject);
-            $('#btn-load').click(loadProject);
-            $('#btn-print').click(printCanvas);
+        const margin = 50;
+        const width = bounds.maxX - bounds.minX + margin * 2;
+        const height = bounds.maxY - bounds.minY + margin * 2;
+        
+        const scaleX = canvas.width / width;
+        const scaleY = canvas.height / height;
+        scale = Math.min(scaleX, scaleY, maxScale);
+        
+        offset.x = -bounds.minX + margin;
+        offset.y = -bounds.minY + margin;
+        
+        redraw();
+    }
 
-            $(canvas).on({
-                mousedown: handleMouseDown,
-                mousemove: handleMouseMove,
-                mouseup: handleMouseUp,
-                mouseleave: handleMouseLeave,
-                contextmenu: e => e.preventDefault(),
-                wheel: handleWheel
-            });
-
-            $(document).keydown(handleKeyDown);
-        }
-
-        // Aangepaste componenten
-        function addCustomComponent() {
-            const componentName = $('#new-component-input').val().trim();
-            if (!componentName) return alert('Voer een naam in');
-            
-            if (customComponents.some(c => c.name.toLowerCase() === componentName.toLowerCase())) {
-                return alert('Component bestaat al!');
-            }
-
-            const newComponent = {
-                name: componentName,
-                type: 'custom-' + Date.now()
-            };
-
-            customComponents.push(newComponent);
-            $('#new-component-input').val('');
-            updateCustomComponentsList();
-            saveCustomComponents();
-        }
-
-        function updateCustomComponentsList() {
-            $('#custom-components-list').empty();
-            customComponents.forEach(component => {
-                $('<div>')
-                    .addClass('symbol')
-                    .attr('data-type', component.type)
-                    .text(component.name)
-                    .appendTo('#custom-components-list');
-            });
-        }
-
-        function saveCustomComponents() {
-            localStorage.setItem('customComponents', JSON.stringify(customComponents));
-        }
-
-        function loadCustomComponents() {
-            const saved = localStorage.getItem('customComponents');
-            if (saved) {
-                customComponents = JSON.parse(saved);
-                updateCustomComponentsList();
-            }
-        }
-
-        // Tekenfuncties
-            function handleMouseDown(e) {
+    // Muis handlers
+    function handleMouseDown(e) {
         const pos = getCanvasCoordinates(e);
         mousePos = pos;
 
@@ -370,90 +394,60 @@
         isDragging = false;
     }
 
+    // Overige functies
     function redraw() {
         drawGrid();
         drawElements();
         updateStatusBar();
     }
 
-    function findElementAtPosition(pos) {
-        for (let i = elements.length - 1; i >= 0; i--) {
-            const el = elements[i];
-            const distance = Math.sqrt(
-                Math.pow(pos.x - el.x, 2) + Math.pow(pos.y - el.y, 2)
-            );
-            if (distance < 15) return el;
-        }
-        return null;
-    }
+    // ... (Voeg hier de overige functies toe: drawGrid, drawElements, 
+    // handleWireDrawing, addComponent, findElementAtPosition, 
+    // saveProject, loadProject, printCanvas, etc.) ...
+    // Tekenfuncties
+    // Aangepaste componenten
+        function addCustomComponent() {
+            const componentName = $('#new-component-input').val().trim();
+            if (!componentName) return alert('Voer een naam in');
+            
+            if (customComponents.some(c => c.name.toLowerCase() === componentName.toLowerCase())) {
+                return alert('Component bestaat al!');
+            }
 
-    function findWireAtPosition(pos) {
-        const threshold = 5;
-        for (let i = wires.length - 1; i >= 0; i--) {
-            const wire = wires[i];
-            for (let j = 0; j < wire.points.length - 2; j += 2) {
-                const x1 = wire.points[j];
-                const y1 = wire.points[j+1];
-                const x2 = wire.points[j+2];
-                const y2 = wire.points[j+3];
-                const distance = distanceToLineSegment(
-                    pos.x, pos.y, x1, y1, x2, y2
-                );
-                if (distance < threshold) return wire;
+            const newComponent = {
+                name: componentName,
+                type: 'custom-' + Date.now()
+            };
+
+            customComponents.push(newComponent);
+            $('#new-component-input').val('');
+            updateCustomComponentsList();
+            saveCustomComponents();
+        }
+
+        function updateCustomComponentsList() {
+            $('#custom-components-list').empty();
+            customComponents.forEach(component => {
+                $('<div>')
+                    .addClass('symbol')
+                    .attr('data-type', component.type)
+                    .text(component.name)
+                    .appendTo('#custom-components-list');
+            });
+        }
+
+        function saveCustomComponents() {
+            localStorage.setItem('customComponents', JSON.stringify(customComponents));
+        }
+
+        function loadCustomComponents() {
+            const saved = localStorage.getItem('customComponents');
+            if (saved) {
+                customComponents = JSON.parse(saved);
+                updateCustomComponentsList();
             }
         }
-        return null;
-    }
 
-    function distanceToLineSegment(x, y, x1, y1, x2, y2) {
-        const A = x - x1;
-        const B = y - y1;
-        const C = x2 - x1;
-        const D = y2 - y1;
-
-        const dot = A * C + B * D;
-        const len_sq = C * C + D * D;
-        let param = -1;
-        if (len_sq !== 0) param = dot / len_sq;
-
-        let xx, yy;
-        if (param < 0) {
-            xx = x1;
-            yy = y1;
-        } else if (param > 1) {
-            xx = x2;
-            yy = y2;
-        } else {
-            xx = x1 + param * C;
-            yy = y1 + param * D;
-        }
-
-        return Math.sqrt(Math.pow(x - xx, 2) + Math.pow(y - yy, 2));
-    }
-         function handleWheel(e) {
-    e.preventDefault();
-    
-    const zoomIntensity = 0.1;
-    const mousePosBeforeZoom = getCanvasCoordinates(e);
-    
-    // Pas de schaal aan
-    if (e.deltaY < 0) {
-      scale *= 1 + zoomIntensity;
-    } else {
-      scale *= 1 - zoomIntensity;
-    }
-    
-    // Beperk de schaal
-    scale = Math.min(Math.max(0.5, scale), 3);
-    
-    // Pas de offset aan zodat we inzoomen op de muispositie
-    const mousePosAfterZoom = getCanvasCoordinates(e);
-    offset.x -= (mousePosAfterZoom.x - mousePosBeforeZoom.x) * scale;
-    offset.y -= (mousePosAfterZoom.y - mousePosBeforeZoom.y) * scale;
-    
-    redraw();
-  }
-        
         function drawGrid() {
             ctx.save();
             ctx.setTransform(1, 0, 0, 1, 0, 0);
@@ -580,294 +574,11 @@
             ctx.restore();
         }
 
-    function zoom(factor) {
-        const center = {
-            x: canvas.width / 2 / scale - offset.x,
-            y: canvas.height / 2 / scale - offset.y
-        };
-        
-        scale *= factor;
-        scale = Math.min(Math.max(minScale, scale), maxScale);
-        
-        offset.x = canvas.width / 2 / scale - center.x;
-        offset.y = canvas.height / 2 / scale - center.y;
-        
-        redraw();
-    }
 
-    function zoomToFit() {
-        if (elements.length === 0 && wires.length === 0) return;
-        
-        let minX = Infinity, minY = Infinity, 
-            maxX = -Infinity, maxY = -Infinity;
-        
-        elements.forEach(el => {
-            minX = Math.min(minX, el.x - 20);
-            maxX = Math.max(maxX, el.x + 20);
-            minY = Math.min(minY, el.y - 20);
-            maxY = Math.max(maxY, el.y + 20);
-        });
-        
-        wires.forEach(wire => {
-            wire.points.forEach((coord, i) => {
-                const axis = i % 2 === 0 ? 'x' : 'y';
-                const value = coord;
-                if (axis === 'x') {
-                    minX = Math.min(minX, value - 5);
-                    maxX = Math.max(maxX, value + 5);
-                } else {
-                    minY = Math.min(minY, value - 5);
-                    maxY = Math.max(maxY, value + 5);
-                }
-            });
-        });
-        
-        const margin = 50;
-        const width = maxX - minX + margin * 2;
-        const height = maxY - minY + margin * 2;
-        
-        const scaleX = canvas.width / width;
-        const scaleY = canvas.height / height;
-        scale = Math.min(scaleX, scaleY, maxScale);
-        
-        offset.x = -minX + margin + (canvas.width / scale - width) / 2;
-        offset.y = -minY + margin + (canvas.height / scale - height) / 2;
-        
-        redraw();
-    }
-
-    function updateStatusMessage() {
-        const messages = {
-            'wire': 'Klik op een component om een draad te beginnen',
-            'select': 'Selectiemodus - Klik op een component of draad',
-            'delete': 'Verwijderen - Klik op een component of draad',
-            'default': `Plaats ${selectedTool} - Klik om te plaatsen`
-        };
-        statusMessage.text(messages[selectedTool] || messages.default);
-    }
-
-    function getCanvasCoordinates(e) {
-        const rect = canvas.getBoundingClientRect();
-        return {
-            x: (e.clientX - rect.left - offset.x) / scale,
-            y: (e.clientY - rect.top - offset.y) / scale
-        };
-    }
-
-    function snapToGrid(x, y) {
-        return {
-            x: Math.round(x / gridSize) * gridSize,
-            y: Math.round(y / gridSize) * gridSize
-        };
-    }
-
-    function handleKeyDown(e) {
-        if (e.key === 'Delete' && selectedElement) {
-            elements = elements.filter(el => el.id !== selectedElement.id);
-            wires = wires.filter(wire => 
-                !wire.connectedTo.includes(selectedElement.id)
-            );
-            selectedElement = null;
-            redraw();
-        }
-    }
-
-    function saveProject() {
-        const project = {
-            elements: elements,
-            wires: wires,
-            customComponents: customComponents,
-            scale: scale,
-            offset: offset
-        };
-        const data = JSON.stringify(project);
-        const blob = new Blob([data], { type: 'application/json' });
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = 'schema.json';
-        a.click();
-        URL.revokeObjectURL(url);
-    }
-
-    function loadProject() {
-        const input = document.createElement('input');
-        input.type = 'file';
-        input.accept = '.json';
-        input.onchange = e => {
-            const file = e.target.files[0];
-            const reader = new FileReader();
-            reader.onload = event => {
-                const project = JSON.parse(event.target.result);
-                elements = project.elements || [];
-                wires = project.wires || [];
-                customComponents = project.customComponents || [];
-                scale = project.scale || 1;
-                offset = project.offset || { x: 0, y: 0 };
-                updateCustomComponentsList();
-                redraw();
-            };
-            reader.readAsText(file);
-        };
-        input.click();
-    }
-
-    $(function () {
-    const canvas = document.getElementById("canvas");
-    const ctx = canvas.getContext("2d");
-
-    let scale = 1;
-    let offsetX = 0;
-    let offsetY = 0;
-    let isDragging = false;
-    let dragStart = { x: 0, y: 0 };
-
-    const gridSize = 20;
-    const zoomFactor = 1.1;
-
-    const symbols = [
-        { x: 100, y: 100, width: 60, height: 30, color: "blue" },
-        { x: 200, y: 150, width: 60, height: 30, color: "green" },
-    ];
-
-    function toWorld(x, y) {
-        return {
-            x: (x - offsetX) / scale,
-            y: (y - offsetY) / scale
-        };
-    }
-
-    function toScreen(x, y) {
-        return {
-            x: x * scale + offsetX,
-            y: y * scale + offsetY
-        };
-    }
-
-    function drawGrid() {
-        const step = gridSize;
-        const startX = -offsetX / scale;
-        const startY = -offsetY / scale;
-        const endX = startX + canvas.width / scale;
-        const endY = startY + canvas.height / scale;
-
-        ctx.beginPath();
-        ctx.strokeStyle = "#ddd";
-        for (let x = Math.floor(startX / step) * step; x < endX; x += step) {
-            const sx = x * scale + offsetX;
-            ctx.moveTo(sx, 0);
-            ctx.lineTo(sx, canvas.height);
-        }
-        for (let y = Math.floor(startY / step) * step; y < endY; y += step) {
-            const sy = y * scale + offsetY;
-            ctx.moveTo(0, sy);
-            ctx.lineTo(canvas.width, sy);
-        }
-        ctx.stroke();
-    }
-
-    function drawSymbols() {
-        for (const symbol of symbols) {
-            const screenPos = toScreen(symbol.x, symbol.y);
-            ctx.fillStyle = symbol.color;
-            ctx.fillRect(screenPos.x, screenPos.y, symbol.width * scale, symbol.height * scale);
-        }
-    }
-
-    function render() {
-        ctx.clearRect(0, 0, canvas.width, canvas.height);
-        drawGrid();
-        drawSymbols();
-    }
-
-    function getSymbolAt(mouseX, mouseY) {
-        const { x, y } = toWorld(mouseX, mouseY);
-        return symbols.find(s =>
-            x >= s.x && x <= s.x + s.width &&
-            y >= s.y && y <= s.y + s.height
-        );
-    }
-
-    // Event Listeners
-    $("#canvas").on("mousedown", function (e) {
-        const rect = canvas.getBoundingClientRect();
-        const mouseX = e.clientX - rect.left;
-        const mouseY = e.clientY - rect.top;
-
-        const selectedSymbol = getSymbolAt(mouseX, mouseY);
-        if (selectedSymbol) {
-            isDragging = true;
-            dragStart = {
-                x: mouseX,
-                y: mouseY,
-                symbol: selectedSymbol
-            };
-        } else {
-            isDragging = true;
-            dragStart = { x: mouseX - offsetX, y: mouseY - offsetY };
-        }
-    });
-
-    $("#canvas").on("mousemove", function (e) {
-        if (!isDragging) return;
-
-        const rect = canvas.getBoundingClientRect();
-        const mouseX = e.clientX - rect.left;
-        const mouseY = e.clientY - rect.top;
-
-        if (dragStart.symbol) {
-            const dx = (mouseX - dragStart.x) / scale;
-            const dy = (mouseY - dragStart.y) / scale;
-            dragStart.symbol.x += dx;
-            dragStart.symbol.y += dy;
-            dragStart.x = mouseX;
-            dragStart.y = mouseY;
-        } else {
-            offsetX = mouseX - dragStart.x;
-            offsetY = mouseY - dragStart.y;
-        }
-        render();
-    });
-
-    $(window).on("mouseup", function () {
-        isDragging = false;
-        dragStart = {};
-    });
-
-    $("#canvas").on("wheel", function (e) {
-        e.preventDefault();
-
-        const rect = canvas.getBoundingClientRect();
-        const mouseX = e.clientX - rect.left;
-        const mouseY = e.clientY - rect.top;
-
-        const { x: worldX, y: worldY } = toWorld(mouseX, mouseY);
-
-        const direction = e.originalEvent.deltaY < 0 ? 1 : -1;
-        const factor = direction > 0 ? zoomFactor : 1 / zoomFactor;
-        const newScale = scale * factor;
-
-        offsetX = mouseX - worldX * newScale;
-        offsetY = mouseY - worldY * newScale;
-        scale = newScale;
-
-        render();
-    });
-
-    // Resize support
-    function resizeCanvas() {
-        canvas.width = window.innerWidth;
-        canvas.height = window.innerHeight;
-        render();
-    }
-
-    $(window).on("resize", resizeCanvas);
-    resizeCanvas();
+    // Start de applicatie
+    init();
 });
+</script>
 
-
-        init();
-    });
-    </script>
 </body>
 </html>
