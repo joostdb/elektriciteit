@@ -421,7 +421,153 @@
                 }
                 ctx.stroke();
             });
-
+// Muis events
+  function handleMouseDown(e) {
+    const pos = getCanvasCoordinates(e);
+    mousePos = pos;
+    
+    if (e.button === 1 || (e.button === 0 && e.ctrlKey)) {
+      // Middelmuis of linker muis + Ctrl voor panning
+      isDragging = true;
+      dragStart = { x: pos.x - offset.x, y: pos.y - offset.y };
+      canvas.style.cursor = 'grabbing';
+      return;
+    }
+    
+    if (e.button === 2) {
+      // Rechtermuisknop - annuleer tekenen draad
+      if (isDrawingWire) {
+        isDrawingWire = false;
+        currentWire = null;
+        redraw();
+      }
+      return;
+    }
+    
+    if (selectedTool === 'wire') {
+      if (!isDrawingWire) {
+        // Begin een nieuwe draad
+        const startElement = findElementAtPosition(pos);
+        if (startElement) {
+          currentWire = {
+            points: [snapToGrid(pos.x), snapToGrid(pos.y)],
+            connectedTo: [startElement.id],
+            phase: null
+          };
+          isDrawingWire = true;
+        }
+      } else {
+        // Voeg een punt toe aan de draad
+        currentWire.points.push(snapToGrid(pos.x), snapToGrid(pos.y));
+        
+        // Kijk of we verbinden met een component
+        const endElement = findElementAtPosition(pos);
+        if (endElement) {
+          currentWire.connectedTo.push(endElement.id);
+          wires.push(currentWire);
+          isDrawingWire = false;
+          currentWire = null;
+        }
+      }
+    } else if (selectedTool === 'select') {
+      // Selecteer element
+      selectedElement = findElementAtPosition(pos);
+    } else if (selectedTool === 'delete') {
+      // Verwijder element
+      const element = findElementAtPosition(pos);
+      if (element) {
+        elements = elements.filter(el => el.id !== element.id);
+        // Verwijder ook verbonden draden
+        wires = wires.filter(wire => 
+          !wire.connectedTo.includes(element.id)
+        );
+      }
+    } else {
+      // Plaats een nieuw component
+      const snappedPos = snapToGrid(pos.x, pos.y);
+      const newElement = {
+        id: Date.now().toString(),
+        x: snappedPos.x,
+        y: snappedPos.y,
+        type: selectedTool
+      };
+      elements.push(newElement);
+    }
+    
+    redraw();
+  }
+  
+  function handleMouseMove(e) {
+    const pos = getCanvasCoordinates(e);
+    mousePos = pos;
+    updateStatusBar();
+    
+    if (isDragging) {
+      offset.x = pos.x - dragStart.x;
+      offset.y = pos.y - dragStart.y;
+      redraw();
+      return;
+    }
+    
+    if (isDrawingWire && currentWire) {
+      // Update het laatste punt van de draad tijdens het tekenen
+      const lastIdx = currentWire.points.length - 1;
+      currentWire.points[lastIdx] = snapToGrid(pos.x);
+      currentWire.points[lastIdx + 1] = snapToGrid(pos.y);
+      redraw();
+    }
+    
+    // Update cursor stijl
+    if (selectedTool === 'wire') {
+      canvas.style.cursor = 'crosshair';
+    } else if (selectedTool === 'select' && findElementAtPosition(pos)) {
+      canvas.style.cursor = 'pointer';
+    } else if (selectedTool === 'delete' && findElementAtPosition(pos)) {
+      canvas.style.cursor = 'not-allowed';
+    } else {
+      canvas.style.cursor = 'default';
+    }
+  }
+  
+  function handleMouseUp(e) {
+    if (isDragging) {
+      isDragging = false;
+      canvas.style.cursor = '';
+    }
+  }
+  
+  function handleMouseLeave() {
+    if (isDrawingWire) {
+      isDrawingWire = false;
+      currentWire = null;
+      redraw();
+    }
+  }
+  
+  function handleWheel(e) {
+    e.preventDefault();
+    
+    const zoomIntensity = 0.1;
+    const mousePosBeforeZoom = getCanvasCoordinates(e);
+    
+    // Pas de schaal aan
+    if (e.deltaY < 0) {
+      scale *= 1 + zoomIntensity;
+    } else {
+      scale *= 1 - zoomIntensity;
+    }
+    
+    // Beperk de schaal
+    scale = Math.min(Math.max(0.5, scale), 3);
+    
+    // Pas de offset aan zodat we inzoomen op de muispositie
+    const mousePosAfterZoom = getCanvasCoordinates(e);
+    offset.x -= (mousePosAfterZoom.x - mousePosBeforeZoom.x) * scale;
+    offset.y -= (mousePosAfterZoom.y - mousePosBeforeZoom.y) * scale;
+    
+    redraw();
+  }
+  
             // Teken componenten
             elements.forEach(el => {
                 ctx.save();
