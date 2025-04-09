@@ -187,299 +187,185 @@
         <div id="coordinates">X: 0 | Y: 0 | Schaal: 100%</div>
     </div>
 
+    <script>
+    $(document).ready(function() {
+        // Configuratie
+        const canvas = $('#schemaCanvas')[0];
+        const ctx = canvas.getContext('2d');
+        const gridSize = 20;
+        const minScale = 0.2;
+        const maxScale = 3.0;
 
-<script>
-$(document).ready(function() {
-    // Configuratie
-    const canvas = $('#schemaCanvas')[0];
-    const ctx = canvas.getContext('2d');
-    const gridSize = 20;
-    const minScale = 0.2;
-    const maxScale = 3.0;
+        // Applicatiestatus
+        let elements = [];
+        let wires = [];
+        let customComponents = [];
+        let selectedTool = 'select';
+        let selectedElement = null;
+        let isDrawingWire = false;
+        let currentWire = null;
+        let mousePos = { x: 0, y: 0 };
+        let scale = 1.0;
+        let offset = { x: 0, y: 0 };
+        let isDragging = false;
+        let dragStart = { x: 0, y: 0 };
 
-    // Applicatiestatus
-    let elements = [];
-    let wires = [];
-    let customComponents = [];
-    let selectedTool = 'select';
-    let selectedElement = null;
-    let isDrawingWire = false;
-    let currentWire = null;
-    let mousePos = { x: 0, y: 0 };
-    let scale = 1.0;
-    let offset = { x: 0, y: 0 };
-    let isDragging = false;
-    let dragStart = { x: 0, y: 0 };
-
-    // Initialisatie
-    function init() {
-        setupEventListeners();
-        loadCustomComponents();
-        redraw();
-    }
-
-    // Event listeners
-    function setupEventListeners() {
-        $('.symbol').on('click', function() {
-            $('.symbol').removeClass('active');
-            $(this).addClass('active');
-            selectedTool = $(this).data('type');
-            updateStatusMessage();
-        });
-
-        $('#add-component-btn').click(addCustomComponent);
-        $('#btn-zoom-in').click(() => zoom(1.2));
-        $('#btn-zoom-out').click(() => zoom(0.8));
-        $('#btn-zoom-fit').click(zoomToFit);
-        $('#btn-save').click(saveProject);
-        $('#btn-load').click(loadProject);
-        $('#btn-print').click(printCanvas);
-
-        $(canvas).on({
-            mousedown: handleMouseDown,
-            mousemove: handleMouseMove,
-            mouseup: handleMouseUp,
-            mouseleave: handleMouseLeave,
-            contextmenu: e => e.preventDefault(),
-            wheel: handleWheel
-        });
-
-        $(document).keydown(handleKeyDown);
-    }
-
-    // Status updates
-    function updateStatusBar() {
-        const snapped = snapToGrid(mousePos.x, mousePos.y);
-        $('#coordinates').text(`X: ${snapped.x} | Y: ${snapped.y} | Schaal: ${Math.round(scale * 100)}%`);
-    }
-
-    function updateStatusMessage() {
-        const messages = {
-            'wire': 'Klik op een component om een draad te beginnen',
-            'select': 'Selectiemodus - Klik op een component of draad',
-            'delete': 'Verwijderen - Klik op een component of draad',
-            'default': `Plaats ${selectedTool} - Klik om te plaatsen`
-        };
-        $('#status-message').text(messages[selectedTool] || messages.default);
-    }
-
-    // Zoom functionaliteit
-    function zoom(factor) {
-        const center = {
-            x: canvas.width / 2 / scale - offset.x,
-            y: canvas.height / 2 / scale - offset.y
-        };
-        
-        scale = Math.min(maxScale, Math.max(minScale, scale * factor));
-        
-        offset.x = canvas.width / 2 / scale - center.x;
-        offset.y = canvas.height / 2 / scale - center.y;
-        
-        redraw();
-    }
-
-    function zoomToFit() {
-        if (elements.length === 0 && wires.length === 0) return;
-        
-        let bounds = {
-            minX: Infinity,
-            minY: Infinity,
-            maxX: -Infinity,
-            maxY: -Infinity
-        };
-
-        elements.forEach(el => {
-            bounds.minX = Math.min(bounds.minX, el.x);
-            bounds.maxX = Math.max(bounds.maxX, el.x);
-            bounds.minY = Math.min(bounds.minY, el.y);
-            bounds.maxY = Math.max(bounds.maxY, el.y);
-        });
-
-        wires.forEach(wire => {
-            wire.points.forEach((coord, i) => {
-                const axis = i % 2 === 0 ? 'x' : 'y';
-                const value = coord;
-                bounds[`min${axis.toUpperCase()}`] = Math.min(bounds[`min${axis.toUpperCase()}`], value);
-                bounds[`max${axis.toUpperCase()}`] = Math.max(bounds[`max${axis.toUpperCase()}`], value);
-            });
-        });
-
-        const margin = 50;
-        const width = bounds.maxX - bounds.minX + margin * 2;
-        const height = bounds.maxY - bounds.minY + margin * 2;
-        
-        const scaleX = canvas.width / width;
-        const scaleY = canvas.height / height;
-        scale = Math.min(scaleX, scaleY, maxScale);
-        
-        offset.x = -bounds.minX + margin;
-        offset.y = -bounds.minY + margin;
-        
-        redraw();
-    }
-
-    // Muis handlers
-    function handleMouseDown(e) {
-        const pos = getCanvasCoordinates(e);
-        mousePos = pos;
-
-        if (e.button === 1 || (e.button === 0 && e.ctrlKey)) {
-            isDragging = true;
-            dragStart = { x: pos.x - offset.x, y: pos.y - offset.y };
-            $(canvas).css('cursor', 'grabbing');
-            return;
-        }
-
-        if (e.button === 2) {
-            if (isDrawingWire) {
-                isDrawingWire = false;
-                currentWire = null;
-                redraw();
-            }
-            return;
-        }
-
-        if (selectedTool === 'wire') {
-            handleWireDrawing(pos);
-        } else if (selectedTool === 'select') {
-            selectedElement = findElementAtPosition(pos);
-        } else if (selectedTool === 'delete') {
-            handleDeletion(pos);
-        } else {
-            addComponent(pos);
-        }
-
-        redraw();
-    }
-
-    function handleMouseMove(e) {
-        const pos = getCanvasCoordinates(e);
-        mousePos = pos;
-        updateStatusBar();
-
-        if (isDragging) {
-            offset.x = pos.x - dragStart.x;
-            offset.y = pos.y - dragStart.y;
+        // Initialisatie
+        function init() {
+            setupEventListeners();
+            loadCustomComponents();
             redraw();
-            return;
         }
 
-        if (isDrawingWire && currentWire) {
-            const element = findElementAtPosition(pos);
-            if (element && element.id !== currentWire.connectedTo[0]) {
-                currentWire.previewEnd = { x: element.x, y: element.y };
+        // Hulpfuncties
+        function getCanvasCoordinates(e) {
+            const rect = canvas.getBoundingClientRect();
+            return {
+                x: (e.clientX - rect.left - offset.x) / scale,
+                y: (e.clientY - rect.top - offset.y) / scale
+            };
+        }
+
+        function snapToGrid(x, y) {
+            return {
+                x: Math.round(x / gridSize) * gridSize,
+                y: Math.round(y / gridSize) * gridSize
+            };
+        }
+
+        function getPhaseColor(phase) {
+            switch(phase) {
+                case 'L1': return '#a0522d';
+                case 'L2': return '#000000';
+                case 'L3': return '#808080';
+                case 'N': return '#0000ff';
+                case 'PE': return '#ffff00';
+                default: return '#000000';
+            }
+        }
+
+        function capitalizeFirstLetter(string) {
+            return string.charAt(0).toUpperCase() + string.slice(1);
+        }
+
+        // Status updates
+        function updateStatusBar() {
+            const snapped = snapToGrid(mousePos.x, mousePos.y);
+            $('#coordinates').text(`X: ${snapped.x} | Y: ${snapped.y} | Schaal: ${Math.round(scale * 100)}%`);
+        }
+
+        function updateStatusMessage() {
+            const messages = {
+                'wire': 'Klik op een component om een draad te beginnen',
+                'select': 'Selectiemodus - Klik op een component of draad',
+                'delete': 'Verwijderen - Klik op een component of draad',
+                'default': `Plaats ${selectedTool} - Klik om te plaatsen`
+            };
+            $('#status-message').text(messages[selectedTool] || messages.default);
+        }
+
+        function updateCursorStyle(pos) {
+            if (isDragging) {
+                $(canvas).css('cursor', 'grabbing');
+            } else if (selectedTool === 'wire') {
+                $(canvas).css('cursor', 'crosshair');
+            } else if (selectedTool === 'select' && (findElementAtPosition(pos) || findWireAtPosition(pos))) {
+                $(canvas).css('cursor', 'pointer');
+            } else if (selectedTool === 'delete' && (findElementAtPosition(pos) || findWireAtPosition(pos))) {
+                $(canvas).css('cursor', 'not-allowed');
             } else {
-                const snappedPos = snapToGrid(pos.x, pos.y);
-                currentWire.previewEnd = { x: snappedPos.x, y: snappedPos.y };
+                $(canvas).css('cursor', 'default');
             }
-            redraw();
         }
 
-        updateCursorStyle(pos);
-    }
-
-    function handleMouseUp() {
-        if (isDragging) {
-            isDragging = false;
-            $(canvas).css('cursor', '');
-        }
-    }
-
-    function handleMouseLeave() {
-        if (isDrawingWire) {
-            isDrawingWire = false;
-            currentWire = null;
-            redraw();
-        }
-        isDragging = false;
-    }
-
-    // Overige functies
-    function redraw() {
-        drawGrid();
-        drawElements();
-        updateStatusBar();
-    }
-
-    // ... (Voeg hier de overige functies toe: drawGrid, drawElements, 
-    // handleWireDrawing, addComponent, findElementAtPosition, 
-    // saveProject, loadProject, printCanvas, etc.) ...
-    // Tekenfuncties
-    // Aangepaste componenten
-        function addCustomComponent() {
-            const componentName = $('#new-component-input').val().trim();
-            if (!componentName) return alert('Voer een naam in');
+        // Zoom functionaliteit
+        function zoom(factor) {
+            const center = {
+                x: canvas.width / 2 / scale - offset.x,
+                y: canvas.height / 2 / scale - offset.y
+            };
             
-            if (customComponents.some(c => c.name.toLowerCase() === componentName.toLowerCase())) {
-                return alert('Component bestaat al!');
-            }
+            scale = Math.min(maxScale, Math.max(minScale, scale * factor));
+            
+            offset.x = canvas.width / 2 / scale - center.x;
+            offset.y = canvas.height / 2 / scale - center.y;
+            
+            redraw();
+        }
 
-            const newComponent = {
-                name: componentName,
-                type: 'custom-' + Date.now()
+        function zoomToFit() {
+            if (elements.length === 0 && wires.length === 0) return;
+            
+            let bounds = {
+                minX: Infinity,
+                minY: Infinity,
+                maxX: -Infinity,
+                maxY: -Infinity
             };
 
-            customComponents.push(newComponent);
-            $('#new-component-input').val('');
-            updateCustomComponentsList();
-            saveCustomComponents();
-        }
-
-        function updateCustomComponentsList() {
-            $('#custom-components-list').empty();
-            customComponents.forEach(component => {
-                $('<div>')
-                    .addClass('symbol')
-                    .attr('data-type', component.type)
-                    .text(component.name)
-                    .appendTo('#custom-components-list');
+            elements.forEach(el => {
+                bounds.minX = Math.min(bounds.minX, el.x);
+                bounds.maxX = Math.max(bounds.maxX, el.x);
+                bounds.minY = Math.min(bounds.minY, el.y);
+                bounds.maxY = Math.max(bounds.maxY, el.y);
             });
+
+            wires.forEach(wire => {
+                for (let i = 0; i < wire.points.length; i += 2) {
+                    bounds.minX = Math.min(bounds.minX, wire.points[i]);
+                    bounds.maxX = Math.max(bounds.maxX, wire.points[i]);
+                    bounds.minY = Math.min(bounds.minY, wire.points[i+1]);
+                    bounds.maxY = Math.max(bounds.maxY, wire.points[i+1]);
+                }
+            });
+
+            const margin = 50;
+            const width = bounds.maxX - bounds.minX + margin * 2;
+            const height = bounds.maxY - bounds.minY + margin * 2;
+            
+            const scaleX = canvas.width / width;
+            const scaleY = canvas.height / height;
+            scale = Math.min(scaleX, scaleY, maxScale);
+            
+            offset.x = -bounds.minX + margin;
+            offset.y = -bounds.minY + margin;
+            
+            redraw();
         }
 
-        function saveCustomComponents() {
-            localStorage.setItem('customComponents', JSON.stringify(customComponents));
-        }
-
-        function loadCustomComponents() {
-            const saved = localStorage.getItem('customComponents');
-            if (saved) {
-                customComponents = JSON.parse(saved);
-                updateCustomComponentsList();
-            }
-        }
-
+        // Tekenfuncties
         function drawGrid() {
             ctx.save();
             ctx.setTransform(1, 0, 0, 1, 0, 0);
             ctx.clearRect(0, 0, canvas.width, canvas.height);
             ctx.restore();
-
+            
             ctx.save();
             ctx.scale(scale, scale);
             ctx.translate(offset.x, offset.y);
-
+            
             ctx.strokeStyle = "#e0e0e0";
             ctx.lineWidth = 1;
-
+            
             const visibleStartX = -offset.x;
             const visibleStartY = -offset.y;
             const visibleEndX = visibleStartX + canvas.width / scale;
             const visibleEndY = visibleStartY + canvas.height / scale;
-
+            
             for (let x = Math.floor(visibleStartX / gridSize) * gridSize; x < visibleEndX; x += gridSize) {
                 ctx.beginPath();
                 ctx.moveTo(x, visibleStartY);
                 ctx.lineTo(x, visibleEndY);
                 ctx.stroke();
             }
-
+            
             for (let y = Math.floor(visibleStartY / gridSize) * gridSize; y < visibleEndY; y += gridSize) {
                 ctx.beginPath();
                 ctx.moveTo(visibleStartX, y);
                 ctx.lineTo(visibleEndX, y);
                 ctx.stroke();
             }
-
+            
             ctx.restore();
         }
 
@@ -488,38 +374,44 @@ $(document).ready(function() {
             ctx.scale(scale, scale);
             ctx.translate(offset.x, offset.y);
 
-            // Draden
+            // Teken draden eerst
             wires.forEach(wire => {
                 ctx.beginPath();
-                ctx.strokeStyle = getPhaseColor(wire.phase) || '#000';
-                ctx.lineWidth = wire.thickness || 2;
+                ctx.strokeStyle = getPhaseColor(wire.phase);
+                ctx.lineWidth = 2;
                 ctx.lineJoin = 'round';
                 ctx.lineCap = 'round';
-
+                
                 for (let i = 0; i < wire.points.length; i += 2) {
                     const x = wire.points[i];
                     const y = wire.points[i + 1];
-                    i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y);
+                    if (i === 0) {
+                        ctx.moveTo(x, y);
+                    } else {
+                        ctx.lineTo(x, y);
+                    }
                 }
                 ctx.stroke();
             });
 
-            // Componenten
+            // Teken componenten
             elements.forEach(el => {
                 ctx.save();
                 ctx.translate(el.x, el.y);
-
-                if (selectedElement?.id === el.id) {
+                
+                // Selectie markering
+                if (selectedElement && selectedElement.id === el.id) {
                     ctx.strokeStyle = '#3b82f6';
                     ctx.lineWidth = 2;
                     ctx.strokeRect(-15, -15, 30, 30);
                 }
-
+                
+                // Componenten tekenen
                 ctx.fillStyle = getPhaseColor(el.phase) || '#000';
                 ctx.strokeStyle = getPhaseColor(el.phase) || '#000';
                 ctx.lineWidth = 2;
-
-                if (el.type.startsWith('custom')) {
+                
+                if (el.type.startsWith('custom-')) {
                     ctx.fillStyle = '#3b82f6';
                     ctx.fillRect(-10, -10, 20, 20);
                     ctx.fillStyle = '#fff';
@@ -567,18 +459,379 @@ $(document).ready(function() {
                             break;
                     }
                 }
-
+                
+                // Componentnaam weergeven
+                if (el.name) {
+                    ctx.font = '10px Arial';
+                    ctx.textAlign = 'center';
+                    ctx.fillStyle = '#000';
+                    ctx.fillText(el.name, 0, 25);
+                }
+                
                 ctx.restore();
             });
-
+            
+            // Teken de actieve draad als die er is
+            if (isDrawingWire && currentWire) {
+                ctx.beginPath();
+                ctx.strokeStyle = '#3b82f6';
+                ctx.lineWidth = 2;
+                ctx.lineJoin = 'round';
+                ctx.lineCap = 'round';
+                
+                // Bestaande punten
+                for (let i = 0; i < currentWire.points.length; i += 2) {
+                    const x = currentWire.points[i];
+                    const y = currentWire.points[i + 1];
+                    if (i === 0) {
+                        ctx.moveTo(x, y);
+                    } else {
+                        ctx.lineTo(x, y);
+                    }
+                }
+                
+                // Preview naar muispositie
+                if (currentWire.previewEnd) {
+                    ctx.lineTo(currentWire.previewEnd.x, currentWire.previewEnd.y);
+                }
+                
+                ctx.stroke();
+            }
+            
             ctx.restore();
         }
 
+        function redraw() {
+            drawGrid();
+            drawElements();
+            updateStatusBar();
+        }
 
-    // Start de applicatie
-    init();
-});
-</script>
+        // Component functies
+        function findElementAtPosition(pos) {
+            for (let i = elements.length - 1; i >= 0; i--) {
+                const el = elements[i];
+                const distance = Math.sqrt(
+                    Math.pow(pos.x - el.x, 2) + Math.pow(pos.y - el.y, 2)
+                );
+                if (distance < 15) return el;
+            }
+            return null;
+        }
 
+        function findWireAtPosition(pos) {
+            const threshold = 5;
+            for (let i = wires.length - 1; i >= 0; i--) {
+                const wire = wires[i];
+                for (let j = 0; j < wire.points.length - 2; j += 2) {
+                    const x1 = wire.points[j];
+                    const y1 = wire.points[j+1];
+                    const x2 = wire.points[j+2];
+                    const y2 = wire.points[j+3];
+                    const distance = distanceToLineSegment(
+                        pos.x, pos.y, x1, y1, x2, y2
+                    );
+                    if (distance < threshold) return wire;
+                }
+            }
+            return null;
+        }
+
+        function distanceToLineSegment(x, y, x1, y1, x2, y2) {
+            const A = x - x1;
+            const B = y - y1;
+            const C = x2 - x1;
+            const D = y2 - y1;
+
+            const dot = A * C + B * D;
+            const len_sq = C * C + D * D;
+            let param = -1;
+            if (len_sq !== 0) param = dot / len_sq;
+
+            let xx, yy;
+            if (param < 0) {
+                xx = x1;
+                yy = y1;
+            } else if (param > 1) {
+                xx = x2;
+                yy = y2;
+            } else {
+                xx = x1 + param * C;
+                yy = y1 + param * D;
+            }
+
+            return Math.sqrt(Math.pow(x - xx, 2) + Math.pow(y - yy, 2));
+        }
+
+        function addComponent(pos) {
+            const snappedPos = snapToGrid(pos.x, pos.y);
+            const isCustom = selectedTool.startsWith('custom-');
+            const componentName = isCustom 
+                ? customComponents.find(c => c.type === selectedTool).name 
+                : capitalizeFirstLetter(selectedTool);
+            
+            const newElement = {
+                id: 'comp_' + Date.now(),
+                x: snappedPos.x,
+                y: snappedPos.y,
+                type: selectedTool,
+                name: componentName + ' ' + (elements.filter(e => e.type === selectedTool).length + 1),
+                phase: getPhaseFromTool(selectedTool)
+            };
+            
+            elements.push(newElement);
+            redraw();
+        }
+
+        function getPhaseFromTool(toolType) {
+            switch(toolType) {
+                case 'phase-L1': return 'L1';
+                case 'phase-L2': return 'L2';
+                case 'phase-L3': return 'L3';
+                case 'phase-N': return 'N';
+                case 'phase-PE': return 'PE';
+                default: return null;
+            }
+        }
+
+        // Draad functies
+        function handleWireDrawing(pos) {
+            const snappedPos = snapToGrid(pos.x, pos.y);
+            const element = findElementAtPosition(pos);
+            
+            if (!isDrawingWire) {
+                // Begin een nieuwe draad
+                if (element) {
+                    currentWire = {
+                        id: 'wire_' + Date.now(),
+                        points: [element.x, element.y],
+                        connectedTo: [element.id],
+                        phase: getPhaseFromTool(selectedTool),
+                        thickness: 2
+                    };
+                    isDrawingWire = true;
+                }
+            } else {
+                // Einde van de draad
+                if (element && element.id !== currentWire.connectedTo[0]) {
+                    currentWire.points.push(element.x, element.y);
+                    currentWire.connectedTo.push(element.id);
+                    wires.push(currentWire);
+                    isDrawingWire = false;
+                    currentWire = null;
+                } else if (!element) {
+                    // Plaats een hoekpunt
+                    currentWire.points.push(snappedPos.x, snappedPos.y);
+                }
+            }
+        }
+
+        function handleDeletion(pos) {
+            // Eerst kijken of we een draad verwijderen
+            const wireToDelete = findWireAtPosition(pos);
+            if (wireToDelete) {
+                wires = wires.filter(w => w.id !== wireToDelete.id);
+                redraw();
+                return;
+            }
+            
+            // Anders een component verwijderen
+            const element = findElementAtPosition(pos);
+            if (element) {
+                elements = elements.filter(el => el.id !== element.id);
+                // Verwijder ook verbonden draden
+                wires = wires.filter(wire => 
+                    !wire.connectedTo.includes(element.id)
+                );
+                redraw();
+            }
+        }
+
+        // Aangepaste componenten
+        function addCustomComponent() {
+            const componentName = $('#new-component-input').val().trim();
+            if (!componentName) {
+                alert('Voer een naam in voor de component');
+                return;
+            }
+            
+            if (customComponents.some(c => c.name.toLowerCase() === componentName.toLowerCase())) {
+                alert('Deze component bestaat al!');
+                return;
+            }
+
+            const newComponent = {
+                name: componentName,
+                type: 'custom-' + Date.now()
+            };
+
+            customComponents.push(newComponent);
+            $('#new-component-input').val('');
+            updateCustomComponentsList();
+            saveCustomComponents();
+        }
+
+        function updateCustomComponentsList() {
+            $('#custom-components-list').empty();
+            customComponents.forEach(component => {
+                $('<div>')
+                    .addClass('symbol')
+                    .attr('data-type', component.type)
+                    .text(component.name)
+                    .appendTo('#custom-components-list');
+            });
+        }
+
+        function saveCustomComponents() {
+            localStorage.setItem('customComponents', JSON.stringify(customComponents));
+        }
+
+        function loadCustomComponents() {
+            const saved = localStorage.getItem('customComponents');
+            if (saved) {
+                customComponents = JSON.parse(saved);
+                updateCustomComponentsList();
+            }
+        }
+
+        // Project beheer
+        function saveProject() {
+            const project = {
+                elements: elements,
+                wires: wires,
+                customComponents: customComponents,
+                scale: scale,
+                offset: offset
+            };
+            
+            const data = JSON.stringify(project);
+            const blob = new Blob([data], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'eendraadschema.json';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+        function loadProject() {
+            const input = document.createElement('input');
+            input.type = 'file';
+            input.accept = '.json';
+            
+            input.onchange = e => {
+                const file = e.target.files[0];
+                const reader = new FileReader();
+                
+                reader.onload = event => {
+                    try {
+                        const project = JSON.parse(event.target.result);
+                        elements = project.elements || [];
+                        wires = project.wires || [];
+                        customComponents = project.customComponents || [];
+                        scale = project.scale || 1.0;
+                        offset = project.offset || { x: 0, y: 0 };
+                        
+                        updateCustomComponentsList();
+                        redraw();
+                    } catch (error) {
+                        alert('Fout bij het laden van het project: ' + error.message);
+                    }
+                };
+                
+                reader.readAsText(file);
+            };
+            
+            input.click();
+        }
+
+        // Print functie
+        function printCanvas() {
+            const printWindow = window.open('', '_blank');
+            const printContent = `
+                <!DOCTYPE html>
+                <html>
+                <head>
+                    <title>Eendraadschema Afdrukken</title>
+                    <style>
+                        body { margin:20px; }
+                        canvas { border:1px solid #ccc; }
+                    </style>
+                </head>
+                <body>
+                    <h1>Eendraadschema</h1>
+                    <canvas id="printCanvas"></canvas>
+                    <script>
+                        (function() {
+                            const canvas = document.getElementById('printCanvas');
+                            const ctx = canvas.getContext('2d');
+                            canvas.width = ${canvas.width};
+                            canvas.height = ${canvas.height};
+                            
+                            ${drawGrid.toString()}
+                            ${drawElements.toString()}
+                            
+                            ctx.fillStyle = 'white';
+                            ctx.fillRect(0, 0, canvas.width, canvas.height);
+                            
+                            drawGrid(ctx, canvas);
+                            drawElements(ctx, canvas);
+                            
+                            setTimeout(() => window.print(), 500);
+                        })();
+                    <\/script>
+                </body>
+                </html>
+            `;
+            
+            printWindow.document.write(printContent);
+            printWindow.document.close();
+        }
+
+        // Event handlers
+        function handleWheel(e) {
+            e.preventDefault();
+            
+            const zoomIntensity = 0.1;
+            const mousePosBeforeZoom = getCanvasCoordinates(e);
+            
+            // Pas de schaal aan
+            if (e.deltaY < 0) {
+                scale *= 1 + zoomIntensity;
+            } else {
+                scale *= 1 - zoomIntensity;
+            }
+            
+            // Beperk de schaal
+            scale = Math.min(Math.max(minScale, scale), maxScale);
+            
+            // Pas de offset aan zodat we inzoomen op de muispositie
+            const mousePosAfterZoom = getCanvasCoordinates(e);
+            offset.x -= (mousePosAfterZoom.x - mousePosBeforeZoom.x) * scale;
+            offset.y -= (mousePosAfterZoom.y - mousePosBeforeZoom.y) * scale;
+            
+            redraw();
+        }
+
+        function handleKeyDown(e) {
+            // Verwijderen met Delete-toets
+            if (e.key === 'Delete' && selectedElement) {
+                elements = elements.filter(el => el.id !== selectedElement.id);
+                // Verwijder ook verbonden draden
+                wires = wires.filter(wire => 
+                    !wire.connectedTo.includes(selectedElement.id)
+                );
+                selectedElement = null;
+                redraw();
+            }
+        }
+
+        // Start de applicatie
+        init();
+    });
+    </script>
 </body>
 </html>
