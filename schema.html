@@ -360,67 +360,6 @@
     canvas.addEventListener('wheel', handleWheel, { passive: false });
   }
   
-
-        // Tekenfuncties
-        function drawGrid() {
-            ctx.save();
-            ctx.setTransform(1, 0, 0, 1, 0, 0);
-            ctx.clearRect(0, 0, canvas.width, canvas.height);
-            ctx.restore();
-            
-            ctx.save();
-            ctx.scale(scale, scale);
-            ctx.translate(offset.x, offset.y);
-            
-            ctx.strokeStyle = "#e0e0e0";
-            ctx.lineWidth = 1;
-            
-            const visibleStartX = -offset.x;
-            const visibleStartY = -offset.y;
-            const visibleEndX = visibleStartX + canvas.width / scale;
-            const visibleEndY = visibleStartY + canvas.height / scale;
-            
-            for (let x = Math.floor(visibleStartX / gridSize) * gridSize; x < visibleEndX; x += gridSize) {
-                ctx.beginPath();
-                ctx.moveTo(x, visibleStartY);
-                ctx.lineTo(x, visibleEndY);
-                ctx.stroke();
-            }
-            
-            for (let y = Math.floor(visibleStartY / gridSize) * gridSize; y < visibleEndY; y += gridSize) {
-                ctx.beginPath();
-                ctx.moveTo(visibleStartX, y);
-                ctx.lineTo(visibleEndX, y);
-                ctx.stroke();
-            }
-            
-            ctx.restore();
-        }
-
-        function drawElements() {
-            ctx.save();
-            ctx.scale(scale, scale);
-            ctx.translate(offset.x, offset.y);
-
-            // Teken draden eerst
-            wires.forEach(wire => {
-                ctx.beginPath();
-                ctx.strokeStyle = getPhaseColor(wire.phase);
-                ctx.lineWidth = 2;
-                ctx.lineJoin = 'round';
-                ctx.lineCap = 'round';
-                
-                for (let i = 0; i < wire.points.length; i += 2) {
-                    const x = wire.points[i];
-                    const y = wire.points[i + 1];
-                    if (i === 0) {
-                        ctx.moveTo(x, y);
-                    } else {
-                        ctx.lineTo(x, y);
-                    }
-                }
-                ctx.stroke();
-            });
 // Muis events
   function handleMouseDown(e) {
     const pos = getCanvasCoordinates(e);
@@ -567,6 +506,67 @@
     
     redraw();
   }
+        // Tekenfuncties
+        function drawGrid() {
+            ctx.save();
+            ctx.setTransform(1, 0, 0, 1, 0, 0);
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.restore();
+            
+            ctx.save();
+            ctx.scale(scale, scale);
+            ctx.translate(offset.x, offset.y);
+            
+            ctx.strokeStyle = "#e0e0e0";
+            ctx.lineWidth = 1;
+            
+            const visibleStartX = -offset.x;
+            const visibleStartY = -offset.y;
+            const visibleEndX = visibleStartX + canvas.width / scale;
+            const visibleEndY = visibleStartY + canvas.height / scale;
+            
+            for (let x = Math.floor(visibleStartX / gridSize) * gridSize; x < visibleEndX; x += gridSize) {
+                ctx.beginPath();
+                ctx.moveTo(x, visibleStartY);
+                ctx.lineTo(x, visibleEndY);
+                ctx.stroke();
+            }
+            
+            for (let y = Math.floor(visibleStartY / gridSize) * gridSize; y < visibleEndY; y += gridSize) {
+                ctx.beginPath();
+                ctx.moveTo(visibleStartX, y);
+                ctx.lineTo(visibleEndX, y);
+                ctx.stroke();
+            }
+            
+            ctx.restore();
+        }
+
+        function drawElements() {
+            ctx.save();
+            ctx.scale(scale, scale);
+            ctx.translate(offset.x, offset.y);
+
+            // Teken draden eerst
+            wires.forEach(wire => {
+                ctx.beginPath();
+                ctx.strokeStyle = getPhaseColor(wire.phase);
+                ctx.lineWidth = 2;
+                ctx.lineJoin = 'round';
+                ctx.lineCap = 'round';
+                
+                for (let i = 0; i < wire.points.length; i += 2) {
+                    const x = wire.points[i];
+                    const y = wire.points[i + 1];
+                    if (i === 0) {
+                        ctx.moveTo(x, y);
+                    } else {
+                        ctx.lineTo(x, y);
+                    }
+                }
+                ctx.stroke();
+            });
+
   
             // Teken componenten
             elements.forEach(el => {
