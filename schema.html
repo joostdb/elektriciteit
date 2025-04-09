@@ -333,6 +333,34 @@
             redraw();
         }
 
+        // Event listeners instellen
+  function setupEventListeners() {
+    // Toolbox klikken
+    document.querySelectorAll('.symbol').forEach(symbol => {
+      symbol.addEventListener('click', function() {
+        document.querySelectorAll('.symbol').forEach(s => s.classList.remove('active'));
+        this.classList.add('active');
+        selectedTool = this.dataset.type;
+        
+        if (selectedTool !== 'wire') {
+          isDrawingWire = false;
+          currentWire = null;
+        }
+      });
+    });
+    
+    // Canvas events
+    canvas.addEventListener('mousedown', handleMouseDown);
+    canvas.addEventListener('mousemove', handleMouseMove);
+    canvas.addEventListener('mouseup', handleMouseUp);
+    canvas.addEventListener('mouseleave', handleMouseLeave);
+    canvas.addEventListener('contextmenu', e => e.preventDefault());
+    
+    // Zoom functionaliteit
+    canvas.addEventListener('wheel', handleWheel, { passive: false });
+  }
+  
+
         // Tekenfuncties
         function drawGrid() {
             ctx.save();
