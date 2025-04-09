@@ -712,45 +712,159 @@
         input.click();
     }
 
-    function printCanvas() {
-        const printWindow = window.open('', '_blank');
-        const printContent = `
-            <!DOCTYPE html>
-            <html>
-            <head>
-                <title>Print</title>
-                <style>
-                    body { margin:20px; }
-                    canvas { border:1px solid #ccc; }
-                </style>
-            </head>
-            <body>
-                <canvas id="printCanvas"></canvas>
-                <script>
-                    (function() {
-                        const canvas = document.getElementById('printCanvas');
-                        const ctx = canvas.getContext('2d');
-                        canvas.width = ${canvas.width};
-                        canvas.height = ${canvas.height};
-                        
-                        ${drawGrid.toString()}
-                        ${drawElements.toString()}
-                        
-                        ctx.fillStyle = 'white';
-                        ctx.fillRect(0, 0, canvas.width, canvas.height);
-                        
-                        drawGrid(ctx, canvas);
-                        drawElements(ctx, canvas);
-                        
-                        setTimeout(() => window.print(), 500);
-                    })();
-                <\/script>
-            </body>
-            </html>
-        `;
-        printWindow.document.write(printContent);
-        printWindow.document.close();
+    $(function () {
+    const canvas = document.getElementById("canvas");
+    const ctx = canvas.getContext("2d");
+
+    let scale = 1;
+    let offsetX = 0;
+    let offsetY = 0;
+    let isDragging = false;
+    let dragStart = { x: 0, y: 0 };
+
+    const gridSize = 20;
+    const zoomFactor = 1.1;
+
+    const symbols = [
+        { x: 100, y: 100, width: 60, height: 30, color: "blue" },
+        { x: 200, y: 150, width: 60, height: 30, color: "green" },
+    ];
+
+    function toWorld(x, y) {
+        return {
+            x: (x - offsetX) / scale,
+            y: (y - offsetY) / scale
+        };
     }
+
+    function toScreen(x, y) {
+        return {
+            x: x * scale + offsetX,
+            y: y * scale + offsetY
+        };
+    }
+
+    function drawGrid() {
+        const step = gridSize;
+        const startX = -offsetX / scale;
+        const startY = -offsetY / scale;
+        const endX = startX + canvas.width / scale;
+        const endY = startY + canvas.height / scale;
+
+        ctx.beginPath();
+        ctx.strokeStyle = "#ddd";
+        for (let x = Math.floor(startX / step) * step; x < endX; x += step) {
+            const sx = x * scale + offsetX;
+            ctx.moveTo(sx, 0);
+            ctx.lineTo(sx, canvas.height);
+        }
+        for (let y = Math.floor(startY / step) * step; y < endY; y += step) {
+            const sy = y * scale + offsetY;
+            ctx.moveTo(0, sy);
+            ctx.lineTo(canvas.width, sy);
+        }
+        ctx.stroke();
+    }
+
+    function drawSymbols() {
+        for (const symbol of symbols) {
+            const screenPos = toScreen(symbol.x, symbol.y);
+            ctx.fillStyle = symbol.color;
+            ctx.fillRect(screenPos.x, screenPos.y, symbol.width * scale, symbol.height * scale);
+        }
+    }
+
+    function render() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        drawGrid();
+        drawSymbols();
+    }
+
+    function getSymbolAt(mouseX, mouseY) {
+        const { x, y } = toWorld(mouseX, mouseY);
+        return symbols.find(s =>
+            x >= s.x && x <= s.x + s.width &&
+            y >= s.y && y <= s.y + s.height
+        );
+    }
+
+    // Event Listeners
+    $("#canvas").on("mousedown", function (e) {
+        const rect = canvas.getBoundingClientRect();
+        const mouseX = e.clientX - rect.left;
+        const mouseY = e.clientY - rect.top;
+
+        const selectedSymbol = getSymbolAt(mouseX, mouseY);
+        if (selectedSymbol) {
+            isDragging = true;
+            dragStart = {
+                x: mouseX,
+                y: mouseY,
+                symbol: selectedSymbol
+            };
+        } else {
+            isDragging = true;
+            dragStart = { x: mouseX - offsetX, y: mouseY - offsetY };
+        }
+    });
+
+    $("#canvas").on("mousemove", function (e) {
+        if (!isDragging) return;
+
+        const rect = canvas.getBoundingClientRect();
+        const mouseX = e.clientX - rect.left;
+        const mouseY = e.clientY - rect.top;
+
+        if (dragStart.symbol) {
+            const dx = (mouseX - dragStart.x) / scale;
+            const dy = (mouseY - dragStart.y) / scale;
+            dragStart.symbol.x += dx;
+            dragStart.symbol.y += dy;
+            dragStart.x = mouseX;
+            dragStart.y = mouseY;
+        } else {
+            offsetX = mouseX - dragStart.x;
+            offsetY = mouseY - dragStart.y;
+        }
+        render();
+    });
+
+    $(window).on("mouseup", function () {
+        isDragging = false;
+        dragStart = {};
+    });
+
+    $("#canvas").on("wheel", function (e) {
+        e.preventDefault();
+
+        const rect = canvas.getBoundingClientRect();
+        const mouseX = e.clientX - rect.left;
+        const mouseY = e.clientY - rect.top;
+
+        const { x: worldX, y: worldY } = toWorld(mouseX, mouseY);
+
+        const direction = e.originalEvent.deltaY < 0 ? 1 : -1;
+        const factor = direction > 0 ? zoomFactor : 1 / zoomFactor;
+        const newScale = scale * factor;
+
+        offsetX = mouseX - worldX * newScale;
+        offsetY = mouseY - worldY * newScale;
+        scale = newScale;
+
+        render();
+    });
+
+    // Resize support
+    function resizeCanvas() {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+        render();
+    }
+
+    $(window).on("resize", resizeCanvas);
+    resizeCanvas();
+});
+
 
         init();
     });
